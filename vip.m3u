@@ -1510,95 +1510,95 @@ https://live.alilicloud.com/live/04f1d08140de0361c14396aa0b81f2b6/playlist.m3u8
 #EXTINF:-1 tvg-id="36" group-title="Văn Khánh 🔥" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1759209979.png",12h30 Ngày 30/09 Brentford Vs Manchester United (văn Khánh) M3u
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://hls.cdnvankhanh.com/live/TO3C/index.m3u8?expire=1875681300&sign=015129bcbd63368bf36946e12b5950c6
+https://hls.cdnvankhanh.com/live/luckytest/index.m3u8?expire=1883742060&sign=ed258748d4d2478c31073b1f8ac0af67
 #EXTINF:-1 tvg-id="37" group-title="Văn Khánh 🔥" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1759209979.png",12h30 Ngày 30/09 Brentford Vs Manchester United (văn Khánh) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://flv.cdnvankhanh.com/live/TO3C.flv?expire=1875681300&sign=015129bcbd63368bf36946e12b5950c6
+https://flv.cdnvankhanh.com/live/luckytest.flv?expire=1883742060&sign=ed258748d4d2478c31073b1f8ac0af67
 #EXTINF:-1 tvg-id="38" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250926/b352af34b93981385c4fb5772598fbe0.png",Bit.ly/socolive [socolive] (socolive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1759213040-0-0-69e1e7acf485eae948583de9813ddbdd
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1759214840-0-0-236220b7cdc8b970f142d8c945911beb
 #EXTINF:-1 tvg-id="39" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250926/b352af34b93981385c4fb5772598fbe0.png",Bit.ly/socolive [socolive] (socolive) Hdflv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1759213040-0-0-717510b718d0c88b2e20a7c3e22f96c8
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1759214840-0-0-d1c3c0e9c9e072e306acf4045f937f2d
 #EXTINF:-1 tvg-id="40" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250926/b352af34b93981385c4fb5772598fbe0.png",Bit.ly/socolive [socolive] (socolive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1759213040-0-0-d040e6d28b7729457ace99c6278be861
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1759214840-0-0-193f874e2a43d741d36c5b6b09d4331d
 #EXTINF:-1 tvg-id="41" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250926/b352af34b93981385c4fb5772598fbe0.png",Bit.ly/socolive [socolive] (socolive) Hdm3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1759213040-0-0-d22b1001ceb7b38b847062704959e5ba
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1759214840-0-0-f701d345ddc12aea0e97205b1a288517
 #EXTINF:-1 tvg-id="42" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250926/b352af34b93981385c4fb5772598fbe0.png",Tường Thuật: Ita D1 - Genoa Vs Lazio [sóc Mèo Méo Meo] (socolive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1759213040-0-0-7e3e9259f5b7d938c87743e5fe89e311
+https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1759214840-0-0-430a799bc92bbbb16da2b314d3e45f8d
 #EXTINF:-1 tvg-id="43" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250926/b352af34b93981385c4fb5772598fbe0.png",Tường Thuật: Ita D1 - Genoa Vs Lazio [sóc Mèo Méo Meo] (socolive) Hdflv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1759213040-0-0-b7b4cd96ff3ea5002803d4229b3d8f45
+https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1759214840-0-0-5112d496b5c855201b719668ca477aab
 #EXTINF:-1 tvg-id="44" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250926/b352af34b93981385c4fb5772598fbe0.png",Tường Thuật: Ita D1 - Genoa Vs Lazio [sóc Mèo Méo Meo] (socolive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1759213040-0-0-eb3d0d8c5e96fa57bacffdd0f646b418
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1759214840-0-0-27ded92aa865ef5a0cdfd716dc4f3075
 #EXTINF:-1 tvg-id="45" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250926/b352af34b93981385c4fb5772598fbe0.png",Tường Thuật: Ita D1 - Genoa Vs Lazio [sóc Mèo Méo Meo] (socolive) Hdm3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1759213040-0-0-78ebd0fdde7c24ee435e205c0abb4a39
-#EXTINF:-1 tvg-id="46" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250926/b352af34b93981385c4fb5772598fbe0.png",Tường Thuật: Acl Elite - Al Duhail Vs Al Ahli Sfc [sóc Xào Sả ớt] (socolive) Flv
+https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1759214840-0-0-b7a6a8a6fa1bcc70d4019100567ec134
+#EXTINF:-1 tvg-id="46" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250926/b352af34b93981385c4fb5772598fbe0.png",Tường Thuật: Acl Elite - Al-gharafa Vs Al Shorta [sóc Nhàm Nhang Nhồ] (socolive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1759213040-0-0-5f137cb6a57864b911d8e3ce0c801c1b
-#EXTINF:-1 tvg-id="47" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250926/b352af34b93981385c4fb5772598fbe0.png",Tường Thuật: Acl Elite - Al Duhail Vs Al Ahli Sfc [sóc Xào Sả ớt] (socolive) Hdflv
+https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1759214840-0-0-bd2a9bd3b1717bc313ec28b0f145dcf9
+#EXTINF:-1 tvg-id="47" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250926/b352af34b93981385c4fb5772598fbe0.png",Tường Thuật: Acl Elite - Al-gharafa Vs Al Shorta [sóc Nhàm Nhang Nhồ] (socolive) Hdflv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1759213040-0-0-ddfb6611ce9d070c0f767cabbf748029
-#EXTINF:-1 tvg-id="48" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250926/b352af34b93981385c4fb5772598fbe0.png",Tường Thuật: Acl Elite - Al Duhail Vs Al Ahli Sfc [sóc Xào Sả ớt] (socolive) M3u8
+https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1759214840-0-0-ab97627dd6f4067640447e8bf3f336bc
+#EXTINF:-1 tvg-id="48" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250926/b352af34b93981385c4fb5772598fbe0.png",Tường Thuật: Acl Elite - Al-gharafa Vs Al Shorta [sóc Nhàm Nhang Nhồ] (socolive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1759213040-0-0-2a7930e32737ce331f9b4f7ae93aefd4
-#EXTINF:-1 tvg-id="49" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250926/b352af34b93981385c4fb5772598fbe0.png",Tường Thuật: Acl Elite - Al Duhail Vs Al Ahli Sfc [sóc Xào Sả ớt] (socolive) Hdm3u8
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1759214840-0-0-0b4d69b75ceb6834f34508c362c89cd7
+#EXTINF:-1 tvg-id="49" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250926/b352af34b93981385c4fb5772598fbe0.png",Tường Thuật: Acl Elite - Al-gharafa Vs Al Shorta [sóc Nhàm Nhang Nhồ] (socolive) Hdm3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1759213040-0-0-4d7f978388b62992c8b952c8e1ed1b1c
-#EXTINF:-1 tvg-id="50" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250926/b352af34b93981385c4fb5772598fbe0.png",Tường Thuật: Acl Elite - Al-gharafa Vs Al Shorta [sóc Nhàm Nhang Nhồ] (socolive) Flv
+https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1759214840-0-0-6dcb07e102d9c3a8b37d1f023782d28b
+#EXTINF:-1 tvg-id="50" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250926/b352af34b93981385c4fb5772598fbe0.png",Tường Thuật: Acl Elite - Al Duhail Vs Al Ahli Sfc [sóc Xào Sả ớt] (socolive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1759213040-0-0-5d8fbe7b09d04322d7e70702760d1973
-#EXTINF:-1 tvg-id="51" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250926/b352af34b93981385c4fb5772598fbe0.png",Tường Thuật: Acl Elite - Al-gharafa Vs Al Shorta [sóc Nhàm Nhang Nhồ] (socolive) Hdflv
+https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1759214840-0-0-fe1a5ee0fd194bbfd5b908be11aee1d1
+#EXTINF:-1 tvg-id="51" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250926/b352af34b93981385c4fb5772598fbe0.png",Tường Thuật: Acl Elite - Al Duhail Vs Al Ahli Sfc [sóc Xào Sả ớt] (socolive) Hdflv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1759213040-0-0-64cbd6ba7888badb1b944beceed1a2f3
-#EXTINF:-1 tvg-id="52" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250926/b352af34b93981385c4fb5772598fbe0.png",Tường Thuật: Acl Elite - Al-gharafa Vs Al Shorta [sóc Nhàm Nhang Nhồ] (socolive) M3u8
+https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1759214840-0-0-9d2764216000208eb9417b032b0ec79b
+#EXTINF:-1 tvg-id="52" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250926/b352af34b93981385c4fb5772598fbe0.png",Tường Thuật: Acl Elite - Al Duhail Vs Al Ahli Sfc [sóc Xào Sả ớt] (socolive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1759213040-0-0-0db6373900a9b7c60eb28afdf9301694
-#EXTINF:-1 tvg-id="53" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250926/b352af34b93981385c4fb5772598fbe0.png",Tường Thuật: Acl Elite - Al-gharafa Vs Al Shorta [sóc Nhàm Nhang Nhồ] (socolive) Hdm3u8
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1759214840-0-0-ca9037e44d33e8d86df49f4510ffbff8
+#EXTINF:-1 tvg-id="53" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250926/b352af34b93981385c4fb5772598fbe0.png",Tường Thuật: Acl Elite - Al Duhail Vs Al Ahli Sfc [sóc Xào Sả ớt] (socolive) Hdm3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1759213040-0-0-f5b34445626cdc17d8b9869ca21d4281
+https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1759214840-0-0-26f6da3f54609dd7ec8e91df50a6630f
 #EXTINF:-1 tvg-id="54" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250926/b352af34b93981385c4fb5772598fbe0.png",Tường Thuật: Ita D1 - Parma Vs Torino [sóc Chó điên] (socolive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1759213040-0-0-6d7ecf7990a857c9d3b470c8e19b9c3b
+https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1759214840-0-0-bea4b81e4a1a8605a9f2387794a8f221
 #EXTINF:-1 tvg-id="55" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250926/b352af34b93981385c4fb5772598fbe0.png",Tường Thuật: Ita D1 - Parma Vs Torino [sóc Chó điên] (socolive) Hdflv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1759213040-0-0-bd596a3f4bfad79e4237165bf8860fbd
+https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1759214840-0-0-32bfc4e85de2b77fecb0565ccb31ff48
 #EXTINF:-1 tvg-id="56" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250926/b352af34b93981385c4fb5772598fbe0.png",Tường Thuật: Ita D1 - Parma Vs Torino [sóc Chó điên] (socolive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1759213040-0-0-f893a46a115f5e5fcc77693529702063
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1759214840-0-0-987d1a4cddb06a91d19d821e62318cb5
 #EXTINF:-1 tvg-id="57" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250926/b352af34b93981385c4fb5772598fbe0.png",Tường Thuật: Ita D1 - Parma Vs Torino [sóc Chó điên] (socolive) Hdm3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1759213040-0-0-9208690f58fb09e0b2a1a0166307b8e7
+https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1759214840-0-0-7c02327bb3b627fbbcddc00a27d6bbb2
 #EXTINF:-1 tvg-id="58" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250926/b352af34b93981385c4fb5772598fbe0.png",Tường Thuật: Acl Elite - Nasaf Qarshi Vs Al Hilal [sóc Phụ Hồ] (socolive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1759213040-0-0-a1c7be20fd6dcaf1235adfe36e618a53
+https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1759214840-0-0-7ccde56dac5768f539a8a97a68c66be9
 #EXTINF:-1 tvg-id="59" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250926/b352af34b93981385c4fb5772598fbe0.png",Tường Thuật: Acl Elite - Nasaf Qarshi Vs Al Hilal [sóc Phụ Hồ] (socolive) Hdflv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1759213040-0-0-1d63c23a20293c8698b0cb119e383c3b
+https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1759214840-0-0-c861967e112bc0214b16eb528b298d77
 #EXTINF:-1 tvg-id="60" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250926/b352af34b93981385c4fb5772598fbe0.png",Tường Thuật: Acl Elite - Nasaf Qarshi Vs Al Hilal [sóc Phụ Hồ] (socolive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1759213040-0-0-0895c613e437ef96e317433365832432
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1759214840-0-0-c7aed2f391154765fb98440b521ed694
 #EXTINF:-1 tvg-id="61" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250926/b352af34b93981385c4fb5772598fbe0.png",Tường Thuật: Acl Elite - Nasaf Qarshi Vs Al Hilal [sóc Phụ Hồ] (socolive) Hdm3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1759213040-0-0-86d9aaaa568f28b8fe97adab270b7285
+https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1759214840-0-0-d578f42e7932ff7c9f153c20ca3b4251
 #EXTINF:-1 tvg-id="62" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250926/b352af34b93981385c4fb5772598fbe0.png",Tường Thuật: Eng Pr - Everton Vs West Ham United [sóc Trong Rừng Xà Nu] (socolive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1759213040-0-0-a74a8b506089d7abf5e421d82b2bbcc7
+https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1759214840-0-0-3d2ec6e5c62dc1d292d028e1a986a166
 #EXTINF:-1 tvg-id="63" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250926/b352af34b93981385c4fb5772598fbe0.png",Tường Thuật: Eng Pr - Everton Vs West Ham United [sóc Trong Rừng Xà Nu] (socolive) Hdflv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1759213040-0-0-fe6ec4edf4b97ad80c0741b8772c36f9
+https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1759214840-0-0-52612e274c8c5ed425e0e5b976fea296
 #EXTINF:-1 tvg-id="64" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250926/b352af34b93981385c4fb5772598fbe0.png",Tường Thuật: Eng Pr - Everton Vs West Ham United [sóc Trong Rừng Xà Nu] (socolive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1759213040-0-0-c5dc218f822d5967b634880ec26da7dc
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1759214840-0-0-d15a026619453a08a6c814af69d91010
 #EXTINF:-1 tvg-id="65" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250926/b352af34b93981385c4fb5772598fbe0.png",Tường Thuật: Eng Pr - Everton Vs West Ham United [sóc Trong Rừng Xà Nu] (socolive) Hdm3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1759213040-0-0-9e5c85b07e4be5d7bce46edd8ac02303
+https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1759214840-0-0-12e457a5b217916d5932876b7641bfa4
 #EXTINF:-1 tvg-id="66" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/hrxiVlTp-l2Vihl6M.png",10:00 Ngày 30/09 Wta1000 Beijing Open (1) [nhà đài] Sân Lotus
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -1606,92 +1606,96 @@ https://hotlivezz179026907.akainu.xyz/nEzooyvkSzeeh1KZA0AsuQ/Fv2lucGIbhPi2caWYvF
 #EXTINF:-1 tvg-id="67" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/8rhTm0Sp-W0NMaRVt.png",10:00 Ngày 30/09 China Smash 2025 (1) [người Kiến] Hd Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/kienHD.flv?expire=1759229647&sign=71e0a701aa9f9698772c94b2dbd787b3
+https://hotlivezz179536519.akainu.xyz/live/kienHD.flv?expire=1759233248&sign=25b873ddf9bc8457b6f4b83c931e5c17
 #EXTINF:-1 tvg-id="68" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/8rhTm0Sp-W0NMaRVt.png",10:00 Ngày 30/09 China Smash 2025 (1) [người Kiến] Hd1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/lbz7Q2YcvkuAkGN1YFyjNw/Fv2lucGIbhPi2caWYvF5Lg/1759229647766/live/kienHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/ZIM4O7SXQU-7SHxaVqFIwg/Fv2lucGIbhPi2caWYvF5Lg/1759233248314/live/kienHD/playlist.m3u8
 #EXTINF:-1 tvg-id="69" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/8rhTm0Sp-W0NMaRVt.png",10:00 Ngày 30/09 China Smash 2025 (1) [người Kiến] Hd2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/hr_MlpMjtlpaDWXK4fKQ5w/288c67df8717458036080b04ef9d22a4/1759229647/live/_definst_/stream_1_1bda7@kienHD/playlist.m3u8
+https://live-vipxlvb.nsnd.live/0_r34sDESpzlGpIAPfz_MA/288c67df8717458036080b04ef9d22a4/1759233248/live/_definst_/stream_1_1bda7@kienHD/playlist.m3u8
 #EXTINF:-1 tvg-id="70" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/8rhTm0Sp-W0NMaRVt.png",10:00 Ngày 30/09 China Smash 2025 (1) [người Kiến] Sd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/r7y3UeeHPDfMhC02VsFsXA/Fv2lucGIbhPi2caWYvF5Lg/1759229647766/live/kienSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/c6yHoVcZ1mHSpzUq0eGHiQ/Fv2lucGIbhPi2caWYvF5Lg/1759233248314/live/kienSD/playlist.m3u8
 #EXTINF:-1 tvg-id="71" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/8rhTm0Sp-W0NMaRVt.png",10:00 Ngày 30/09 China Smash 2025 (1) [người Kiến] Fullhd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/WH6zBBNEMIt5GH9sDiglWw/787f8737b622a0a6c3d26b0705ecc12a/1759229647/live/_definst_/stream_1_1bda7@kienFHD/playlist.m3u8
+https://live-vipxlvb.nsnd.live/WjgQrHhrPPD36JOZpWHJkw/787f8737b622a0a6c3d26b0705ecc12a/1759233248/live/_definst_/stream_1_1bda7@kienFHD/playlist.m3u8
 #EXTINF:-1 tvg-id="72" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/8rhTm0Sp-W0NMaRVt.png",10:00 Ngày 30/09 China Smash 2025 (1) [nhà đài] Infinity Arena
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/L6-LtbjUUZm2plObrwqNnQ/Fv2lucGIbhPi2caWYvF5Lg/1759229647766/live/may24/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/BmsGDBVTetA5ga_6nXsjuw/Fv2lucGIbhPi2caWYvF5Lg/1759233248314/live/may24/playlist.m3u8
 #EXTINF:-1 tvg-id="73" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/8rhTm0Sp-W0NMaRVt.png",10:00 Ngày 30/09 China Smash 2025 (1) [nhà đài] Bàn 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/GBSJgiFcQ10SIjQ_iEFvkA/Fv2lucGIbhPi2caWYvF5Lg/1759229647766/live/may241/playlist.m3u8
-#EXTINF:-1 tvg-id="74" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/42410f0cea3c8f4c128b3b51335c24d5.png",12:30 Ngày 30/09 Eva Lys Vs Mccartney Kessler (1) [mèo ú] Hd Nhanh
+https://hotlivezz179026907.akainu.xyz/vhK4Tka-d41MwhEpkrxWpw/Fv2lucGIbhPi2caWYvF5Lg/1759233248314/live/may241/playlist.m3u8
+#EXTINF:-1 tvg-id="74" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/8rhTm0Sp-W0NMaRVt.png",10:00 Ngày 30/09 China Smash 2025 (1) [nhà đài] Bàn 4
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/meoHD.flv?expire=1759231811&sign=efcfa9a3f4e1cc44a3c12927ef07e4af
-#EXTINF:-1 tvg-id="75" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/42410f0cea3c8f4c128b3b51335c24d5.png",12:30 Ngày 30/09 Eva Lys Vs Mccartney Kessler (1) [mèo ú] Hd1
+https://hotlivezz179026907.akainu.xyz/Yu6zlMolm2qX2n2lFlxt3Q/Fv2lucGIbhPi2caWYvF5Lg/1759233248314/live/may27/playlist.m3u8
+#EXTINF:-1 tvg-id="75" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/42410f0cea3c8f4c128b3b51335c24d5.png",12:30 Ngày 30/09 Eva Lys Vs Mccartney Kessler (1) [mèo ú] Hd Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/65aKQGxzP8c05BDlNKv7Vw/Fv2lucGIbhPi2caWYvF5Lg/1759231811316/live/meoHD/playlist.m3u8
-#EXTINF:-1 tvg-id="76" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/42410f0cea3c8f4c128b3b51335c24d5.png",12:30 Ngày 30/09 Eva Lys Vs Mccartney Kessler (1) [mèo ú] Hd2
+https://hotlivezz179536519.akainu.xyz/live/meoHD.flv?expire=1759233250&sign=025a9308b084d33e89f5d8e7fff5d05f
+#EXTINF:-1 tvg-id="76" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/42410f0cea3c8f4c128b3b51335c24d5.png",12:30 Ngày 30/09 Eva Lys Vs Mccartney Kessler (1) [mèo ú] Hd1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/Y1waxEK5KjN0GsuZySfR6Q/778e7779236aef8ae68b578426d0ddb4/1759231811/live/_definst_/stream_1_1bda7@meoHD/playlist.m3u8
-#EXTINF:-1 tvg-id="77" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/42410f0cea3c8f4c128b3b51335c24d5.png",12:30 Ngày 30/09 Eva Lys Vs Mccartney Kessler (1) [mèo ú] Sd
+https://hotlivezz179266008.akainu.xyz/s-pwVW8jNKG-igmzpy0SDQ/Fv2lucGIbhPi2caWYvF5Lg/1759233250136/live/meoHD/playlist.m3u8
+#EXTINF:-1 tvg-id="77" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/42410f0cea3c8f4c128b3b51335c24d5.png",12:30 Ngày 30/09 Eva Lys Vs Mccartney Kessler (1) [mèo ú] Hd2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/2Wyu6QYf2BX92kImRggQpA/Fv2lucGIbhPi2caWYvF5Lg/1759231811316/live/meoSD/playlist.m3u8
-#EXTINF:-1 tvg-id="78" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/42410f0cea3c8f4c128b3b51335c24d5.png",12:30 Ngày 30/09 Eva Lys Vs Mccartney Kessler (1) [mèo ú] Fullhd
+https://live-vipxlvb.nsnd.live/TV4qHNvEPz-c-jWMz3j6Gg/778e7779236aef8ae68b578426d0ddb4/1759233250/live/_definst_/stream_1_1bda7@meoHD/playlist.m3u8
+#EXTINF:-1 tvg-id="78" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/42410f0cea3c8f4c128b3b51335c24d5.png",12:30 Ngày 30/09 Eva Lys Vs Mccartney Kessler (1) [mèo ú] Sd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/sm1bAFgDytuNIjr5zBKT6w/aa2414c41b563aa2e0f4a276a0f50172/1759231811/live/_definst_/stream_1_1bda7@meoFHD/playlist.m3u8
-#EXTINF:-1 tvg-id="79" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/f2db269e5f9220206ef3f4e9e851f33d.png",13:00 Ngày 30/09 Jannik Sinner Vs Alex De Minaur (1) [người Cún] Hd Nhanh
+https://hotlivezz179602324.akainu.xyz/Yfo6mTY7qq2nCHV-dpbGGg/Fv2lucGIbhPi2caWYvF5Lg/1759233250136/live/meoSD/playlist.m3u8
+#EXTINF:-1 tvg-id="79" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/42410f0cea3c8f4c128b3b51335c24d5.png",12:30 Ngày 30/09 Eva Lys Vs Mccartney Kessler (1) [mèo ú] Fullhd
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-vipxlvb.nsnd.live/0U1MRLUuKnIpEKlERuNo0A/aa2414c41b563aa2e0f4a276a0f50172/1759233250/live/_definst_/stream_1_1bda7@meoFHD/playlist.m3u8
+#EXTINF:-1 tvg-id="80" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/f2db269e5f9220206ef3f4e9e851f33d.png",13:00 Ngày 30/09 Jannik Sinner Vs Alex De Minaur (1) [người Cún] Hd Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179536519.akainu.xyz/live/cunHD.flv?expire=1759231812&sign=44dd70eefcd02dc35252af4ebfb55e3a
-#EXTINF:-1 tvg-id="80" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/f2db269e5f9220206ef3f4e9e851f33d.png",13:00 Ngày 30/09 Jannik Sinner Vs Alex De Minaur (1) [người Cún] Hd1
+#EXTINF:-1 tvg-id="81" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/f2db269e5f9220206ef3f4e9e851f33d.png",13:00 Ngày 30/09 Jannik Sinner Vs Alex De Minaur (1) [người Cún] Hd1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179266008.akainu.xyz/We_vbdFfG3pRdicbQp75BQ/Fv2lucGIbhPi2caWYvF5Lg/1759231812486/live/cunHD/playlist.m3u8
-#EXTINF:-1 tvg-id="81" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/f2db269e5f9220206ef3f4e9e851f33d.png",13:00 Ngày 30/09 Jannik Sinner Vs Alex De Minaur (1) [người Cún] Hd2
+#EXTINF:-1 tvg-id="82" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/f2db269e5f9220206ef3f4e9e851f33d.png",13:00 Ngày 30/09 Jannik Sinner Vs Alex De Minaur (1) [người Cún] Hd2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://live-vipxlvb.nsnd.live/ZAvx66zJyPcu1zJRjlls0w/205501ba1448ae306a52cba7683e6a5f/1759231812/live/_definst_/stream_1_1bda7@cunHD/playlist.m3u8
-#EXTINF:-1 tvg-id="82" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/f2db269e5f9220206ef3f4e9e851f33d.png",13:00 Ngày 30/09 Jannik Sinner Vs Alex De Minaur (1) [người Cún] Sd
+#EXTINF:-1 tvg-id="83" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/f2db269e5f9220206ef3f4e9e851f33d.png",13:00 Ngày 30/09 Jannik Sinner Vs Alex De Minaur (1) [người Cún] Sd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179602324.akainu.xyz/MUSlurdn4DiQgTIB8ebwCg/Fv2lucGIbhPi2caWYvF5Lg/1759231812486/live/cunSD/playlist.m3u8
-#EXTINF:-1 tvg-id="83" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/f2db269e5f9220206ef3f4e9e851f33d.png",13:00 Ngày 30/09 Jannik Sinner Vs Alex De Minaur (1) [người Cún] Fullhd
+#EXTINF:-1 tvg-id="84" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/f2db269e5f9220206ef3f4e9e851f33d.png",13:00 Ngày 30/09 Jannik Sinner Vs Alex De Minaur (1) [người Cún] Fullhd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://live-vipxlvb.nsnd.live/dlYQkYX1sxAz8-jzy73_3Q/317070d9a306b71c37e6ea9e37f2842f/1759231812/live/_definst_/stream_1_1bda7@cunFHD/playlist.m3u8
-#EXTINF:-1 tvg-id="84" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MjgzNDViN2IxYzMtMDQxOQ/ZTQ0ZDE2NjY0NzgtNjAxZA.jpg",Eng Pr Newcastle Vs Arsenal Tường Thuật (colalive) Flv
+#EXTINF:-1 tvg-id="85" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MjgzNDViN2IxYzMtMDQxOQ/ZTQ0ZDE2NjY0NzgtNjAxZA.jpg",Eng Pr Newcastle Vs Arsenal Tường Thuật (colalive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh4.app/live/30256629.flv
-#EXTINF:-1 tvg-id="85" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MjgzNDViN2IxYzMtMDQxOQ/ZTQ0ZDE2NjY0NzgtNjAxZA.jpg",Eng Pr Newcastle Vs Arsenal Tường Thuật (colalive) M3u8
+#EXTINF:-1 tvg-id="86" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MjgzNDViN2IxYzMtMDQxOQ/ZTQ0ZDE2NjY0NzgtNjAxZA.jpg",Eng Pr Newcastle Vs Arsenal Tường Thuật (colalive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh4.app/live/30256629.m3u8
-#EXTINF:-1 tvg-id="86" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MTQ5NzVlNmU0MTAtNjIyMg/MmQxZDdkN2JjY2EtZTc0Mg.png",Vsbet - Thể Thao Hàng đầu đối Tác Vsbet (colalive) Flv
+#EXTINF:-1 tvg-id="87" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MTQ5NzVlNmU0MTAtNjIyMg/MmQxZDdkN2JjY2EtZTc0Mg.png",Vsbet - Thể Thao Hàng đầu đối Tác Vsbet (colalive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh4.app/live/36669975.flv
-#EXTINF:-1 tvg-id="87" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MTQ5NzVlNmU0MTAtNjIyMg/MmQxZDdkN2JjY2EtZTc0Mg.png",Vsbet - Thể Thao Hàng đầu đối Tác Vsbet (colalive) M3u8
+#EXTINF:-1 tvg-id="88" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MTQ5NzVlNmU0MTAtNjIyMg/MmQxZDdkN2JjY2EtZTc0Mg.png",Vsbet - Thể Thao Hàng đầu đối Tác Vsbet (colalive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh4.app/live/36669975.m3u8
-#EXTINF:-1 tvg-id="88" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YWE4YjdjMzljNGItMjFlYQ/M2NhZTI3MWJkZDAtNjBjNg.jpg",Xóc Dĩa Xóc Dĩa (colalive) Flv
+#EXTINF:-1 tvg-id="89" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YWE4YjdjMzljNGItMjFlYQ/M2NhZTI3MWJkZDAtNjBjNg.jpg",Xóc Dĩa Xóc Dĩa (colalive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh4.app/live/26250293.flv
-#EXTINF:-1 tvg-id="89" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YWE4YjdjMzljNGItMjFlYQ/M2NhZTI3MWJkZDAtNjBjNg.jpg",Xóc Dĩa Xóc Dĩa (colalive) M3u8
+#EXTINF:-1 tvg-id="90" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YWE4YjdjMzljNGItMjFlYQ/M2NhZTI3MWJkZDAtNjBjNg.jpg",Xóc Dĩa Xóc Dĩa (colalive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh4.app/live/26250293.m3u8
-#EXTINF:-1 tvg-id="90" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OWZiZGJiNWRiNmEtOTRjNQ/OWZjOGFiN2ZjZDktOTdmNg.jpg",Live Bacarat Bacarat (colalive) Flv
+#EXTINF:-1 tvg-id="91" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OWZiZGJiNWRiNmEtOTRjNQ/OWZjOGFiN2ZjZDktOTdmNg.jpg",Live Bacarat Bacarat (colalive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh4.app/live/36858215.flv
-#EXTINF:-1 tvg-id="91" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OWZiZGJiNWRiNmEtOTRjNQ/OWZjOGFiN2ZjZDktOTdmNg.jpg",Live Bacarat Bacarat (colalive) M3u8
+#EXTINF:-1 tvg-id="92" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OWZiZGJiNWRiNmEtOTRjNQ/OWZjOGFiN2ZjZDktOTdmNg.jpg",Live Bacarat Bacarat (colalive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh4.app/live/36858215.m3u8
