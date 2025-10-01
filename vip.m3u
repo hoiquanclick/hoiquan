@@ -1847,265 +1847,261 @@ https://stream.chuoichien.tv/chuoitay/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/chuoitay.flv
-#EXTINF:-1 tvg-id="89" group-title="Gà Vàng 🔥" tvg-logo="https://img.rapid-api.icu/football/team/d3b975ee560a1b9b244b8247ebb2f1cf/image/small",08h00 Ngày 30/09 Club America Women Vs Orlando Pride Women (gà Vàng) Source
+#EXTINF:-1 tvg-id="89" group-title="Gà Vàng 🔥" tvg-logo="https://img.rapid-api.icu/football/team/628d8ee4241970b8bf39f7169ce9b4d8/image/small",14h00 Ngày 30/09 Fk Zhenys (w) Vs Yelimay Semey （w） (gà Vàng) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/9c5e75387fd9f5d5dd9cae8df574aa0c/playlist.m3u8
-#EXTINF:-1 tvg-id="90" group-title="Gà Vàng 🔥" tvg-logo="https://img.rapid-api.icu/football/team/26566795653389559f0f4121a140c35e/image/small",08h00 Ngày 30/09 Mazatlan Fc Women Vs Chivas Guadalajara Women (gà Vàng) Source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/217b6a122d8ee93ab76dff26d9877a86/playlist.m3u8
-#EXTINF:-1 tvg-id="91" group-title="Văn Khánh 🔥" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1759295306.png",12h20 Ngày 01/10 Pafos Vs Bayern Munich (văn Khánh) M3u
+https://live.alilicloud.com/live/3452b548e819878e8618c2a2c9fc5dce/playlist.m3u8
+#EXTINF:-1 tvg-id="90" group-title="Văn Khánh 🔥" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1759295306.png",12h20 Ngày 01/10 Pafos Vs Bayern Munich (văn Khánh) M3u
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
 https://hls.cdnvankhanh.com/live/luckytest/index.m3u8?expire=1883742060&sign=ed258748d4d2478c31073b1f8ac0af67
-#EXTINF:-1 tvg-id="92" group-title="Văn Khánh 🔥" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1759295306.png",12h20 Ngày 01/10 Pafos Vs Bayern Munich (văn Khánh) Flv
+#EXTINF:-1 tvg-id="91" group-title="Văn Khánh 🔥" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1759295306.png",12h20 Ngày 01/10 Pafos Vs Bayern Munich (văn Khánh) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
 https://flv.cdnvankhanh.com/live/luckytest.flv?expire=1883742060&sign=ed258748d4d2478c31073b1f8ac0af67
-#EXTINF:-1 tvg-id="93" group-title="Văn Khánh 🔥" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1759297807.png",12h52 Ngày 01/10 Chelsea Vs Benfica (văn Khánh) M3u
+#EXTINF:-1 tvg-id="92" group-title="Văn Khánh 🔥" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1759297807.png",12h52 Ngày 01/10 Chelsea Vs Benfica (văn Khánh) M3u
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
 https://hls.cdnvankhanh.com/live/VANCHUN/index.m3u8?expire=1898518320&sign=e855afc2f47c2589486b995f1194c0fc
-#EXTINF:-1 tvg-id="94" group-title="Văn Khánh 🔥" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1759297807.png",12h52 Ngày 01/10 Chelsea Vs Benfica (văn Khánh) Flv
+#EXTINF:-1 tvg-id="93" group-title="Văn Khánh 🔥" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1759297807.png",12h52 Ngày 01/10 Chelsea Vs Benfica (văn Khánh) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
 https://flv.cdnvankhanh.com/live/VANCHUN.flv?expire=1898518320&sign=e855afc2f47c2589486b995f1194c0fc
-#EXTINF:-1 tvg-id="95" group-title="Văn Khánh 🔥" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1759297472.png",12h45 Ngày 01/10 Atletico Madrid Vs Eintracht Frankfurt (văn Khánh) M3u
+#EXTINF:-1 tvg-id="94" group-title="Văn Khánh 🔥" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1759297472.png",12h45 Ngày 01/10 Atletico Madrid Vs Eintracht Frankfurt (văn Khánh) M3u
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
 https://hls.cdnvankhanh.com/live/TO3C/index.m3u8?expire=1875681300&sign=015129bcbd63368bf36946e12b5950c6
-#EXTINF:-1 tvg-id="96" group-title="Văn Khánh 🔥" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1759297472.png",12h45 Ngày 01/10 Atletico Madrid Vs Eintracht Frankfurt (văn Khánh) Flv
+#EXTINF:-1 tvg-id="95" group-title="Văn Khánh 🔥" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1759297472.png",12h45 Ngày 01/10 Atletico Madrid Vs Eintracht Frankfurt (văn Khánh) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
 https://flv.cdnvankhanh.com/live/TO3C.flv?expire=1875681300&sign=015129bcbd63368bf36946e12b5950c6
-#EXTINF:-1 tvg-id="97" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Bit.ly/socolive [socolive] (socolive) Flv
+#EXTINF:-1 tvg-id="96" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Bit.ly/socolive [socolive] (socolive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1759307720-0-0-0e8e97c357e09dc8e2dd08cbd22902cd
-#EXTINF:-1 tvg-id="98" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Bit.ly/socolive [socolive] (socolive) Hdflv
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1759308800-0-0-759ee8079653748d6371fc944fa06769
+#EXTINF:-1 tvg-id="97" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Bit.ly/socolive [socolive] (socolive) Hdflv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1759307720-0-0-b797bf98c02f326ba021ca67e93f5400
-#EXTINF:-1 tvg-id="99" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Bit.ly/socolive [socolive] (socolive) M3u8
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1759308800-0-0-04a47c6455b1c20c6c30fa0a237bdb5a
+#EXTINF:-1 tvg-id="98" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Bit.ly/socolive [socolive] (socolive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1759307720-0-0-d7e30f0aeac09845ca09a4ec39daa9c1
-#EXTINF:-1 tvg-id="100" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Bit.ly/socolive [socolive] (socolive) Hdm3u8
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1759308800-0-0-1e67a3537f1963f1ccfc0a4d30865cd9
+#EXTINF:-1 tvg-id="99" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Bit.ly/socolive [socolive] (socolive) Hdm3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1759307720-0-0-bf6968dca792f796d9c494455f819aee
-#EXTINF:-1 tvg-id="101" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường Thuật: Uefa Cl - Atalanta Vs Club Brugge [sóc Xào Sả ớt] (socolive) Flv
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1759308800-0-0-6e06eba14ee0ebc45abdb6b83b9f0930
+#EXTINF:-1 tvg-id="100" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường Thuật: Uefa Cl - Atalanta Vs Club Brugge [sóc Xào Sả ớt] (socolive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1759307720-0-0-e879388cb397dd2c4f8eb875f830d361
-#EXTINF:-1 tvg-id="102" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường Thuật: Uefa Cl - Atalanta Vs Club Brugge [sóc Xào Sả ớt] (socolive) Hdflv
+https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1759308800-0-0-532ff3f1732420b676e0bf0cd480395e
+#EXTINF:-1 tvg-id="101" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường Thuật: Uefa Cl - Atalanta Vs Club Brugge [sóc Xào Sả ớt] (socolive) Hdflv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1759307720-0-0-f199682797895d44aa961527f52c9a05
-#EXTINF:-1 tvg-id="103" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường Thuật: Uefa Cl - Atalanta Vs Club Brugge [sóc Xào Sả ớt] (socolive) M3u8
+https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1759308800-0-0-515846b09f6baa4fdf0b8733d7e76b31
+#EXTINF:-1 tvg-id="102" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường Thuật: Uefa Cl - Atalanta Vs Club Brugge [sóc Xào Sả ớt] (socolive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1759307720-0-0-4cd1d6dbe136b2b2ae488ca75e1b1a12
-#EXTINF:-1 tvg-id="104" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường Thuật: Uefa Cl - Atalanta Vs Club Brugge [sóc Xào Sả ớt] (socolive) Hdm3u8
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1759308800-0-0-f5f482ae481190b45fc391f57e13d2b4
+#EXTINF:-1 tvg-id="103" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường Thuật: Uefa Cl - Atalanta Vs Club Brugge [sóc Xào Sả ớt] (socolive) Hdm3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1759307720-0-0-215f2e8c76efbec29988b0323bb8246e
-#EXTINF:-1 tvg-id="105" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường Thuật: Uefa Cl - Atletico Madrid Vs Eintracht Frankfurt [sóc Chó điên] (socolive) Flv
+https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1759308800-0-0-2c3ffa0e41074f72c3965dd50624793d
+#EXTINF:-1 tvg-id="104" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường Thuật: Uefa Cl - Pafos Fc Vs Fc Bayern Munich [sóc Trong Rừng Xà Nu] (socolive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1759307720-0-0-d489312f21992067d612c3fcee16db10
-#EXTINF:-1 tvg-id="106" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường Thuật: Uefa Cl - Atletico Madrid Vs Eintracht Frankfurt [sóc Chó điên] (socolive) Hdflv
+https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1759308800-0-0-7521cc5bc11771d417c20d1a2bbc498b
+#EXTINF:-1 tvg-id="105" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường Thuật: Uefa Cl - Pafos Fc Vs Fc Bayern Munich [sóc Trong Rừng Xà Nu] (socolive) Hdflv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1759307720-0-0-b30c811d5648aa6fe4cdc657ba2ca44c
-#EXTINF:-1 tvg-id="107" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường Thuật: Uefa Cl - Atletico Madrid Vs Eintracht Frankfurt [sóc Chó điên] (socolive) M3u8
+https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1759308800-0-0-450d4552714144e5eef895fef291fcf3
+#EXTINF:-1 tvg-id="106" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường Thuật: Uefa Cl - Pafos Fc Vs Fc Bayern Munich [sóc Trong Rừng Xà Nu] (socolive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1759307720-0-0-3501d5ba6e0a201baa53463471b91519
-#EXTINF:-1 tvg-id="108" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường Thuật: Uefa Cl - Atletico Madrid Vs Eintracht Frankfurt [sóc Chó điên] (socolive) Hdm3u8
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1759308800-0-0-3146d56f68dd1c4cc9ab775b70888dbb
+#EXTINF:-1 tvg-id="107" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường Thuật: Uefa Cl - Pafos Fc Vs Fc Bayern Munich [sóc Trong Rừng Xà Nu] (socolive) Hdm3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1759307720-0-0-1079a9c274de9f21570ca90009f98a21
-#EXTINF:-1 tvg-id="109" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường Thuật: Uefa Cl - Fc Kairat Almaty Vs Real Madrid [sóc Mèo Méo Meo] (socolive) Flv
+https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1759308800-0-0-87f7fe7b38168e26089a7e22775f4445
+#EXTINF:-1 tvg-id="108" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường Thuật: Uefa Cl - Fc Kairat Almaty Vs Real Madrid [sóc Mèo Méo Meo] (socolive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1759307720-0-0-57e1888837bc678d14338321076dbfca
-#EXTINF:-1 tvg-id="110" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường Thuật: Uefa Cl - Fc Kairat Almaty Vs Real Madrid [sóc Mèo Méo Meo] (socolive) Hdflv
+https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1759308800-0-0-042614b54fbc2363c03cb795eb175252
+#EXTINF:-1 tvg-id="109" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường Thuật: Uefa Cl - Fc Kairat Almaty Vs Real Madrid [sóc Mèo Méo Meo] (socolive) Hdflv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1759307720-0-0-be379b3e325184d060137758694502e9
-#EXTINF:-1 tvg-id="111" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường Thuật: Uefa Cl - Fc Kairat Almaty Vs Real Madrid [sóc Mèo Méo Meo] (socolive) M3u8
+https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1759308800-0-0-ba8d2f1f281d950bc38074c8f1df3e5c
+#EXTINF:-1 tvg-id="110" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường Thuật: Uefa Cl - Fc Kairat Almaty Vs Real Madrid [sóc Mèo Méo Meo] (socolive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1759307720-0-0-db3b168b96a77be80d8fa3f14373a891
-#EXTINF:-1 tvg-id="112" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường Thuật: Uefa Cl - Fc Kairat Almaty Vs Real Madrid [sóc Mèo Méo Meo] (socolive) Hdm3u8
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1759308800-0-0-08d5709cc57a46165c9a50ff130aaa03
+#EXTINF:-1 tvg-id="111" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường Thuật: Uefa Cl - Fc Kairat Almaty Vs Real Madrid [sóc Mèo Méo Meo] (socolive) Hdm3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1759307720-0-0-e59ac22f48dea4c08f2dae4e5b68db0f
-#EXTINF:-1 tvg-id="113" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường Thuật: Uefa Cl - Pafos Fc Vs Fc Bayern Munich [sóc Trong Rừng Xà Nu] (socolive) Flv
+https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1759308800-0-0-655a643b2d4985454400cacd23f78b9b
+#EXTINF:-1 tvg-id="112" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường Thuật: Uefa Cl - Atletico Madrid Vs Eintracht Frankfurt [sóc Chó điên] (socolive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1759307720-0-0-166de3d4d93959bb93b99fb9c9b36b5e
-#EXTINF:-1 tvg-id="114" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường Thuật: Uefa Cl - Pafos Fc Vs Fc Bayern Munich [sóc Trong Rừng Xà Nu] (socolive) Hdflv
+https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1759308800-0-0-06a5e83d74e32d2b39c79b571376f5ec
+#EXTINF:-1 tvg-id="113" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường Thuật: Uefa Cl - Atletico Madrid Vs Eintracht Frankfurt [sóc Chó điên] (socolive) Hdflv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1759307720-0-0-e0f1c8049c5466c40af9914bdaeb76ba
-#EXTINF:-1 tvg-id="115" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường Thuật: Uefa Cl - Pafos Fc Vs Fc Bayern Munich [sóc Trong Rừng Xà Nu] (socolive) M3u8
+https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1759308800-0-0-f7b027c5a963ff184eff48a13b196f03
+#EXTINF:-1 tvg-id="114" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường Thuật: Uefa Cl - Atletico Madrid Vs Eintracht Frankfurt [sóc Chó điên] (socolive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1759307720-0-0-1c34ed1b3b87776a9974cfca5edee01f
-#EXTINF:-1 tvg-id="116" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường Thuật: Uefa Cl - Pafos Fc Vs Fc Bayern Munich [sóc Trong Rừng Xà Nu] (socolive) Hdm3u8
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1759308800-0-0-8bb637049a3296a1b322c4f8ee4ce48d
+#EXTINF:-1 tvg-id="115" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường Thuật: Uefa Cl - Atletico Madrid Vs Eintracht Frankfurt [sóc Chó điên] (socolive) Hdm3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1759307720-0-0-444fc31b43a6ffea5adf384188051460
-#EXTINF:-1 tvg-id="117" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường Thuật: Uefa Cl - Chelsea Vs Benfica [sóc Phụ Hồ] (socolive) Flv
+https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1759308800-0-0-fb4b79ee6665d302ae1553029b96c452
+#EXTINF:-1 tvg-id="116" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường Thuật: Uefa Cl - Chelsea Vs Benfica [sóc Phụ Hồ] (socolive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1759307720-0-0-b9082cd28e4b61ec3ccca0c273ccf508
-#EXTINF:-1 tvg-id="118" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường Thuật: Uefa Cl - Chelsea Vs Benfica [sóc Phụ Hồ] (socolive) Hdflv
+https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1759308800-0-0-68e864dddacb5035a6d056d2fc1dc8bb
+#EXTINF:-1 tvg-id="117" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường Thuật: Uefa Cl - Chelsea Vs Benfica [sóc Phụ Hồ] (socolive) Hdflv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1759307720-0-0-fa2c81a023157372fdcbd3b3d2061720
-#EXTINF:-1 tvg-id="119" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường Thuật: Uefa Cl - Chelsea Vs Benfica [sóc Phụ Hồ] (socolive) M3u8
+https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1759308800-0-0-a4b196eb8365c2c9af789888548adf00
+#EXTINF:-1 tvg-id="118" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường Thuật: Uefa Cl - Chelsea Vs Benfica [sóc Phụ Hồ] (socolive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1759307720-0-0-f9bc92428015ec25896f66ff0aa74b8a
-#EXTINF:-1 tvg-id="120" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường Thuật: Uefa Cl - Chelsea Vs Benfica [sóc Phụ Hồ] (socolive) Hdm3u8
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1759308800-0-0-1722241745bd3a00afabe0e9cc42f045
+#EXTINF:-1 tvg-id="119" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường Thuật: Uefa Cl - Chelsea Vs Benfica [sóc Phụ Hồ] (socolive) Hdm3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1759307720-0-0-75fc9a4310e5cbc2da18fd1c736186a0
-#EXTINF:-1 tvg-id="121" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường Thuật: Uefa Cl - Galatasaray Vs Liverpool [sóc Nhàm Nhang Nhồ] (socolive) Flv
+https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1759308800-0-0-c662d0f10898ac0dd109e16233716a30
+#EXTINF:-1 tvg-id="120" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường Thuật: Uefa Cl - Galatasaray Vs Liverpool [sóc Nhàm Nhang Nhồ] (socolive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1759307720-0-0-2405ea4c89b5cb1a801cfb8674550949
-#EXTINF:-1 tvg-id="122" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường Thuật: Uefa Cl - Galatasaray Vs Liverpool [sóc Nhàm Nhang Nhồ] (socolive) Hdflv
+https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1759308800-0-0-9e0972db53d2d133e5a44a84a8741ca6
+#EXTINF:-1 tvg-id="121" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường Thuật: Uefa Cl - Galatasaray Vs Liverpool [sóc Nhàm Nhang Nhồ] (socolive) Hdflv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1759307720-0-0-1ae2b06cbd6b644d4619fed9308f0e94
-#EXTINF:-1 tvg-id="123" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường Thuật: Uefa Cl - Galatasaray Vs Liverpool [sóc Nhàm Nhang Nhồ] (socolive) M3u8
+https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1759308800-0-0-274f1aed25f2a80f9fa90ac43001be59
+#EXTINF:-1 tvg-id="122" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường Thuật: Uefa Cl - Galatasaray Vs Liverpool [sóc Nhàm Nhang Nhồ] (socolive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1759307720-0-0-450794c13a48540e1193f3a2dd4e184b
-#EXTINF:-1 tvg-id="124" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường Thuật: Uefa Cl - Galatasaray Vs Liverpool [sóc Nhàm Nhang Nhồ] (socolive) Hdm3u8
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1759308800-0-0-d515bdb8606a5c6d77f7657873993af8
+#EXTINF:-1 tvg-id="123" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20250927/a6489785893fc18783d5ad3c1970401b.png",Tường Thuật: Uefa Cl - Galatasaray Vs Liverpool [sóc Nhàm Nhang Nhồ] (socolive) Hdm3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1759307720-0-0-7d5a15de506745def0dec32b09c0be67
-#EXTINF:-1 tvg-id="125" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/8rhTm0Sp-W0NMaRVt.png",10:00 Ngày 01/10 China Smash 2025 (1) [nhà đài] Bàn Infinity ∞ Arena
+https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1759308800-0-0-fdc07aaab2ba8922987c00690b2c28f7
+#EXTINF:-1 tvg-id="124" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/8rhTm0Sp-W0NMaRVt.png",10:00 Ngày 01/10 China Smash 2025 (1) [nhà đài] Bàn Infinity ∞ Arena
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179026907.akainu.xyz/52V22q8QYW9t5wIWh1L0Cg/Fv2lucGIbhPi2caWYvF5Lg/1759302366044/live/may24/playlist.m3u8
-#EXTINF:-1 tvg-id="126" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/8rhTm0Sp-W0NMaRVt.png",10:00 Ngày 01/10 China Smash 2025 (1) [nhà đài] Bàn 2
+#EXTINF:-1 tvg-id="125" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/8rhTm0Sp-W0NMaRVt.png",10:00 Ngày 01/10 China Smash 2025 (1) [nhà đài] Bàn 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179026907.akainu.xyz/Ag6FLKj4hKyjlqFTMzKJTg/Fv2lucGIbhPi2caWYvF5Lg/1759302366044/live/may241/playlist.m3u8
-#EXTINF:-1 tvg-id="127" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/8rhTm0Sp-W0NMaRVt.png",10:00 Ngày 01/10 China Smash 2025 (1) [nhà đài] Bàn 3
+#EXTINF:-1 tvg-id="126" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/8rhTm0Sp-W0NMaRVt.png",10:00 Ngày 01/10 China Smash 2025 (1) [nhà đài] Bàn 3
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179026907.akainu.xyz/cY-ad1Hhj9T5PMzIv0lvlg/Fv2lucGIbhPi2caWYvF5Lg/1759302366044/live/may25/playlist.m3u8
-#EXTINF:-1 tvg-id="128" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/8rhTm0Sp-W0NMaRVt.png",10:00 Ngày 01/10 China Smash 2025 (1) [nhà đài] Bàn 4
+#EXTINF:-1 tvg-id="127" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/8rhTm0Sp-W0NMaRVt.png",10:00 Ngày 01/10 China Smash 2025 (1) [nhà đài] Bàn 4
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179026907.akainu.xyz/o2MrWeYjPu28BCwVAV1r_g/Fv2lucGIbhPi2caWYvF5Lg/1759302366044/live/may17/playlist.m3u8
-#EXTINF:-1 tvg-id="129" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/3145531b797a9337f8d16557fbf9a6bc.png",13:30 Ngày 01/10 Anastasia Potapova Vs Linda Noskova (1) [mỳ Tôm] Hd Nhanh
+#EXTINF:-1 tvg-id="128" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/3145531b797a9337f8d16557fbf9a6bc.png",13:30 Ngày 01/10 Anastasia Potapova Vs Linda Noskova (1) [mỳ Tôm] Hd Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179536519.akainu.xyz/live/myHD.flv?expire=1759321465&sign=8ff9d4f48afb907fc9cd5e4371507f7c
-#EXTINF:-1 tvg-id="130" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/3145531b797a9337f8d16557fbf9a6bc.png",13:30 Ngày 01/10 Anastasia Potapova Vs Linda Noskova (1) [mỳ Tôm] Hd1
+#EXTINF:-1 tvg-id="129" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/3145531b797a9337f8d16557fbf9a6bc.png",13:30 Ngày 01/10 Anastasia Potapova Vs Linda Noskova (1) [mỳ Tôm] Hd1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179266008.akainu.xyz/4hoGV0m3BJLhqRniyDg6QQ/Fv2lucGIbhPi2caWYvF5Lg/1759321465060/live/myHD/playlist.m3u8
-#EXTINF:-1 tvg-id="131" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/3145531b797a9337f8d16557fbf9a6bc.png",13:30 Ngày 01/10 Anastasia Potapova Vs Linda Noskova (1) [mỳ Tôm] Hd2
+#EXTINF:-1 tvg-id="130" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/3145531b797a9337f8d16557fbf9a6bc.png",13:30 Ngày 01/10 Anastasia Potapova Vs Linda Noskova (1) [mỳ Tôm] Hd2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://live-vipxlvb.nsnd.live/5tcczRKB3mc28PYKrcpw4A/ad962176acd070100f306c790419005d/1759321465/live/_definst_/stream_1_1bda7@myHD/playlist.m3u8
-#EXTINF:-1 tvg-id="132" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/3145531b797a9337f8d16557fbf9a6bc.png",13:30 Ngày 01/10 Anastasia Potapova Vs Linda Noskova (1) [mỳ Tôm] Sd
+#EXTINF:-1 tvg-id="131" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/3145531b797a9337f8d16557fbf9a6bc.png",13:30 Ngày 01/10 Anastasia Potapova Vs Linda Noskova (1) [mỳ Tôm] Sd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179602324.akainu.xyz/UqrzflBS2uC2BD9adH598w/Fv2lucGIbhPi2caWYvF5Lg/1759321465061/live/mySD/playlist.m3u8
-#EXTINF:-1 tvg-id="133" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/3145531b797a9337f8d16557fbf9a6bc.png",13:30 Ngày 01/10 Anastasia Potapova Vs Linda Noskova (1) [mỳ Tôm] Fullhd
+#EXTINF:-1 tvg-id="132" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/3145531b797a9337f8d16557fbf9a6bc.png",13:30 Ngày 01/10 Anastasia Potapova Vs Linda Noskova (1) [mỳ Tôm] Fullhd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://live-vipxlvb.nsnd.live/WB-sG5V7OM8pkHMSoxX4Sw/37c56eb4aaf958eda25bed5c53705fc2/1759321465/live/_definst_/stream_1_1bda7@myFHD/playlist.m3u8
-#EXTINF:-1 tvg-id="134" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/daecfcbc2c8c70751b8653772e210d15.png",13:55 Ngày 01/10 Adrian Mannarino Vs Matteo Berrettini (1) [mèo ú] Hd Nhanh
+#EXTINF:-1 tvg-id="133" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/daecfcbc2c8c70751b8653772e210d15.png",13:55 Ngày 01/10 Adrian Mannarino Vs Matteo Berrettini (1) [mèo ú] Hd Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179536519.akainu.xyz/live/meoHD.flv?expire=1759323985&sign=f5ae0ad4fc6477f0c729525845839546
-#EXTINF:-1 tvg-id="135" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/daecfcbc2c8c70751b8653772e210d15.png",13:55 Ngày 01/10 Adrian Mannarino Vs Matteo Berrettini (1) [mèo ú] Hd1
+#EXTINF:-1 tvg-id="134" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/daecfcbc2c8c70751b8653772e210d15.png",13:55 Ngày 01/10 Adrian Mannarino Vs Matteo Berrettini (1) [mèo ú] Hd1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179266008.akainu.xyz/6awbKomN9Eml2eDy5OMmwA/Fv2lucGIbhPi2caWYvF5Lg/1759323985248/live/meoHD/playlist.m3u8
-#EXTINF:-1 tvg-id="136" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/daecfcbc2c8c70751b8653772e210d15.png",13:55 Ngày 01/10 Adrian Mannarino Vs Matteo Berrettini (1) [mèo ú] Hd2
+#EXTINF:-1 tvg-id="135" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/daecfcbc2c8c70751b8653772e210d15.png",13:55 Ngày 01/10 Adrian Mannarino Vs Matteo Berrettini (1) [mèo ú] Hd2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://live-vipxlvb.nsnd.live/XR9cMp0q61L4K4Dsrz9_dg/778e7779236aef8ae68b578426d0ddb4/1759323985/live/_definst_/stream_1_1bda7@meoHD/playlist.m3u8
-#EXTINF:-1 tvg-id="137" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/daecfcbc2c8c70751b8653772e210d15.png",13:55 Ngày 01/10 Adrian Mannarino Vs Matteo Berrettini (1) [mèo ú] Sd
+#EXTINF:-1 tvg-id="136" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/daecfcbc2c8c70751b8653772e210d15.png",13:55 Ngày 01/10 Adrian Mannarino Vs Matteo Berrettini (1) [mèo ú] Sd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179602324.akainu.xyz/WX52xcN0mEpjVdTyBflWSQ/Fv2lucGIbhPi2caWYvF5Lg/1759323985248/live/meoSD/playlist.m3u8
-#EXTINF:-1 tvg-id="138" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/daecfcbc2c8c70751b8653772e210d15.png",13:55 Ngày 01/10 Adrian Mannarino Vs Matteo Berrettini (1) [mèo ú] Fullhd
+#EXTINF:-1 tvg-id="137" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/daecfcbc2c8c70751b8653772e210d15.png",13:55 Ngày 01/10 Adrian Mannarino Vs Matteo Berrettini (1) [mèo ú] Fullhd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://live-vipxlvb.nsnd.live/cBtELr14GDJMoUBUuNaBcg/aa2414c41b563aa2e0f4a276a0f50172/1759323985/live/_definst_/stream_1_1bda7@meoFHD/playlist.m3u8
-#EXTINF:-1 tvg-id="139" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/lCtAHB97-zopZLYrA.png",11:30 Ngày 01/10 Atp1000 Shanghai Master (1) [nhà đài] Stadium Court
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/sbRxxIkVe8YEUPmLmdbAxg/Fv2lucGIbhPi2caWYvF5Lg/1759325419483/live/may251/playlist.m3u8
-#EXTINF:-1 tvg-id="140" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/lCtAHB97-zopZLYrA.png",11:30 Ngày 01/10 Atp1000 Shanghai Master (1) [nhà đài] Show Court 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/HXLE5Hm0ikhlfJ8Te9cFxw/Fv2lucGIbhPi2caWYvF5Lg/1759325419483/live/may26/playlist.m3u8
-#EXTINF:-1 tvg-id="141" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/lCtAHB97-zopZLYrA.png",11:30 Ngày 01/10 Atp1000 Shanghai Master (1) [nhà đài] Court 4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/M1pjj4uSnXlwOp8rYdh62A/Fv2lucGIbhPi2caWYvF5Lg/1759325419483/live/may261/playlist.m3u8
-#EXTINF:-1 tvg-id="142" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/lCtAHB97-zopZLYrA.png",11:30 Ngày 01/10 Atp1000 Shanghai Master (1) [nhà đài] Grandstand 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/3NtO95WoYiR70Yp2gdwaew/Fv2lucGIbhPi2caWYvF5Lg/1759325419483/live/may27/playlist.m3u8
-#EXTINF:-1 tvg-id="143" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/lCtAHB97-zopZLYrA.png",11:30 Ngày 01/10 Atp1000 Shanghai Master (1) [nhà đài] Capitanl Groud Diamond
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/4J-2k6heVEZm-yTryosdbg/Fv2lucGIbhPi2caWYvF5Lg/1759325419483/live/may271/playlist.m3u8
-#EXTINF:-1 tvg-id="144" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/ec7a2a0b59ac58b6429051b28b2083d9.png",14:30 Ngày 01/10 Marin Cilic Vs Nikoloz Basilashvili (1) [thịt Xiên] Hd Nhanh
+#EXTINF:-1 tvg-id="138" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/ec7a2a0b59ac58b6429051b28b2083d9.png",14:35 Ngày 01/10 Marin Cilic Vs Nikoloz Basilashvili (1) [thịt Xiên] Hd Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179536519.akainu.xyz/live/xienHD.flv?expire=1759325422&sign=02a88107481071d2b83724d8f23ddfed
-#EXTINF:-1 tvg-id="145" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/ec7a2a0b59ac58b6429051b28b2083d9.png",14:30 Ngày 01/10 Marin Cilic Vs Nikoloz Basilashvili (1) [thịt Xiên] Hd1
+#EXTINF:-1 tvg-id="139" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/ec7a2a0b59ac58b6429051b28b2083d9.png",14:35 Ngày 01/10 Marin Cilic Vs Nikoloz Basilashvili (1) [thịt Xiên] Hd1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179266008.akainu.xyz/wp-cWb-2vbTRSUCRs1EA5g/Fv2lucGIbhPi2caWYvF5Lg/1759325422205/live/xienHD/playlist.m3u8
-#EXTINF:-1 tvg-id="146" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/ec7a2a0b59ac58b6429051b28b2083d9.png",14:30 Ngày 01/10 Marin Cilic Vs Nikoloz Basilashvili (1) [thịt Xiên] Hd2
+#EXTINF:-1 tvg-id="140" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/ec7a2a0b59ac58b6429051b28b2083d9.png",14:35 Ngày 01/10 Marin Cilic Vs Nikoloz Basilashvili (1) [thịt Xiên] Hd2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://live-vipxlvb.nsnd.live/tXMCyIg_mnnNFz_MK_zfSA/0aafe7a6d19bfafd5e27cf7084b37d51/1759325422/live/_definst_/stream_1_1bda7@xienHD/playlist.m3u8
-#EXTINF:-1 tvg-id="147" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/ec7a2a0b59ac58b6429051b28b2083d9.png",14:30 Ngày 01/10 Marin Cilic Vs Nikoloz Basilashvili (1) [thịt Xiên] Sd
+#EXTINF:-1 tvg-id="141" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/ec7a2a0b59ac58b6429051b28b2083d9.png",14:35 Ngày 01/10 Marin Cilic Vs Nikoloz Basilashvili (1) [thịt Xiên] Sd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179602324.akainu.xyz/gVPtMuoHU-UF9KznJ1IFvg/Fv2lucGIbhPi2caWYvF5Lg/1759325422205/live/xienSD/playlist.m3u8
-#EXTINF:-1 tvg-id="148" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/ec7a2a0b59ac58b6429051b28b2083d9.png",14:30 Ngày 01/10 Marin Cilic Vs Nikoloz Basilashvili (1) [thịt Xiên] Fullhd
+#EXTINF:-1 tvg-id="142" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/ec7a2a0b59ac58b6429051b28b2083d9.png",14:35 Ngày 01/10 Marin Cilic Vs Nikoloz Basilashvili (1) [thịt Xiên] Fullhd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://live-vipxlvb.nsnd.live/P4iBN6tc2OYaiyKJqiJhVQ/cac03b136a8c356be180b4618c6bfeb5/1759325422/live/_definst_/stream_1_1bda7@xienFHD/playlist.m3u8
-#EXTINF:-1 tvg-id="149" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/6b6b7a5d520cc7de3f9e810197013252.png",14:40 Ngày 01/10 Mirra Andreeva Vs Sonay Kartal (1) [mỳ Tôm] Hd Nhanh
+#EXTINF:-1 tvg-id="143" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/lCtAHB97-zopZLYrA.png",11:30 Ngày 01/10 Atp1000 Shanghai Master (1) [nhà đài] Stadium Court
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179026907.akainu.xyz/sbRxxIkVe8YEUPmLmdbAxg/Fv2lucGIbhPi2caWYvF5Lg/1759325419483/live/may251/playlist.m3u8
+#EXTINF:-1 tvg-id="144" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/lCtAHB97-zopZLYrA.png",11:30 Ngày 01/10 Atp1000 Shanghai Master (1) [nhà đài] Show Court 3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179026907.akainu.xyz/HXLE5Hm0ikhlfJ8Te9cFxw/Fv2lucGIbhPi2caWYvF5Lg/1759325419483/live/may26/playlist.m3u8
+#EXTINF:-1 tvg-id="145" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/lCtAHB97-zopZLYrA.png",11:30 Ngày 01/10 Atp1000 Shanghai Master (1) [nhà đài] Court 4
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179026907.akainu.xyz/M1pjj4uSnXlwOp8rYdh62A/Fv2lucGIbhPi2caWYvF5Lg/1759325419483/live/may261/playlist.m3u8
+#EXTINF:-1 tvg-id="146" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/lCtAHB97-zopZLYrA.png",11:30 Ngày 01/10 Atp1000 Shanghai Master (1) [nhà đài] Grandstand 2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179026907.akainu.xyz/3NtO95WoYiR70Yp2gdwaew/Fv2lucGIbhPi2caWYvF5Lg/1759325419483/live/may27/playlist.m3u8
+#EXTINF:-1 tvg-id="147" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/lCtAHB97-zopZLYrA.png",11:30 Ngày 01/10 Atp1000 Shanghai Master (1) [nhà đài] Capitanl Groud Diamond
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179026907.akainu.xyz/4J-2k6heVEZm-yTryosdbg/Fv2lucGIbhPi2caWYvF5Lg/1759325419483/live/may271/playlist.m3u8
+#EXTINF:-1 tvg-id="148" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/6b6b7a5d520cc7de3f9e810197013252.png",15:00 Ngày 01/10 Mirra Andreeva Vs Sonay Kartal (1) [mỳ Tôm] Hd Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179536519.akainu.xyz/live/myHD.flv?expire=1759325425&sign=d4dea129fed9ab4a9c239e44fcd441fc
-#EXTINF:-1 tvg-id="150" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/6b6b7a5d520cc7de3f9e810197013252.png",14:40 Ngày 01/10 Mirra Andreeva Vs Sonay Kartal (1) [mỳ Tôm] Hd1
+#EXTINF:-1 tvg-id="149" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/6b6b7a5d520cc7de3f9e810197013252.png",15:00 Ngày 01/10 Mirra Andreeva Vs Sonay Kartal (1) [mỳ Tôm] Hd1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179266008.akainu.xyz/Bb1iQ7I6jJGhHzeAAgPThg/Fv2lucGIbhPi2caWYvF5Lg/1759325425176/live/myHD/playlist.m3u8
-#EXTINF:-1 tvg-id="151" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/6b6b7a5d520cc7de3f9e810197013252.png",14:40 Ngày 01/10 Mirra Andreeva Vs Sonay Kartal (1) [mỳ Tôm] Hd2
+#EXTINF:-1 tvg-id="150" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/6b6b7a5d520cc7de3f9e810197013252.png",15:00 Ngày 01/10 Mirra Andreeva Vs Sonay Kartal (1) [mỳ Tôm] Hd2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://live-vipxlvb.nsnd.live/Ymjqf-cbnfU8W5qd2o6twQ/ad962176acd070100f306c790419005d/1759325425/live/_definst_/stream_1_1bda7@myHD/playlist.m3u8
-#EXTINF:-1 tvg-id="152" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/6b6b7a5d520cc7de3f9e810197013252.png",14:40 Ngày 01/10 Mirra Andreeva Vs Sonay Kartal (1) [mỳ Tôm] Sd
+#EXTINF:-1 tvg-id="151" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/6b6b7a5d520cc7de3f9e810197013252.png",15:00 Ngày 01/10 Mirra Andreeva Vs Sonay Kartal (1) [mỳ Tôm] Sd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179602324.akainu.xyz/sDmj4P38kQ9jyAv7R62XRQ/Fv2lucGIbhPi2caWYvF5Lg/1759325425177/live/mySD/playlist.m3u8
-#EXTINF:-1 tvg-id="153" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/6b6b7a5d520cc7de3f9e810197013252.png",14:40 Ngày 01/10 Mirra Andreeva Vs Sonay Kartal (1) [mỳ Tôm] Fullhd
+#EXTINF:-1 tvg-id="152" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/6b6b7a5d520cc7de3f9e810197013252.png",15:00 Ngày 01/10 Mirra Andreeva Vs Sonay Kartal (1) [mỳ Tôm] Fullhd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://live-vipxlvb.nsnd.live/LVLYqHRixx4mW-YrqAOaWQ/37c56eb4aaf958eda25bed5c53705fc2/1759325425/live/_definst_/stream_1_1bda7@myFHD/playlist.m3u8
-#EXTINF:-1 tvg-id="154" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NzUyN2E3MDMxNjktODE3OQ/OTc0MjYxYWQ4N2UtNTJlYw.jpg",Uefa Cl Galatasaray Vs Liverpool Tường Thuật (colalive) Flv
+#EXTINF:-1 tvg-id="153" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NzUyN2E3MDMxNjktODE3OQ/OTc0MjYxYWQ4N2UtNTJlYw.jpg",Uefa Cl Galatasaray Vs Liverpool Tường Thuật (colalive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh4.app/live/30256629.flv
-#EXTINF:-1 tvg-id="155" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NzUyN2E3MDMxNjktODE3OQ/OTc0MjYxYWQ4N2UtNTJlYw.jpg",Uefa Cl Galatasaray Vs Liverpool Tường Thuật (colalive) M3u8
+#EXTINF:-1 tvg-id="154" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NzUyN2E3MDMxNjktODE3OQ/OTc0MjYxYWQ4N2UtNTJlYw.jpg",Uefa Cl Galatasaray Vs Liverpool Tường Thuật (colalive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh4.app/live/30256629.m3u8
-#EXTINF:-1 tvg-id="156" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YWE4YjdjMzljNGItMjFlYQ/M2NhZTI3MWJkZDAtNjBjNg.jpg",Xóc Dĩa Xóc Dĩa (colalive) Flv
+#EXTINF:-1 tvg-id="155" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YWE4YjdjMzljNGItMjFlYQ/M2NhZTI3MWJkZDAtNjBjNg.jpg",Xóc Dĩa Xóc Dĩa (colalive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh4.app/live/26250293.flv
-#EXTINF:-1 tvg-id="157" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YWE4YjdjMzljNGItMjFlYQ/M2NhZTI3MWJkZDAtNjBjNg.jpg",Xóc Dĩa Xóc Dĩa (colalive) M3u8
+#EXTINF:-1 tvg-id="156" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YWE4YjdjMzljNGItMjFlYQ/M2NhZTI3MWJkZDAtNjBjNg.jpg",Xóc Dĩa Xóc Dĩa (colalive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh4.app/live/26250293.m3u8
-#EXTINF:-1 tvg-id="158" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZWQ4YzAwNzY3NzgtNDcwMg/YzYxYTVjMDliNWItYmQ1MQ.jpg",Colatv- Hướng Dẫn đăng Ký Colatv- Hướng Dẫn đăng Ký (colalive) Flv
+#EXTINF:-1 tvg-id="157" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZWQ4YzAwNzY3NzgtNDcwMg/YzYxYTVjMDliNWItYmQ1MQ.jpg",Colatv- Hướng Dẫn đăng Ký Colatv- Hướng Dẫn đăng Ký (colalive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh4.app/live/58139474.flv
-#EXTINF:-1 tvg-id="159" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZWQ4YzAwNzY3NzgtNDcwMg/YzYxYTVjMDliNWItYmQ1MQ.jpg",Colatv- Hướng Dẫn đăng Ký Colatv- Hướng Dẫn đăng Ký (colalive) M3u8
+#EXTINF:-1 tvg-id="158" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZWQ4YzAwNzY3NzgtNDcwMg/YzYxYTVjMDliNWItYmQ1MQ.jpg",Colatv- Hướng Dẫn đăng Ký Colatv- Hướng Dẫn đăng Ký (colalive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh4.app/live/58139474.m3u8
-#EXTINF:-1 tvg-id="160" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OWZiZGJiNWRiNmEtOTRjNQ/OWZjOGFiN2ZjZDktOTdmNg.jpg",Live Bacarat Bacarat (colalive) Flv
+#EXTINF:-1 tvg-id="159" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OWZiZGJiNWRiNmEtOTRjNQ/OWZjOGFiN2ZjZDktOTdmNg.jpg",Live Bacarat Bacarat (colalive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh4.app/live/36858215.flv
-#EXTINF:-1 tvg-id="161" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OWZiZGJiNWRiNmEtOTRjNQ/OWZjOGFiN2ZjZDktOTdmNg.jpg",Live Bacarat Bacarat (colalive) M3u8
+#EXTINF:-1 tvg-id="160" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OWZiZGJiNWRiNmEtOTRjNQ/OWZjOGFiN2ZjZDktOTdmNg.jpg",Live Bacarat Bacarat (colalive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh4.app/live/36858215.m3u8
-#EXTINF:-1 tvg-id="162" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MTQ5NzVlNmU0MTAtNjIyMg/MmQxZDdkN2JjY2EtZTc0Mg.png",Vsbet - Thể Thao Hàng đầu đối Tác Vsbet (colalive) Flv
+#EXTINF:-1 tvg-id="161" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MTQ5NzVlNmU0MTAtNjIyMg/MmQxZDdkN2JjY2EtZTc0Mg.png",Vsbet - Thể Thao Hàng đầu đối Tác Vsbet (colalive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh4.app/live/36669975.flv
-#EXTINF:-1 tvg-id="163" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MTQ5NzVlNmU0MTAtNjIyMg/MmQxZDdkN2JjY2EtZTc0Mg.png",Vsbet - Thể Thao Hàng đầu đối Tác Vsbet (colalive) M3u8
+#EXTINF:-1 tvg-id="162" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MTQ5NzVlNmU0MTAtNjIyMg/MmQxZDdkN2JjY2EtZTc0Mg.png",Vsbet - Thể Thao Hàng đầu đối Tác Vsbet (colalive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh4.app/live/36669975.m3u8
