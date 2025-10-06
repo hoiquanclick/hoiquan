@@ -1,311 +1,3 @@
-#EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml"
-
-
-#Thông Báo: Nhóm vừa bị Phá Hoại, rất Xin Lỗi mọi người. vui lòng vào nhóm lại với Link mới.
-
-
-#Đây là kênh tổng hợp của các kênh TV iptv trên mạng xã hội, Admin không phải tác giả của những kênh này, do đó không chịu trách nhiệm về bất cứ điều gì dưới mọi hình thức
-
-#Tuyệt đối 100% không thu phí hay có bất kì hình thức thu tiền của mọi người
-
-#Link nhóm Zalo Hội Quán CLICK: https://zalo.me/g/iytapv300
-
-#EXTINF:-1 tvg-id="vtv1-hd" group-title="Kênh VTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtv1-hd/KenhCoBan",VTV1 HD
-https://xem.hoiquan.Click/CoBan/vtv1-hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vtv2-hd" group-title="Kênh VTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtv2-hd/KenhCoBan",VTV2 HD
-https://xem.hoiquan.Click/CoBan/vtv2-hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vtv3-hd" group-title="Kênh VTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtv3-hd/KenhCoBan",VTV3 HD
-https://xem.hoiquan.Click/CoBan/vtv3-hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vtv4-hd" group-title="Kênh VTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtv4-hd/KenhCoBan",VTV4 HD
-https://xem.hoiquan.Click/CoBan/vtv4-hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vtv5-hd" group-title="Kênh VTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtv5-hd/KenhCoBan",VTV5 HD
-https://xem.hoiquan.Click/CoBan/vtv5-hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vtv5-tay-nguyen" group-title="Kênh VTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtv5-tay-nguyen/KenhCoBan",VTV5 Tây Nguyên
-https://xem.hoiquan.Click/CoBan/vtv5-tay-nguyen/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vtv5-tay-nam-bo" group-title="Kênh VTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtv5-tay-nam-bo/KenhCoBan",VTV5 Tây Nam Bộ
-https://xem.hoiquan.Click/CoBan/vtv5-tay-nam-bo/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vtv-can-tho" group-title="Kênh VTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtv-can-tho/KenhCoBan",VTV Cần Thơ HD
-https://xem.hoiquan.Click/CoBan/vtv-can-tho/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vtv7-hd" group-title="Kênh VTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtv7-hd/KenhCoBan",VTV7 HD
-https://xem.hoiquan.Click/CoBan/vtv7-hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vtv8-hd" group-title="Kênh VTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtv8-hd/KenhCoBan",VTV8 HD
-https://xem.hoiquan.Click/CoBan/vtv8-hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vtv9-hd" group-title="Kênh VTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtv9-hd/KenhCoBan",VTV9 HD
-https://xem.hoiquan.Click/CoBan/vtv9-hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="antv" group-title="Kênh thiết yếu" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/antv/KenhCoBan",ANTV
-https://xem.hoiquan.Click/CoBan/antv/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="qpvn-hd" group-title="Kênh thiết yếu" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/qpvn-hd/KenhCoBan",QPVN HD
-https://xem.hoiquan.Click/CoBan/qpvn-hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vtvcab-1-vie-giai-tri-hd" group-title="VTV Cab" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtvcab-1-vie-giai-tri-hd/KenhCoBan",VTVcab 1 - Vie Giải Trí HD
-https://xem.hoiquan.Click/CoBan/vtvcab-1-vie-giai-tri-hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vtvcab-2-phim-viet-hd" group-title="VTV Cab" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtvcab-2-phim-viet-hd/KenhCoBan",VTVcab 2 - Phim Việt HD
-https://xem.hoiquan.Click/CoBan/vtvcab-2-phim-viet-hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vtvcab10-on-cine-hd" group-title="VTV Cab" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtvcab10-on-cine-hd/KenhCoBan",VTVcab10 - On Cine HD
-https://xem.hoiquan.Click/CoBan/vtvcab10-on-cine-hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vtvcab19-vie-dramas" group-title="VTV Cab" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtvcab19-vie-dramas/KenhCoBan",VTVcab19 – Vie Dramas
-https://xem.hoiquan.Click/CoBan/vtvcab19-vie-dramas/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vtvcab-8-bi-bi-sd" group-title="VTV Cab" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtvcab-8-bi-bi-sd/KenhCoBan",VTVcab 8 Bibi SD
-https://xem.hoiquan.Click/CoBan/vtvcab-8-bi-bi-sd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vtvcab-21-cartoon-kids-hd" group-title="VTV Cab" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtvcab-21-cartoon-kids-hd/KenhCoBan",VTVcab 21- Cartoon Kids HD
-https://xem.hoiquan.Click/CoBan/vtvcab-21-cartoon-kids-hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vtvcab-4-on-movies" group-title="VTV Cab" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtvcab-4-on-movies/KenhCoBan",Vtvcab 4 – On Movies
-https://xem.hoiquan.Click/CoBan/vtvcab-4-on-movies/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vtvcab-5-e-channel-hd" group-title="VTV Cab" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtvcab-5-e-channel-hd/KenhCoBan",VTVcab 5 - E Channel HD
-https://xem.hoiquan.Click/CoBan/vtvcab-5-e-channel-hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vtvcab-12-styletv-hd" group-title="VTV Cab" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtvcab-12-styletv-hd/KenhCoBan",VTVcab 12 - StyleTV HD
-https://xem.hoiquan.Click/CoBan/vtvcab-12-styletv-hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vtvcab15-on-music" group-title="VTV Cab" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtvcab15-on-music/KenhCoBan",VTVcab15 – On Music
-https://xem.hoiquan.Click/CoBan/vtvcab15-on-music/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vtvcab17-trending-tv" group-title="VTV Cab" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtvcab17-trending-tv/KenhCoBan",Vtvcab17 – Trending TV
-https://xem.hoiquan.Click/CoBan/vtvcab17-trending-tv/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vtvcab-20-v-family-hd" group-title="VTV Cab" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtvcab-20-v-family-hd/KenhCoBan",VTVcab 20 - V Family HD
-https://xem.hoiquan.Click/CoBan/vtvcab-20-v-family-hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vtvcab-22-life-tv-hd" group-title="VTV Cab" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtvcab-22-life-tv-hd/KenhCoBan",VTVcab 22 - Life TV HD
-https://xem.hoiquan.Click/CoBan/vtvcab-22-life-tv-hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vtvcab-23-golf-channel" group-title="VTV Cab" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtvcab-23-golf-channel/KenhCoBan",VTVcab 23 - Golf Channel(Kênh VTV Cab)
-https://xem.hoiquan.Click/CoBan/vtvcab-23-golf-channel/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vtvcab-9-infotv-hd" group-title="VTV Cab" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtvcab-9-infotv-hd/KenhCoBan",VTVcab 9 - InfoTV HD
-https://xem.hoiquan.Click/CoBan/vtvcab-9-infotv-hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vtvcab13-on-homeshopping" group-title="VTV Cab" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtvcab13-on-homeshopping/KenhCoBan",VTVcab13-On Homeshopping
-https://xem.hoiquan.Click/CoBan/vtvcab13-on-homeshopping/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="o2tv" group-title="VTV Cab" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/o2tv/KenhCoBan",O2TV
-https://xem.hoiquan.Click/CoBan/o2tv/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="an-vien-hd" group-title="VTV Cab" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/an-vien-hd/KenhCoBan",An Viên HD
-https://xem.hoiquan.Click/CoBan/an-vien-hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="box-hits" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/box-hits/KenhCoBan",Box Hits
-https://xem.hoiquan.Click/CoBan/box-hits/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="box-movie-1-hd" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/box-movie-1-hd/KenhCoBan",Box Movie 1 HD
-https://xem.hoiquan.Click/CoBan/box-movie-1-hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="hollywood-classic-hd" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/hollywood-classic-hd/KenhCoBan",Hollywood Classic HD
-https://xem.hoiquan.Click/CoBan/hollywood-classic-hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="in-the-box" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/in-the-box/KenhCoBan",In The Box
-https://xem.hoiquan.Click/CoBan/in-the-box/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="happy-kids-hd" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/happy-kids-hd/KenhCoBan",Happy Kids HD
-https://xem.hoiquan.Click/CoBan/happy-kids-hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="woman-hd" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/woman-hd/KenhCoBan",Woman HD
-https://xem.hoiquan.Click/CoBan/woman-hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="man" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/man/KenhCoBan",Man
-https://xem.hoiquan.Click/CoBan/man/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="planet-earth-hd" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/planet-earth-hd/KenhCoBan",Planet Earth HD
-https://xem.hoiquan.Click/CoBan/planet-earth-hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="dr-fit-hd" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/dr-fit-hd/KenhCoBan",Dr Fit HD
-https://xem.hoiquan.Click/CoBan/dr-fit-hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="music-box" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/music-box/KenhCoBan",Music box
-https://xem.hoiquan.Click/CoBan/music-box/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="outdoor-hd" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/outdoor-hd/KenhCoBan",Outdoor HD
-https://xem.hoiquan.Click/CoBan/outdoor-hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="channel-news-asia" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/channel-news-asia/KenhCoBan",Channel News Asia
-https://xem.hoiquan.Click/CoBan/channel-news-asia/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="afn-hd" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/afn-hd/KenhCoBan",AFN HD
-https://xem.hoiquan.Click/CoBan/afn-hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="hgtv" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/hgtv/KenhCoBan",HGTV
-https://xem.hoiquan.Click/CoBan/hgtv/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="kbs-world" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/kbs-world/KenhCoBan",KBS World
-https://xem.hoiquan.Click/CoBan/kbs-world/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="dw" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/dw/KenhCoBan",DW
-https://xem.hoiquan.Click/CoBan/dw/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="nhk" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/nhk/KenhCoBan",NHK
-https://xem.hoiquan.Click/CoBan/nhk/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="france-24" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/france-24/KenhCoBan",France 24
-https://xem.hoiquan.Click/CoBan/france-24/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="tv5" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/tv5/KenhCoBan",TV5
-https://xem.hoiquan.Click/CoBan/tv5/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="cnbc-sd" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/cnbc-sd/KenhCoBan",CNBC SD
-https://xem.hoiquan.Click/CoBan/cnbc-sd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="history-hd" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/history-hd/KenhCoBan",History HD
-https://xem.hoiquan.Click/CoBan/history-hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="kix" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/kix/KenhCoBan",Kix
-https://xem.hoiquan.Click/CoBan/kix/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="arirang" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/arirang/KenhCoBan",Arirang
-https://xem.hoiquan.Click/CoBan/arirang/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="davinci-hd" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/davinci-hd/KenhCoBan",DaVinci HD
-https://xem.hoiquan.Click/CoBan/davinci-hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="htv1" group-title="Kênh HTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/htv1/KenhCoBan",HTV1
-https://xem.hoiquan.Click/CoBan/htv1/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="htv2" group-title="Kênh HTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/htv2/KenhCoBan",HTV2
-https://xem.hoiquan.Click/CoBan/htv2/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="htv3" group-title="Kênh HTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/htv3/KenhCoBan",HTV3
-https://xem.hoiquan.Click/CoBan/htv3/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="htv4" group-title="Kênh HTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/htv4/KenhCoBan",HTV4
-https://xem.hoiquan.Click/CoBan/htv4/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="htv7-hd" group-title="Kênh HTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/htv7-hd/KenhCoBan",HTV7 HD
-https://xem.hoiquan.Click/CoBan/htv7-hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="htv9-hd" group-title="Kênh HTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/htv9-hd/KenhCoBan",HTV9 HD
-https://xem.hoiquan.Click/CoBan/htv9-hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="htv-the-thao" group-title="Kênh HTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/htv-the-thao/KenhCoBan",HTV Thể Thao
-https://xem.hoiquan.Click/CoBan/htv-the-thao/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="htvc-gia-dinh" group-title="Kênh HTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/htvc-gia-dinh/KenhCoBan",HTVC gia đình
-https://xem.hoiquan.Click/CoBan/htvc-gia-dinh/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="htvc-phu-nu" group-title="Kênh HTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/htvc-phu-nu/KenhCoBan",HTVC phụ Nữ
-https://xem.hoiquan.Click/CoBan/htvc-phu-nu/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="htvc-thuan-viet" group-title="Kênh HTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/htvc-thuan-viet/KenhCoBan",HTVC thuần việt
-https://xem.hoiquan.Click/CoBan/htvc-thuan-viet/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="htvc-phim-truyen-hd" group-title="Kênh HTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/htvc-phim-truyen-hd/KenhCoBan",HTVC phim truyện HD
-https://xem.hoiquan.Click/CoBan/htvc-phim-truyen-hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="htvc-ca-nhac" group-title="Kênh HTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/htvc-ca-nhac/KenhCoBan",HTVC ca nhạc
-https://xem.hoiquan.Click/CoBan/htvc-ca-nhac/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="htvc" group-title="Kênh HTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/htvc/KenhCoBan",HTVC+ Channel B
-https://xem.hoiquan.Click/CoBan/htvc/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="htvc-du-lich-cuoc-song" group-title="Kênh HTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/htvc-du-lich-cuoc-song/KenhCoBan",HTVC du lịch & cuộc sống
-https://xem.hoiquan.Click/CoBan/htvc-du-lich-cuoc-song/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vinh-long-1" group-title="Kênh Vĩnh Long" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vinh-long-1/KenhCoBan",Vĩnh Long 1
-https://xem.hoiquan.Click/CoBan/vinh-long-1/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vinh-long-2" group-title="Kênh Vĩnh Long" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vinh-long-2/KenhCoBan",Vĩnh Long 2
-https://xem.hoiquan.Click/CoBan/vinh-long-2/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vinh-long-3" group-title="Kênh Vĩnh Long" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vinh-long-3/KenhCoBan",Vĩnh Long 3
-https://xem.hoiquan.Click/CoBan/vinh-long-3/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vinh-long-4" group-title="Kênh Vĩnh Long" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vinh-long-4/KenhCoBan",Vĩnh Long 4
-https://xem.hoiquan.Click/CoBan/vinh-long-4/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="sctv6" group-title="Kênh SCTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/sctv6/KenhCoBan",SCTV6
-https://xem.hoiquan.Click/CoBan/sctv6/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="sctv2-today-tv" group-title="Kênh SCTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/sctv2-today-tv/KenhCoBan",SCTV2 - Today TV
-https://xem.hoiquan.Click/CoBan/sctv2-today-tv/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="qtv-3" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/qtv-3/KenhCoBan",QTV 3
-https://xem.hoiquan.Click/CoBan/qtv-3/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="hai-phong-plus" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/hai-phong-plus/KenhCoBan",Hải Phòng +
-https://xem.hoiquan.Click/CoBan/hai-phong-plus/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="ha-noi-1" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/ha-noi-1/KenhCoBan",Hà Nội 1
-https://xem.hoiquan.Click/CoBan/ha-noi-1/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="ha-noi-2" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/ha-noi-2/KenhCoBan",Hà Nội 2
-https://xem.hoiquan.Click/CoBan/ha-noi-2/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="an-giang" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/an-giang/KenhCoBan",An Giang
-https://xem.hoiquan.Click/CoBan/an-giang/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="bac-giang" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/bac-giang/KenhCoBan",Bắc Giang
-https://xem.hoiquan.Click/CoBan/bac-giang/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="youtv" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/youtv/KenhCoBan",YouTV
-https://xem.hoiquan.Click/CoBan/youtv/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="bac-kan" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/bac-kan/KenhCoBan",Bắc Kạn
-https://xem.hoiquan.Click/CoBan/bac-kan/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="hitv" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/hitv/KenhCoBan",HITV
-https://xem.hoiquan.Click/CoBan/hitv/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="bac-lieu" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/bac-lieu/KenhCoBan",Bạc Liêu
-https://xem.hoiquan.Click/CoBan/bac-lieu/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="bac-ninh" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/bac-ninh/KenhCoBan",Bắc Ninh
-https://xem.hoiquan.Click/CoBan/bac-ninh/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="ben-tre" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/ben-tre/KenhCoBan",Bến Tre
-https://xem.hoiquan.Click/CoBan/ben-tre/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="binh-dinh" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/binh-dinh/KenhCoBan",Bình Định
-https://xem.hoiquan.Click/CoBan/binh-dinh/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="btv1" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/btv1/KenhCoBan",BTV1
-https://xem.hoiquan.Click/CoBan/btv1/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="btv2" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/btv2/KenhCoBan",BTV2
-https://xem.hoiquan.Click/CoBan/btv2/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="binh-phuoc" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/binh-phuoc/KenhCoBan",Bình Phước
-https://xem.hoiquan.Click/CoBan/binh-phuoc/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="binh-thuan" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/binh-thuan/KenhCoBan",Bình Thuận
-https://xem.hoiquan.Click/CoBan/binh-thuan/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="ca-mau" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/ca-mau/KenhCoBan",Cà Mau
-https://xem.hoiquan.Click/CoBan/ca-mau/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="can-tho" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/can-tho/KenhCoBan",Cần Thơ 1
-https://xem.hoiquan.Click/CoBan/can-tho/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="hau-giang" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/hau-giang/KenhCoBan",Cần Thơ 2
-https://xem.hoiquan.Click/CoBan/hau-giang/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="soc-trang" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/soc-trang/KenhCoBan",Cần Thơ 1
-https://xem.hoiquan.Click/CoBan/soc-trang/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="cao-bang" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/cao-bang/KenhCoBan",Cao Bằng
-https://xem.hoiquan.Click/CoBan/cao-bang/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="da-nang" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/da-nang/KenhCoBan",Đà Nẵng
-https://xem.hoiquan.Click/CoBan/da-nang/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="dac-nong" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/dac-nong/KenhCoBan",Đắc Nông
-https://xem.hoiquan.Click/CoBan/dac-nong/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="dak-lak" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/dak-lak/KenhCoBan",Đắk Lắk
-https://xem.hoiquan.Click/CoBan/dak-lak/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="dien-bien" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/dien-bien/KenhCoBan",Điện Biên
-https://xem.hoiquan.Click/CoBan/dien-bien/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="nam-dinh" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/nam-dinh/KenhCoBan",Nam Định
-https://xem.hoiquan.Click/CoBan/nam-dinh/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="dong-nai" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/dong-nai/KenhCoBan",Đồng Nai
-https://xem.hoiquan.Click/CoBan/dong-nai/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="dong-thap" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/dong-thap/KenhCoBan",Đồng Tháp
-https://xem.hoiquan.Click/CoBan/dong-thap/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="gia-lai" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/gia-lai/KenhCoBan",Gia Lai
-https://xem.hoiquan.Click/CoBan/gia-lai/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="ha-giang" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/ha-giang/KenhCoBan",Hà Giang
-https://xem.hoiquan.Click/CoBan/ha-giang/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="ha-nam" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/ha-nam/KenhCoBan",Hà Nam
-https://xem.hoiquan.Click/CoBan/ha-nam/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="ha-tinh" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/ha-tinh/KenhCoBan",Hà Tĩnh
-https://xem.hoiquan.Click/CoBan/ha-tinh/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="hai-duong" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/hai-duong/KenhCoBan",Hải Dương
-https://xem.hoiquan.Click/CoBan/hai-duong/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="hai-phong" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/hai-phong/KenhCoBan",Hải Phòng
-https://xem.hoiquan.Click/CoBan/hai-phong/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="hoa-binh" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/hoa-binh/KenhCoBan",Hòa Bình
-https://xem.hoiquan.Click/CoBan/hoa-binh/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="hue" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/hue/KenhCoBan",Huế
-https://xem.hoiquan.Click/CoBan/hue/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="hung-yen" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/hung-yen/KenhCoBan",Hưng Yên
-https://xem.hoiquan.Click/CoBan/hung-yen/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="khanh-hoa" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/khanh-hoa/KenhCoBan",Khánh Hòa
-https://xem.hoiquan.Click/CoBan/khanh-hoa/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="kien-giang" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/kien-giang/KenhCoBan",Kiên Giang
-https://xem.hoiquan.Click/CoBan/kien-giang/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="kon-tum" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/kon-tum/KenhCoBan",Kon Tum
-https://xem.hoiquan.Click/CoBan/kon-tum/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="lai-chau" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/lai-chau/KenhCoBan",Lai Châu
-https://xem.hoiquan.Click/CoBan/lai-chau/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="lam-dong" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/lam-dong/KenhCoBan",Lâm Đồng
-https://xem.hoiquan.Click/CoBan/lam-dong/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="lang-son" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/lang-son/KenhCoBan",Lạng Sơn
-https://xem.hoiquan.Click/CoBan/lang-son/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="lao-cai" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/lao-cai/KenhCoBan",Lào Cai
-https://xem.hoiquan.Click/CoBan/lao-cai/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="long-an" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/long-an/KenhCoBan",Long An
-https://xem.hoiquan.Click/CoBan/long-an/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="nghe-an" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/nghe-an/KenhCoBan",Nghệ An
-https://xem.hoiquan.Click/CoBan/nghe-an/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="ninh-binh" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/ninh-binh/KenhCoBan",Ninh Bình
-https://xem.hoiquan.Click/CoBan/ninh-binh/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="ninh-thuan" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/ninh-thuan/KenhCoBan",Ninh Thuận
-https://xem.hoiquan.Click/CoBan/ninh-thuan/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="phu-tho" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/phu-tho/KenhCoBan",Phú Thọ
-https://xem.hoiquan.Click/CoBan/phu-tho/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="phu-yen" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/phu-yen/KenhCoBan",Phú Yên
-https://xem.hoiquan.Click/CoBan/phu-yen/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="quang-binh" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/quang-binh/KenhCoBan",Quảng Bình
-https://xem.hoiquan.Click/CoBan/quang-binh/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="quang-nam" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/quang-nam/KenhCoBan",Quảng Nam
-https://xem.hoiquan.Click/CoBan/quang-nam/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="quang-ngai" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/quang-ngai/KenhCoBan",Quảng Ngãi
-https://xem.hoiquan.Click/CoBan/quang-ngai/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="qtv-1" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/qtv-1/KenhCoBan",QTV 1
-https://xem.hoiquan.Click/CoBan/qtv-1/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="quang-tri" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/quang-tri/KenhCoBan",Quảng Trị
-https://xem.hoiquan.Click/CoBan/quang-tri/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="son-la" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/son-la/KenhCoBan",Sơn La
-https://xem.hoiquan.Click/CoBan/son-la/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="tay-ninh" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/tay-ninh/KenhCoBan",Tây Ninh
-https://xem.hoiquan.Click/CoBan/tay-ninh/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="thai-binh" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/thai-binh/KenhCoBan",Thái Bình
-https://xem.hoiquan.Click/CoBan/thai-binh/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="thai-nguyen" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/thai-nguyen/KenhCoBan",Thái Nguyên
-https://xem.hoiquan.Click/CoBan/thai-nguyen/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="thanh-hoa" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/thanh-hoa/KenhCoBan",Thanh Hóa
-https://xem.hoiquan.Click/CoBan/thanh-hoa/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="tien-giang" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/tien-giang/KenhCoBan",Tiền Giang
-https://xem.hoiquan.Click/CoBan/tien-giang/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="tra-vinh" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/tra-vinh/KenhCoBan",Trà Vinh
-https://xem.hoiquan.Click/CoBan/tra-vinh/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="tuyen-quang" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/tuyen-quang/KenhCoBan",Tuyên Quang
-https://xem.hoiquan.Click/CoBan/tuyen-quang/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vinh-phuc" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vinh-phuc/KenhCoBan",Vĩnh Phúc
-https://xem.hoiquan.Click/CoBan/vinh-phuc/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vung-tau" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vung-tau/KenhCoBan",Vũng Tàu
-https://xem.hoiquan.Click/CoBan/vung-tau/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="yen-bai" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/yen-bai/KenhCoBan",Yên Bái
-https://xem.hoiquan.Click/CoBan/yen-bai/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="dong-nai-2" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/dong-nai-2/KenhCoBan",Đồng Nai 2
-https://xem.hoiquan.Click/CoBan/dong-nai-2/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="tv360.live" group-title="Sự kiện trực tiếp" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/tv360.live/KenhCoBan",TV360 Live
-https://xem.hoiquan.Click/CoBan/tv360.live/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="tv360.Mekong" group-title="Sự kiện trực tiếp" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/tv360.Mekong/KenhCoBan",Mekong
-https://xem.hoiquan.Click/CoBan/tv360.Mekong/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="tv360.PhimAuMy" group-title="Sự kiện trực tiếp" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/tv360.PhimAuMy/KenhCoBan",Phim Âu Mỹ
-https://xem.hoiquan.Click/CoBan/tv360.PhimAuMy/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="fm90" group-title="Kênh FM" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/fm90/KenhCoBan",FM90(Kênh FM)
-https://xem.hoiquan.Click/CoBan/fm90/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="fm96" group-title="Kênh FM" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/fm96/KenhCoBan",FM96(Kênh FM)
-https://xem.hoiquan.Click/CoBan/fm96/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="vtvcab-16-hd" group-title="VTV Cab" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtvcab-16-hd/KenhCoBan-TV3602",VTVcab 16 - On Football HD TV360
 https://xem.hoiquan.Click/CoBan2/vtvcab-16-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="tv360.sk1" group-title="Sự kiện trực tiếp" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/tv360.sk1/KenhCoBan-TV3602",TV360+ 1
@@ -1893,943 +1585,559 @@ https://xem.hoiquan.Click/HuuVinh/MaxSport4HD/DoiTacDongGop.m3u8
 #EXTINF:-1 tvg-id="SporTV2" group-title="🔁 HuuVinh.THỂ THAO QUỐC TẾ" tvg-logo="https://xem.hoiquan.click/Logo/SporTV2/DoiTac-HuuVinh",SporTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://xem.hoiquan.Click/HuuVinh/SporTV2/DoiTacDongGop.m3u8
-#EXTINF:-1 tvg-id="0" group-title="Cá Heo 🔥" tvg-logo="https://img.thesports.com/football/team/434e48ac129ab937227fc6bf3ddc0049.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion (cá Heo) Hd 1
+#EXTINF:-1 tvg-id="0" group-title="Cá Heo 🔥" tvg-logo="https://img.thesports.com/football/team/434e48ac129ab937227fc6bf3ddc0049.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion (cá Heo) Sd 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://chcdn.livestreameuro.live/live/maosd1/playlist.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Cá Heo 🔥" tvg-logo="https://img.thesports.com/football/team/434e48ac129ab937227fc6bf3ddc0049.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion (cá Heo) Hd 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://chcdn.livestreameuro.live/live/maohd1/playlist.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Cá Heo 🔥" tvg-logo="https://img.thesports.com/football/team/434e48ac129ab937227fc6bf3ddc0049.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion (cá Heo) Sd 2
+#EXTINF:-1 tvg-id="2" group-title="Cá Heo 🔥" tvg-logo="https://img.thesports.com/football/team/434e48ac129ab937227fc6bf3ddc0049.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion (cá Heo) Sd 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://179245845.cdnfree.pro/live/maosd2/playlist.m3u8
-#EXTINF:-1 tvg-id="2" group-title="Cá Heo 🔥" tvg-logo="https://img.thesports.com/football/team/434e48ac129ab937227fc6bf3ddc0049.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion (cá Heo) Hd 2
+#EXTINF:-1 tvg-id="3" group-title="Cá Heo 🔥" tvg-logo="https://img.thesports.com/football/team/434e48ac129ab937227fc6bf3ddc0049.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion (cá Heo) Hd 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://179245845.cdnfree.pro/live/maohd2/playlist.m3u8
-#EXTINF:-1 tvg-id="3" group-title="Cá Heo 🔥" tvg-logo="https://img.thesports.com/football/team/434e48ac129ab937227fc6bf3ddc0049.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion (cá Heo) Sd (nhanh)
+#EXTINF:-1 tvg-id="4" group-title="Cá Heo 🔥" tvg-logo="https://img.thesports.com/football/team/434e48ac129ab937227fc6bf3ddc0049.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion (cá Heo) Sd (nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://chcdn.livestreameuro.live/live/maosd1.flv
-#EXTINF:-1 tvg-id="4" group-title="Cá Heo 🔥" tvg-logo="https://img.thesports.com/football/team/434e48ac129ab937227fc6bf3ddc0049.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion (cá Heo) Hd (nhanh)
+#EXTINF:-1 tvg-id="5" group-title="Cá Heo 🔥" tvg-logo="https://img.thesports.com/football/team/434e48ac129ab937227fc6bf3ddc0049.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion (cá Heo) Hd (nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://chcdn.livestreameuro.live/live/maohd1.flv
-#EXTINF:-1 tvg-id="5" group-title="Cá Heo 🔥" tvg-logo="https://img.thesports.com/football/team/e69f9c600667cf3584b01dac474c1de9.png",03h30 Ngày 07/10 Atletico Huila Vs Barranquilla Fc (cá Heo) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m101nd/playlist.m3u8
-#EXTINF:-1 tvg-id="6" group-title="Cá Kèo 🔥" tvg-logo="https://img.thesports.com/football/team/f9b0ac6950bcafdbf99028c8dbebc35e.png",02h00 Ngày 07/10 San Lorenzo (w) Vs Club Olimpia (w) (cá Kèo) Hd  Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/Z1HD.flv?expire=1759806384&sign=003898aa0c975273ee10775ce3bafb35
-#EXTINF:-1 tvg-id="7" group-title="Cá Kèo 🔥" tvg-logo="https://img.thesports.com/football/team/f9b0ac6950bcafdbf99028c8dbebc35e.png",02h00 Ngày 07/10 San Lorenzo (w) Vs Club Olimpia (w) (cá Kèo) Hd1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/MIYmRjRn7jsRJ4SWa3ff_A/099e82fb17c22635f01902e2355c5ade/1759806384/live/_definst_/stream_1_1bda7@Z1HD/playlist.m3u8
-#EXTINF:-1 tvg-id="8" group-title="Cá Kèo 🔥" tvg-logo="https://img.thesports.com/football/team/f9b0ac6950bcafdbf99028c8dbebc35e.png",02h00 Ngày 07/10 San Lorenzo (w) Vs Club Olimpia (w) (cá Kèo) Hd2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/Jaq4Uq3MuNHkEeuO9nm9jw/Fv2lucGIbhPi2caWYvF5Lg/1759806384250/live/Z1HD/playlist.m3u8
-#EXTINF:-1 tvg-id="9" group-title="Cá Kèo 🔥" tvg-logo="https://img.thesports.com/football/team/f9b0ac6950bcafdbf99028c8dbebc35e.png",02h00 Ngày 07/10 San Lorenzo (w) Vs Club Olimpia (w) (cá Kèo) Sd
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/P_4ls4YfzMEazHFu7p4TYg/Fv2lucGIbhPi2caWYvF5Lg/1759806384250/live/Z1SD/playlist.m3u8
-#EXTINF:-1 tvg-id="10" group-title="Cá Kèo 🔥" tvg-logo="https://img.thesports.com/football/team/f9b0ac6950bcafdbf99028c8dbebc35e.png",02h00 Ngày 07/10 San Lorenzo (w) Vs Club Olimpia (w) (cá Kèo) Fullhd
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/dylyBk3OaJY9Jfk0UoxjJA/bf44ba621235a4936d4c6ae6054d551e/1759806384/live/_definst_/stream_1_1bda7@Z1FHD/playlist.m3u8
-#EXTINF:-1 tvg-id="11" group-title="Cá Kèo 🔥" tvg-logo="https://img.thesports.com/football/team/e69f9c600667cf3584b01dac474c1de9.png",03h30 Ngày 07/10 Atletico Huila Vs Barranquilla Fc (cá Kèo) Backup 1
+#EXTINF:-1 tvg-id="6" group-title="Cá Kèo 🔥" tvg-logo="https://img.thesports.com/football/team/e69f9c600667cf3584b01dac474c1de9.png",03h30 Ngày 07/10 Atletico Huila Vs Barranquilla Fc (cá Kèo) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/2-bntgzW0Mck35ASS-6gug/Fv2lucGIbhPi2caWYvF5Lg/1759806386172/live/sd-6MvXr6QNPTHFC8KhET/playlist.m3u8
-#EXTINF:-1 tvg-id="12" group-title="Cá Kèo 🔥" tvg-logo="https://img.thesports.com/football/team/5f333387e600b3209cc0a2b0aa7c7ec0.png",02h00 Ngày 07/10 Harrogate Town Vs Crewe Alexandra (cá Kèo) Hd Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/coHD.flv?expire=1759806395&sign=217db0e896ca05955b603b23b031d3cb
-#EXTINF:-1 tvg-id="13" group-title="Cá Kèo 🔥" tvg-logo="https://img.thesports.com/football/team/5f333387e600b3209cc0a2b0aa7c7ec0.png",02h00 Ngày 07/10 Harrogate Town Vs Crewe Alexandra (cá Kèo) Hd1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/rRBi5-bBwhK3_n20MMjRQw/e106295966a1a26dfddb5b60b193571b/1759806395/live/_definst_/stream_1_1bda7@coHD/playlist.m3u8
-#EXTINF:-1 tvg-id="14" group-title="Cá Kèo 🔥" tvg-logo="https://img.thesports.com/football/team/5f333387e600b3209cc0a2b0aa7c7ec0.png",02h00 Ngày 07/10 Harrogate Town Vs Crewe Alexandra (cá Kèo) Hd2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/fxY_yP-3VubGqk1pkrYNCA/Fv2lucGIbhPi2caWYvF5Lg/1759806395655/live/coHD/playlist.m3u8
-#EXTINF:-1 tvg-id="15" group-title="Cá Kèo 🔥" tvg-logo="https://img.thesports.com/football/team/5f333387e600b3209cc0a2b0aa7c7ec0.png",02h00 Ngày 07/10 Harrogate Town Vs Crewe Alexandra (cá Kèo) Sd
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/TCw5RVkmOh6Hdn2E6rtAHA/Fv2lucGIbhPi2caWYvF5Lg/1759806395655/live/coSD/playlist.m3u8
-#EXTINF:-1 tvg-id="16" group-title="Cá Kèo 🔥" tvg-logo="https://img.thesports.com/football/team/5f333387e600b3209cc0a2b0aa7c7ec0.png",02h00 Ngày 07/10 Harrogate Town Vs Crewe Alexandra (cá Kèo) Fullhd
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/YZlkFm-4YoEmle0rEXX-Iw/f7d74fcca7b86aaec98d69192d99ee8f/1759806395/live/_definst_/stream_1_1bda7@coFHD/playlist.m3u8
-#EXTINF:-1 tvg-id="17" group-title="Cá Kèo 🔥" tvg-logo="https://img.thesports.com/football/team/9026cd31da10204068dbd24aa1fe43ae.png",02h00 Ngày 07/10 Deportivo Cali (w) Vs Nacional Montevideo (w) (cá Kèo) Hd Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/meoHD.flv?expire=1759803857&sign=869e6bd261ec92e6c150b2c8f0d54f84
-#EXTINF:-1 tvg-id="18" group-title="Cá Kèo 🔥" tvg-logo="https://img.thesports.com/football/team/9026cd31da10204068dbd24aa1fe43ae.png",02h00 Ngày 07/10 Deportivo Cali (w) Vs Nacional Montevideo (w) (cá Kèo) Hd1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/rNylhPtSYCNuHPdyzQ4pvg/778e7779236aef8ae68b578426d0ddb4/1759803857/live/_definst_/stream_1_1bda7@meoHD/playlist.m3u8
-#EXTINF:-1 tvg-id="19" group-title="Cá Kèo 🔥" tvg-logo="https://img.thesports.com/football/team/9026cd31da10204068dbd24aa1fe43ae.png",02h00 Ngày 07/10 Deportivo Cali (w) Vs Nacional Montevideo (w) (cá Kèo) Hd2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/b_KcJzLDM0kMxgVmy3itZg/Fv2lucGIbhPi2caWYvF5Lg/1759803857846/live/meoHD/playlist.m3u8
-#EXTINF:-1 tvg-id="20" group-title="Cá Kèo 🔥" tvg-logo="https://img.thesports.com/football/team/9026cd31da10204068dbd24aa1fe43ae.png",02h00 Ngày 07/10 Deportivo Cali (w) Vs Nacional Montevideo (w) (cá Kèo) Sd
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/tDiLpPBZl3wzOjRun-ZttA/Fv2lucGIbhPi2caWYvF5Lg/1759803857846/live/meoSD/playlist.m3u8
-#EXTINF:-1 tvg-id="21" group-title="Cá Kèo 🔥" tvg-logo="https://img.thesports.com/football/team/9026cd31da10204068dbd24aa1fe43ae.png",02h00 Ngày 07/10 Deportivo Cali (w) Vs Nacional Montevideo (w) (cá Kèo) Fullhd
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/IaMeYXzWVyzf_jUUPGw5CA/aa2414c41b563aa2e0f4a276a0f50172/1759803857/live/_definst_/stream_1_1bda7@meoFHD/playlist.m3u8
-#EXTINF:-1 tvg-id="22" group-title="Cá Kèo 🔥" tvg-logo="https://img.thesports.com/football/team/9026cd31da10204068dbd24aa1fe43ae.png",02h00 Ngày 07/10 Deportivo Cali (w) Vs Nacional Montevideo (w) (cá Kèo) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/LE37jOR4o5_MEDtoFfLt4w/Fv2lucGIbhPi2caWYvF5Lg/1759803857845/live/sd-6MvXrNnXMi5ENtCWgT/playlist.m3u8
-#EXTINF:-1 tvg-id="23" group-title="Cà Khịa 🔥" tvg-logo="https://img.thesports.com/football/team/e69f9c600667cf3584b01dac474c1de9.png",03h30 Ngày 07/10 Atletico Huila Vs Barranquilla Fc (cà Khịa) Nhà đài
+#EXTINF:-1 tvg-id="7" group-title="Cà Khịa 🔥" tvg-logo="https://img.thesports.com/football/team/e69f9c600667cf3584b01dac474c1de9.png",03h30 Ngày 07/10 Atletico Huila Vs Barranquilla Fc (cà Khịa) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m101nd/playlist.m3u8
-#EXTINF:-1 tvg-id="24" group-title="Cà Khịa 🔥" tvg-logo="https://img.thesports.com/football/team/434e48ac129ab937227fc6bf3ddc0049.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion (cà Khịa) Sd 1
+#EXTINF:-1 tvg-id="8" group-title="Cà Khịa 🔥" tvg-logo="https://img.thesports.com/football/team/434e48ac129ab937227fc6bf3ddc0049.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion (cà Khịa) Sd 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/maosd1/playlist.m3u8
-#EXTINF:-1 tvg-id="25" group-title="Cà Khịa 🔥" tvg-logo="https://img.thesports.com/football/team/434e48ac129ab937227fc6bf3ddc0049.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion (cà Khịa) Hd 1
+#EXTINF:-1 tvg-id="9" group-title="Cà Khịa 🔥" tvg-logo="https://img.thesports.com/football/team/434e48ac129ab937227fc6bf3ddc0049.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion (cà Khịa) Hd 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/maohd1/playlist.m3u8
-#EXTINF:-1 tvg-id="26" group-title="Cà Khịa 🔥" tvg-logo="https://img.thesports.com/football/team/434e48ac129ab937227fc6bf3ddc0049.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion (cà Khịa) Sd 2
+#EXTINF:-1 tvg-id="10" group-title="Cà Khịa 🔥" tvg-logo="https://img.thesports.com/football/team/434e48ac129ab937227fc6bf3ddc0049.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion (cà Khịa) Sd 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckhot-179939170.cdnfree.pro/live/maosd2/playlist.m3u8
-#EXTINF:-1 tvg-id="27" group-title="Cà Khịa 🔥" tvg-logo="https://img.thesports.com/football/team/434e48ac129ab937227fc6bf3ddc0049.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion (cà Khịa) Hd 2
+#EXTINF:-1 tvg-id="11" group-title="Cà Khịa 🔥" tvg-logo="https://img.thesports.com/football/team/434e48ac129ab937227fc6bf3ddc0049.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion (cà Khịa) Hd 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckhot-179939170.cdnfree.pro/live/maohd2/playlist.m3u8
-#EXTINF:-1 tvg-id="28" group-title="Cà Khịa 🔥" tvg-logo="https://img.thesports.com/football/team/434e48ac129ab937227fc6bf3ddc0049.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion (cà Khịa) Sd Nhanh
+#EXTINF:-1 tvg-id="12" group-title="Cà Khịa 🔥" tvg-logo="https://img.thesports.com/football/team/434e48ac129ab937227fc6bf3ddc0049.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion (cà Khịa) Sd Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/maosd1.flv
-#EXTINF:-1 tvg-id="29" group-title="Cà Khịa 🔥" tvg-logo="https://img.thesports.com/football/team/434e48ac129ab937227fc6bf3ddc0049.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion (cà Khịa) Hd Nhanh
+#EXTINF:-1 tvg-id="13" group-title="Cà Khịa 🔥" tvg-logo="https://img.thesports.com/football/team/434e48ac129ab937227fc6bf3ddc0049.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion (cà Khịa) Hd Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/maohd1.flv
-#EXTINF:-1 tvg-id="30" group-title="Lấy Kinh 🔥" tvg-logo="https://img.thesports.com/football/team/434e48ac129ab937227fc6bf3ddc0049.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion (lấy Kinh) Sd 1
+#EXTINF:-1 tvg-id="14" group-title="Lấy Kinh 🔥" tvg-logo="https://img.thesports.com/football/team/434e48ac129ab937227fc6bf3ddc0049.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion (lấy Kinh) Sd 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://ckcdn.livestreameuro.live/live/maosd1/playlist.m3u8
-#EXTINF:-1 tvg-id="31" group-title="Lấy Kinh 🔥" tvg-logo="https://img.thesports.com/football/team/434e48ac129ab937227fc6bf3ddc0049.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion (lấy Kinh) Hd 1
+#EXTINF:-1 tvg-id="15" group-title="Lấy Kinh 🔥" tvg-logo="https://img.thesports.com/football/team/434e48ac129ab937227fc6bf3ddc0049.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion (lấy Kinh) Hd 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://ckcdn.livestreameuro.live/live/maohd1/playlist.m3u8
-#EXTINF:-1 tvg-id="32" group-title="Lấy Kinh 🔥" tvg-logo="https://img.thesports.com/football/team/434e48ac129ab937227fc6bf3ddc0049.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion (lấy Kinh) Sd 2
+#EXTINF:-1 tvg-id="16" group-title="Lấy Kinh 🔥" tvg-logo="https://img.thesports.com/football/team/434e48ac129ab937227fc6bf3ddc0049.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion (lấy Kinh) Sd 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://ckhot-179939170.cdnfree.pro/live/maosd2/playlist.m3u8
-#EXTINF:-1 tvg-id="33" group-title="Lấy Kinh 🔥" tvg-logo="https://img.thesports.com/football/team/434e48ac129ab937227fc6bf3ddc0049.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion (lấy Kinh) Hd2
+#EXTINF:-1 tvg-id="17" group-title="Lấy Kinh 🔥" tvg-logo="https://img.thesports.com/football/team/434e48ac129ab937227fc6bf3ddc0049.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion (lấy Kinh) Hd2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://ckhot-179939170.cdnfree.pro/live/maohd2/playlist.m3u8
-#EXTINF:-1 tvg-id="34" group-title="Lấy Kinh 🔥" tvg-logo="https://img.thesports.com/football/team/434e48ac129ab937227fc6bf3ddc0049.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion (lấy Kinh) Sd Nhanh
+#EXTINF:-1 tvg-id="18" group-title="Lấy Kinh 🔥" tvg-logo="https://img.thesports.com/football/team/434e48ac129ab937227fc6bf3ddc0049.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion (lấy Kinh) Sd Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://ckcdn.livestreameuro.live/live/maosd1.flv
-#EXTINF:-1 tvg-id="35" group-title="Lấy Kinh 🔥" tvg-logo="https://img.thesports.com/football/team/434e48ac129ab937227fc6bf3ddc0049.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion (lấy Kinh) Hd Nhanh
+#EXTINF:-1 tvg-id="19" group-title="Lấy Kinh 🔥" tvg-logo="https://img.thesports.com/football/team/434e48ac129ab937227fc6bf3ddc0049.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion (lấy Kinh) Hd Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://ckcdn.livestreameuro.live/live/maohd1.flv
-#EXTINF:-1 tvg-id="36" group-title="Lấy Kinh 🔥" tvg-logo="https://img.thesports.com/football/team/e69f9c600667cf3584b01dac474c1de9.png",03h30 Ngày 07/10 Atletico Huila Vs Barranquilla Fc (lấy Kinh) Nhà đài
+#EXTINF:-1 tvg-id="20" group-title="Lấy Kinh 🔥" tvg-logo="https://img.thesports.com/football/team/e69f9c600667cf3584b01dac474c1de9.png",03h30 Ngày 07/10 Atletico Huila Vs Barranquilla Fc (lấy Kinh) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://ckcdn.livestreameuro.live/live/m101nd/playlist.m3u8
-#EXTINF:-1 tvg-id="37" group-title="Ra Khơi 🔥" tvg-logo="https://img.thesports.com/football/team/434e48ac129ab937227fc6bf3ddc0049.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion (ra Khơi) Sd 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/maosd1/playlist.m3u8
-#EXTINF:-1 tvg-id="38" group-title="Ra Khơi 🔥" tvg-logo="https://img.thesports.com/football/team/434e48ac129ab937227fc6bf3ddc0049.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion (ra Khơi) Hd 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/maohd1/playlist.m3u8
-#EXTINF:-1 tvg-id="39" group-title="Ra Khơi 🔥" tvg-logo="https://img.thesports.com/football/team/434e48ac129ab937227fc6bf3ddc0049.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion (ra Khơi) Sd 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/maosd2/playlist.m3u8
-#EXTINF:-1 tvg-id="40" group-title="Ra Khơi 🔥" tvg-logo="https://img.thesports.com/football/team/434e48ac129ab937227fc6bf3ddc0049.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion (ra Khơi) Hd 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/maohd2/playlist.m3u8
-#EXTINF:-1 tvg-id="41" group-title="Ra Khơi 🔥" tvg-logo="https://img.thesports.com/football/team/434e48ac129ab937227fc6bf3ddc0049.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion (ra Khơi) Sd (nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/maosd1.flv
-#EXTINF:-1 tvg-id="42" group-title="Ra Khơi 🔥" tvg-logo="https://img.thesports.com/football/team/434e48ac129ab937227fc6bf3ddc0049.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion (ra Khơi) Hd (nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/maohd1.flv
-#EXTINF:-1 tvg-id="43" group-title="Ra Khơi 🔥" tvg-logo="https://img.thesports.com/football/team/e69f9c600667cf3584b01dac474c1de9.png",03h30 Ngày 07/10 Atletico Huila Vs Barranquilla Fc (ra Khơi) Nhà đài
+#EXTINF:-1 tvg-id="21" group-title="Ra Khơi 🔥" tvg-logo="https://img.thesports.com/football/team/e69f9c600667cf3584b01dac474c1de9.png",03h30 Ngày 07/10 Atletico Huila Vs Barranquilla Fc (ra Khơi) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m101nd/playlist.m3u8
-#EXTINF:-1 tvg-id="44" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/volleyball/team/63079acf375b478671e2c7a788777f87.png",01h30 Ngày 06/10 Uyba Busto Arsizio Women Vs Imoco Volley Conegliano Women (khán đài A) Source
+#EXTINF:-1 tvg-id="22" group-title="Ra Khơi 🔥" tvg-logo="https://img.thesports.com/football/team/434e48ac129ab937227fc6bf3ddc0049.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion (ra Khơi) Sd 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/maosd1/playlist.m3u8
+#EXTINF:-1 tvg-id="23" group-title="Ra Khơi 🔥" tvg-logo="https://img.thesports.com/football/team/434e48ac129ab937227fc6bf3ddc0049.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion (ra Khơi) Hd 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/maohd1/playlist.m3u8
+#EXTINF:-1 tvg-id="24" group-title="Ra Khơi 🔥" tvg-logo="https://img.thesports.com/football/team/434e48ac129ab937227fc6bf3ddc0049.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion (ra Khơi) Sd 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/maosd2/playlist.m3u8
+#EXTINF:-1 tvg-id="25" group-title="Ra Khơi 🔥" tvg-logo="https://img.thesports.com/football/team/434e48ac129ab937227fc6bf3ddc0049.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion (ra Khơi) Hd 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/maohd2/playlist.m3u8
+#EXTINF:-1 tvg-id="26" group-title="Ra Khơi 🔥" tvg-logo="https://img.thesports.com/football/team/434e48ac129ab937227fc6bf3ddc0049.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion (ra Khơi) Sd (nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/maosd1.flv
+#EXTINF:-1 tvg-id="27" group-title="Ra Khơi 🔥" tvg-logo="https://img.thesports.com/football/team/434e48ac129ab937227fc6bf3ddc0049.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion (ra Khơi) Hd (nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/maohd1.flv
+#EXTINF:-1 tvg-id="28" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/volleyball/team/63079acf375b478671e2c7a788777f87.png",01h30 Ngày 06/10 Uyba Busto Arsizio Women Vs Imoco Volley Conegliano Women (khán đài A) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/e6f22fc264fe29ed066aa16e4c828900/playlist.m3u8
-#EXTINF:-1 tvg-id="45" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/d39fe6e26091aeafd9098f6c61433716.png",00h00 Ngày 06/10 Landskrona Bois Vs Varbergs Bois Fc (khán đài A) Source
+#EXTINF:-1 tvg-id="29" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/d39fe6e26091aeafd9098f6c61433716.png",00h00 Ngày 06/10 Landskrona Bois Vs Varbergs Bois Fc (khán đài A) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/f6ec1a167b0a7cce6fa26181ba479733/playlist.m3u8
-#EXTINF:-1 tvg-id="46" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/60d52dccc341acec222cfdee6644913b.png",00h00 Ngày 06/10 Sandvikens If Vs Orgryte (khán đài A) Source
+#EXTINF:-1 tvg-id="30" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/60d52dccc341acec222cfdee6644913b.png",00h00 Ngày 06/10 Sandvikens If Vs Orgryte (khán đài A) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/20c221c574663b2b0ebd7e6fcce655cd/playlist.m3u8
-#EXTINF:-1 tvg-id="47" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/volleyball/team/c79153cfe8a6ee6614812095d1f87ee1.png",01h30 Ngày 06/10 Messina Women Vs Club Italia W (khán đài A) Source
+#EXTINF:-1 tvg-id="31" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/volleyball/team/c79153cfe8a6ee6614812095d1f87ee1.png",01h30 Ngày 06/10 Messina Women Vs Club Italia W (khán đài A) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/84cddc4ae1f510d098e2be1c91da87e5/playlist.m3u8
-#EXTINF:-1 tvg-id="48" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/volleyball/team/70a8b9e731a9c178acf6f1c52a93cea4.png",01h00 Ngày 06/10 Brescia Women Vs  (khán đài A) Source
+#EXTINF:-1 tvg-id="32" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/volleyball/team/70a8b9e731a9c178acf6f1c52a93cea4.png",01h00 Ngày 06/10 Brescia Women Vs  (khán đài A) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/c4125d1c4dece9b4d192549e41f50d8a/playlist.m3u8
-#EXTINF:-1 tvg-id="49" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/volleyball/team/7605ef15306c88702277805ee464c129.png",01h30 Ngày 06/10 Firenze Women Vs Chieri '76 Women (khán đài A) Source
+#EXTINF:-1 tvg-id="33" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/volleyball/team/7605ef15306c88702277805ee464c129.png",01h30 Ngày 06/10 Firenze Women Vs Chieri '76 Women (khán đài A) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/6d5957b296f2401ed972b33e684a5c2c/playlist.m3u8
-#EXTINF:-1 tvg-id="50" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/8a63771079e4f658f8d34b061ee1975b.png",01h00 Ngày 06/10 Crystal Palace U21 Vs Birmingham U21 (khán đài A) Source
+#EXTINF:-1 tvg-id="34" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/8a63771079e4f658f8d34b061ee1975b.png",01h00 Ngày 06/10 Crystal Palace U21 Vs Birmingham U21 (khán đài A) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/aa6f7fa972ccdb642c828aa0a3c4ab49/playlist.m3u8
-#EXTINF:-1 tvg-id="51" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/57e581dea4281af751944ad7746fe6cc.png",22h30 Ngày 05/10 Al Sadd Reserves Vs Alvsduhail Sc U23 (khán đài A) Source
+#EXTINF:-1 tvg-id="35" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/57e581dea4281af751944ad7746fe6cc.png",22h30 Ngày 05/10 Al Sadd Reserves Vs Alvsduhail Sc U23 (khán đài A) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/02595dcf39200faa4f11c6d677880062/playlist.m3u8
-#EXTINF:-1 tvg-id="52" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/f9b0ac6950bcafdbf99028c8dbebc35e.png",02h00 Ngày 06/10 San Lorenzo Women Vs Club Olimpia Women (khán đài A) Source
+#EXTINF:-1 tvg-id="36" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/f9b0ac6950bcafdbf99028c8dbebc35e.png",02h00 Ngày 06/10 San Lorenzo Women Vs Club Olimpia Women (khán đài A) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/30c06b0980671c0680836ccf9408f538/playlist.m3u8
-#EXTINF:-1 tvg-id="53" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/dc3218244ea0f05cdde045ccbdea0360.png",22h30 Ngày 05/10 Al Gharafa U23 Vs Al Rayyan Reserves (khán đài A) Source
+#EXTINF:-1 tvg-id="37" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/dc3218244ea0f05cdde045ccbdea0360.png",22h30 Ngày 05/10 Al Gharafa U23 Vs Al Rayyan Reserves (khán đài A) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/61db92b3f264ec258bc411123c7c38ee/playlist.m3u8
-#EXTINF:-1 tvg-id="54" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/volleyball/team/d2779f958e235932b10f919178fe9395.png",01h30 Ngày 06/10 Numia Vero Volley Milano Women Vs Bergamo Women (khán đài A) Source
+#EXTINF:-1 tvg-id="38" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/volleyball/team/d2779f958e235932b10f919178fe9395.png",01h30 Ngày 06/10 Numia Vero Volley Milano Women Vs Bergamo Women (khán đài A) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/20d8b58e175785b4301c043f1ce128c4/playlist.m3u8
-#EXTINF:-1 tvg-id="55" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/volleyball/team/885830dc0f3c4c8148345f66d12e6a92.png",01h30 Ngày 06/10 Talmassons Women Vs  (khán đài A) Source
+#EXTINF:-1 tvg-id="39" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/volleyball/team/885830dc0f3c4c8148345f66d12e6a92.png",01h30 Ngày 06/10 Talmassons Women Vs  (khán đài A) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/12e10bfff4995de2257eea02e23ae507/playlist.m3u8
-#EXTINF:-1 tvg-id="56" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/volleyball/team/4d92b66da18406ad8a47243d3f6c6e28.png",01h30 Ngày 06/10 Costa Volpino Women Vs Sigel Marsala W (khán đài A) Source
+#EXTINF:-1 tvg-id="40" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/volleyball/team/4d92b66da18406ad8a47243d3f6c6e28.png",01h30 Ngày 06/10 Costa Volpino Women Vs Sigel Marsala W (khán đài A) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/8a7fb01d6230eb489697f9e2724561cf/playlist.m3u8
-#EXTINF:-1 tvg-id="57" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/b86e6b554bca4fb160c620991f4cb66c.png",00h00 Ngày 06/10 Jonkopings Sodra If Vs Skovde Aik (khán đài A) Source
+#EXTINF:-1 tvg-id="41" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/b86e6b554bca4fb160c620991f4cb66c.png",00h00 Ngày 06/10 Jonkopings Sodra If Vs Skovde Aik (khán đài A) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/476fd9cbba452c496221fc73d1cf5976/playlist.m3u8
-#EXTINF:-1 tvg-id="58" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/volleyball/team/3aa76628e8bc6e5b662f5a219ba39bc0.png",01h30 Ngày 06/10 San Giovanni Women Vs Novara Women (khán đài A) Source
+#EXTINF:-1 tvg-id="42" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/volleyball/team/3aa76628e8bc6e5b662f5a219ba39bc0.png",01h30 Ngày 06/10 San Giovanni Women Vs Novara Women (khán đài A) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/c01c1a2c9527ad3b456e52613846dedc/playlist.m3u8
-#EXTINF:-1 tvg-id="59" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/865113ccf397b8f317e0681c9c3234dd.png",00h00 Ngày 06/10 Hvidovre If Vs Lyngby (khán đài A) Source
+#EXTINF:-1 tvg-id="43" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/865113ccf397b8f317e0681c9c3234dd.png",00h00 Ngày 06/10 Hvidovre If Vs Lyngby (khán đài A) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/5e64bd48c5a30ed080bcab4aa2298f44/playlist.m3u8
-#EXTINF:-1 tvg-id="60" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/volleyball/team/b4896750d0c8b6e506b66bef593f4683.png",01h30 Ngày 06/10 Offanengo Women Vs Padova Women (khán đài A) Source
+#EXTINF:-1 tvg-id="44" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/volleyball/team/b4896750d0c8b6e506b66bef593f4683.png",01h30 Ngày 06/10 Offanengo Women Vs Padova Women (khán đài A) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/57724fe0bdcfa631e5147906484b753f/playlist.m3u8
-#EXTINF:-1 tvg-id="61" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/447623f3fb6f9de8e536ac71e603aae3.png",23h30 Ngày 05/10 Kamaz Naberezhnye Chelny Vs Ural Yekaterinburg (khán đài A) Source
+#EXTINF:-1 tvg-id="45" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/447623f3fb6f9de8e536ac71e603aae3.png",23h30 Ngày 05/10 Kamaz Naberezhnye Chelny Vs Ural Yekaterinburg (khán đài A) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/e40d6e1862fda68e3ce09ffcd1cfced2/playlist.m3u8
-#EXTINF:-1 tvg-id="62" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/73d2e9cacd105fa3c927ab27e9a499ef.png",01h00 Ngày 06/10 Vitesse Arnhem Vs Den Bosch (khán đài A) Source
+#EXTINF:-1 tvg-id="46" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/73d2e9cacd105fa3c927ab27e9a499ef.png",01h00 Ngày 06/10 Vitesse Arnhem Vs Den Bosch (khán đài A) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/d719ba0b5315bea9eb0e7e6b4a787bac/playlist.m3u8
-#EXTINF:-1 tvg-id="63" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/volleyball/team/544b5fbf5c36b6472537370cd820ed05.png",01h30 Ngày 06/10 Pinerolo Women Vs Scandicci Women (khán đài A) Source
+#EXTINF:-1 tvg-id="47" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/volleyball/team/544b5fbf5c36b6472537370cd820ed05.png",01h30 Ngày 06/10 Pinerolo Women Vs Scandicci Women (khán đài A) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/1dae72e383fed641762e88711ed91bb3/playlist.m3u8
-#EXTINF:-1 tvg-id="64" group-title="Khán đài A 🔥" tvg-logo="https://img.rapid-api.icu/default.png",23h30 Ngày 05/10  Vs Imola Women (khán đài A) Source
+#EXTINF:-1 tvg-id="48" group-title="Khán đài A 🔥" tvg-logo="https://img.rapid-api.icu/default.png",23h30 Ngày 05/10  Vs Imola Women (khán đài A) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/f96d5de7cbeb081ec979784dd835dc80/playlist.m3u8
-#EXTINF:-1 tvg-id="65" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/volleyball/team/08b2d665136ff745c393fcbc40c512ae.png",01h30 Ngày 06/10 Macerata Women Vs Cuneo Women (khán đài A) Source
+#EXTINF:-1 tvg-id="49" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/volleyball/team/08b2d665136ff745c393fcbc40c512ae.png",01h30 Ngày 06/10 Macerata Women Vs Cuneo Women (khán đài A) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/0cd275a24153242753a5456e59b1a0fa/playlist.m3u8
-#EXTINF:-1 tvg-id="66" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/9e1ea120267168064e638954f4e6f1e0.png",01h30 Ngày 06/10 Cultural Leonesa Vs Albacete Balompié Sad (khán đài A) Source
+#EXTINF:-1 tvg-id="50" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/9e1ea120267168064e638954f4e6f1e0.png",01h30 Ngày 06/10 Cultural Leonesa Vs Albacete Balompié Sad (khán đài A) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/0f2ccdbf52c06fd65168209172b72d9b/playlist.m3u8
-#EXTINF:-1 tvg-id="67" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/volleyball/team/1c04bffacf0a3d9beb9a581302f3fe0a.png",01h30 Ngày 06/10 Perugia Women Vs Vallefoglia Women (khán đài A) Source
+#EXTINF:-1 tvg-id="51" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/volleyball/team/1c04bffacf0a3d9beb9a581302f3fe0a.png",01h30 Ngày 06/10 Perugia Women Vs Vallefoglia Women (khán đài A) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/e263b2f595c7ebb60cde4952eedcca37/playlist.m3u8
-#EXTINF:-1 tvg-id="68" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/5f333387e600b3209cc0a2b0aa7c7ec0.png",02h00 Ngày 06/10 Harrogate Town Vs Crewe Alexandra (khán đài A) Source
+#EXTINF:-1 tvg-id="52" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/5f333387e600b3209cc0a2b0aa7c7ec0.png",02h00 Ngày 06/10 Harrogate Town Vs Crewe Alexandra (khán đài A) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/a9972fd569d441002b96c97a2885a02c/playlist.m3u8
-#EXTINF:-1 tvg-id="69" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/923138a0ae0fac73cc50bbc58b3bf796.png",23h00 Ngày 05/10 Sarajevo Vs Hsk Zrinjski Mostar (khán đài A) Source
+#EXTINF:-1 tvg-id="53" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/923138a0ae0fac73cc50bbc58b3bf796.png",23h00 Ngày 05/10 Sarajevo Vs Hsk Zrinjski Mostar (khán đài A) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/3f728bf5819aedbbc67ba25a43bcef07/playlist.m3u8
-#EXTINF:-1 tvg-id="70" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/5ae0fb254e5597638280e70ccb543f0d.png",01h30 Ngày 06/10 Uai Urquiza Vs Sacachispas (khán đài A) Source
+#EXTINF:-1 tvg-id="54" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/5ae0fb254e5597638280e70ccb543f0d.png",01h30 Ngày 06/10 Uai Urquiza Vs Sacachispas (khán đài A) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/7c25d3746352d0b03c752041dd429da7/playlist.m3u8
-#EXTINF:-1 tvg-id="71" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/edd66d7de2b41b94b29653a5ef992a26.png",23h00 Ngày 05/10 Lokomotiv Gorna Oryahovitsa Vs Fratria (khán đài A) Source
+#EXTINF:-1 tvg-id="55" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/edd66d7de2b41b94b29653a5ef992a26.png",23h00 Ngày 05/10 Lokomotiv Gorna Oryahovitsa Vs Fratria (khán đài A) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/a8c0ba7d2f0a1c4026d1d8006054f5c8/playlist.m3u8
-#EXTINF:-1 tvg-id="72" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/521b5b766baaa0e22b4c46f602961057.png",01h30 Ngày 06/10 Ca Atlas Vs Defensores De Cambaceres (khán đài A) Source
+#EXTINF:-1 tvg-id="56" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/521b5b766baaa0e22b4c46f602961057.png",01h30 Ngày 06/10 Ca Atlas Vs Defensores De Cambaceres (khán đài A) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/c75682b206c03fc8462726ba05337898/playlist.m3u8
-#EXTINF:-1 tvg-id="73" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/06a6b9eea1f9afa933f810d392a1d161.png",01h30 Ngày 06/10 Centro Espanol Vs Victoriano Arenas (khán đài A) Source
+#EXTINF:-1 tvg-id="57" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/06a6b9eea1f9afa933f810d392a1d161.png",01h30 Ngày 06/10 Centro Espanol Vs Victoriano Arenas (khán đài A) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/19511a5584fd37018a30e40e59878191/playlist.m3u8
-#EXTINF:-1 tvg-id="74" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/99e624888f93bbc32f0e4054e0ef1032.png",02h00 Ngày 06/10 Deportivo Cali Women Vs Nacional Montevideo Women (khán đài A) Source
+#EXTINF:-1 tvg-id="58" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/99e624888f93bbc32f0e4054e0ef1032.png",02h00 Ngày 06/10 Deportivo Cali Women Vs Nacional Montevideo Women (khán đài A) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/ecc52d6077473fe6a5e472d31e363fd5/playlist.m3u8
-#EXTINF:-1 tvg-id="75" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/616bc7a67d5a805972ecf3389aca3226.png",23h00 Ngày 05/10 Hamburger Sv Women Vs Hoffenheim Women (khán đài A) Source
+#EXTINF:-1 tvg-id="59" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/616bc7a67d5a805972ecf3389aca3226.png",23h00 Ngày 05/10 Hamburger Sv Women Vs Hoffenheim Women (khán đài A) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/62c0d97df38dc4cd854e132deef58237/playlist.m3u8
-#EXTINF:-1 tvg-id="76" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/volleyball/team/708fdd43df625bef2d668a21e3b2449e.png",01h30 Ngày 06/10 Futura Volley Giovani Women Vs Altino Women (khán đài A) Source
+#EXTINF:-1 tvg-id="60" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/volleyball/team/708fdd43df625bef2d668a21e3b2449e.png",01h30 Ngày 06/10 Futura Volley Giovani Women Vs Altino Women (khán đài A) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/bd93ac4e3fd0fa32746647c23dbd84ed/playlist.m3u8
-#EXTINF:-1 tvg-id="77" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/volleyball/team/3a49c0dd7e9f973494bca48879bca439.png",01h30 Ngày 06/10 Trentino Women Vs Casalmaggiore Women (khán đài A) Source
+#EXTINF:-1 tvg-id="61" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/volleyball/team/3a49c0dd7e9f973494bca48879bca439.png",01h30 Ngày 06/10 Trentino Women Vs Casalmaggiore Women (khán đài A) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/620db24b0baba4f31940f85707a02b69/playlist.m3u8
-#EXTINF:-1 tvg-id="78" group-title="Quay Tay 🔥" tvg-logo="https://img.thesports.com/football/team/e69f9c600667cf3584b01dac474c1de9.png",03h30 Ngày 07/10 Atletico Huila Vs Barranquilla Fc (quay Tay) Nhà đài
+#EXTINF:-1 tvg-id="62" group-title="Quay Tay 🔥" tvg-logo="https://img.thesports.com/football/team/e69f9c600667cf3584b01dac474c1de9.png",03h30 Ngày 07/10 Atletico Huila Vs Barranquilla Fc (quay Tay) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://ckcdn.livestreameuro.live/live/m101nd/playlist.m3u8
-#EXTINF:-1 tvg-id="79" group-title="Quay Tay 🔥" tvg-logo="https://img.thesports.com/football/team/434e48ac129ab937227fc6bf3ddc0049.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion (quay Tay) Sd 1
+#EXTINF:-1 tvg-id="63" group-title="Quay Tay 🔥" tvg-logo="https://img.thesports.com/football/team/434e48ac129ab937227fc6bf3ddc0049.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion (quay Tay) Sd 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://ckcdn.livestreameuro.live/live/maosd1/playlist.m3u8
-#EXTINF:-1 tvg-id="80" group-title="Quay Tay 🔥" tvg-logo="https://img.thesports.com/football/team/434e48ac129ab937227fc6bf3ddc0049.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion (quay Tay) Hd 1
+#EXTINF:-1 tvg-id="64" group-title="Quay Tay 🔥" tvg-logo="https://img.thesports.com/football/team/434e48ac129ab937227fc6bf3ddc0049.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion (quay Tay) Hd 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://ckcdn.livestreameuro.live/live/maohd1/playlist.m3u8
-#EXTINF:-1 tvg-id="81" group-title="Quay Tay 🔥" tvg-logo="https://img.thesports.com/football/team/434e48ac129ab937227fc6bf3ddc0049.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion (quay Tay) Sd 2
+#EXTINF:-1 tvg-id="65" group-title="Quay Tay 🔥" tvg-logo="https://img.thesports.com/football/team/434e48ac129ab937227fc6bf3ddc0049.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion (quay Tay) Sd 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://ckhot-179939170.cdnfree.pro/live/maosd2/playlist.m3u8
-#EXTINF:-1 tvg-id="82" group-title="Quay Tay 🔥" tvg-logo="https://img.thesports.com/football/team/434e48ac129ab937227fc6bf3ddc0049.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion (quay Tay) Hd2
+#EXTINF:-1 tvg-id="66" group-title="Quay Tay 🔥" tvg-logo="https://img.thesports.com/football/team/434e48ac129ab937227fc6bf3ddc0049.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion (quay Tay) Hd2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://ckhot-179939170.cdnfree.pro/live/maohd2/playlist.m3u8
-#EXTINF:-1 tvg-id="83" group-title="Quay Tay 🔥" tvg-logo="https://img.thesports.com/football/team/434e48ac129ab937227fc6bf3ddc0049.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion (quay Tay) Sd Nhanh
+#EXTINF:-1 tvg-id="67" group-title="Quay Tay 🔥" tvg-logo="https://img.thesports.com/football/team/434e48ac129ab937227fc6bf3ddc0049.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion (quay Tay) Sd Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://ckcdn.livestreameuro.live/live/maosd1.flv
-#EXTINF:-1 tvg-id="84" group-title="Quay Tay 🔥" tvg-logo="https://img.thesports.com/football/team/434e48ac129ab937227fc6bf3ddc0049.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion (quay Tay) Hd Nhanh
+#EXTINF:-1 tvg-id="68" group-title="Quay Tay 🔥" tvg-logo="https://img.thesports.com/football/team/434e48ac129ab937227fc6bf3ddc0049.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion (quay Tay) Hd Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://ckcdn.livestreameuro.live/live/maohd1.flv
-#EXTINF:-1 tvg-id="85" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133653_21a2d4ff.png",03h30 Ngày 07/10 Huila Vs Barranquilla (chuối Chiên) Hd1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8
-#EXTINF:-1 tvg-id="86" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133653_21a2d4ff.png",03h30 Ngày 07/10 Huila Vs Barranquilla (chuối Chiên) Hd2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m5x1.flv
-#EXTINF:-1 tvg-id="87" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132726_93531b0d.png",05h00 Ngày 07/10 Deportivo Riestra Vs Velez Sarsfield (chuối Chiên) Hd1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-#EXTINF:-1 tvg-id="88" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132726_93531b0d.png",05h00 Ngày 07/10 Deportivo Riestra Vs Velez Sarsfield (chuối Chiên) Hd2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoitay/index.m3u8
-#EXTINF:-1 tvg-id="89" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132726_93531b0d.png",05h00 Ngày 07/10 Deportivo Riestra Vs Velez Sarsfield (chuối Chiên) Hd3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
-#EXTINF:-1 tvg-id="90" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132726_93531b0d.png",05h00 Ngày 07/10 Deportivo Riestra Vs Velez Sarsfield (chuối Chiên) Hd4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoitay.flv
-#EXTINF:-1 tvg-id="91" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132726_93531b0d.png",05h00 Ngày 07/10 Deportivo Riestra Vs Velez Sarsfield (chuối Chiên) Sd1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoitay/index.m3u8
-#EXTINF:-1 tvg-id="92" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132726_93531b0d.png",05h00 Ngày 07/10 Deportivo Riestra Vs Velez Sarsfield (chuối Chiên) Sd2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoitay.flv
-#EXTINF:-1 tvg-id="93" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132718_96efe69f.png",07h00 Ngày 07/10 Racing Club Vs Independ. Rivadavia (chuối Chiên) Hd1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-#EXTINF:-1 tvg-id="94" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132718_96efe69f.png",07h00 Ngày 07/10 Racing Club Vs Independ. Rivadavia (chuối Chiên) Hd2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoitay/index.m3u8
-#EXTINF:-1 tvg-id="95" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132718_96efe69f.png",07h00 Ngày 07/10 Racing Club Vs Independ. Rivadavia (chuối Chiên) Hd3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
-#EXTINF:-1 tvg-id="96" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132718_96efe69f.png",07h00 Ngày 07/10 Racing Club Vs Independ. Rivadavia (chuối Chiên) Hd4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoitay.flv
-#EXTINF:-1 tvg-id="97" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132718_96efe69f.png",07h00 Ngày 07/10 Racing Club Vs Independ. Rivadavia (chuối Chiên) Sd1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoitay/index.m3u8
-#EXTINF:-1 tvg-id="98" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132718_96efe69f.png",07h00 Ngày 07/10 Racing Club Vs Independ. Rivadavia (chuối Chiên) Sd2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoitay.flv
-#EXTINF:-1 tvg-id="99" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133953_78168141.png",12h00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong (chuối Chiên) Hd1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoilua/playlist.m3u8
-#EXTINF:-1 tvg-id="100" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133953_78168141.png",12h00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong (chuối Chiên) Hd2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoilua/index.m3u8
-#EXTINF:-1 tvg-id="101" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133953_78168141.png",12h00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong (chuối Chiên) Hd3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoilua.flv
-#EXTINF:-1 tvg-id="102" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133953_78168141.png",12h00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong (chuối Chiên) Hd4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoilua.flv
-#EXTINF:-1 tvg-id="103" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133953_78168141.png",12h00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong (chuối Chiên) Sd1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoilua/index.m3u8
-#EXTINF:-1 tvg-id="104" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133953_78168141.png",12h00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong (chuối Chiên) Sd2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoilua.flv
-#EXTINF:-1 tvg-id="105" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134000_383af510.png",14h30 Ngày 07/10 Cheongju Vs Gimpo Citizen (chuối Chiên) Hd1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/duyhung/playlist.m3u8
-#EXTINF:-1 tvg-id="106" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134000_383af510.png",14h30 Ngày 07/10 Cheongju Vs Gimpo Citizen (chuối Chiên) Hd2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/duyhung/index.m3u8
-#EXTINF:-1 tvg-id="107" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134000_383af510.png",14h30 Ngày 07/10 Cheongju Vs Gimpo Citizen (chuối Chiên) Hd3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/duyhung.flv
-#EXTINF:-1 tvg-id="108" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134000_383af510.png",14h30 Ngày 07/10 Cheongju Vs Gimpo Citizen (chuối Chiên) Hd4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/duyhung.flv
-#EXTINF:-1 tvg-id="109" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134000_383af510.png",14h30 Ngày 07/10 Cheongju Vs Gimpo Citizen (chuối Chiên) Sd1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/duyhung/index.m3u8
-#EXTINF:-1 tvg-id="110" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134000_383af510.png",14h30 Ngày 07/10 Cheongju Vs Gimpo Citizen (chuối Chiên) Sd2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/duyhung.flv
-#EXTINF:-1 tvg-id="111" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_144551_fd6a0e94.png",19h30 Ngày 07/10 Ukraine U17 Vs Italy U17 (chuối Chiên) Hd1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoi99/playlist.m3u8
-#EXTINF:-1 tvg-id="112" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_144551_fd6a0e94.png",19h30 Ngày 07/10 Ukraine U17 Vs Italy U17 (chuối Chiên) Hd2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoi99/index.m3u8
-#EXTINF:-1 tvg-id="113" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_144551_fd6a0e94.png",19h30 Ngày 07/10 Ukraine U17 Vs Italy U17 (chuối Chiên) Hd3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoi99.flv
-#EXTINF:-1 tvg-id="114" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_144551_fd6a0e94.png",19h30 Ngày 07/10 Ukraine U17 Vs Italy U17 (chuối Chiên) Hd4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoi99.flv
-#EXTINF:-1 tvg-id="115" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_144551_fd6a0e94.png",19h30 Ngày 07/10 Ukraine U17 Vs Italy U17 (chuối Chiên) Sd1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoi99/index.m3u8
-#EXTINF:-1 tvg-id="116" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_144551_fd6a0e94.png",19h30 Ngày 07/10 Ukraine U17 Vs Italy U17 (chuối Chiên) Sd2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoi99.flv
-#EXTINF:-1 tvg-id="117" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_140503_7b4c2f97.png",22h00 Ngày 07/10 Gintra-universitetas Vs Nordsjælland (chuối Chiên) Hd1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
-#EXTINF:-1 tvg-id="118" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_140503_7b4c2f97.png",22h00 Ngày 07/10 Gintra-universitetas Vs Nordsjælland (chuối Chiên) Hd2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoito/index.m3u8
-#EXTINF:-1 tvg-id="119" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_140503_7b4c2f97.png",22h00 Ngày 07/10 Gintra-universitetas Vs Nordsjælland (chuối Chiên) Hd3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoito.flv
-#EXTINF:-1 tvg-id="120" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_140503_7b4c2f97.png",22h00 Ngày 07/10 Gintra-universitetas Vs Nordsjælland (chuối Chiên) Hd4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoito.flv
-#EXTINF:-1 tvg-id="121" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_140503_7b4c2f97.png",22h00 Ngày 07/10 Gintra-universitetas Vs Nordsjælland (chuối Chiên) Sd1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoito/index.m3u8
-#EXTINF:-1 tvg-id="122" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_140503_7b4c2f97.png",22h00 Ngày 07/10 Gintra-universitetas Vs Nordsjælland (chuối Chiên) Sd2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoito.flv
-#EXTINF:-1 tvg-id="123" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133740_c11c4866.png",23h45 Ngày 07/10 Juventus W Vs Sl Benfica (chuối Chiên) Hd1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/manze/playlist.m3u8
-#EXTINF:-1 tvg-id="124" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133740_c11c4866.png",23h45 Ngày 07/10 Juventus W Vs Sl Benfica (chuối Chiên) Hd2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/manze/index.m3u8
-#EXTINF:-1 tvg-id="125" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133740_c11c4866.png",23h45 Ngày 07/10 Juventus W Vs Sl Benfica (chuối Chiên) Hd3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/manze.flv
-#EXTINF:-1 tvg-id="126" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133740_c11c4866.png",23h45 Ngày 07/10 Juventus W Vs Sl Benfica (chuối Chiên) Hd4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/manze.flv
-#EXTINF:-1 tvg-id="127" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133740_c11c4866.png",23h45 Ngày 07/10 Juventus W Vs Sl Benfica (chuối Chiên) Sd1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/manze/index.m3u8
-#EXTINF:-1 tvg-id="128" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133740_c11c4866.png",23h45 Ngày 07/10 Juventus W Vs Sl Benfica (chuối Chiên) Sd2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/manze.flv
-#EXTINF:-1 tvg-id="129" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133728_10ca77e6.png",02h00 Ngày 08/10 Arsenal W Vs Lyon W (chuối Chiên) Hd1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/duyhung/playlist.m3u8
-#EXTINF:-1 tvg-id="130" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133728_10ca77e6.png",02h00 Ngày 08/10 Arsenal W Vs Lyon W (chuối Chiên) Hd2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/duyhung/index.m3u8
-#EXTINF:-1 tvg-id="131" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133728_10ca77e6.png",02h00 Ngày 08/10 Arsenal W Vs Lyon W (chuối Chiên) Hd3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/duyhung.flv
-#EXTINF:-1 tvg-id="132" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133728_10ca77e6.png",02h00 Ngày 08/10 Arsenal W Vs Lyon W (chuối Chiên) Hd4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/duyhung.flv
-#EXTINF:-1 tvg-id="133" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133728_10ca77e6.png",02h00 Ngày 08/10 Arsenal W Vs Lyon W (chuối Chiên) Sd1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/duyhung/index.m3u8
-#EXTINF:-1 tvg-id="134" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133728_10ca77e6.png",02h00 Ngày 08/10 Arsenal W Vs Lyon W (chuối Chiên) Sd2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/duyhung.flv
-#EXTINF:-1 tvg-id="135" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132645_70b8e616.png",02h00 Ngày 08/10 Paris Fc W Vs Oh Leuven W (chuối Chiên) Hd1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoilun/playlist.m3u8
-#EXTINF:-1 tvg-id="136" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132645_70b8e616.png",02h00 Ngày 08/10 Paris Fc W Vs Oh Leuven W (chuối Chiên) Hd2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoilun/index.m3u8
-#EXTINF:-1 tvg-id="137" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132645_70b8e616.png",02h00 Ngày 08/10 Paris Fc W Vs Oh Leuven W (chuối Chiên) Hd3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoilun.flv
-#EXTINF:-1 tvg-id="138" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132645_70b8e616.png",02h00 Ngày 08/10 Paris Fc W Vs Oh Leuven W (chuối Chiên) Hd4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoilun.flv
-#EXTINF:-1 tvg-id="139" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132645_70b8e616.png",02h00 Ngày 08/10 Paris Fc W Vs Oh Leuven W (chuối Chiên) Sd1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoilun/index.m3u8
-#EXTINF:-1 tvg-id="140" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132645_70b8e616.png",02h00 Ngày 08/10 Paris Fc W Vs Oh Leuven W (chuối Chiên) Sd2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoilun.flv
-#EXTINF:-1 tvg-id="141" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133757_0a8041d4.png",02h00 Ngày 08/10 Barcelona W Vs Bayern Munich W (chuối Chiên) Hd1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/manze/playlist.m3u8
-#EXTINF:-1 tvg-id="142" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133757_0a8041d4.png",02h00 Ngày 08/10 Barcelona W Vs Bayern Munich W (chuối Chiên) Hd2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/manze/index.m3u8
-#EXTINF:-1 tvg-id="143" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133757_0a8041d4.png",02h00 Ngày 08/10 Barcelona W Vs Bayern Munich W (chuối Chiên) Hd3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/manze.flv
-#EXTINF:-1 tvg-id="144" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133757_0a8041d4.png",02h00 Ngày 08/10 Barcelona W Vs Bayern Munich W (chuối Chiên) Hd4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/manze.flv
-#EXTINF:-1 tvg-id="145" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133757_0a8041d4.png",02h00 Ngày 08/10 Barcelona W Vs Bayern Munich W (chuối Chiên) Sd1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/manze/index.m3u8
-#EXTINF:-1 tvg-id="146" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133757_0a8041d4.png",02h00 Ngày 08/10 Barcelona W Vs Bayern Munich W (chuối Chiên) Sd2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/manze.flv
-#EXTINF:-1 tvg-id="147" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_131457_8fe66540.png",06h00 Ngày 08/10 Amazonas Vs Criciuma (chuối Chiên) Hd1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-#EXTINF:-1 tvg-id="148" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_131457_8fe66540.png",06h00 Ngày 08/10 Amazonas Vs Criciuma (chuối Chiên) Hd2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoitay/index.m3u8
-#EXTINF:-1 tvg-id="149" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_131457_8fe66540.png",06h00 Ngày 08/10 Amazonas Vs Criciuma (chuối Chiên) Hd3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
-#EXTINF:-1 tvg-id="150" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_131457_8fe66540.png",06h00 Ngày 08/10 Amazonas Vs Criciuma (chuối Chiên) Hd4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoitay.flv
-#EXTINF:-1 tvg-id="151" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_131457_8fe66540.png",06h00 Ngày 08/10 Amazonas Vs Criciuma (chuối Chiên) Sd1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoitay/index.m3u8
-#EXTINF:-1 tvg-id="152" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_131457_8fe66540.png",06h00 Ngày 08/10 Amazonas Vs Criciuma (chuối Chiên) Sd2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoitay.flv
-#EXTINF:-1 tvg-id="153" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133531_9d48bb0f.png",07h30 Ngày 08/10 Millonarios Vs America De Cali (chuối Chiên) Hd1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoihot/playlist.m3u8
-#EXTINF:-1 tvg-id="154" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133531_9d48bb0f.png",07h30 Ngày 08/10 Millonarios Vs America De Cali (chuối Chiên) Hd2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoihot/index.m3u8
-#EXTINF:-1 tvg-id="155" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133531_9d48bb0f.png",07h30 Ngày 08/10 Millonarios Vs America De Cali (chuối Chiên) Hd3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoihot.flv
-#EXTINF:-1 tvg-id="156" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133531_9d48bb0f.png",07h30 Ngày 08/10 Millonarios Vs America De Cali (chuối Chiên) Hd4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoihot.flv
-#EXTINF:-1 tvg-id="157" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133531_9d48bb0f.png",07h30 Ngày 08/10 Millonarios Vs America De Cali (chuối Chiên) Sd1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoihot/index.m3u8
-#EXTINF:-1 tvg-id="158" group-title="Chuối Chiên 🔥" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133531_9d48bb0f.png",07h30 Ngày 08/10 Millonarios Vs America De Cali (chuối Chiên) Sd2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoihot.flv
-#EXTINF:-1 tvg-id="159" group-title="Gà Vàng 🔥" tvg-logo="https://cdn.rapid-api.icu/volleyball/team/63079acf375b478671e2c7a788777f87.png",01h30 Ngày 06/10 Uyba Busto Arsizio Women Vs Imoco Volley Conegliano Women (gà Vàng) Source
+#EXTINF:-1 tvg-id="69" group-title="Gà Vàng 🔥" tvg-logo="https://cdn.rapid-api.icu/volleyball/team/63079acf375b478671e2c7a788777f87.png",01h30 Ngày 06/10 Uyba Busto Arsizio Women Vs Imoco Volley Conegliano Women (gà Vàng) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/e6f22fc264fe29ed066aa16e4c828900/playlist.m3u8
-#EXTINF:-1 tvg-id="160" group-title="Gà Vàng 🔥" tvg-logo="https://cdn.rapid-api.icu/volleyball/team/c79153cfe8a6ee6614812095d1f87ee1.png",01h30 Ngày 06/10 Messina Women Vs Club Italia W (gà Vàng) Source
+#EXTINF:-1 tvg-id="70" group-title="Gà Vàng 🔥" tvg-logo="https://cdn.rapid-api.icu/volleyball/team/c79153cfe8a6ee6614812095d1f87ee1.png",01h30 Ngày 06/10 Messina Women Vs Club Italia W (gà Vàng) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/84cddc4ae1f510d098e2be1c91da87e5/playlist.m3u8
-#EXTINF:-1 tvg-id="161" group-title="Gà Vàng 🔥" tvg-logo="https://cdn.rapid-api.icu/volleyball/team/70a8b9e731a9c178acf6f1c52a93cea4.png",01h00 Ngày 06/10 Brescia Women Vs  (gà Vàng) Source
+#EXTINF:-1 tvg-id="71" group-title="Gà Vàng 🔥" tvg-logo="https://cdn.rapid-api.icu/volleyball/team/70a8b9e731a9c178acf6f1c52a93cea4.png",01h00 Ngày 06/10 Brescia Women Vs  (gà Vàng) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/c4125d1c4dece9b4d192549e41f50d8a/playlist.m3u8
-#EXTINF:-1 tvg-id="162" group-title="Gà Vàng 🔥" tvg-logo="https://cdn.rapid-api.icu/volleyball/team/7605ef15306c88702277805ee464c129.png",01h30 Ngày 06/10 Firenze Women Vs Chieri '76 Women (gà Vàng) Source
+#EXTINF:-1 tvg-id="72" group-title="Gà Vàng 🔥" tvg-logo="https://cdn.rapid-api.icu/volleyball/team/7605ef15306c88702277805ee464c129.png",01h30 Ngày 06/10 Firenze Women Vs Chieri '76 Women (gà Vàng) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/6d5957b296f2401ed972b33e684a5c2c/playlist.m3u8
-#EXTINF:-1 tvg-id="163" group-title="Gà Vàng 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/8a63771079e4f658f8d34b061ee1975b.png",01h00 Ngày 06/10 Crystal Palace U21 Vs Birmingham U21 (gà Vàng) Source
+#EXTINF:-1 tvg-id="73" group-title="Gà Vàng 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/8a63771079e4f658f8d34b061ee1975b.png",01h00 Ngày 06/10 Crystal Palace U21 Vs Birmingham U21 (gà Vàng) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/aa6f7fa972ccdb642c828aa0a3c4ab49/playlist.m3u8
-#EXTINF:-1 tvg-id="164" group-title="Gà Vàng 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/f9b0ac6950bcafdbf99028c8dbebc35e.png",02h00 Ngày 06/10 San Lorenzo Women Vs Club Olimpia Women (gà Vàng) Source
+#EXTINF:-1 tvg-id="74" group-title="Gà Vàng 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/f9b0ac6950bcafdbf99028c8dbebc35e.png",02h00 Ngày 06/10 San Lorenzo Women Vs Club Olimpia Women (gà Vàng) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/30c06b0980671c0680836ccf9408f538/playlist.m3u8
-#EXTINF:-1 tvg-id="165" group-title="Gà Vàng 🔥" tvg-logo="https://cdn.rapid-api.icu/volleyball/team/d2779f958e235932b10f919178fe9395.png",01h30 Ngày 06/10 Numia Vero Volley Milano Women Vs Bergamo Women (gà Vàng) Source
+#EXTINF:-1 tvg-id="75" group-title="Gà Vàng 🔥" tvg-logo="https://cdn.rapid-api.icu/volleyball/team/d2779f958e235932b10f919178fe9395.png",01h30 Ngày 06/10 Numia Vero Volley Milano Women Vs Bergamo Women (gà Vàng) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/20d8b58e175785b4301c043f1ce128c4/playlist.m3u8
-#EXTINF:-1 tvg-id="166" group-title="Gà Vàng 🔥" tvg-logo="https://cdn.rapid-api.icu/volleyball/team/885830dc0f3c4c8148345f66d12e6a92.png",01h30 Ngày 06/10 Talmassons Women Vs  (gà Vàng) Source
+#EXTINF:-1 tvg-id="76" group-title="Gà Vàng 🔥" tvg-logo="https://cdn.rapid-api.icu/volleyball/team/885830dc0f3c4c8148345f66d12e6a92.png",01h30 Ngày 06/10 Talmassons Women Vs  (gà Vàng) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/12e10bfff4995de2257eea02e23ae507/playlist.m3u8
-#EXTINF:-1 tvg-id="167" group-title="Gà Vàng 🔥" tvg-logo="https://cdn.rapid-api.icu/volleyball/team/4d92b66da18406ad8a47243d3f6c6e28.png",01h30 Ngày 06/10 Costa Volpino Women Vs Sigel Marsala W (gà Vàng) Source
+#EXTINF:-1 tvg-id="77" group-title="Gà Vàng 🔥" tvg-logo="https://cdn.rapid-api.icu/volleyball/team/4d92b66da18406ad8a47243d3f6c6e28.png",01h30 Ngày 06/10 Costa Volpino Women Vs Sigel Marsala W (gà Vàng) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/8a7fb01d6230eb489697f9e2724561cf/playlist.m3u8
-#EXTINF:-1 tvg-id="168" group-title="Gà Vàng 🔥" tvg-logo="https://cdn.rapid-api.icu/volleyball/team/3aa76628e8bc6e5b662f5a219ba39bc0.png",01h30 Ngày 06/10 San Giovanni Women Vs Novara Women (gà Vàng) Source
+#EXTINF:-1 tvg-id="78" group-title="Gà Vàng 🔥" tvg-logo="https://cdn.rapid-api.icu/volleyball/team/3aa76628e8bc6e5b662f5a219ba39bc0.png",01h30 Ngày 06/10 San Giovanni Women Vs Novara Women (gà Vàng) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/c01c1a2c9527ad3b456e52613846dedc/playlist.m3u8
-#EXTINF:-1 tvg-id="169" group-title="Gà Vàng 🔥" tvg-logo="https://cdn.rapid-api.icu/volleyball/team/b4896750d0c8b6e506b66bef593f4683.png",01h30 Ngày 06/10 Offanengo Women Vs Padova Women (gà Vàng) Source
+#EXTINF:-1 tvg-id="79" group-title="Gà Vàng 🔥" tvg-logo="https://cdn.rapid-api.icu/volleyball/team/b4896750d0c8b6e506b66bef593f4683.png",01h30 Ngày 06/10 Offanengo Women Vs Padova Women (gà Vàng) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/57724fe0bdcfa631e5147906484b753f/playlist.m3u8
-#EXTINF:-1 tvg-id="170" group-title="Gà Vàng 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/73d2e9cacd105fa3c927ab27e9a499ef.png",01h00 Ngày 06/10 Vitesse Arnhem Vs Den Bosch (gà Vàng) Source
+#EXTINF:-1 tvg-id="80" group-title="Gà Vàng 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/73d2e9cacd105fa3c927ab27e9a499ef.png",01h00 Ngày 06/10 Vitesse Arnhem Vs Den Bosch (gà Vàng) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/d719ba0b5315bea9eb0e7e6b4a787bac/playlist.m3u8
-#EXTINF:-1 tvg-id="171" group-title="Gà Vàng 🔥" tvg-logo="https://cdn.rapid-api.icu/volleyball/team/544b5fbf5c36b6472537370cd820ed05.png",01h30 Ngày 06/10 Pinerolo Women Vs Scandicci Women (gà Vàng) Source
+#EXTINF:-1 tvg-id="81" group-title="Gà Vàng 🔥" tvg-logo="https://cdn.rapid-api.icu/volleyball/team/544b5fbf5c36b6472537370cd820ed05.png",01h30 Ngày 06/10 Pinerolo Women Vs Scandicci Women (gà Vàng) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/1dae72e383fed641762e88711ed91bb3/playlist.m3u8
-#EXTINF:-1 tvg-id="172" group-title="Gà Vàng 🔥" tvg-logo="https://cdn.rapid-api.icu/volleyball/team/08b2d665136ff745c393fcbc40c512ae.png",01h30 Ngày 06/10 Macerata Women Vs Cuneo Women (gà Vàng) Source
+#EXTINF:-1 tvg-id="82" group-title="Gà Vàng 🔥" tvg-logo="https://cdn.rapid-api.icu/volleyball/team/08b2d665136ff745c393fcbc40c512ae.png",01h30 Ngày 06/10 Macerata Women Vs Cuneo Women (gà Vàng) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/0cd275a24153242753a5456e59b1a0fa/playlist.m3u8
-#EXTINF:-1 tvg-id="173" group-title="Gà Vàng 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/9e1ea120267168064e638954f4e6f1e0.png",01h30 Ngày 06/10 Cultural Leonesa Vs Albacete Balompié Sad (gà Vàng) Source
+#EXTINF:-1 tvg-id="83" group-title="Gà Vàng 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/9e1ea120267168064e638954f4e6f1e0.png",01h30 Ngày 06/10 Cultural Leonesa Vs Albacete Balompié Sad (gà Vàng) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/0f2ccdbf52c06fd65168209172b72d9b/playlist.m3u8
-#EXTINF:-1 tvg-id="174" group-title="Gà Vàng 🔥" tvg-logo="https://cdn.rapid-api.icu/volleyball/team/1c04bffacf0a3d9beb9a581302f3fe0a.png",01h30 Ngày 06/10 Perugia Women Vs Vallefoglia Women (gà Vàng) Source
+#EXTINF:-1 tvg-id="84" group-title="Gà Vàng 🔥" tvg-logo="https://cdn.rapid-api.icu/volleyball/team/1c04bffacf0a3d9beb9a581302f3fe0a.png",01h30 Ngày 06/10 Perugia Women Vs Vallefoglia Women (gà Vàng) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/e263b2f595c7ebb60cde4952eedcca37/playlist.m3u8
-#EXTINF:-1 tvg-id="175" group-title="Gà Vàng 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/5f333387e600b3209cc0a2b0aa7c7ec0.png",02h00 Ngày 06/10 Harrogate Town Vs Crewe Alexandra (gà Vàng) Source
+#EXTINF:-1 tvg-id="85" group-title="Gà Vàng 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/5f333387e600b3209cc0a2b0aa7c7ec0.png",02h00 Ngày 06/10 Harrogate Town Vs Crewe Alexandra (gà Vàng) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/a9972fd569d441002b96c97a2885a02c/playlist.m3u8
-#EXTINF:-1 tvg-id="176" group-title="Gà Vàng 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/5ae0fb254e5597638280e70ccb543f0d.png",01h30 Ngày 06/10 Uai Urquiza Vs Sacachispas (gà Vàng) Source
+#EXTINF:-1 tvg-id="86" group-title="Gà Vàng 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/5ae0fb254e5597638280e70ccb543f0d.png",01h30 Ngày 06/10 Uai Urquiza Vs Sacachispas (gà Vàng) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/7c25d3746352d0b03c752041dd429da7/playlist.m3u8
-#EXTINF:-1 tvg-id="177" group-title="Gà Vàng 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/521b5b766baaa0e22b4c46f602961057.png",01h30 Ngày 06/10 Ca Atlas Vs Defensores De Cambaceres (gà Vàng) Source
+#EXTINF:-1 tvg-id="87" group-title="Gà Vàng 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/521b5b766baaa0e22b4c46f602961057.png",01h30 Ngày 06/10 Ca Atlas Vs Defensores De Cambaceres (gà Vàng) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/c75682b206c03fc8462726ba05337898/playlist.m3u8
-#EXTINF:-1 tvg-id="178" group-title="Gà Vàng 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/06a6b9eea1f9afa933f810d392a1d161.png",01h30 Ngày 06/10 Centro Espanol Vs Victoriano Arenas (gà Vàng) Source
+#EXTINF:-1 tvg-id="88" group-title="Gà Vàng 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/06a6b9eea1f9afa933f810d392a1d161.png",01h30 Ngày 06/10 Centro Espanol Vs Victoriano Arenas (gà Vàng) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/19511a5584fd37018a30e40e59878191/playlist.m3u8
-#EXTINF:-1 tvg-id="179" group-title="Gà Vàng 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/99e624888f93bbc32f0e4054e0ef1032.png",02h00 Ngày 06/10 Deportivo Cali Women Vs Nacional Montevideo Women (gà Vàng) Source
+#EXTINF:-1 tvg-id="89" group-title="Gà Vàng 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/99e624888f93bbc32f0e4054e0ef1032.png",02h00 Ngày 06/10 Deportivo Cali Women Vs Nacional Montevideo Women (gà Vàng) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/ecc52d6077473fe6a5e472d31e363fd5/playlist.m3u8
-#EXTINF:-1 tvg-id="180" group-title="Gà Vàng 🔥" tvg-logo="https://cdn.rapid-api.icu/volleyball/team/708fdd43df625bef2d668a21e3b2449e.png",01h30 Ngày 06/10 Futura Volley Giovani Women Vs Altino Women (gà Vàng) Source
+#EXTINF:-1 tvg-id="90" group-title="Gà Vàng 🔥" tvg-logo="https://cdn.rapid-api.icu/volleyball/team/708fdd43df625bef2d668a21e3b2449e.png",01h30 Ngày 06/10 Futura Volley Giovani Women Vs Altino Women (gà Vàng) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/bd93ac4e3fd0fa32746647c23dbd84ed/playlist.m3u8
-#EXTINF:-1 tvg-id="181" group-title="Gà Vàng 🔥" tvg-logo="https://cdn.rapid-api.icu/volleyball/team/3a49c0dd7e9f973494bca48879bca439.png",01h30 Ngày 06/10 Trentino Women Vs Casalmaggiore Women (gà Vàng) Source
+#EXTINF:-1 tvg-id="91" group-title="Gà Vàng 🔥" tvg-logo="https://cdn.rapid-api.icu/volleyball/team/3a49c0dd7e9f973494bca48879bca439.png",01h30 Ngày 06/10 Trentino Women Vs Casalmaggiore Women (gà Vàng) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/620db24b0baba4f31940f85707a02b69/playlist.m3u8
-#EXTINF:-1 tvg-id="182" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/fd5609c838511f6f425c352559575228.png",02h00 Ngày 07/10 San Lorenzo Women Vs Club Olimpia Women [blv A Win] (socolive) Flv
+#EXTINF:-1 tvg-id="92" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/5627fe41f96fe13c5d2a351ed831a74b.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion [blv Cozy] (socolive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1759787875-0-0-f11a391503e057c0784fdd3555c2c511
-#EXTINF:-1 tvg-id="183" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/fd5609c838511f6f425c352559575228.png",02h00 Ngày 07/10 San Lorenzo Women Vs Club Olimpia Women [blv A Win] (socolive) Hdflv
+https://pull.niur.live/live/stream-531989_lsd.flv?txSecret=c7f8ffb015ce5aeda444da7c0164db58&txTime=68e48641
+#EXTINF:-1 tvg-id="93" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/5627fe41f96fe13c5d2a351ed831a74b.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion [blv Cozy] (socolive) Hdflv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1759787875-0-0-dd6044331d99c7d94b459d018482ba34
-#EXTINF:-1 tvg-id="184" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/fd5609c838511f6f425c352559575228.png",02h00 Ngày 07/10 San Lorenzo Women Vs Club Olimpia Women [blv A Win] (socolive) M3u8
+https://pull.niur.live/live/stream-531989_lhd.flv?txSecret=9af2d8e983421beb7e9bee2f9f312383&txTime=68e48641
+#EXTINF:-1 tvg-id="94" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/5627fe41f96fe13c5d2a351ed831a74b.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion [blv Cozy] (socolive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1759787875-0-0-8d71448759eaf6b09afde1059d36bfb0
-#EXTINF:-1 tvg-id="185" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/fd5609c838511f6f425c352559575228.png",02h00 Ngày 07/10 San Lorenzo Women Vs Club Olimpia Women [blv A Win] (socolive) Hdm3u8
+https://pull.niur.live/live/stream-531989_lsd.m3u8?txSecret=c7f8ffb015ce5aeda444da7c0164db58&txTime=68e48641
+#EXTINF:-1 tvg-id="95" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/5627fe41f96fe13c5d2a351ed831a74b.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion [blv Cozy] (socolive) Hdm3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1759787875-0-0-336066cb470f7179d7dbcaf797314eee
-#EXTINF:-1 tvg-id="186" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/dfb1137cedc5f99a21a77075a5d0937e.png",03h30 Ngày 07/10 Atletico Huila Vs Barranquilla Fc [blv Ak47] (socolive) Flv
+https://pull.niur.live/live/stream-531989_lhd.m3u8?txSecret=9af2d8e983421beb7e9bee2f9f312383&txTime=68e48641
+#EXTINF:-1 tvg-id="96" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/5627fe41f96fe13c5d2a351ed831a74b.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion [a Chè] (socolive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912092_lsd.flv?auth_key=1759787961-0-0-b3a1b80700beee87b0baf9ea8e6fec42
-#EXTINF:-1 tvg-id="187" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/dfb1137cedc5f99a21a77075a5d0937e.png",03h30 Ngày 07/10 Atletico Huila Vs Barranquilla Fc [blv Ak47] (socolive) Hdflv
+https://pull.niur.live/live/stream-356042_lsd.flv?txSecret=15c930ff718aaa834231db80d627d639&txTime=68e48641
+#EXTINF:-1 tvg-id="97" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/5627fe41f96fe13c5d2a351ed831a74b.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion [a Chè] (socolive) Hdflv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912092_lhd.flv?auth_key=1759787961-0-0-7625dd1e3a8b07c380370f3124b670d4
-#EXTINF:-1 tvg-id="188" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/dfb1137cedc5f99a21a77075a5d0937e.png",03h30 Ngày 07/10 Atletico Huila Vs Barranquilla Fc [blv Ak47] (socolive) M3u8
+https://pull.niur.live/live/stream-356042_lhd.flv?txSecret=c98f8cf1f3d031d617addf726b262058&txTime=68e48641
+#EXTINF:-1 tvg-id="98" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/5627fe41f96fe13c5d2a351ed831a74b.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion [a Chè] (socolive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912092_lsd.m3u8?auth_key=1759787961-0-0-b23e28bc751b7becf35c7e1fee759b2d
-#EXTINF:-1 tvg-id="189" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/dfb1137cedc5f99a21a77075a5d0937e.png",03h30 Ngày 07/10 Atletico Huila Vs Barranquilla Fc [blv Ak47] (socolive) Hdm3u8
+https://pull.niur.live/live/stream-356042_lsd.m3u8?txSecret=15c930ff718aaa834231db80d627d639&txTime=68e48641
+#EXTINF:-1 tvg-id="99" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/5627fe41f96fe13c5d2a351ed831a74b.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion [a Chè] (socolive) Hdm3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912092_lhd.m3u8?auth_key=1759787961-0-0-a276ee1b2f7ef12bd4de396052f1a85a
-#EXTINF:-1 tvg-id="190" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/4818dc5a88eb39cdf73e746ceab84b38.png",02h00 Ngày 07/10 Deportivo Cali Women Vs Nacional Montevideo Women [chan Sena] (socolive) Flv
+https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=c98f8cf1f3d031d617addf726b262058&txTime=68e48641
+#EXTINF:-1 tvg-id="100" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/dfb1137cedc5f99a21a77075a5d0937e.png",03h30 Ngày 07/10 Atletico Huila Vs Barranquilla Fc [blv Wukong] (socolive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-515530_lsd.flv?auth_key=1759787961-0-0-626b1a4559af96bcf07ec9c5240cfa94
-#EXTINF:-1 tvg-id="191" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/4818dc5a88eb39cdf73e746ceab84b38.png",02h00 Ngày 07/10 Deportivo Cali Women Vs Nacional Montevideo Women [chan Sena] (socolive) Hdflv
+https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1759789041-0-0-554ed42a4b63c73c16ca45ec9e8453ab
+#EXTINF:-1 tvg-id="101" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/dfb1137cedc5f99a21a77075a5d0937e.png",03h30 Ngày 07/10 Atletico Huila Vs Barranquilla Fc [blv Wukong] (socolive) Hdflv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-515530_lhd.flv?auth_key=1759787961-0-0-5fc9f4094ad395f03a0f6f2aaac81cfb
-#EXTINF:-1 tvg-id="192" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/4818dc5a88eb39cdf73e746ceab84b38.png",02h00 Ngày 07/10 Deportivo Cali Women Vs Nacional Montevideo Women [chan Sena] (socolive) M3u8
+https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1759789041-0-0-c881ea3064ada3797eb98d409dff962d
+#EXTINF:-1 tvg-id="102" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/dfb1137cedc5f99a21a77075a5d0937e.png",03h30 Ngày 07/10 Atletico Huila Vs Barranquilla Fc [blv Wukong] (socolive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1759787961-0-0-36285d9ec83b9dc3a540dc8824244e8a
-#EXTINF:-1 tvg-id="193" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/4818dc5a88eb39cdf73e746ceab84b38.png",02h00 Ngày 07/10 Deportivo Cali Women Vs Nacional Montevideo Women [chan Sena] (socolive) Hdm3u8
+https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1759789041-0-0-b21566c8cfbcad7f5c0e9b0cc2071f94
+#EXTINF:-1 tvg-id="103" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/dfb1137cedc5f99a21a77075a5d0937e.png",03h30 Ngày 07/10 Atletico Huila Vs Barranquilla Fc [blv Wukong] (socolive) Hdm3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1759787961-0-0-897accb62cda32d01bc205ef07f255f2
-#EXTINF:-1 tvg-id="194" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/d7bda9f97b9eca4a250f252490f13f26.png",02h00 Ngày 07/10 Harrogate Town Vs Crewe Alexandra [blv Shogun] (socolive) Flv
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1759789041-0-0-ede140eaeb139aec659f0362e0577ca6
+#EXTINF:-1 tvg-id="104" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/fbdd85a0bf797ae331be66dedaa87586.png",04h30 Ngày 07/10 Real Oruro Vs Academiadb [blv Gấu] (socolive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912007_lsd.flv?auth_key=1759788002-0-0-dcc527ff40f35f3822277622e16c35cd
-#EXTINF:-1 tvg-id="195" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/d7bda9f97b9eca4a250f252490f13f26.png",02h00 Ngày 07/10 Harrogate Town Vs Crewe Alexandra [blv Shogun] (socolive) Hdflv
+https://pull06.scstream.net/live/stream-9912107_lsd.flv?auth_key=1759789041-0-0-2ea57b6fca70c1b23551c300dbcb54aa
+#EXTINF:-1 tvg-id="105" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/fbdd85a0bf797ae331be66dedaa87586.png",04h30 Ngày 07/10 Real Oruro Vs Academiadb [blv Gấu] (socolive) Hdflv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912007_lhd.flv?auth_key=1759788002-0-0-3e9a3d1bac0d804523ad585c4686e494
-#EXTINF:-1 tvg-id="196" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/d7bda9f97b9eca4a250f252490f13f26.png",02h00 Ngày 07/10 Harrogate Town Vs Crewe Alexandra [blv Shogun] (socolive) M3u8
+https://pull06.scstream.net/live/stream-9912107_lhd.flv?auth_key=1759789041-0-0-e5ee756adbc6c5f6af79656a52f4563e
+#EXTINF:-1 tvg-id="106" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/fbdd85a0bf797ae331be66dedaa87586.png",04h30 Ngày 07/10 Real Oruro Vs Academiadb [blv Gấu] (socolive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912007_lsd.m3u8?auth_key=1759788002-0-0-3a1c2a81c7e90707ade7aff0552eec49
-#EXTINF:-1 tvg-id="197" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/d7bda9f97b9eca4a250f252490f13f26.png",02h00 Ngày 07/10 Harrogate Town Vs Crewe Alexandra [blv Shogun] (socolive) Hdm3u8
+https://pull.niues.live/live/stream-9912107_lsd.m3u8?auth_key=1759789041-0-0-f0a6681b20fc6e92115ddf9b5c3b1ca6
+#EXTINF:-1 tvg-id="107" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/fbdd85a0bf797ae331be66dedaa87586.png",04h30 Ngày 07/10 Real Oruro Vs Academiadb [blv Gấu] (socolive) Hdm3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912007_lhd.m3u8?auth_key=1759788002-0-0-40b9fa8092fb0ef2a0ff265435d604f1
-#EXTINF:-1 tvg-id="198" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/d7bda9f97b9eca4a250f252490f13f26.png",02h00 Ngày 07/10 Harrogate Town Vs Crewe Alexandra [blv Robben] (socolive) Flv
+https://pull.niues.live/live/stream-9912107_lhd.m3u8?auth_key=1759789041-0-0-e89030469fbe9c22599d2f36e4f1fb07
+#EXTINF:-1 tvg-id="108" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/c48a6f1eeb5e2aa2481cff8d51575147.png",05h00 Ngày 07/10 Deportivo Riestra Vs Velez Sarsfield [sao La] (socolive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1759787961-0-0-5d4e574f77aad0ed60adeb06e732ddbe
-#EXTINF:-1 tvg-id="199" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/d7bda9f97b9eca4a250f252490f13f26.png",02h00 Ngày 07/10 Harrogate Town Vs Crewe Alexandra [blv Robben] (socolive) Hdflv
+https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=2fa2e55741fe846a421a2b1bf95ec200&txTime=68e48641
+#EXTINF:-1 tvg-id="109" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/c48a6f1eeb5e2aa2481cff8d51575147.png",05h00 Ngày 07/10 Deportivo Riestra Vs Velez Sarsfield [sao La] (socolive) Hdflv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1759787961-0-0-bc6069015d6df7022aeca2ceaf423359
-#EXTINF:-1 tvg-id="200" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/d7bda9f97b9eca4a250f252490f13f26.png",02h00 Ngày 07/10 Harrogate Town Vs Crewe Alexandra [blv Robben] (socolive) M3u8
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=2ba5604670cbfbb39411d5d24ca00f43&txTime=68e48641
+#EXTINF:-1 tvg-id="110" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/c48a6f1eeb5e2aa2481cff8d51575147.png",05h00 Ngày 07/10 Deportivo Riestra Vs Velez Sarsfield [sao La] (socolive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1759787961-0-0-d3883b0a2ae04df4ae4ed3675f995635
-#EXTINF:-1 tvg-id="201" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/d7bda9f97b9eca4a250f252490f13f26.png",02h00 Ngày 07/10 Harrogate Town Vs Crewe Alexandra [blv Robben] (socolive) Hdm3u8
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=2fa2e55741fe846a421a2b1bf95ec200&txTime=68e48641
+#EXTINF:-1 tvg-id="111" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/c48a6f1eeb5e2aa2481cff8d51575147.png",05h00 Ngày 07/10 Deportivo Riestra Vs Velez Sarsfield [sao La] (socolive) Hdm3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1759787961-0-0-603ed1db9c8dcceae17f2e9acf1556e1
-#EXTINF:-1 tvg-id="202" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/dfb1137cedc5f99a21a77075a5d0937e.png",03h30 Ngày 07/10 Atletico Huila Vs Barranquilla Fc [blv Wukong] (socolive) Flv
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=2ba5604670cbfbb39411d5d24ca00f43&txTime=68e48641
+#EXTINF:-1 tvg-id="112" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/dfb1137cedc5f99a21a77075a5d0937e.png",03h30 Ngày 07/10 Atletico Huila Vs Barranquilla Fc [blv Ak47] (socolive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1759787961-0-0-b7482492f8a890dbd63ecb87ebf51c76
-#EXTINF:-1 tvg-id="203" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/dfb1137cedc5f99a21a77075a5d0937e.png",03h30 Ngày 07/10 Atletico Huila Vs Barranquilla Fc [blv Wukong] (socolive) Hdflv
+https://pull06.scstream.net/live/stream-9912092_lsd.flv?auth_key=1759789041-0-0-ac426bdbb47c2261fd63a4f9de311e99
+#EXTINF:-1 tvg-id="113" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/dfb1137cedc5f99a21a77075a5d0937e.png",03h30 Ngày 07/10 Atletico Huila Vs Barranquilla Fc [blv Ak47] (socolive) Hdflv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1759787961-0-0-c2f58e4b09f501dedab44689b13830d1
-#EXTINF:-1 tvg-id="204" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/dfb1137cedc5f99a21a77075a5d0937e.png",03h30 Ngày 07/10 Atletico Huila Vs Barranquilla Fc [blv Wukong] (socolive) M3u8
+https://pull06.scstream.net/live/stream-9912092_lhd.flv?auth_key=1759789041-0-0-bd32a5f1290e9a90c44e81638f254655
+#EXTINF:-1 tvg-id="114" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/dfb1137cedc5f99a21a77075a5d0937e.png",03h30 Ngày 07/10 Atletico Huila Vs Barranquilla Fc [blv Ak47] (socolive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1759787961-0-0-4514db444ca0b8f3417c8f77390668fb
-#EXTINF:-1 tvg-id="205" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/dfb1137cedc5f99a21a77075a5d0937e.png",03h30 Ngày 07/10 Atletico Huila Vs Barranquilla Fc [blv Wukong] (socolive) Hdm3u8
+https://pull.niues.live/live/stream-9912092_lsd.m3u8?auth_key=1759789041-0-0-f08d4f433a43455d209679fd52c1cdb9
+#EXTINF:-1 tvg-id="115" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/dfb1137cedc5f99a21a77075a5d0937e.png",03h30 Ngày 07/10 Atletico Huila Vs Barranquilla Fc [blv Ak47] (socolive) Hdm3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1759787961-0-0-f7207e140f0c272a283849aaa6d953f2
-#EXTINF:-1 tvg-id="206" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/5627fe41f96fe13c5d2a351ed831a74b.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion [blv Cozy] (socolive) Flv
+https://pull.niues.live/live/stream-9912092_lhd.m3u8?auth_key=1759789041-0-0-d8d0b0a3f6906f3e99f9bf03e022feb1
+#EXTINF:-1 tvg-id="116" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251004/5fd33d1ebad3f793889b9035a5b68a58.png",Bit.ly/socolive [socolive] (socolive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-531989_lsd.flv?txSecret=b796ffaee6aea334ff1315b1002fa5ae&txTime=68e48209
-#EXTINF:-1 tvg-id="207" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/5627fe41f96fe13c5d2a351ed831a74b.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion [blv Cozy] (socolive) Hdflv
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1759789041-0-0-7cd74500d4db66e87e0d8cde8ab70ef6
+#EXTINF:-1 tvg-id="117" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251004/5fd33d1ebad3f793889b9035a5b68a58.png",Bit.ly/socolive [socolive] (socolive) Hdflv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-531989_lhd.flv?txSecret=7cc433dbc1a9365a06fc07e2a7d2938d&txTime=68e48209
-#EXTINF:-1 tvg-id="208" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/5627fe41f96fe13c5d2a351ed831a74b.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion [blv Cozy] (socolive) M3u8
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1759789041-0-0-ff971c169fb4d9dfc4ca9a85c3572623
+#EXTINF:-1 tvg-id="118" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251004/5fd33d1ebad3f793889b9035a5b68a58.png",Bit.ly/socolive [socolive] (socolive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-531989_lsd.m3u8?txSecret=b796ffaee6aea334ff1315b1002fa5ae&txTime=68e48209
-#EXTINF:-1 tvg-id="209" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/5627fe41f96fe13c5d2a351ed831a74b.png",04h30 Ngày 07/10 General Caballero Vs Fc Nacional Asuncion [blv Cozy] (socolive) Hdm3u8
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1759789041-0-0-7b467ee20888706340cc60785cef5d6f
+#EXTINF:-1 tvg-id="119" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251004/5fd33d1ebad3f793889b9035a5b68a58.png",Bit.ly/socolive [socolive] (socolive) Hdm3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-531989_lhd.m3u8?txSecret=7cc433dbc1a9365a06fc07e2a7d2938d&txTime=68e48209
-#EXTINF:-1 tvg-id="210" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/d7bda9f97b9eca4a250f252490f13f26.png",02h00 Ngày 07/10 Harrogate Town Vs Crewe Alexandra [blv Edric] (socolive) Flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-512649_lsd.flv?auth_key=1759787961-0-0-3a987cee92a3342f278030dd291a5072
-#EXTINF:-1 tvg-id="211" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/d7bda9f97b9eca4a250f252490f13f26.png",02h00 Ngày 07/10 Harrogate Town Vs Crewe Alexandra [blv Edric] (socolive) Hdflv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-512649_lhd.flv?auth_key=1759787961-0-0-c5de7c9a905cfc689f95eb73497ce5e9
-#EXTINF:-1 tvg-id="212" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/d7bda9f97b9eca4a250f252490f13f26.png",02h00 Ngày 07/10 Harrogate Town Vs Crewe Alexandra [blv Edric] (socolive) M3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-512649_lsd.m3u8?auth_key=1759787961-0-0-5ccf4c7a09501b830e6ea51c8ac0ae60
-#EXTINF:-1 tvg-id="213" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/d7bda9f97b9eca4a250f252490f13f26.png",02h00 Ngày 07/10 Harrogate Town Vs Crewe Alexandra [blv Edric] (socolive) Hdm3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-512649_lhd.m3u8?auth_key=1759787961-0-0-f7d66303593f6179b6b5369ac872b414
-#EXTINF:-1 tvg-id="214" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251004/5fd33d1ebad3f793889b9035a5b68a58.png",Bit.ly/socolive [socolive] (socolive) Flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1759787961-0-0-4432bebbdfed68211bcc6db41a8ba46d
-#EXTINF:-1 tvg-id="215" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251004/5fd33d1ebad3f793889b9035a5b68a58.png",Bit.ly/socolive [socolive] (socolive) Hdflv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1759787961-0-0-81d912188475100d8da0040a24e22bea
-#EXTINF:-1 tvg-id="216" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251004/5fd33d1ebad3f793889b9035a5b68a58.png",Bit.ly/socolive [socolive] (socolive) M3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1759787961-0-0-b70b853acdad1e2a1e1f41dbc672b356
-#EXTINF:-1 tvg-id="217" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251004/5fd33d1ebad3f793889b9035a5b68a58.png",Bit.ly/socolive [socolive] (socolive) Hdm3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1759787961-0-0-50f27cc22f7f1d5d312ed175d5265499
-#EXTINF:-1 tvg-id="218" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/nitvFMWg-xIOhFH4B.png",05:08 Ngày 07/10 Brewers Vs Cubs (1) [người Lửa] Hd Nhanh
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1759789041-0-0-70a33480e507c24d593ee05ea9c7152c
+#EXTINF:-1 tvg-id="120" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/nitvFMWg-xIOhFH4B.png",05:08 Ngày 07/10 Brewers Vs Cubs (1) [người Lửa] Hd Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179536519.akainu.xyz/live/luaHD.flv?expire=1759806726&sign=b06728e533710d546b2c52c0759c354f
-#EXTINF:-1 tvg-id="219" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/nitvFMWg-xIOhFH4B.png",05:08 Ngày 07/10 Brewers Vs Cubs (1) [người Lửa] Hd1
+#EXTINF:-1 tvg-id="121" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/nitvFMWg-xIOhFH4B.png",05:08 Ngày 07/10 Brewers Vs Cubs (1) [người Lửa] Hd1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179266008.akainu.xyz/w1-_eOYqtNY65uTx-XDuZw/Fv2lucGIbhPi2caWYvF5Lg/1759806726310/live/luaHD/playlist.m3u8
-#EXTINF:-1 tvg-id="220" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/nitvFMWg-xIOhFH4B.png",05:08 Ngày 07/10 Brewers Vs Cubs (1) [người Lửa] Hd2
+#EXTINF:-1 tvg-id="122" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/nitvFMWg-xIOhFH4B.png",05:08 Ngày 07/10 Brewers Vs Cubs (1) [người Lửa] Hd2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://live-vipxlvb.nsnd.live/QVAfCDIj4zGpyc0SajtYbg/9f8b38d400ef6d394f2d68b3096e00f1/1759806726/live/_definst_/stream_1_1bda7@luaHD/playlist.m3u8
-#EXTINF:-1 tvg-id="221" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/nitvFMWg-xIOhFH4B.png",05:08 Ngày 07/10 Brewers Vs Cubs (1) [người Lửa] Sd
+#EXTINF:-1 tvg-id="123" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/nitvFMWg-xIOhFH4B.png",05:08 Ngày 07/10 Brewers Vs Cubs (1) [người Lửa] Sd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179602324.akainu.xyz/PigNQCjEwOfCHbQRXk-p3Q/Fv2lucGIbhPi2caWYvF5Lg/1759806726310/live/luaSD/playlist.m3u8
-#EXTINF:-1 tvg-id="222" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/nitvFMWg-xIOhFH4B.png",05:08 Ngày 07/10 Brewers Vs Cubs (1) [người Lửa] Fullhd
+#EXTINF:-1 tvg-id="124" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/nitvFMWg-xIOhFH4B.png",05:08 Ngày 07/10 Brewers Vs Cubs (1) [người Lửa] Fullhd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://live-vipxlvb.nsnd.live/0xcT7E8wIpCl3J8q1ZxS7A/74b8773ecaa9df430432c2bf2b6bd9e0/1759806726/live/_definst_/stream_1_1bda7@luaFHD/playlist.m3u8
-#EXTINF:-1 tvg-id="223" group-title="Hội Quán 🔥" tvg-logo="https://img.thesports.com/volleyball/team/0f260585d460999b26967fe6f313e71a.png",01h30 Ngày 07.10 San Giovanni Nữ Vs Novara Nữ (hội Quán) Blv Alex Phan Full Hd
+#EXTINF:-1 tvg-id="125" group-title="Hội Quán 🔥" tvg-logo="https://img.thesports.com/volleyball/team/0f260585d460999b26967fe6f313e71a.png",01h30 Ngày 07.10 San Giovanni Nữ Vs Novara Nữ (hội Quán) Blv Alex Phan Full Hd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_alexphan/playlist.m3u8
-#EXTINF:-1 tvg-id="224" group-title="Hội Quán 🔥" tvg-logo="https://img.thesports.com/volleyball/team/0f260585d460999b26967fe6f313e71a.png",01h30 Ngày 07.10 San Giovanni Nữ Vs Novara Nữ (hội Quán) Blv Alex Phan Hd
+#EXTINF:-1 tvg-id="126" group-title="Hội Quán 🔥" tvg-logo="https://img.thesports.com/volleyball/team/0f260585d460999b26967fe6f313e71a.png",01h30 Ngày 07.10 San Giovanni Nữ Vs Novara Nữ (hội Quán) Blv Alex Phan Hd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://tldm0825.edgemaxcdn.org/hqtv_blv_alexphan/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-id="225" group-title="Hội Quán 🔥" tvg-logo="https://img.thesports.com/volleyball/team/0f260585d460999b26967fe6f313e71a.png",01h30 Ngày 07.10 San Giovanni Nữ Vs Novara Nữ (hội Quán) Blv Alex Phan Sd
+#EXTINF:-1 tvg-id="127" group-title="Hội Quán 🔥" tvg-logo="https://img.thesports.com/volleyball/team/0f260585d460999b26967fe6f313e71a.png",01h30 Ngày 07.10 San Giovanni Nữ Vs Novara Nữ (hội Quán) Blv Alex Phan Sd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://tldm0825.edgemaxcdn.org/hqtv_blv_alexphan/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="226" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODFhYmRhNzUzMzItNDA0Yg/MWEzYzY1MTQ1NmUtYWI5ZQ.png",Col D2 Atletico Huila Vs Barranquilla Fc Blv Compact (colalive) Flv
+#EXTINF:-1 tvg-id="128" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODFhYmRhNzUzMzItNDA0Yg/MWEzYzY1MTQ1NmUtYWI5ZQ.png",Col D2 Atletico Huila Vs Barranquilla Fc Blv Compact (colalive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh4.app/live/07808742.flv
-#EXTINF:-1 tvg-id="227" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODFhYmRhNzUzMzItNDA0Yg/MWEzYzY1MTQ1NmUtYWI5ZQ.png",Col D2 Atletico Huila Vs Barranquilla Fc Blv Compact (colalive) M3u8
+#EXTINF:-1 tvg-id="129" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODFhYmRhNzUzMzItNDA0Yg/MWEzYzY1MTQ1NmUtYWI5ZQ.png",Col D2 Atletico Huila Vs Barranquilla Fc Blv Compact (colalive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh4.app/live/07808742.m3u8
-#EXTINF:-1 tvg-id="228" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MTQ5NzVlNmU0MTAtNjIyMg/MmQxZDdkN2JjY2EtZTc0Mg.png",Vsbet - Thể Thao Hàng đầu đối Tác Vsbet (colalive) Flv
+#EXTINF:-1 tvg-id="130" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MTQ5NzVlNmU0MTAtNjIyMg/MmQxZDdkN2JjY2EtZTc0Mg.png",Vsbet - Thể Thao Hàng đầu đối Tác Vsbet (colalive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh4.app/live/36669975.flv
-#EXTINF:-1 tvg-id="229" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MTQ5NzVlNmU0MTAtNjIyMg/MmQxZDdkN2JjY2EtZTc0Mg.png",Vsbet - Thể Thao Hàng đầu đối Tác Vsbet (colalive) M3u8
+#EXTINF:-1 tvg-id="131" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MTQ5NzVlNmU0MTAtNjIyMg/MmQxZDdkN2JjY2EtZTc0Mg.png",Vsbet - Thể Thao Hàng đầu đối Tác Vsbet (colalive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh4.app/live/36669975.m3u8
-#EXTINF:-1 tvg-id="230" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YWE4YjdjMzljNGItMjFlYQ/M2NhZTI3MWJkZDAtNjBjNg.jpg",Xóc Dĩa Xóc Dĩa (colalive) Flv
+#EXTINF:-1 tvg-id="132" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YWE4YjdjMzljNGItMjFlYQ/M2NhZTI3MWJkZDAtNjBjNg.jpg",Xóc Dĩa Xóc Dĩa (colalive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh4.app/live/26250293.flv
-#EXTINF:-1 tvg-id="231" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YWE4YjdjMzljNGItMjFlYQ/M2NhZTI3MWJkZDAtNjBjNg.jpg",Xóc Dĩa Xóc Dĩa (colalive) M3u8
+#EXTINF:-1 tvg-id="133" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YWE4YjdjMzljNGItMjFlYQ/M2NhZTI3MWJkZDAtNjBjNg.jpg",Xóc Dĩa Xóc Dĩa (colalive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh4.app/live/26250293.m3u8
-#EXTINF:-1 tvg-id="232" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZWQ4YzAwNzY3NzgtNDcwMg/YzYxYTVjMDliNWItYmQ1MQ.jpg",Colatv- Hướng Dẫn đăng Ký Colatv- Hướng Dẫn đăng Ký (colalive) Flv
+#EXTINF:-1 tvg-id="134" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZWQ4YzAwNzY3NzgtNDcwMg/YzYxYTVjMDliNWItYmQ1MQ.jpg",Colatv- Hướng Dẫn đăng Ký Colatv- Hướng Dẫn đăng Ký (colalive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh4.app/live/58139474.flv
-#EXTINF:-1 tvg-id="233" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZWQ4YzAwNzY3NzgtNDcwMg/YzYxYTVjMDliNWItYmQ1MQ.jpg",Colatv- Hướng Dẫn đăng Ký Colatv- Hướng Dẫn đăng Ký (colalive) M3u8
+#EXTINF:-1 tvg-id="135" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZWQ4YzAwNzY3NzgtNDcwMg/YzYxYTVjMDliNWItYmQ1MQ.jpg",Colatv- Hướng Dẫn đăng Ký Colatv- Hướng Dẫn đăng Ký (colalive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh4.app/live/58139474.m3u8
-#EXTINF:-1 tvg-id="234" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OWZiZGJiNWRiNmEtOTRjNQ/OWZjOGFiN2ZjZDktOTdmNg.jpg",Live Bacarat Bacarat (colalive) Flv
+#EXTINF:-1 tvg-id="136" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OWZiZGJiNWRiNmEtOTRjNQ/OWZjOGFiN2ZjZDktOTdmNg.jpg",Live Bacarat Bacarat (colalive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh4.app/live/36858215.flv
-#EXTINF:-1 tvg-id="235" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OWZiZGJiNWRiNmEtOTRjNQ/OWZjOGFiN2ZjZDktOTdmNg.jpg",Live Bacarat Bacarat (colalive) M3u8
+#EXTINF:-1 tvg-id="137" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OWZiZGJiNWRiNmEtOTRjNQ/OWZjOGFiN2ZjZDktOTdmNg.jpg",Live Bacarat Bacarat (colalive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh4.app/live/36858215.m3u8
-#EXTINF:-1 tvg-id="236" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/10891.png",22h00 07/10 Gintra-universitetas Vs Nordsjælland (blvtoptop) Dê Gia đình
+#EXTINF:-1 tvg-id="138" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/10891.png",22h00 07/10 Gintra-universitetas Vs Nordsjælland (blvtoptop) Dê Gia đình
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/5vto8ydi1j/playlist.m3u8
-#EXTINF:-1 tvg-id="237" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1886.png",23h45 07/10 Juventus W Vs Sl Benfica (blvtoptop) Bún Chả
+#EXTINF:-1 tvg-id="139" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1886.png",23h45 07/10 Juventus W Vs Sl Benfica (blvtoptop) Bún Chả
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/0dq4pt7ka4/playlist.m3u8
-#EXTINF:-1 tvg-id="238" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1850.png",02h00 08/10 Arsenal W Vs Lyon W (blvtoptop) Chaien
+#EXTINF:-1 tvg-id="140" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1850.png",02h00 08/10 Arsenal W Vs Lyon W (blvtoptop) Chaien
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/yql97itgbl/playlist.m3u8
-#EXTINF:-1 tvg-id="239" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1850.png",02h00 08/10 Arsenal W Vs Lyon W (blvtoptop) Lil Shady
+#EXTINF:-1 tvg-id="141" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1850.png",02h00 08/10 Arsenal W Vs Lyon W (blvtoptop) Lil Shady
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/6cjd6zf2ny/playlist.m3u8
-#EXTINF:-1 tvg-id="240" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1918.png",02h00 08/10 Barcelona W Vs  (blvtoptop) Adam
+#EXTINF:-1 tvg-id="142" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1918.png",02h00 08/10 Barcelona W Vs  (blvtoptop) Adam
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/mjap0rrqv8/playlist.m3u8
-#EXTINF:-1 tvg-id="241" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1918.png",02h00 08/10 Barcelona W Vs  (blvtoptop) Bed
+#EXTINF:-1 tvg-id="143" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1918.png",02h00 08/10 Barcelona W Vs  (blvtoptop) Bed
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/aklh087186/playlist.m3u8
-#EXTINF:-1 tvg-id="242" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1506.png",20h00 08/10 Ethiopia Vs Guinea-bissau (blvtoptop) Bún Chả
+#EXTINF:-1 tvg-id="144" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1506.png",20h00 08/10 Ethiopia Vs Guinea-bissau (blvtoptop) Bún Chả
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/0dq4pt7ka4/playlist.m3u8
-#EXTINF:-1 tvg-id="243" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1506.png",20h00 08/10 Ethiopia Vs Guinea-bissau (blvtoptop) Tôm Mì
+#EXTINF:-1 tvg-id="145" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1506.png",20h00 08/10 Ethiopia Vs Guinea-bissau (blvtoptop) Tôm Mì
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/384vepruzs/playlist.m3u8
-#EXTINF:-1 tvg-id="244" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1552.png",22h00 08/10 Oman Vs  (blvtoptop) Bún Chả
+#EXTINF:-1 tvg-id="146" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1552.png",22h00 08/10 Oman Vs  (blvtoptop) Bún Chả
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/0dq4pt7ka4/playlist.m3u8
-#EXTINF:-1 tvg-id="245" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1552.png",22h00 08/10 Oman Vs  (blvtoptop) Dê Gia đình
+#EXTINF:-1 tvg-id="147" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1552.png",22h00 08/10 Oman Vs  (blvtoptop) Dê Gia đình
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/5vto8ydi1j/playlist.m3u8
-#EXTINF:-1 tvg-id="246" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/15224.png",23h45 08/10 Real Madrid W Vs Roma W (blvtoptop) Lil Shady
+#EXTINF:-1 tvg-id="148" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/15224.png",23h45 08/10 Real Madrid W Vs Roma W (blvtoptop) Lil Shady
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/6cjd6zf2ny/playlist.m3u8
-#EXTINF:-1 tvg-id="247" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/15224.png",23h45 08/10 Real Madrid W Vs Roma W (blvtoptop) Bed
+#EXTINF:-1 tvg-id="149" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/15224.png",23h45 08/10 Real Madrid W Vs Roma W (blvtoptop) Bed
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/aklh087186/playlist.m3u8
-#EXTINF:-1 tvg-id="248" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1899.png",23h45 08/10 Twente W Vs Chelsea W (blvtoptop) Adam
+#EXTINF:-1 tvg-id="150" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1899.png",23h45 08/10 Twente W Vs Chelsea W (blvtoptop) Adam
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/mjap0rrqv8/playlist.m3u8
-#EXTINF:-1 tvg-id="249" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1899.png",23h45 08/10 Twente W Vs Chelsea W (blvtoptop) Chaien
+#EXTINF:-1 tvg-id="151" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1899.png",23h45 08/10 Twente W Vs Chelsea W (blvtoptop) Chaien
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/yql97itgbl/playlist.m3u8
