@@ -1889,50 +1889,50 @@ https://xem.hoiquan.Click/HuuVinh/MaxSport4HD/DoiTacDongGop.m3u8
 #EXTINF:-1 tvg-id="SporTV2" group-title="🔁 HuuVinh.THỂ THAO QUỐC TẾ" tvg-logo="https://xem.hoiquan.click/Logo/SporTV2/DoiTac-HuuVinh",SporTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://xem.hoiquan.Click/HuuVinh/SporTV2/DoiTacDongGop.m3u8
-#EXTINF:-1 tvg-id="0" group-title="Cá Heo 🔥" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w60",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets (cá Heo) Hd 1
+#EXTINF:-1 tvg-id="0" group-title="Cá Heo 🔥" tvg-logo="https://img.thesports.com/football/team/b25d37216425034b6695ec3c3119d07d.png",12h00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong Fc (cá Heo) Sd 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179245845.cdnfree.pro/live/lansd2/playlist.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Cá Heo 🔥" tvg-logo="https://img.thesports.com/football/team/b25d37216425034b6695ec3c3119d07d.png",12h00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong Fc (cá Heo) Hd 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179245845.cdnfree.pro/live/lanhd2/playlist.m3u8
+#EXTINF:-1 tvg-id="2" group-title="Cá Heo 🔥" tvg-logo="https://img.thesports.com/football/team/b25d37216425034b6695ec3c3119d07d.png",12h00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong Fc (cá Heo) Sd 3 (nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://chcdn.livestreameuro.live/live/lansd1.flv
+#EXTINF:-1 tvg-id="3" group-title="Cá Heo 🔥" tvg-logo="https://img.thesports.com/football/team/b25d37216425034b6695ec3c3119d07d.png",12h00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong Fc (cá Heo) Hd 3 (nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://chcdn.livestreameuro.live/live/lanhd1.flv
+#EXTINF:-1 tvg-id="4" group-title="Cá Heo 🔥" tvg-logo="https://img.thesports.com/football/team/d574a61b5e8eb37ca0c037a100e78423.png",12h30 Ngày 07/10 Rebels Fc Vs Kickstart Karnataka Fc (cá Heo) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m201nd/playlist.m3u8
+#EXTINF:-1 tvg-id="5" group-title="Cá Heo 🔥" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w60",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets (cá Heo) Sd 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://chcdn.livestreameuro.live/live/paosd1/playlist.m3u8
+#EXTINF:-1 tvg-id="6" group-title="Cá Heo 🔥" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w60",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets (cá Heo) Hd 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://chcdn.livestreameuro.live/live/paohd1/playlist.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Cá Heo 🔥" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w60",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets (cá Heo) Sd 2
+#EXTINF:-1 tvg-id="7" group-title="Cá Heo 🔥" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w60",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets (cá Heo) Sd 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://179245845.cdnfree.pro/live/paosd2/playlist.m3u8
-#EXTINF:-1 tvg-id="2" group-title="Cá Heo 🔥" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w60",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets (cá Heo) Hd 2
+#EXTINF:-1 tvg-id="8" group-title="Cá Heo 🔥" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w60",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets (cá Heo) Hd 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://179245845.cdnfree.pro/live/paohd2/playlist.m3u8
-#EXTINF:-1 tvg-id="3" group-title="Cá Heo 🔥" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w60",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets (cá Heo) Sd 3 (nhanh)
+#EXTINF:-1 tvg-id="9" group-title="Cá Heo 🔥" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w60",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets (cá Heo) Sd 3 (nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://chcdn.livestreameuro.live/live/paosd1.flv
-#EXTINF:-1 tvg-id="4" group-title="Cá Heo 🔥" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w60",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets (cá Heo) Hd 3 (nhanh)
+#EXTINF:-1 tvg-id="10" group-title="Cá Heo 🔥" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w60",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets (cá Heo) Hd 3 (nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://chcdn.livestreameuro.live/live/paohd1.flv
-#EXTINF:-1 tvg-id="5" group-title="Cá Heo 🔥" tvg-logo="https://img.thesports.com/football/team/bcedf53b78b380edaeb5b36dce2515ff.png",09h30 Ngày 07/10 Angel City Fc (w) Vs Kansas City Current (w) (cá Heo) Sd 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://chcdn.livestreameuro.live/live/nungsd1/playlist.m3u8
-#EXTINF:-1 tvg-id="6" group-title="Cá Heo 🔥" tvg-logo="https://img.thesports.com/football/team/bcedf53b78b380edaeb5b36dce2515ff.png",09h30 Ngày 07/10 Angel City Fc (w) Vs Kansas City Current (w) (cá Heo) Hd 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://chcdn.livestreameuro.live/live/nunghd1/playlist.m3u8
-#EXTINF:-1 tvg-id="7" group-title="Cá Heo 🔥" tvg-logo="https://img.thesports.com/football/team/bcedf53b78b380edaeb5b36dce2515ff.png",09h30 Ngày 07/10 Angel City Fc (w) Vs Kansas City Current (w) (cá Heo) Sd 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179245845.cdnfree.pro/live/nungsd2/playlist.m3u8
-#EXTINF:-1 tvg-id="8" group-title="Cá Heo 🔥" tvg-logo="https://img.thesports.com/football/team/bcedf53b78b380edaeb5b36dce2515ff.png",09h30 Ngày 07/10 Angel City Fc (w) Vs Kansas City Current (w) (cá Heo) Hd 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179245845.cdnfree.pro/live/nunghd2/playlist.m3u8
-#EXTINF:-1 tvg-id="9" group-title="Cá Heo 🔥" tvg-logo="https://img.thesports.com/football/team/bcedf53b78b380edaeb5b36dce2515ff.png",09h30 Ngày 07/10 Angel City Fc (w) Vs Kansas City Current (w) (cá Heo) Sd Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://chcdn.livestreameuro.live/live/nungsd1.flv
-#EXTINF:-1 tvg-id="10" group-title="Cá Heo 🔥" tvg-logo="https://img.thesports.com/football/team/bcedf53b78b380edaeb5b36dce2515ff.png",09h30 Ngày 07/10 Angel City Fc (w) Vs Kansas City Current (w) (cá Heo) Hd Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://chcdn.livestreameuro.live/live/nunghd1.flv
 #EXTINF:-1 tvg-id="11" group-title="Cá Kèo 🔥" tvg-logo="https://img.thesports.com/football/team/bcedf53b78b380edaeb5b36dce2515ff.png",09h30 Ngày 07/10 Angel City Fc (w) Vs Kansas City Current (w) (cá Kèo) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -1957,721 +1957,803 @@ https://hotlivezz179602324.akainu.xyz/qYfq6QN6Ab3Ahun4tYxp1A/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://live-vipxlvb.nsnd.live/oyCBSNSbDpi9BLHvgvvmXg/9d3c1936b065e6a3605ccd426df0ce6c/1759832648/live/_definst_/stream_1_1bda7@thuongFHD/playlist.m3u8
-#EXTINF:-1 tvg-id="17" group-title="Cà Khịa 🔥" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w60",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets (cà Khịa) Sd 1
+#EXTINF:-1 tvg-id="17" group-title="Cà Khịa 🔥" tvg-logo="https://img.thesports.com/football/team/d574a61b5e8eb37ca0c037a100e78423.png",12h30 Ngày 07/10 Rebels Fc Vs Kickstart Karnataka Fc (cà Khịa) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/paosd1/playlist.m3u8
-#EXTINF:-1 tvg-id="18" group-title="Cà Khịa 🔥" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w60",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets (cà Khịa) Hd 1
+https://ckcdn.livestreameuro.live/live/m201nd/playlist.m3u8
+#EXTINF:-1 tvg-id="18" group-title="Cà Khịa 🔥" tvg-logo="https://img.thesports.com/football/team/b25d37216425034b6695ec3c3119d07d.png",12h00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong Fc (cà Khịa) Sd 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/paohd1/playlist.m3u8
-#EXTINF:-1 tvg-id="19" group-title="Cà Khịa 🔥" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w60",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets (cà Khịa) Sd 2
+https://ckcdn.livestreameuro.live/live/lansd1/playlist.m3u8
+#EXTINF:-1 tvg-id="19" group-title="Cà Khịa 🔥" tvg-logo="https://img.thesports.com/football/team/b25d37216425034b6695ec3c3119d07d.png",12h00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong Fc (cà Khịa) Hd 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/paosd2/playlist.m3u8
-#EXTINF:-1 tvg-id="20" group-title="Cà Khịa 🔥" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w60",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets (cà Khịa) Hd 2
+https://ckcdn.livestreameuro.live/live/lanhd1/playlist.m3u8
+#EXTINF:-1 tvg-id="20" group-title="Cà Khịa 🔥" tvg-logo="https://img.thesports.com/football/team/b25d37216425034b6695ec3c3119d07d.png",12h00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong Fc (cà Khịa) Sd 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/paohd2/playlist.m3u8
-#EXTINF:-1 tvg-id="21" group-title="Cà Khịa 🔥" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w60",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets (cà Khịa) Sd 3 (nhanh)
+https://ckhot-179939170.cdnfree.pro/live/lansd2/playlist.m3u8
+#EXTINF:-1 tvg-id="21" group-title="Cà Khịa 🔥" tvg-logo="https://img.thesports.com/football/team/b25d37216425034b6695ec3c3119d07d.png",12h00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong Fc (cà Khịa) Hd 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/paosd1.flv
-#EXTINF:-1 tvg-id="22" group-title="Cà Khịa 🔥" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w60",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets (cà Khịa) Hd 3 (nhanh)
+https://ckhot-179939170.cdnfree.pro/live/lanhd2/playlist.m3u8
+#EXTINF:-1 tvg-id="22" group-title="Cà Khịa 🔥" tvg-logo="https://img.thesports.com/football/team/b25d37216425034b6695ec3c3119d07d.png",12h00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong Fc (cà Khịa) Sd 3 (nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/paohd1.flv
-#EXTINF:-1 tvg-id="23" group-title="Cà Khịa 🔥" tvg-logo="https://img.thesports.com/football/team/bcedf53b78b380edaeb5b36dce2515ff.png",09h30 Ngày 07/10 Angel City Fc (w) Vs Kansas City Current (w) (cà Khịa) Sd 1
+https://ckcdn.livestreameuro.live/live/lansd1.flv
+#EXTINF:-1 tvg-id="23" group-title="Cà Khịa 🔥" tvg-logo="https://img.thesports.com/football/team/b25d37216425034b6695ec3c3119d07d.png",12h00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong Fc (cà Khịa) Hd 3 (nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/nungsd1/playlist.m3u8
-#EXTINF:-1 tvg-id="24" group-title="Cà Khịa 🔥" tvg-logo="https://img.thesports.com/football/team/bcedf53b78b380edaeb5b36dce2515ff.png",09h30 Ngày 07/10 Angel City Fc (w) Vs Kansas City Current (w) (cà Khịa) Hd 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/nunghd1/playlist.m3u8
-#EXTINF:-1 tvg-id="25" group-title="Cà Khịa 🔥" tvg-logo="https://img.thesports.com/football/team/bcedf53b78b380edaeb5b36dce2515ff.png",09h30 Ngày 07/10 Angel City Fc (w) Vs Kansas City Current (w) (cà Khịa) Sd 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/nungsd2/playlist.m3u8
-#EXTINF:-1 tvg-id="26" group-title="Cà Khịa 🔥" tvg-logo="https://img.thesports.com/football/team/bcedf53b78b380edaeb5b36dce2515ff.png",09h30 Ngày 07/10 Angel City Fc (w) Vs Kansas City Current (w) (cà Khịa) Hd 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/nunghd2/playlist.m3u8
-#EXTINF:-1 tvg-id="27" group-title="Cà Khịa 🔥" tvg-logo="https://img.thesports.com/football/team/bcedf53b78b380edaeb5b36dce2515ff.png",09h30 Ngày 07/10 Angel City Fc (w) Vs Kansas City Current (w) (cà Khịa) Sd Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/nungsd1.flv
-#EXTINF:-1 tvg-id="28" group-title="Cà Khịa 🔥" tvg-logo="https://img.thesports.com/football/team/bcedf53b78b380edaeb5b36dce2515ff.png",09h30 Ngày 07/10 Angel City Fc (w) Vs Kansas City Current (w) (cà Khịa) Hd Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/nungshd1.flv
-#EXTINF:-1 tvg-id="29" group-title="Lấy Kinh 🔥" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w60",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets (lấy Kinh) Sd Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckcdn.livestreameuro.live/live/paosd1.flv
-#EXTINF:-1 tvg-id="30" group-title="Lấy Kinh 🔥" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w60",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets (lấy Kinh) Hd Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckcdn.livestreameuro.live/live/paohd1.flv
-#EXTINF:-1 tvg-id="31" group-title="Lấy Kinh 🔥" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w60",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets (lấy Kinh) Sd 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckcdn.livestreameuro.live/live/paosd1/playlist.m3u8
-#EXTINF:-1 tvg-id="32" group-title="Lấy Kinh 🔥" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w60",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets (lấy Kinh) Hd 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckcdn.livestreameuro.live/live/paohd1/playlist.m3u8
-#EXTINF:-1 tvg-id="33" group-title="Lấy Kinh 🔥" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w60",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets (lấy Kinh) Sd 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/paosd2/playlist.m3u8
-#EXTINF:-1 tvg-id="34" group-title="Lấy Kinh 🔥" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w60",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets (lấy Kinh) Hd 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/paohd2/playlist.m3u8
-#EXTINF:-1 tvg-id="35" group-title="Lấy Kinh 🔥" tvg-logo="https://img.thesports.com/football/team/bcedf53b78b380edaeb5b36dce2515ff.png",09h30 Ngày 07/10 Angel City Fc (w) Vs Kansas City Current (w) (lấy Kinh) Sd Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckcdn.livestreameuro.live/live/nungsd1.flv
-#EXTINF:-1 tvg-id="36" group-title="Lấy Kinh 🔥" tvg-logo="https://img.thesports.com/football/team/bcedf53b78b380edaeb5b36dce2515ff.png",09h30 Ngày 07/10 Angel City Fc (w) Vs Kansas City Current (w) (lấy Kinh) Hd Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckcdn.livestreameuro.live/live/nungshd1.flv
-#EXTINF:-1 tvg-id="37" group-title="Lấy Kinh 🔥" tvg-logo="https://img.thesports.com/football/team/bcedf53b78b380edaeb5b36dce2515ff.png",09h30 Ngày 07/10 Angel City Fc (w) Vs Kansas City Current (w) (lấy Kinh) Sd 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckcdn.livestreameuro.live/live/nungsd1/playlist.m3u8
-#EXTINF:-1 tvg-id="38" group-title="Lấy Kinh 🔥" tvg-logo="https://img.thesports.com/football/team/bcedf53b78b380edaeb5b36dce2515ff.png",09h30 Ngày 07/10 Angel City Fc (w) Vs Kansas City Current (w) (lấy Kinh) Hd 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckcdn.livestreameuro.live/live/nunghd1/playlist.m3u8
-#EXTINF:-1 tvg-id="39" group-title="Lấy Kinh 🔥" tvg-logo="https://img.thesports.com/football/team/bcedf53b78b380edaeb5b36dce2515ff.png",09h30 Ngày 07/10 Angel City Fc (w) Vs Kansas City Current (w) (lấy Kinh) Sd 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/nungsd2/playlist.m3u8
-#EXTINF:-1 tvg-id="40" group-title="Lấy Kinh 🔥" tvg-logo="https://img.thesports.com/football/team/bcedf53b78b380edaeb5b36dce2515ff.png",09h30 Ngày 07/10 Angel City Fc (w) Vs Kansas City Current (w) (lấy Kinh) Hd 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/nunghd2/playlist.m3u8
-#EXTINF:-1 tvg-id="41" group-title="Lương Sơn 🔥" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/61129/1gv288saac2s.png?win007=sell",09h30 Ngày 07/10 Angel City Fc (w) Vs Kansas City Nwsl (w) (lương Sơn) Blv Lư Tuấn Nghĩa M3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/LUTUANNGHIA1/index.m3u8?expire=1788427256&sign=a8e80688e6dbdd2cef5be1c01c20369b
-#EXTINF:-1 tvg-id="42" group-title="Lương Sơn 🔥" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/61129/1gv288saac2s.png?win007=sell",09h30 Ngày 07/10 Angel City Fc (w) Vs Kansas City Nwsl (w) (lương Sơn) Blv Lư Tuấn Nghĩa Flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/LUTUANNGHIA1.flv?expire=1788427256&sign=a8e80688e6dbdd2cef5be1c01c20369b
-#EXTINF:-1 tvg-id="43" group-title="Lương Sơn 🔥" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/61129/1gv288saac2s.png?win007=sell",09h30 Ngày 07/10 Angel City Fc (w) Vs Kansas City Nwsl (w) (lương Sơn) Blv Hạng Vũ M3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/HANGVU1/index.m3u8?expire=1788427256&sign=35e56aacb29c1a0624a29230271c3db1
-#EXTINF:-1 tvg-id="44" group-title="Lương Sơn 🔥" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/61129/1gv288saac2s.png?win007=sell",09h30 Ngày 07/10 Angel City Fc (w) Vs Kansas City Nwsl (w) (lương Sơn) Blv Hạng Vũ Flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/HANGVU1.flv?expire=1788427256&sign=35e56aacb29c1a0624a29230271c3db1
-#EXTINF:-1 tvg-id="45" group-title="Lương Sơn 🔥" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/61129/1gv288saac2s.png?win007=sell",09h30 Ngày 07/10 Angel City Fc (w) Vs Kansas City Nwsl (w) (lương Sơn) Blv Mã Siêu M3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-#EXTINF:-1 tvg-id="46" group-title="Lương Sơn 🔥" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/61129/1gv288saac2s.png?win007=sell",09h30 Ngày 07/10 Angel City Fc (w) Vs Kansas City Nwsl (w) (lương Sơn) Blv Mã Siêu Flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-#EXTINF:-1 tvg-id="47" group-title="Lương Sơn 🔥" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/61129/1gv288saac2s.png?win007=sell",09h30 Ngày 07/10 Angel City Fc (w) Vs Kansas City Nwsl (w) (lương Sơn) Blv Ura M3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
-#EXTINF:-1 tvg-id="48" group-title="Lương Sơn 🔥" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/61129/1gv288saac2s.png?win007=sell",09h30 Ngày 07/10 Angel City Fc (w) Vs Kansas City Nwsl (w) (lương Sơn) Blv Ura Flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/URA.flv?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
-#EXTINF:-1 tvg-id="49" group-title="Ra Khơi 🔥" tvg-logo="https://img.thesports.com/football/team/bcedf53b78b380edaeb5b36dce2515ff.png",09h30 Ngày 07/10 Angel City Fc (w) Vs Kansas City Current (w) (ra Khơi) Sd 1
+https://ckcdn.livestreameuro.live/live/lanhd1.flv
+#EXTINF:-1 tvg-id="24" group-title="Cà Khịa 🔥" tvg-logo="https://img.thesports.com/football/team/bcedf53b78b380edaeb5b36dce2515ff.png",09h30 Ngày 07/10 Angel City Fc (w) Vs Kansas City Current (w) (cà Khịa) Sd 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/nungsd1/playlist.m3u8
-#EXTINF:-1 tvg-id="50" group-title="Ra Khơi 🔥" tvg-logo="https://img.thesports.com/football/team/bcedf53b78b380edaeb5b36dce2515ff.png",09h30 Ngày 07/10 Angel City Fc (w) Vs Kansas City Current (w) (ra Khơi) Hd 1
+#EXTINF:-1 tvg-id="25" group-title="Cà Khịa 🔥" tvg-logo="https://img.thesports.com/football/team/bcedf53b78b380edaeb5b36dce2515ff.png",09h30 Ngày 07/10 Angel City Fc (w) Vs Kansas City Current (w) (cà Khịa) Hd 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/nunghd1/playlist.m3u8
-#EXTINF:-1 tvg-id="51" group-title="Ra Khơi 🔥" tvg-logo="https://img.thesports.com/football/team/bcedf53b78b380edaeb5b36dce2515ff.png",09h30 Ngày 07/10 Angel City Fc (w) Vs Kansas City Current (w) (ra Khơi) Sd 2
+#EXTINF:-1 tvg-id="26" group-title="Cà Khịa 🔥" tvg-logo="https://img.thesports.com/football/team/bcedf53b78b380edaeb5b36dce2515ff.png",09h30 Ngày 07/10 Angel City Fc (w) Vs Kansas City Current (w) (cà Khịa) Sd 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckhot-179939170.cdnfree.pro/live/nungsd2/playlist.m3u8
-#EXTINF:-1 tvg-id="52" group-title="Ra Khơi 🔥" tvg-logo="https://img.thesports.com/football/team/bcedf53b78b380edaeb5b36dce2515ff.png",09h30 Ngày 07/10 Angel City Fc (w) Vs Kansas City Current (w) (ra Khơi) Hd 2
+#EXTINF:-1 tvg-id="27" group-title="Cà Khịa 🔥" tvg-logo="https://img.thesports.com/football/team/bcedf53b78b380edaeb5b36dce2515ff.png",09h30 Ngày 07/10 Angel City Fc (w) Vs Kansas City Current (w) (cà Khịa) Hd 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckhot-179939170.cdnfree.pro/live/nunghd2/playlist.m3u8
-#EXTINF:-1 tvg-id="53" group-title="Ra Khơi 🔥" tvg-logo="https://img.thesports.com/football/team/bcedf53b78b380edaeb5b36dce2515ff.png",09h30 Ngày 07/10 Angel City Fc (w) Vs Kansas City Current (w) (ra Khơi) Sd Nhanh
+#EXTINF:-1 tvg-id="28" group-title="Cà Khịa 🔥" tvg-logo="https://img.thesports.com/football/team/bcedf53b78b380edaeb5b36dce2515ff.png",09h30 Ngày 07/10 Angel City Fc (w) Vs Kansas City Current (w) (cà Khịa) Sd Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/nungsd1.flv
-#EXTINF:-1 tvg-id="54" group-title="Ra Khơi 🔥" tvg-logo="https://img.thesports.com/football/team/bcedf53b78b380edaeb5b36dce2515ff.png",09h30 Ngày 07/10 Angel City Fc (w) Vs Kansas City Current (w) (ra Khơi) Hd Nhanh
+#EXTINF:-1 tvg-id="29" group-title="Cà Khịa 🔥" tvg-logo="https://img.thesports.com/football/team/bcedf53b78b380edaeb5b36dce2515ff.png",09h30 Ngày 07/10 Angel City Fc (w) Vs Kansas City Current (w) (cà Khịa) Hd Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/nungshd1.flv
-#EXTINF:-1 tvg-id="55" group-title="Ra Khơi 🔥" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w60",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets (ra Khơi) Sd 1
+#EXTINF:-1 tvg-id="30" group-title="Cà Khịa 🔥" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w60",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets (cà Khịa) Sd 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/paosd1/playlist.m3u8
-#EXTINF:-1 tvg-id="56" group-title="Ra Khơi 🔥" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w60",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets (ra Khơi) Hd 1
+#EXTINF:-1 tvg-id="31" group-title="Cà Khịa 🔥" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w60",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets (cà Khịa) Hd 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/paohd1/playlist.m3u8
-#EXTINF:-1 tvg-id="57" group-title="Ra Khơi 🔥" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w60",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets (ra Khơi) Sd 2
+#EXTINF:-1 tvg-id="32" group-title="Cà Khịa 🔥" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w60",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets (cà Khịa) Sd 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckhot-179939170.cdnfree.pro/live/paosd2/playlist.m3u8
-#EXTINF:-1 tvg-id="58" group-title="Ra Khơi 🔥" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w60",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets (ra Khơi) Hd 2
+#EXTINF:-1 tvg-id="33" group-title="Cà Khịa 🔥" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w60",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets (cà Khịa) Hd 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckhot-179939170.cdnfree.pro/live/paohd2/playlist.m3u8
-#EXTINF:-1 tvg-id="59" group-title="Ra Khơi 🔥" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w60",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets (ra Khơi) Sd 3 (nhanh)
+#EXTINF:-1 tvg-id="34" group-title="Cà Khịa 🔥" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w60",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets (cà Khịa) Sd 3 (nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/paosd1.flv
-#EXTINF:-1 tvg-id="60" group-title="Ra Khơi 🔥" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w60",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets (ra Khơi) Hd 3 (nhanh)
+#EXTINF:-1 tvg-id="35" group-title="Cà Khịa 🔥" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w60",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets (cà Khịa) Hd 3 (nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/paohd1.flv
-#EXTINF:-1 tvg-id="61" group-title="Sao Kê 🔥" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1335914_small.png",09:30 Ngày 10/07 Angel City Fc (w) Và Kansas City Current (w) (sao Kê) Sd 2
+#EXTINF:-1 tvg-id="36" group-title="Lấy Kinh 🔥" tvg-logo="https://img.thesports.com/football/team/b25d37216425034b6695ec3c3119d07d.png",12h00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong Fc (lấy Kinh) Sd Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/lansd1.flv
+#EXTINF:-1 tvg-id="37" group-title="Lấy Kinh 🔥" tvg-logo="https://img.thesports.com/football/team/b25d37216425034b6695ec3c3119d07d.png",12h00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong Fc (lấy Kinh) Hd Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/lanhd1.flv
+#EXTINF:-1 tvg-id="38" group-title="Lấy Kinh 🔥" tvg-logo="https://img.thesports.com/football/team/b25d37216425034b6695ec3c3119d07d.png",12h00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong Fc (lấy Kinh) Sd 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/lansd1/playlist.m3u8
+#EXTINF:-1 tvg-id="39" group-title="Lấy Kinh 🔥" tvg-logo="https://img.thesports.com/football/team/b25d37216425034b6695ec3c3119d07d.png",12h00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong Fc (lấy Kinh) Hd 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/lanhd1/playlist.m3u8
+#EXTINF:-1 tvg-id="40" group-title="Lấy Kinh 🔥" tvg-logo="https://img.thesports.com/football/team/b25d37216425034b6695ec3c3119d07d.png",12h00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong Fc (lấy Kinh) Sd 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lansd2/playlist.m3u8
+#EXTINF:-1 tvg-id="41" group-title="Lấy Kinh 🔥" tvg-logo="https://img.thesports.com/football/team/b25d37216425034b6695ec3c3119d07d.png",12h00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong Fc (lấy Kinh) Hd 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lanhd2/playlist.m3u8
+#EXTINF:-1 tvg-id="42" group-title="Lấy Kinh 🔥" tvg-logo="https://img.thesports.com/football/team/d574a61b5e8eb37ca0c037a100e78423.png",12h30 Ngày 07/10 Rebels Fc Vs Kickstart Karnataka Fc (lấy Kinh) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/m201nd/playlist.m3u8
+#EXTINF:-1 tvg-id="43" group-title="Lấy Kinh 🔥" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w60",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets (lấy Kinh) Sd Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/paosd1.flv
+#EXTINF:-1 tvg-id="44" group-title="Lấy Kinh 🔥" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w60",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets (lấy Kinh) Hd Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/paohd1.flv
+#EXTINF:-1 tvg-id="45" group-title="Lấy Kinh 🔥" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w60",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets (lấy Kinh) Sd 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/paosd1/playlist.m3u8
+#EXTINF:-1 tvg-id="46" group-title="Lấy Kinh 🔥" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w60",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets (lấy Kinh) Hd 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/paohd1/playlist.m3u8
+#EXTINF:-1 tvg-id="47" group-title="Lấy Kinh 🔥" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w60",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets (lấy Kinh) Sd 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/paosd2/playlist.m3u8
+#EXTINF:-1 tvg-id="48" group-title="Lấy Kinh 🔥" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w60",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets (lấy Kinh) Hd 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/paohd2/playlist.m3u8
+#EXTINF:-1 tvg-id="49" group-title="Ra Khơi 🔥" tvg-logo="https://img.thesports.com/football/team/d574a61b5e8eb37ca0c037a100e78423.png",12h30 Ngày 07/10 Rebels Fc Vs Kickstart Karnataka Fc (ra Khơi) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m201nd/playlist.m3u8
+#EXTINF:-1 tvg-id="50" group-title="Ra Khơi 🔥" tvg-logo="https://img.thesports.com/football/team/b25d37216425034b6695ec3c3119d07d.png",12h00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong Fc (ra Khơi) Sd 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lansd1/playlist.m3u8
+#EXTINF:-1 tvg-id="51" group-title="Ra Khơi 🔥" tvg-logo="https://img.thesports.com/football/team/b25d37216425034b6695ec3c3119d07d.png",12h00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong Fc (ra Khơi) Hd 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lanhd1/playlist.m3u8
+#EXTINF:-1 tvg-id="52" group-title="Ra Khơi 🔥" tvg-logo="https://img.thesports.com/football/team/b25d37216425034b6695ec3c3119d07d.png",12h00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong Fc (ra Khơi) Sd 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lansd2/playlist.m3u8
+#EXTINF:-1 tvg-id="53" group-title="Ra Khơi 🔥" tvg-logo="https://img.thesports.com/football/team/b25d37216425034b6695ec3c3119d07d.png",12h00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong Fc (ra Khơi) Hd 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lanhd2/playlist.m3u8
+#EXTINF:-1 tvg-id="54" group-title="Ra Khơi 🔥" tvg-logo="https://img.thesports.com/football/team/b25d37216425034b6695ec3c3119d07d.png",12h00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong Fc (ra Khơi) Sd 3 (nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lansd1.flv
+#EXTINF:-1 tvg-id="55" group-title="Ra Khơi 🔥" tvg-logo="https://img.thesports.com/football/team/b25d37216425034b6695ec3c3119d07d.png",12h00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong Fc (ra Khơi) Hd 3 (nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lanhd1.flv
+#EXTINF:-1 tvg-id="56" group-title="Ra Khơi 🔥" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w60",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets (ra Khơi) Sd 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/paosd1/playlist.m3u8
+#EXTINF:-1 tvg-id="57" group-title="Ra Khơi 🔥" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w60",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets (ra Khơi) Hd 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/paohd1/playlist.m3u8
+#EXTINF:-1 tvg-id="58" group-title="Ra Khơi 🔥" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w60",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets (ra Khơi) Sd 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/paosd2/playlist.m3u8
+#EXTINF:-1 tvg-id="59" group-title="Ra Khơi 🔥" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w60",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets (ra Khơi) Hd 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/paohd2/playlist.m3u8
+#EXTINF:-1 tvg-id="60" group-title="Ra Khơi 🔥" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w60",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets (ra Khơi) Sd 3 (nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/paosd1.flv
+#EXTINF:-1 tvg-id="61" group-title="Ra Khơi 🔥" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w60",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets (ra Khơi) Hd 3 (nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/paohd1.flv
+#EXTINF:-1 tvg-id="62" group-title="Sao Kê 🔥" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1335914_small.png",09:30 Ngày 10/07 Angel City Fc (w) Và Kansas City Current (w) (sao Kê) Sd 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://saoke.cdn.khmer-hd.com/x0y1/playlist.m3u8
-#EXTINF:-1 tvg-id="62" group-title="Sao Kê 🔥" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1335914_small.png",09:30 Ngày 10/07 Angel City Fc (w) Và Kansas City Current (w) (sao Kê) Hd 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/x0y3-3410/playlist.m3u8
 #EXTINF:-1 tvg-id="63" group-title="Sao Kê 🔥" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1335914_small.png",09:30 Ngày 10/07 Angel City Fc (w) Và Kansas City Current (w) (sao Kê) Hd 3
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x0y3-3410/playlist.m3u8
+#EXTINF:-1 tvg-id="64" group-title="Sao Kê 🔥" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1335914_small.png",09:30 Ngày 10/07 Angel City Fc (w) Và Kansas City Current (w) (sao Kê) Hd 3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://stm6dad71710204.stream.hdplaylink.com/sklive/x0y2/playlist.m3u8
-#EXTINF:-1 tvg-id="64" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/cb3c7e99e401d3ff83eeb36c53996d79.png",07h00 Ngày 06/10 Racing Club De Avellaneda Vs Independiente Rivadavia (khán đài A) Source
+#EXTINF:-1 tvg-id="65" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/cb3c7e99e401d3ff83eeb36c53996d79.png",07h00 Ngày 06/10 Racing Club De Avellaneda Vs Independiente Rivadavia (khán đài A) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/9626ba75299027ad6bc4675037ecde5b/playlist.m3u8
-#EXTINF:-1 tvg-id="65" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/7217d3ac5f9259306e99389e45c40c9a.png",07h00 Ngày 06/10 The Strongest Vs Gualberto Villarroel Deportivo San José (khán đài A) Source
+#EXTINF:-1 tvg-id="66" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/7217d3ac5f9259306e99389e45c40c9a.png",07h00 Ngày 06/10 The Strongest Vs Gualberto Villarroel Deportivo San José (khán đài A) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/04347b50305239b339883edc0771c45d/playlist.m3u8
-#EXTINF:-1 tvg-id="66" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/53fc57ac8c251acbd55f5e66738d08cc.png",06h00 Ngày 06/10 Sao Paulo/sp Women Vs Colo Colo Women (khán đài A) Source
+#EXTINF:-1 tvg-id="67" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/53fc57ac8c251acbd55f5e66738d08cc.png",06h00 Ngày 06/10 Sao Paulo/sp Women Vs Colo Colo Women (khán đài A) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/06610e66500087007027a55866e09b3d/playlist.m3u8
-#EXTINF:-1 tvg-id="67" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/a0384799afdbb817eb5f9071fc65fab1.png",07h10 Ngày 06/10 Ferrocarril Midland Vs Deportivo Armenio (khán đài A) Source
+#EXTINF:-1 tvg-id="68" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/a0384799afdbb817eb5f9071fc65fab1.png",07h10 Ngày 06/10 Ferrocarril Midland Vs Deportivo Armenio (khán đài A) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/4cd0f99bdbe09856483160e671c660d6/playlist.m3u8
-#EXTINF:-1 tvg-id="68" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/7efa46c8f221ccfe537844bb433e8396.png",09h00 Ngày 06/10 Ad Municipal Liberia Vs Puntarenas Fc (khán đài A) Source
+#EXTINF:-1 tvg-id="69" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/7efa46c8f221ccfe537844bb433e8396.png",09h00 Ngày 06/10 Ad Municipal Liberia Vs Puntarenas Fc (khán đài A) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/f05acf036e7564c12ec10b20f8cb3ec3/playlist.m3u8
-#EXTINF:-1 tvg-id="69" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/e69f9c600667cf3584b01dac474c1de9.png",05h15 Ngày 06/10 Atletico Huila Vs Barranquilla Fc (khán đài A) Source
+#EXTINF:-1 tvg-id="70" group-title="Khán đài A 🔥" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Vietinbank.png",12h00 Ngày 06/10 Vietinbank Vs Geleximco Hưng Yên (khán đài A) Hd_1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/35b0f3e55db92a0afb40fd7953e2a263/playlist.m3u8
-#EXTINF:-1 tvg-id="70" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/bcedf53b78b380edaeb5b36dce2515ff.png",09h30 Ngày 06/10 Angel City Fc Women Vs Kansas City Current Women (khán đài A) Source
+https://live4.fastestcdn-global.com/live4/544ebbeaad064120ad629a0963a99b68_720/index.m3u8
+#EXTINF:-1 tvg-id="71" group-title="Khán đài A 🔥" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Vietinbank.png",12h00 Ngày 06/10 Vietinbank Vs Geleximco Hưng Yên (khán đài A) Hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://stm02bc48435558.stream.hdplaylink.com/live3/544ebbeaad064120ad629a0963a99b68_720/playlist.m3u8
+#EXTINF:-1 tvg-id="72" group-title="Khán đài A 🔥" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Vietinbank.png",12h00 Ngày 06/10 Vietinbank Vs Geleximco Hưng Yên (khán đài A) Hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://stm02bc67274262.stream.hdplaylink.com/live4/544ebbeaad064120ad629a0963a99b68_720/playlist.m3u8
+#EXTINF:-1 tvg-id="73" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/bcedf53b78b380edaeb5b36dce2515ff.png",09h30 Ngày 06/10 Angel City Fc Women Vs Kansas City Current Women (khán đài A) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/749d5c9619a352d6fc6f9e8fe2ea5729/playlist.m3u8
-#EXTINF:-1 tvg-id="71" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/398fe0a0ed3c0dfb6a4afdfb8bc6cb7a.png",06h00 Ngày 06/10 All Boys Vs Los Andes (khán đài A) Source
+#EXTINF:-1 tvg-id="74" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/398fe0a0ed3c0dfb6a4afdfb8bc6cb7a.png",06h00 Ngày 06/10 All Boys Vs Los Andes (khán đài A) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/3df59f996a1f1755d87cac2d6ba0a4a0/playlist.m3u8
-#EXTINF:-1 tvg-id="72" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/018ffc6f0b8298870a01ad4da5f86e7f.png",07h00 Ngày 06/10 Santos Laguna Women Vs Juarez Fc Women (khán đài A) Source
+#EXTINF:-1 tvg-id="75" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/018ffc6f0b8298870a01ad4da5f86e7f.png",07h00 Ngày 06/10 Santos Laguna Women Vs Juarez Fc Women (khán đài A) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/d6c572082e206199812daa9c792d737f/playlist.m3u8
-#EXTINF:-1 tvg-id="73" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/19dcd5ee9c46085cc636399079be4a99.png",06h00 Ngày 06/10 Sportivo Limpeno Women Vs Universidad De Chile Women (khán đài A) Source
+#EXTINF:-1 tvg-id="76" group-title="Khán đài A 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/19dcd5ee9c46085cc636399079be4a99.png",06h00 Ngày 06/10 Sportivo Limpeno Women Vs Universidad De Chile Women (khán đài A) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/f9e8424e01a7636bbd78b16397ded7ee/playlist.m3u8
-#EXTINF:-1 tvg-id="74" group-title="Quay Tay 🔥" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w60",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets (quay Tay) Sd Nhanh
+#EXTINF:-1 tvg-id="77" group-title="Quay Tay 🔥" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w60",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets (quay Tay) Sd Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://ckcdn.livestreameuro.live/live/paosd1.flv
-#EXTINF:-1 tvg-id="75" group-title="Quay Tay 🔥" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w60",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets (quay Tay) Hd Nhanh
+#EXTINF:-1 tvg-id="78" group-title="Quay Tay 🔥" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w60",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets (quay Tay) Hd Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://ckcdn.livestreameuro.live/live/paohd1.flv
-#EXTINF:-1 tvg-id="76" group-title="Quay Tay 🔥" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w60",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets (quay Tay) Sd 1
+#EXTINF:-1 tvg-id="79" group-title="Quay Tay 🔥" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w60",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets (quay Tay) Sd 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://ckcdn.livestreameuro.live/live/paosd1/playlist.m3u8
-#EXTINF:-1 tvg-id="77" group-title="Quay Tay 🔥" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w60",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets (quay Tay) Hd 1
+#EXTINF:-1 tvg-id="80" group-title="Quay Tay 🔥" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w60",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets (quay Tay) Hd 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://ckcdn.livestreameuro.live/live/paohd1/playlist.m3u8
-#EXTINF:-1 tvg-id="78" group-title="Quay Tay 🔥" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w60",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets (quay Tay) Sd 2
+#EXTINF:-1 tvg-id="81" group-title="Quay Tay 🔥" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w60",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets (quay Tay) Sd 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://ckhot-179939170.cdnfree.pro/live/paosd2/playlist.m3u8
-#EXTINF:-1 tvg-id="79" group-title="Quay Tay 🔥" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w60",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets (quay Tay) Hd 2
+#EXTINF:-1 tvg-id="82" group-title="Quay Tay 🔥" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w60",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets (quay Tay) Hd 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://ckhot-179939170.cdnfree.pro/live/paohd2/playlist.m3u8
-#EXTINF:-1 tvg-id="80" group-title="Quay Tay 🔥" tvg-logo="https://img.thesports.com/football/team/bcedf53b78b380edaeb5b36dce2515ff.png",09h30 Ngày 07/10 Angel City Fc (w) Vs Kansas City Current (w) (quay Tay) Sd Nhanh
+#EXTINF:-1 tvg-id="83" group-title="Quay Tay 🔥" tvg-logo="https://img.thesports.com/football/team/b25d37216425034b6695ec3c3119d07d.png",12h00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong Fc (quay Tay) Sd Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckcdn.livestreameuro.live/live/nungsd1.flv
-#EXTINF:-1 tvg-id="81" group-title="Quay Tay 🔥" tvg-logo="https://img.thesports.com/football/team/bcedf53b78b380edaeb5b36dce2515ff.png",09h30 Ngày 07/10 Angel City Fc (w) Vs Kansas City Current (w) (quay Tay) Hd Nhanh
+https://ckcdn.livestreameuro.live/live/lansd1.flv
+#EXTINF:-1 tvg-id="84" group-title="Quay Tay 🔥" tvg-logo="https://img.thesports.com/football/team/b25d37216425034b6695ec3c3119d07d.png",12h00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong Fc (quay Tay) Hd Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckcdn.livestreameuro.live/live/nungshd1.flv
-#EXTINF:-1 tvg-id="82" group-title="Quay Tay 🔥" tvg-logo="https://img.thesports.com/football/team/bcedf53b78b380edaeb5b36dce2515ff.png",09h30 Ngày 07/10 Angel City Fc (w) Vs Kansas City Current (w) (quay Tay) Sd 1
+https://ckcdn.livestreameuro.live/live/lanhd1.flv
+#EXTINF:-1 tvg-id="85" group-title="Quay Tay 🔥" tvg-logo="https://img.thesports.com/football/team/b25d37216425034b6695ec3c3119d07d.png",12h00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong Fc (quay Tay) Sd 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckcdn.livestreameuro.live/live/nungsd1/playlist.m3u8
-#EXTINF:-1 tvg-id="83" group-title="Quay Tay 🔥" tvg-logo="https://img.thesports.com/football/team/bcedf53b78b380edaeb5b36dce2515ff.png",09h30 Ngày 07/10 Angel City Fc (w) Vs Kansas City Current (w) (quay Tay) Hd 1
+https://ckcdn.livestreameuro.live/live/lansd1/playlist.m3u8
+#EXTINF:-1 tvg-id="86" group-title="Quay Tay 🔥" tvg-logo="https://img.thesports.com/football/team/b25d37216425034b6695ec3c3119d07d.png",12h00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong Fc (quay Tay) Hd 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckcdn.livestreameuro.live/live/nunghd1/playlist.m3u8
-#EXTINF:-1 tvg-id="84" group-title="Quay Tay 🔥" tvg-logo="https://img.thesports.com/football/team/bcedf53b78b380edaeb5b36dce2515ff.png",09h30 Ngày 07/10 Angel City Fc (w) Vs Kansas City Current (w) (quay Tay) Sd 2
+https://ckcdn.livestreameuro.live/live/lanhd1/playlist.m3u8
+#EXTINF:-1 tvg-id="87" group-title="Quay Tay 🔥" tvg-logo="https://img.thesports.com/football/team/b25d37216425034b6695ec3c3119d07d.png",12h00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong Fc (quay Tay) Sd 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/nungsd2/playlist.m3u8
-#EXTINF:-1 tvg-id="85" group-title="Quay Tay 🔥" tvg-logo="https://img.thesports.com/football/team/bcedf53b78b380edaeb5b36dce2515ff.png",09h30 Ngày 07/10 Angel City Fc (w) Vs Kansas City Current (w) (quay Tay) Hd 2
+https://ckhot-179939170.cdnfree.pro/live/lansd2/playlist.m3u8
+#EXTINF:-1 tvg-id="88" group-title="Quay Tay 🔥" tvg-logo="https://img.thesports.com/football/team/b25d37216425034b6695ec3c3119d07d.png",12h00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong Fc (quay Tay) Hd 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/nunghd2/playlist.m3u8
-#EXTINF:-1 tvg-id="86" group-title="Gà Vàng 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/c32ddb0be3a23ceca9a2ccfb599438eb.png",09h00 Ngày 06/10 Monterrey Women Vs Club America Women (gà Vàng) Source
+https://ckhot-179939170.cdnfree.pro/live/lanhd2/playlist.m3u8
+#EXTINF:-1 tvg-id="89" group-title="Quay Tay 🔥" tvg-logo="https://img.thesports.com/football/team/d574a61b5e8eb37ca0c037a100e78423.png",12h30 Ngày 07/10 Rebels Fc Vs Kickstart Karnataka Fc (quay Tay) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/m201nd/playlist.m3u8
+#EXTINF:-1 tvg-id="90" group-title="Gà Vàng 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/7efa46c8f221ccfe537844bb433e8396.png",09h00 Ngày 06/10 Ad Municipal Liberia Vs Puntarenas Fc (gà Vàng) Source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/f05acf036e7564c12ec10b20f8cb3ec3/playlist.m3u8
+#EXTINF:-1 tvg-id="91" group-title="Gà Vàng 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/c32ddb0be3a23ceca9a2ccfb599438eb.png",09h00 Ngày 06/10 Monterrey Women Vs Club America Women (gà Vàng) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/617e3dbcfae23dca4d97ebd79512dd58/playlist.m3u8
-#EXTINF:-1 tvg-id="87" group-title="Gà Vàng 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/bcedf53b78b380edaeb5b36dce2515ff.png",09h30 Ngày 06/10 Angel City Fc Women Vs Kansas City Current Women (gà Vàng) Source
+#EXTINF:-1 tvg-id="92" group-title="Gà Vàng 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/bcedf53b78b380edaeb5b36dce2515ff.png",09h30 Ngày 06/10 Angel City Fc Women Vs Kansas City Current Women (gà Vàng) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/749d5c9619a352d6fc6f9e8fe2ea5729/playlist.m3u8
-#EXTINF:-1 tvg-id="88" group-title="Văn Khánh 🔥" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/61129/1gv288saac2s.png?win007=sell",09h30 Ngày 07/10 Angel City Fc (w) Vs Kansas City Nwsl (w) (văn Khánh) M3u
+#EXTINF:-1 tvg-id="93" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251005/da7aefb22e667bd4959db22250fc69d5.png",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets [king] (socolive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://hls.cdnvankhanh.com/live/VANCHUONG/index.m3u8?expire=1890806880&sign=d5e33b097684f7c5682301b78b825aaf
-#EXTINF:-1 tvg-id="89" group-title="Văn Khánh 🔥" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/61129/1gv288saac2s.png?win007=sell",09h30 Ngày 07/10 Angel City Fc (w) Vs Kansas City Nwsl (w) (văn Khánh) Flv
+https://pull.niur.live/live/stream-9912099_lsd.flv?txSecret=9d2781868204d606a7a8b4c2b20f1182&txTime=68e4ece9
+#EXTINF:-1 tvg-id="94" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251005/da7aefb22e667bd4959db22250fc69d5.png",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets [king] (socolive) Hdflv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://flv.cdnvankhanh.com/live/VANCHUONG.flv?expire=1890806880&sign=d5e33b097684f7c5682301b78b825aaf
-#EXTINF:-1 tvg-id="90" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/c04b4bca3bdaecd0cfe3ca4f86e2fd23.png",09h30 Ngày 07/10 Angel City Fc Women Vs Kansas City Current Women [blv Enzo] (socolive) Flv
+https://pull.niur.live/live/stream-9912099_lhd.flv?txSecret=c0804b6931bb7d4b63792a8dda1f159a&txTime=68e4ece9
+#EXTINF:-1 tvg-id="95" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251005/da7aefb22e667bd4959db22250fc69d5.png",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets [king] (socolive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1759813881-0-0-9050e1d353470d8db249f705d73980ab
-#EXTINF:-1 tvg-id="91" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/c04b4bca3bdaecd0cfe3ca4f86e2fd23.png",09h30 Ngày 07/10 Angel City Fc Women Vs Kansas City Current Women [blv Enzo] (socolive) Hdflv
+https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=9d2781868204d606a7a8b4c2b20f1182&txTime=68e4ece9
+#EXTINF:-1 tvg-id="96" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251005/da7aefb22e667bd4959db22250fc69d5.png",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets [king] (socolive) Hdm3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1759813881-0-0-857551b49546a7576343153d6b373586
-#EXTINF:-1 tvg-id="92" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/c04b4bca3bdaecd0cfe3ca4f86e2fd23.png",09h30 Ngày 07/10 Angel City Fc Women Vs Kansas City Current Women [blv Enzo] (socolive) M3u8
+https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=c0804b6931bb7d4b63792a8dda1f159a&txTime=68e4ece9
+#EXTINF:-1 tvg-id="97" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/780755ec04240f217b5af04477961a60.png",12h00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong Fc [blv Pewpew] (socolive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1759813881-0-0-9c165c9deb218a4df3b5674ad74b7f37
-#EXTINF:-1 tvg-id="93" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/c04b4bca3bdaecd0cfe3ca4f86e2fd23.png",09h30 Ngày 07/10 Angel City Fc Women Vs Kansas City Current Women [blv Enzo] (socolive) Hdm3u8
+https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1759815321-0-0-2c8931dd7708b27405df0f5d690c8a3d
+#EXTINF:-1 tvg-id="98" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/780755ec04240f217b5af04477961a60.png",12h00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong Fc [blv Pewpew] (socolive) Hdflv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1759813881-0-0-3300d20695904436629dcf64361f6bb1
-#EXTINF:-1 tvg-id="94" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251005/da7aefb22e667bd4959db22250fc69d5.png",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets [king] (socolive) Flv
+https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1759815321-0-0-78ea3f841d0734300c3780b9b151f133
+#EXTINF:-1 tvg-id="99" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/780755ec04240f217b5af04477961a60.png",12h00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong Fc [blv Pewpew] (socolive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912099_lsd.flv?txSecret=bcdd801623a2ef2aea47c0301c0855c3&txTime=68e4e749
-#EXTINF:-1 tvg-id="95" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251005/da7aefb22e667bd4959db22250fc69d5.png",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets [king] (socolive) Hdflv
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1759815321-0-0-c10bd2021fb881ecc41f00ed8e2dd44c
+#EXTINF:-1 tvg-id="100" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/780755ec04240f217b5af04477961a60.png",12h00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong Fc [blv Pewpew] (socolive) Hdm3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912099_lhd.flv?txSecret=84807b4aabb9cface8e62fe5ac77b511&txTime=68e4e749
-#EXTINF:-1 tvg-id="96" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251005/da7aefb22e667bd4959db22250fc69d5.png",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets [king] (socolive) M3u8
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1759815321-0-0-7f7925ad80f1fcc35ed184e31fac3270
+#EXTINF:-1 tvg-id="101" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/780755ec04240f217b5af04477961a60.png",12h00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong Fc [blv Tommy] (socolive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=bcdd801623a2ef2aea47c0301c0855c3&txTime=68e4e749
-#EXTINF:-1 tvg-id="97" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251005/da7aefb22e667bd4959db22250fc69d5.png",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets [king] (socolive) Hdm3u8
+https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1759815321-0-0-375e67e1eb8e92c74ef37e952a524c56
+#EXTINF:-1 tvg-id="102" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/780755ec04240f217b5af04477961a60.png",12h00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong Fc [blv Tommy] (socolive) Hdflv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=84807b4aabb9cface8e62fe5ac77b511&txTime=68e4e749
-#EXTINF:-1 tvg-id="98" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/c04b4bca3bdaecd0cfe3ca4f86e2fd23.png",09h30 Ngày 07/10 Angel City Fc Women Vs Kansas City Current Women [blv Hope] (socolive) Flv
+https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1759815321-0-0-756215a00888232bc6457b8bc5faf392
+#EXTINF:-1 tvg-id="103" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/780755ec04240f217b5af04477961a60.png",12h00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong Fc [blv Tommy] (socolive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912043_lsd.flv?auth_key=1759813881-0-0-f7076712aa902b92c2e73f46e8108962
-#EXTINF:-1 tvg-id="99" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/c04b4bca3bdaecd0cfe3ca4f86e2fd23.png",09h30 Ngày 07/10 Angel City Fc Women Vs Kansas City Current Women [blv Hope] (socolive) Hdflv
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1759815321-0-0-aa83709f42dcde0b5287406f29c61c66
+#EXTINF:-1 tvg-id="104" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/780755ec04240f217b5af04477961a60.png",12h00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong Fc [blv Tommy] (socolive) Hdm3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912043_lhd.flv?auth_key=1759813881-0-0-1fc7bc640df09dd7cd0d7a126b7c340e
-#EXTINF:-1 tvg-id="100" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/c04b4bca3bdaecd0cfe3ca4f86e2fd23.png",09h30 Ngày 07/10 Angel City Fc Women Vs Kansas City Current Women [blv Hope] (socolive) M3u8
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1759815321-0-0-483524800e0afeb356c40ff80cc84969
+#EXTINF:-1 tvg-id="105" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251005/b8ef1f642348323e09694e2d28f142bf.png",12h00 Ngày 07/10 Suwon Kt Vs Mobis Phoebus [blv Junior] (socolive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912043_lsd.m3u8?auth_key=1759813881-0-0-32f0097f252487748e3876be5e07d9cf
-#EXTINF:-1 tvg-id="101" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/c04b4bca3bdaecd0cfe3ca4f86e2fd23.png",09h30 Ngày 07/10 Angel City Fc Women Vs Kansas City Current Women [blv Hope] (socolive) Hdm3u8
+https://pull06.scstream.net/live/stream-539752_lsd.flv?auth_key=1759815321-0-0-52e3ec140b932f1a7c43f8654586e516
+#EXTINF:-1 tvg-id="106" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251005/b8ef1f642348323e09694e2d28f142bf.png",12h00 Ngày 07/10 Suwon Kt Vs Mobis Phoebus [blv Junior] (socolive) Hdflv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912043_lhd.m3u8?auth_key=1759813881-0-0-6aaf8a60b63ef0a3bb4dd5c865a2679e
-#EXTINF:-1 tvg-id="102" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/c04b4bca3bdaecd0cfe3ca4f86e2fd23.png",09h30 Ngày 07/10 Angel City Fc Women Vs Kansas City Current Women [blv Kudo] (socolive) Flv
+https://pull06.scstream.net/live/stream-539752_lhd.flv?auth_key=1759815321-0-0-eeff3a9a86c26bf7f199c3a7d786aa4c
+#EXTINF:-1 tvg-id="107" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251005/b8ef1f642348323e09694e2d28f142bf.png",12h00 Ngày 07/10 Suwon Kt Vs Mobis Phoebus [blv Junior] (socolive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-334434_lsd.flv?auth_key=1759813881-0-0-4bf8593efe1ec670a65f232fac928ea5
-#EXTINF:-1 tvg-id="103" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/c04b4bca3bdaecd0cfe3ca4f86e2fd23.png",09h30 Ngày 07/10 Angel City Fc Women Vs Kansas City Current Women [blv Kudo] (socolive) Hdflv
+https://pull.niues.live/live/stream-539752_lsd.m3u8?auth_key=1759815321-0-0-c73649d67526dad79327d5150691b8f6
+#EXTINF:-1 tvg-id="108" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251005/b8ef1f642348323e09694e2d28f142bf.png",12h00 Ngày 07/10 Suwon Kt Vs Mobis Phoebus [blv Junior] (socolive) Hdm3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-334434_lhd.flv?auth_key=1759813881-0-0-11ead3004912bed732a78f85d536d9b3
-#EXTINF:-1 tvg-id="104" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/c04b4bca3bdaecd0cfe3ca4f86e2fd23.png",09h30 Ngày 07/10 Angel City Fc Women Vs Kansas City Current Women [blv Kudo] (socolive) M3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-334434_lsd.m3u8?auth_key=1759813881-0-0-95b6da05c7e94508a64cac8e778d5875
-#EXTINF:-1 tvg-id="105" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/c04b4bca3bdaecd0cfe3ca4f86e2fd23.png",09h30 Ngày 07/10 Angel City Fc Women Vs Kansas City Current Women [blv Kudo] (socolive) Hdm3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-334434_lhd.m3u8?auth_key=1759813881-0-0-78476bdb2ca8e01e359233f8e8e0c619
-#EXTINF:-1 tvg-id="106" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251005/da7aefb22e667bd4959db22250fc69d5.png",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets [blv Bean] (socolive) Flv
+https://pull.niues.live/live/stream-539752_lhd.m3u8?auth_key=1759815321-0-0-b61984c416edbe0d08d26c525a363ecc
+#EXTINF:-1 tvg-id="109" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251005/da7aefb22e667bd4959db22250fc69d5.png",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets [blv Bean] (socolive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://stream-flv.dfsfe.top/lives/9912111-480p.flv
-#EXTINF:-1 tvg-id="107" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251005/da7aefb22e667bd4959db22250fc69d5.png",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets [blv Bean] (socolive) Hdflv
+#EXTINF:-1 tvg-id="110" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251005/da7aefb22e667bd4959db22250fc69d5.png",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets [blv Bean] (socolive) Hdflv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://stream-flv.dfsfe.top/lives/9912111-720p.flv
-#EXTINF:-1 tvg-id="108" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251005/da7aefb22e667bd4959db22250fc69d5.png",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets [blv Bean] (socolive) M3u8
+#EXTINF:-1 tvg-id="111" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251005/da7aefb22e667bd4959db22250fc69d5.png",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets [blv Bean] (socolive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://stream-flv.dfsfe.top/lives/9912111-480p.m3u8
-#EXTINF:-1 tvg-id="109" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251005/da7aefb22e667bd4959db22250fc69d5.png",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets [blv Bean] (socolive) Hdm3u8
+#EXTINF:-1 tvg-id="112" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251005/da7aefb22e667bd4959db22250fc69d5.png",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets [blv Bean] (socolive) Hdm3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://stream-flv.dfsfe.top/lives/9912111-720p.m3u8
-#EXTINF:-1 tvg-id="110" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/c04b4bca3bdaecd0cfe3ca4f86e2fd23.png",09h30 Ngày 07/10 Angel City Fc Women Vs Kansas City Current Women [blv Messi] (socolive) Flv
+#EXTINF:-1 tvg-id="113" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/780755ec04240f217b5af04477961a60.png",12h00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong Fc [blv Messi] (socolive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1759813881-0-0-9192841d3fd633da2ce08f60aaa9396b
-#EXTINF:-1 tvg-id="111" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/c04b4bca3bdaecd0cfe3ca4f86e2fd23.png",09h30 Ngày 07/10 Angel City Fc Women Vs Kansas City Current Women [blv Messi] (socolive) Hdflv
+https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1759815321-0-0-d1416dd5b185f66a71fa077624cb7ec3
+#EXTINF:-1 tvg-id="114" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/780755ec04240f217b5af04477961a60.png",12h00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong Fc [blv Messi] (socolive) Hdflv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1759813881-0-0-97bc852aafe847c632ed7239e3d17162
-#EXTINF:-1 tvg-id="112" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/c04b4bca3bdaecd0cfe3ca4f86e2fd23.png",09h30 Ngày 07/10 Angel City Fc Women Vs Kansas City Current Women [blv Messi] (socolive) M3u8
+https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1759815321-0-0-9d49c9eacc4b9befd7d05595b808bcc5
+#EXTINF:-1 tvg-id="115" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/780755ec04240f217b5af04477961a60.png",12h00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong Fc [blv Messi] (socolive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1759813881-0-0-4043c5e32c025daff5bc8444cb569c1b
-#EXTINF:-1 tvg-id="113" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/c04b4bca3bdaecd0cfe3ca4f86e2fd23.png",09h30 Ngày 07/10 Angel City Fc Women Vs Kansas City Current Women [blv Messi] (socolive) Hdm3u8
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1759815321-0-0-f53d00a3c7b2c5239c1ec6971254d77a
+#EXTINF:-1 tvg-id="116" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/780755ec04240f217b5af04477961a60.png",12h00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong Fc [blv Messi] (socolive) Hdm3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1759813881-0-0-f29df4cabe825d2d3186fd1e998d6f28
-#EXTINF:-1 tvg-id="114" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251005/da7aefb22e667bd4959db22250fc69d5.png",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets [brian] (socolive) Flv
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1759815321-0-0-aa151c8ab49709fcd4e04371c01d0df0
+#EXTINF:-1 tvg-id="117" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251005/da7aefb22e667bd4959db22250fc69d5.png",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets [brian] (socolive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1759813881-0-0-52f927b16818c756ff50e344ea67c53d
-#EXTINF:-1 tvg-id="115" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251005/da7aefb22e667bd4959db22250fc69d5.png",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets [brian] (socolive) Hdflv
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1759815321-0-0-4eb30353ac1e89065b00bb01e886ded0
+#EXTINF:-1 tvg-id="118" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251005/da7aefb22e667bd4959db22250fc69d5.png",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets [brian] (socolive) Hdflv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1759813881-0-0-ef509b1c436f0c97a2ee954bdf7dd22c
-#EXTINF:-1 tvg-id="116" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251005/da7aefb22e667bd4959db22250fc69d5.png",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets [brian] (socolive) M3u8
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1759815321-0-0-11ca5b090e1c24164d0e12ac186e12e2
+#EXTINF:-1 tvg-id="119" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251005/da7aefb22e667bd4959db22250fc69d5.png",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets [brian] (socolive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1759813881-0-0-bd3f8345342ecc0eb78f4f34941b383a
-#EXTINF:-1 tvg-id="117" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251005/da7aefb22e667bd4959db22250fc69d5.png",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets [brian] (socolive) Hdm3u8
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1759815321-0-0-a70e7a1b2f11832fa1fd6ae46bb49ddf
+#EXTINF:-1 tvg-id="120" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251005/da7aefb22e667bd4959db22250fc69d5.png",09h00 Ngày 07/10 Toronto Raptors Vs Denver Nuggets [brian] (socolive) Hdm3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1759813881-0-0-64553c710e400141fb2348d77075862c
-#EXTINF:-1 tvg-id="118" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251004/5fd33d1ebad3f793889b9035a5b68a58.png",Bit.ly/socolive [socolive] (socolive) Flv
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1759815321-0-0-e8803e552a359e4a64d632d68b189ed4
+#EXTINF:-1 tvg-id="121" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/780755ec04240f217b5af04477961a60.png",12h00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong Fc [rickhanter] (socolive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1759813881-0-0-4dc98c2d928a52b5a407fcda973e91e6
-#EXTINF:-1 tvg-id="119" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251004/5fd33d1ebad3f793889b9035a5b68a58.png",Bit.ly/socolive [socolive] (socolive) Hdflv
+https://pull.niur.live/live/stream-9912101_lsd.flv?txSecret=96407cddc181b2bbf15f7856b07f4a33&txTime=68e4ece9
+#EXTINF:-1 tvg-id="122" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/780755ec04240f217b5af04477961a60.png",12h00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong Fc [rickhanter] (socolive) Hdflv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1759813881-0-0-71c330d6dc73d516b40bbf3ade65dca1
-#EXTINF:-1 tvg-id="120" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251004/5fd33d1ebad3f793889b9035a5b68a58.png",Bit.ly/socolive [socolive] (socolive) M3u8
+https://pull.niur.live/live/stream-9912101_lhd.flv?txSecret=177716929b36c8d7c80cc9f86ec484e4&txTime=68e4ece9
+#EXTINF:-1 tvg-id="123" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/780755ec04240f217b5af04477961a60.png",12h00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong Fc [rickhanter] (socolive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1759813881-0-0-a1e28ec18d9d931752f8957e0c668902
-#EXTINF:-1 tvg-id="121" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251004/5fd33d1ebad3f793889b9035a5b68a58.png",Bit.ly/socolive [socolive] (socolive) Hdm3u8
+https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=96407cddc181b2bbf15f7856b07f4a33&txTime=68e4ece9
+#EXTINF:-1 tvg-id="124" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/780755ec04240f217b5af04477961a60.png",12h00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong Fc [rickhanter] (socolive) Hdm3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1759813881-0-0-faeda6bbeb153f94ab8a569d4ac23533
-#EXTINF:-1 tvg-id="122" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/780755ec04240f217b5af04477961a60.png",12h00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong Fc [blv Tommy] (socolive) Flv
+https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=177716929b36c8d7c80cc9f86ec484e4&txTime=68e4ece9
+#EXTINF:-1 tvg-id="125" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/780755ec04240f217b5af04477961a60.png",12h00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong Fc [blv Củ Cải] (socolive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1759814241-0-0-77bc00f218a2c8a0367e0fad97a2b2ae
-#EXTINF:-1 tvg-id="123" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/780755ec04240f217b5af04477961a60.png",12h00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong Fc [blv Tommy] (socolive) Hdflv
+https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1759815321-0-0-1eb363174c79b8076eb809f582a8fc05
+#EXTINF:-1 tvg-id="126" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/780755ec04240f217b5af04477961a60.png",12h00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong Fc [blv Củ Cải] (socolive) Hdflv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1759814241-0-0-f96103dadc9ec32bee72599312c2ed01
-#EXTINF:-1 tvg-id="124" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/780755ec04240f217b5af04477961a60.png",12h00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong Fc [blv Tommy] (socolive) M3u8
+https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1759815321-0-0-04723a8c16fa3250b9bf7c893e49cdb1
+#EXTINF:-1 tvg-id="127" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/780755ec04240f217b5af04477961a60.png",12h00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong Fc [blv Củ Cải] (socolive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1759814241-0-0-1535d77de35b21193a186dcfa91ae3ce
-#EXTINF:-1 tvg-id="125" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/780755ec04240f217b5af04477961a60.png",12h00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong Fc [blv Tommy] (socolive) Hdm3u8
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1759815321-0-0-431fbffcd64d62a1c565e497d71c1c33
+#EXTINF:-1 tvg-id="128" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/780755ec04240f217b5af04477961a60.png",12h00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong Fc [blv Củ Cải] (socolive) Hdm3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1759814241-0-0-aa3883373905e3d641ce0f097be5f39a
-#EXTINF:-1 tvg-id="126" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/nitvFMWg-xIOhFH4B.png",08:08 Ngày 07/10 Brewers Vs Cubs (1) [người Lửa] Hd Nhanh
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1759815321-0-0-2fa8415f21b82b73e993e7c08b21e437
+#EXTINF:-1 tvg-id="129" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251004/5fd33d1ebad3f793889b9035a5b68a58.png",Bit.ly/socolive [socolive] (socolive) Flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1759815321-0-0-77ea264b71240156ef25ebcb8a154b68
+#EXTINF:-1 tvg-id="130" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251004/5fd33d1ebad3f793889b9035a5b68a58.png",Bit.ly/socolive [socolive] (socolive) Hdflv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1759815321-0-0-81d138a5b32b6b1d1a5106c7c29c89f7
+#EXTINF:-1 tvg-id="131" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251004/5fd33d1ebad3f793889b9035a5b68a58.png",Bit.ly/socolive [socolive] (socolive) M3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1759815321-0-0-871074b7791bea62279dcc9254886576
+#EXTINF:-1 tvg-id="132" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251004/5fd33d1ebad3f793889b9035a5b68a58.png",Bit.ly/socolive [socolive] (socolive) Hdm3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1759815321-0-0-4d7132b7aa73c7809c350fc0ee2a8344
+#EXTINF:-1 tvg-id="133" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/780755ec04240f217b5af04477961a60.png",12h00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong Fc [tạ Biên Giới] (socolive) Flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1759815716-0-0-daf90bff9d01a957500b1e1fa760e92f
+#EXTINF:-1 tvg-id="134" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/780755ec04240f217b5af04477961a60.png",12h00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong Fc [tạ Biên Giới] (socolive) Hdflv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1759815716-0-0-e4d40dce771bcea429acf733984627a5
+#EXTINF:-1 tvg-id="135" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/780755ec04240f217b5af04477961a60.png",12h00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong Fc [tạ Biên Giới] (socolive) M3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1759815716-0-0-aaeed85509dfce1a00d236c6a752db31
+#EXTINF:-1 tvg-id="136" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251002/780755ec04240f217b5af04477961a60.png",12h00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong Fc [tạ Biên Giới] (socolive) Hdm3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1759815716-0-0-6cd914f6a532dca6cc83e2358cd6f525
+#EXTINF:-1 tvg-id="137" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251005/b8ef1f642348323e09694e2d28f142bf.png",12h00 Ngày 07/10 Suwon Kt Vs Mobis Phoebus [blv Henry] (socolive) Flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1759815681-0-0-d08a90a22c110a9683889548a81a2c09
+#EXTINF:-1 tvg-id="138" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251005/b8ef1f642348323e09694e2d28f142bf.png",12h00 Ngày 07/10 Suwon Kt Vs Mobis Phoebus [blv Henry] (socolive) Hdflv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1759815681-0-0-7dec3a7b5551f1abc61315456383c549
+#EXTINF:-1 tvg-id="139" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251005/b8ef1f642348323e09694e2d28f142bf.png",12h00 Ngày 07/10 Suwon Kt Vs Mobis Phoebus [blv Henry] (socolive) M3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1759815681-0-0-e90bbf1f374708cdf95a8a6e303110c2
+#EXTINF:-1 tvg-id="140" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251005/b8ef1f642348323e09694e2d28f142bf.png",12h00 Ngày 07/10 Suwon Kt Vs Mobis Phoebus [blv Henry] (socolive) Hdm3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1759815681-0-0-4486d95884b1a24a49a95ff1e38b8238
+#EXTINF:-1 tvg-id="141" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/nitvFMWg-xIOhFH4B.png",08:08 Ngày 07/10 Brewers Vs Cubs (1) [người Lửa] Hd Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/luaHD.flv?expire=1759831567&sign=136b524bf54fb0a75e357d79c339be52
-#EXTINF:-1 tvg-id="127" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/nitvFMWg-xIOhFH4B.png",08:08 Ngày 07/10 Brewers Vs Cubs (1) [người Lửa] Hd1
+https://hotlivezz179536519.akainu.xyz/live/luaHD.flv?expire=1759833007&sign=c9de693902449a15e0bf264e71f8a2ff
+#EXTINF:-1 tvg-id="142" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/nitvFMWg-xIOhFH4B.png",08:08 Ngày 07/10 Brewers Vs Cubs (1) [người Lửa] Hd1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/Uz5_aO-hXN6_6YOzVpHCzA/Fv2lucGIbhPi2caWYvF5Lg/1759831567690/live/luaHD/playlist.m3u8
-#EXTINF:-1 tvg-id="128" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/nitvFMWg-xIOhFH4B.png",08:08 Ngày 07/10 Brewers Vs Cubs (1) [người Lửa] Hd2
+https://hotlivezz179266008.akainu.xyz/2wm1D8gftmMIFtfHrPQTzQ/Fv2lucGIbhPi2caWYvF5Lg/1759833007293/live/luaHD/playlist.m3u8
+#EXTINF:-1 tvg-id="143" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/nitvFMWg-xIOhFH4B.png",08:08 Ngày 07/10 Brewers Vs Cubs (1) [người Lửa] Hd2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/fzLXEdURGNjrXX7oqu6vHg/9f8b38d400ef6d394f2d68b3096e00f1/1759831567/live/_definst_/stream_1_1bda7@luaHD/playlist.m3u8
-#EXTINF:-1 tvg-id="129" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/nitvFMWg-xIOhFH4B.png",08:08 Ngày 07/10 Brewers Vs Cubs (1) [người Lửa] Sd
+https://live-vipxlvb.nsnd.live/3JHh4VFPq42BBYhtTTp40w/9f8b38d400ef6d394f2d68b3096e00f1/1759833007/live/_definst_/stream_1_1bda7@luaHD/playlist.m3u8
+#EXTINF:-1 tvg-id="144" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/nitvFMWg-xIOhFH4B.png",08:08 Ngày 07/10 Brewers Vs Cubs (1) [người Lửa] Sd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/W14MuiuBU3CW7uaLwdS62Q/Fv2lucGIbhPi2caWYvF5Lg/1759831567690/live/luaSD/playlist.m3u8
-#EXTINF:-1 tvg-id="130" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/nitvFMWg-xIOhFH4B.png",08:08 Ngày 07/10 Brewers Vs Cubs (1) [người Lửa] Fullhd
+https://hotlivezz179602324.akainu.xyz/kIxTU7LecIyrsHoZvmllIQ/Fv2lucGIbhPi2caWYvF5Lg/1759833007293/live/luaSD/playlist.m3u8
+#EXTINF:-1 tvg-id="145" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/nitvFMWg-xIOhFH4B.png",08:08 Ngày 07/10 Brewers Vs Cubs (1) [người Lửa] Fullhd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/ZfWmQ7AsYiEEWHsa5CUN_g/74b8773ecaa9df430432c2bf2b6bd9e0/1759831567/live/_definst_/stream_1_1bda7@luaFHD/playlist.m3u8
-#EXTINF:-1 tvg-id="131" group-title="10cam 🔥" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Raptors.png",09:00 Ngày 07/10 Raptors Vs Nuggets (1) [người Thương] Hd Nhanh
+https://live-vipxlvb.nsnd.live/OvMza-_uGhltHn_SN5MvDA/74b8773ecaa9df430432c2bf2b6bd9e0/1759833007/live/_definst_/stream_1_1bda7@luaFHD/playlist.m3u8
+#EXTINF:-1 tvg-id="146" group-title="10cam 🔥" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Raptors.png",09:00 Ngày 07/10 Raptors Vs Nuggets (1) [người Thương] Hd Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179536519.akainu.xyz/live/thuongHD.flv?expire=1759823298&sign=5c8ad5f95525eb3cab01bfa41c77fee9
-#EXTINF:-1 tvg-id="132" group-title="10cam 🔥" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Raptors.png",09:00 Ngày 07/10 Raptors Vs Nuggets (1) [người Thương] Hd1
+#EXTINF:-1 tvg-id="147" group-title="10cam 🔥" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Raptors.png",09:00 Ngày 07/10 Raptors Vs Nuggets (1) [người Thương] Hd1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179266008.akainu.xyz/ZMm5JbQUKDhTyO0sJZ1hHg/Fv2lucGIbhPi2caWYvF5Lg/1759823298339/live/thuongHD/playlist.m3u8
-#EXTINF:-1 tvg-id="133" group-title="10cam 🔥" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Raptors.png",09:00 Ngày 07/10 Raptors Vs Nuggets (1) [người Thương] Hd2
+#EXTINF:-1 tvg-id="148" group-title="10cam 🔥" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Raptors.png",09:00 Ngày 07/10 Raptors Vs Nuggets (1) [người Thương] Hd2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://live-vipxlvb.nsnd.live/gN8kCFQ93iidriuSazdx4g/364b95ac53bf5686ef14a09b64f6f3c1/1759823298/live/_definst_/stream_1_1bda7@thuongHD/playlist.m3u8
-#EXTINF:-1 tvg-id="134" group-title="10cam 🔥" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Raptors.png",09:00 Ngày 07/10 Raptors Vs Nuggets (1) [người Thương] Sd
+#EXTINF:-1 tvg-id="149" group-title="10cam 🔥" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Raptors.png",09:00 Ngày 07/10 Raptors Vs Nuggets (1) [người Thương] Sd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179602324.akainu.xyz/DMIHJMUFf5mrnJVnFPBD4g/Fv2lucGIbhPi2caWYvF5Lg/1759823298339/live/thuongSD/playlist.m3u8
-#EXTINF:-1 tvg-id="135" group-title="10cam 🔥" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Raptors.png",09:00 Ngày 07/10 Raptors Vs Nuggets (1) [người Thương] Fullhd
+#EXTINF:-1 tvg-id="150" group-title="10cam 🔥" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Raptors.png",09:00 Ngày 07/10 Raptors Vs Nuggets (1) [người Thương] Fullhd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://live-vipxlvb.nsnd.live/JtS-fnUUe-4AzMgX3GcZYg/9d3c1936b065e6a3605ccd426df0ce6c/1759823298/live/_definst_/stream_1_1bda7@thuongFHD/playlist.m3u8
-#EXTINF:-1 tvg-id="136" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/e160936f5090dd7e94edaa26aed010cd.png",10:00 Ngày 07/10 Naomi Osaka Vs Leylah Fernandez (1) [người Cồn] Hd Nhanh
+#EXTINF:-1 tvg-id="151" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/e160936f5090dd7e94edaa26aed010cd.png",10:00 Ngày 07/10 Naomi Osaka Vs Leylah Fernandez (1) [người Cồn] Hd Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179536519.akainu.xyz/live/conHD.flv?expire=1759827609&sign=2a70c92d22554cef41d9cd2a31f5847a
-#EXTINF:-1 tvg-id="137" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/e160936f5090dd7e94edaa26aed010cd.png",10:00 Ngày 07/10 Naomi Osaka Vs Leylah Fernandez (1) [người Cồn] Hd1
+#EXTINF:-1 tvg-id="152" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/e160936f5090dd7e94edaa26aed010cd.png",10:00 Ngày 07/10 Naomi Osaka Vs Leylah Fernandez (1) [người Cồn] Hd1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179266008.akainu.xyz/aAb9pjXZHcIGzjYdPUtr4Q/Fv2lucGIbhPi2caWYvF5Lg/1759827609066/live/conHD/playlist.m3u8
-#EXTINF:-1 tvg-id="138" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/e160936f5090dd7e94edaa26aed010cd.png",10:00 Ngày 07/10 Naomi Osaka Vs Leylah Fernandez (1) [người Cồn] Hd2
+#EXTINF:-1 tvg-id="153" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/e160936f5090dd7e94edaa26aed010cd.png",10:00 Ngày 07/10 Naomi Osaka Vs Leylah Fernandez (1) [người Cồn] Hd2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://live-vipxlvb.nsnd.live/IIqHkl9zRwcWiCmTh9PzOg/2506a4c9a49d6a20c02208f6ddb30434/1759827609/live/_definst_/stream_1_1bda7@conHD/playlist.m3u8
-#EXTINF:-1 tvg-id="139" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/e160936f5090dd7e94edaa26aed010cd.png",10:00 Ngày 07/10 Naomi Osaka Vs Leylah Fernandez (1) [người Cồn] Sd
+#EXTINF:-1 tvg-id="154" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/e160936f5090dd7e94edaa26aed010cd.png",10:00 Ngày 07/10 Naomi Osaka Vs Leylah Fernandez (1) [người Cồn] Sd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179602324.akainu.xyz/vgGPaVMpCjcDYK0v_Diulg/Fv2lucGIbhPi2caWYvF5Lg/1759827609066/live/conSD/playlist.m3u8
-#EXTINF:-1 tvg-id="140" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/e160936f5090dd7e94edaa26aed010cd.png",10:00 Ngày 07/10 Naomi Osaka Vs Leylah Fernandez (1) [người Cồn] Fullhd
+#EXTINF:-1 tvg-id="155" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/e160936f5090dd7e94edaa26aed010cd.png",10:00 Ngày 07/10 Naomi Osaka Vs Leylah Fernandez (1) [người Cồn] Fullhd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://live-vipxlvb.nsnd.live/SKf1a9Jh2hCEq6gC9Asaeg/7135f49323c9408d9b4f4a596ce26852/1759827609/live/_definst_/stream_1_1bda7@conFHD/playlist.m3u8
-#EXTINF:-1 tvg-id="141" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/6e98e20004c0c9e8d1600fe56b126eec.png",10:00 Ngày 07/10 Emiliana Arango Vs Liudmila Samsonova (1) [người Già] Hd Nhanh
+#EXTINF:-1 tvg-id="156" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/6e98e20004c0c9e8d1600fe56b126eec.png",10:00 Ngày 07/10 Emiliana Arango Vs Liudmila Samsonova (1) [người Già] Hd Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179536519.akainu.xyz/live/oldHD.flv?expire=1759827610&sign=797a47e7c0d6825a863be3996ab9f37d
-#EXTINF:-1 tvg-id="142" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/6e98e20004c0c9e8d1600fe56b126eec.png",10:00 Ngày 07/10 Emiliana Arango Vs Liudmila Samsonova (1) [người Già] Hd1
+#EXTINF:-1 tvg-id="157" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/6e98e20004c0c9e8d1600fe56b126eec.png",10:00 Ngày 07/10 Emiliana Arango Vs Liudmila Samsonova (1) [người Già] Hd1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179266008.akainu.xyz/h9UqqmNy47MKHRBuDQn96A/Fv2lucGIbhPi2caWYvF5Lg/1759827610898/live/oldHD/playlist.m3u8
-#EXTINF:-1 tvg-id="143" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/6e98e20004c0c9e8d1600fe56b126eec.png",10:00 Ngày 07/10 Emiliana Arango Vs Liudmila Samsonova (1) [người Già] Hd2
+#EXTINF:-1 tvg-id="158" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/6e98e20004c0c9e8d1600fe56b126eec.png",10:00 Ngày 07/10 Emiliana Arango Vs Liudmila Samsonova (1) [người Già] Hd2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://live-vipxlvb.nsnd.live/61HGG0bJ5G9Hi5cdqmmHRw/61b7c9f6fb3bff2f3c2273378af449b7/1759827610/live/_definst_/stream_1_1bda7@oldHD/playlist.m3u8
-#EXTINF:-1 tvg-id="144" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/6e98e20004c0c9e8d1600fe56b126eec.png",10:00 Ngày 07/10 Emiliana Arango Vs Liudmila Samsonova (1) [người Già] Sd
+#EXTINF:-1 tvg-id="159" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/6e98e20004c0c9e8d1600fe56b126eec.png",10:00 Ngày 07/10 Emiliana Arango Vs Liudmila Samsonova (1) [người Già] Sd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179602324.akainu.xyz/VnIUMY10VWLCIIu1vHI8Hg/Fv2lucGIbhPi2caWYvF5Lg/1759827610898/live/oldSD/playlist.m3u8
-#EXTINF:-1 tvg-id="145" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/6e98e20004c0c9e8d1600fe56b126eec.png",10:00 Ngày 07/10 Emiliana Arango Vs Liudmila Samsonova (1) [người Già] Fullhd
+#EXTINF:-1 tvg-id="160" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/6e98e20004c0c9e8d1600fe56b126eec.png",10:00 Ngày 07/10 Emiliana Arango Vs Liudmila Samsonova (1) [người Già] Fullhd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://live-vipxlvb.nsnd.live/EokC1fIG5m1sbwSTcJyI6Q/e56ce8a755cda33e7f050da0b700d013/1759827610/live/_definst_/stream_1_1bda7@oldFHD/playlist.m3u8
-#EXTINF:-1 tvg-id="146" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/82ac7f70a1ca9091adc4a073c81e2cf2.png",10:00 Ngày 07/10 Anastasia Zakharova Vs Sofia Kenin (1) [mèo ú] Hd Nhanh
+#EXTINF:-1 tvg-id="161" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/82ac7f70a1ca9091adc4a073c81e2cf2.png",10:00 Ngày 07/10 Anastasia Zakharova Vs Sofia Kenin (1) [mèo ú] Hd Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179536519.akainu.xyz/live/meoHD.flv?expire=1759827612&sign=9de8e69e2f2a0311a670200dbedc1b0a
-#EXTINF:-1 tvg-id="147" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/82ac7f70a1ca9091adc4a073c81e2cf2.png",10:00 Ngày 07/10 Anastasia Zakharova Vs Sofia Kenin (1) [mèo ú] Hd1
+#EXTINF:-1 tvg-id="162" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/82ac7f70a1ca9091adc4a073c81e2cf2.png",10:00 Ngày 07/10 Anastasia Zakharova Vs Sofia Kenin (1) [mèo ú] Hd1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179266008.akainu.xyz/tiFEu0dA7Cqw1PNQmE0M0A/Fv2lucGIbhPi2caWYvF5Lg/1759827612448/live/meoHD/playlist.m3u8
-#EXTINF:-1 tvg-id="148" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/82ac7f70a1ca9091adc4a073c81e2cf2.png",10:00 Ngày 07/10 Anastasia Zakharova Vs Sofia Kenin (1) [mèo ú] Hd2
+#EXTINF:-1 tvg-id="163" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/82ac7f70a1ca9091adc4a073c81e2cf2.png",10:00 Ngày 07/10 Anastasia Zakharova Vs Sofia Kenin (1) [mèo ú] Hd2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://live-vipxlvb.nsnd.live/Ihdbyg0pMSpgRzHS6uU33g/778e7779236aef8ae68b578426d0ddb4/1759827612/live/_definst_/stream_1_1bda7@meoHD/playlist.m3u8
-#EXTINF:-1 tvg-id="149" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/82ac7f70a1ca9091adc4a073c81e2cf2.png",10:00 Ngày 07/10 Anastasia Zakharova Vs Sofia Kenin (1) [mèo ú] Sd
+#EXTINF:-1 tvg-id="164" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/82ac7f70a1ca9091adc4a073c81e2cf2.png",10:00 Ngày 07/10 Anastasia Zakharova Vs Sofia Kenin (1) [mèo ú] Sd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179602324.akainu.xyz/-RRcLpiaxP2JYET2HSe3eg/Fv2lucGIbhPi2caWYvF5Lg/1759827612448/live/meoSD/playlist.m3u8
-#EXTINF:-1 tvg-id="150" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/82ac7f70a1ca9091adc4a073c81e2cf2.png",10:00 Ngày 07/10 Anastasia Zakharova Vs Sofia Kenin (1) [mèo ú] Fullhd
+#EXTINF:-1 tvg-id="165" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/82ac7f70a1ca9091adc4a073c81e2cf2.png",10:00 Ngày 07/10 Anastasia Zakharova Vs Sofia Kenin (1) [mèo ú] Fullhd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://live-vipxlvb.nsnd.live/Xk0QaxDLBB0b3UK6gFVM1Q/aa2414c41b563aa2e0f4a276a0f50172/1759827612/live/_definst_/stream_1_1bda7@meoFHD/playlist.m3u8
-#EXTINF:-1 tvg-id="151" group-title="10cam 🔥" tvg-logo="https://g7w1r.4shares.live/teams/Mansion-Sports-Hanoi-Open_V1.png",11:00 Ngày 07/10 Hanoi Open 2025 (1) [nhà đài] Bàn 1
+#EXTINF:-1 tvg-id="166" group-title="10cam 🔥" tvg-logo="https://g7w1r.4shares.live/teams/Mansion-Sports-Hanoi-Open_V1.png",11:00 Ngày 07/10 Hanoi Open 2025 (1) [nhà đài] Bàn 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179026907.akainu.xyz/yD4k7irey4_0szZ6WMwtHQ/Fv2lucGIbhPi2caWYvF5Lg/1759830134695/live/may21/playlist.m3u8
-#EXTINF:-1 tvg-id="152" group-title="10cam 🔥" tvg-logo="https://g7w1r.4shares.live/teams/Mansion-Sports-Hanoi-Open_V1.png",11:00 Ngày 07/10 Hanoi Open 2025 (1) [nhà đài] Bàn 2
+#EXTINF:-1 tvg-id="167" group-title="10cam 🔥" tvg-logo="https://g7w1r.4shares.live/teams/Mansion-Sports-Hanoi-Open_V1.png",11:00 Ngày 07/10 Hanoi Open 2025 (1) [nhà đài] Bàn 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179026907.akainu.xyz/HO6BtD4hhlRH0BiVAUnIfw/Fv2lucGIbhPi2caWYvF5Lg/1759830134695/live/may28/playlist.m3u8
-#EXTINF:-1 tvg-id="153" group-title="10cam 🔥" tvg-logo="https://g7w1r.4shares.live/teams/Mansion-Sports-Hanoi-Open_V1.png",11:00 Ngày 07/10 Hanoi Open 2025 (1) [nhà đài] Bàn 3
+#EXTINF:-1 tvg-id="168" group-title="10cam 🔥" tvg-logo="https://g7w1r.4shares.live/teams/Mansion-Sports-Hanoi-Open_V1.png",11:00 Ngày 07/10 Hanoi Open 2025 (1) [nhà đài] Bàn 3
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179026907.akainu.xyz/OqARbQMQOWf2zk-JMklZdQ/Fv2lucGIbhPi2caWYvF5Lg/1759830134696/live/may281/playlist.m3u8
-#EXTINF:-1 tvg-id="154" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/vVbEdPiD-On4v2Ok0.png",10:00 Ngày 07/10 Wta1000 Wuhan Open (1) [nhà đài] Court 3
+#EXTINF:-1 tvg-id="169" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/vVbEdPiD-On4v2Ok0.png",10:00 Ngày 07/10 Wta1000 Wuhan Open (1) [nhà đài] Court 3
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/_O9D5BZb3igVfrgm3M6jSw/Fv2lucGIbhPi2caWYvF5Lg/1759831576678/live/may26/playlist.m3u8
-#EXTINF:-1 tvg-id="155" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/vVbEdPiD-On4v2Ok0.png",10:00 Ngày 07/10 Wta1000 Wuhan Open (1) [nhà đài] Center
+https://hotlivezz179026907.akainu.xyz/v7ehLZvAcd-uanQjEcrHNA/Fv2lucGIbhPi2caWYvF5Lg/1759833022036/live/may26/playlist.m3u8
+#EXTINF:-1 tvg-id="170" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/vVbEdPiD-On4v2Ok0.png",10:00 Ngày 07/10 Wta1000 Wuhan Open (1) [nhà đài] Center
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/9XQYjT7rnOQTK3IOvRBqbw/Fv2lucGIbhPi2caWYvF5Lg/1759831576678/live/may261/playlist.m3u8
-#EXTINF:-1 tvg-id="156" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/vVbEdPiD-On4v2Ok0.png",10:00 Ngày 07/10 Wta1000 Wuhan Open (1) [nhà đài] Court 1
+https://hotlivezz179026907.akainu.xyz/FpCR5mRZyyYgTIkiHKPJTw/Fv2lucGIbhPi2caWYvF5Lg/1759833022036/live/may261/playlist.m3u8
+#EXTINF:-1 tvg-id="171" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/vVbEdPiD-On4v2Ok0.png",10:00 Ngày 07/10 Wta1000 Wuhan Open (1) [nhà đài] Court 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/cQCCgq62g-OBDBVy8tyZaw/Fv2lucGIbhPi2caWYvF5Lg/1759831576678/live/may27/playlist.m3u8
-#EXTINF:-1 tvg-id="157" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/vVbEdPiD-On4v2Ok0.png",10:00 Ngày 07/10 Wta1000 Wuhan Open (1) [nhà đài] Court 2
+https://hotlivezz179026907.akainu.xyz/SriMzyjhkCbWxlZG26jfqA/Fv2lucGIbhPi2caWYvF5Lg/1759833022037/live/may27/playlist.m3u8
+#EXTINF:-1 tvg-id="172" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/vVbEdPiD-On4v2Ok0.png",10:00 Ngày 07/10 Wta1000 Wuhan Open (1) [nhà đài] Court 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/vjfd8DP-bstoA6-lI1Sdyg/Fv2lucGIbhPi2caWYvF5Lg/1759831576678/live/may271/playlist.m3u8
-#EXTINF:-1 tvg-id="158" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/vVbEdPiD-On4v2Ok0.png",10:00 Ngày 07/10 Wta1000 Wuhan Open (1) [nhà đài] Court 4
+https://hotlivezz179026907.akainu.xyz/gH5JA9hTmGnw-UvVLbdSew/Fv2lucGIbhPi2caWYvF5Lg/1759833022037/live/may271/playlist.m3u8
+#EXTINF:-1 tvg-id="173" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/vVbEdPiD-On4v2Ok0.png",10:00 Ngày 07/10 Wta1000 Wuhan Open (1) [nhà đài] Court 4
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/ExcOoMj35l9Rq02BoItEKQ/Fv2lucGIbhPi2caWYvF5Lg/1759831576678/live/may251/playlist.m3u8
-#EXTINF:-1 tvg-id="159" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/2d733170f0602296ccd4045971407ac0.png",11:10 Ngày 07/10 Magdalena Frech Vs Veronika Kudermetova (1) [mèo ú] Hd Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/meoHD.flv?expire=1759831578&sign=cb939e88c0999028ed9cc31e785c3bd3
-#EXTINF:-1 tvg-id="160" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/2d733170f0602296ccd4045971407ac0.png",11:10 Ngày 07/10 Magdalena Frech Vs Veronika Kudermetova (1) [mèo ú] Hd1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/UpM_3tNnH5T6qx1acn0xvA/Fv2lucGIbhPi2caWYvF5Lg/1759831578650/live/meoHD/playlist.m3u8
-#EXTINF:-1 tvg-id="161" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/2d733170f0602296ccd4045971407ac0.png",11:10 Ngày 07/10 Magdalena Frech Vs Veronika Kudermetova (1) [mèo ú] Hd2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/QqFhRS4vngo_mfkHfQzAFA/778e7779236aef8ae68b578426d0ddb4/1759831578/live/_definst_/stream_1_1bda7@meoHD/playlist.m3u8
-#EXTINF:-1 tvg-id="162" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/2d733170f0602296ccd4045971407ac0.png",11:10 Ngày 07/10 Magdalena Frech Vs Veronika Kudermetova (1) [mèo ú] Sd
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/R1hODWkTP1fZRwWRnKgfDQ/Fv2lucGIbhPi2caWYvF5Lg/1759831578650/live/meoSD/playlist.m3u8
-#EXTINF:-1 tvg-id="163" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/2d733170f0602296ccd4045971407ac0.png",11:10 Ngày 07/10 Magdalena Frech Vs Veronika Kudermetova (1) [mèo ú] Fullhd
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/csbUJpmUyPO1bTwpb22vgQ/aa2414c41b563aa2e0f4a276a0f50172/1759831578/live/_definst_/stream_1_1bda7@meoFHD/playlist.m3u8
-#EXTINF:-1 tvg-id="164" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/bd9af771af3da4b55056d96c8515b907.png",11:10 Ngày 07/10 Marta Kostyuk Vs Karolina Muchova (1) [người Già] Hd Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/oldHD.flv?expire=1759831580&sign=447fadbc6af8d56e025b8720bb366126
-#EXTINF:-1 tvg-id="165" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/bd9af771af3da4b55056d96c8515b907.png",11:10 Ngày 07/10 Marta Kostyuk Vs Karolina Muchova (1) [người Già] Hd1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/RtYyPTWoIsDJEC_Te7za9g/Fv2lucGIbhPi2caWYvF5Lg/1759831580462/live/oldHD/playlist.m3u8
-#EXTINF:-1 tvg-id="166" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/bd9af771af3da4b55056d96c8515b907.png",11:10 Ngày 07/10 Marta Kostyuk Vs Karolina Muchova (1) [người Già] Hd2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/IRf9xZfsPjCkA_U2QXMkdA/61b7c9f6fb3bff2f3c2273378af449b7/1759831580/live/_definst_/stream_1_1bda7@oldHD/playlist.m3u8
-#EXTINF:-1 tvg-id="167" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/bd9af771af3da4b55056d96c8515b907.png",11:10 Ngày 07/10 Marta Kostyuk Vs Karolina Muchova (1) [người Già] Sd
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/QYJLnMND8K5kF7j7wdJ7uw/Fv2lucGIbhPi2caWYvF5Lg/1759831580462/live/oldSD/playlist.m3u8
-#EXTINF:-1 tvg-id="168" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/bd9af771af3da4b55056d96c8515b907.png",11:10 Ngày 07/10 Marta Kostyuk Vs Karolina Muchova (1) [người Già] Fullhd
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/nS6Vol8SAcf_SUUBvVzVDA/e56ce8a755cda33e7f050da0b700d013/1759831580/live/_definst_/stream_1_1bda7@oldFHD/playlist.m3u8
-#EXTINF:-1 tvg-id="169" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/bd69483a453f1e41bec1fc86bf1aa0ea.png",11:10 Ngày 07/10 Emma Raducanu Vs Ann Li (1) [mỳ Tôm] Hd Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/myHD.flv?expire=1759831581&sign=aa2d99fe703d0d0a8643f8de90afd7d1
-#EXTINF:-1 tvg-id="170" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/bd69483a453f1e41bec1fc86bf1aa0ea.png",11:10 Ngày 07/10 Emma Raducanu Vs Ann Li (1) [mỳ Tôm] Hd1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/YAS74r4pv8Q4YqRi6ioIVg/Fv2lucGIbhPi2caWYvF5Lg/1759831581957/live/myHD/playlist.m3u8
-#EXTINF:-1 tvg-id="171" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/bd69483a453f1e41bec1fc86bf1aa0ea.png",11:10 Ngày 07/10 Emma Raducanu Vs Ann Li (1) [mỳ Tôm] Hd2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/ejzTJ2e9pge8kIJQIGLoFQ/ad962176acd070100f306c790419005d/1759831581/live/_definst_/stream_1_1bda7@myHD/playlist.m3u8
-#EXTINF:-1 tvg-id="172" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/bd69483a453f1e41bec1fc86bf1aa0ea.png",11:10 Ngày 07/10 Emma Raducanu Vs Ann Li (1) [mỳ Tôm] Sd
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/R1WrnDqVoYAuouexD5AAdQ/Fv2lucGIbhPi2caWYvF5Lg/1759831581957/live/mySD/playlist.m3u8
-#EXTINF:-1 tvg-id="173" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/bd69483a453f1e41bec1fc86bf1aa0ea.png",11:10 Ngày 07/10 Emma Raducanu Vs Ann Li (1) [mỳ Tôm] Fullhd
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/kwVoyQ-r0BrsWJ-A6M2JMQ/37c56eb4aaf958eda25bed5c53705fc2/1759831581/live/_definst_/stream_1_1bda7@myFHD/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/W7FbP0TC9M_xASxgiCPdtw/Fv2lucGIbhPi2caWYvF5Lg/1759833022037/live/may251/playlist.m3u8
 #EXTINF:-1 tvg-id="174" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/b955c3397090a2983c4c7829da380d2e.png",11:30 Ngày 07/10 Gabriel Diallo Vs Zizou Bergs (1) [moon Knight] Hd Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/Z1HD.flv?expire=1759831583&sign=b893385d6167aaa6edad94ff4a52aafb
+https://hotlivezz179536519.akainu.xyz/live/Z1HD.flv?expire=1759833023&sign=75fc21c8acf01272858f84b28d6c2491
 #EXTINF:-1 tvg-id="175" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/b955c3397090a2983c4c7829da380d2e.png",11:30 Ngày 07/10 Gabriel Diallo Vs Zizou Bergs (1) [moon Knight] Hd1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/31i_qm8aEP2EYdA5J3VwOg/Fv2lucGIbhPi2caWYvF5Lg/1759831583149/live/Z1HD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/UPUlqUSq3PWo9glMtPic5Q/Fv2lucGIbhPi2caWYvF5Lg/1759833023764/live/Z1HD/playlist.m3u8
 #EXTINF:-1 tvg-id="176" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/b955c3397090a2983c4c7829da380d2e.png",11:30 Ngày 07/10 Gabriel Diallo Vs Zizou Bergs (1) [moon Knight] Hd2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/_YUiGbGYM2FUrEhdsbMFAg/099e82fb17c22635f01902e2355c5ade/1759831583/live/_definst_/stream_1_1bda7@Z1HD/playlist.m3u8
+https://live-vipxlvb.nsnd.live/p5B5096soUYAUteuxkYwFg/099e82fb17c22635f01902e2355c5ade/1759833023/live/_definst_/stream_1_1bda7@Z1HD/playlist.m3u8
 #EXTINF:-1 tvg-id="177" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/b955c3397090a2983c4c7829da380d2e.png",11:30 Ngày 07/10 Gabriel Diallo Vs Zizou Bergs (1) [moon Knight] Sd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/lIvf1tRnXXlc8o0H2NAA5A/Fv2lucGIbhPi2caWYvF5Lg/1759831583149/live/Z1SD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/UX-4po0XHtVjvNezbL1EeQ/Fv2lucGIbhPi2caWYvF5Lg/1759833023764/live/Z1SD/playlist.m3u8
 #EXTINF:-1 tvg-id="178" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/b955c3397090a2983c4c7829da380d2e.png",11:30 Ngày 07/10 Gabriel Diallo Vs Zizou Bergs (1) [moon Knight] Fullhd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/O_tkEUm8_y7rsz25q9Ur2A/bf44ba621235a4936d4c6ae6054d551e/1759831583/live/_definst_/stream_1_1bda7@Z1FHD/playlist.m3u8
-#EXTINF:-1 tvg-id="179" group-title="Hội Quán 🔥" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Angel_City_FC_logo.svg/831px-Angel_City_FC_logo.svg.png",09h30 Ngày 07.10 Nữ Angel City Vs Nữ Kansas City (hội Quán) Blv Phan Ca Full Hd
+https://live-vipxlvb.nsnd.live/0AuOjbFszuuanmCrxpIAaQ/bf44ba621235a4936d4c6ae6054d551e/1759833023/live/_definst_/stream_1_1bda7@Z1FHD/playlist.m3u8
+#EXTINF:-1 tvg-id="179" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/2d733170f0602296ccd4045971407ac0.png",11:40 Ngày 07/10 Magdalena Frech Vs Veronika Kudermetova (1) [mèo ú] Hd Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/meoHD.flv?expire=1759833025&sign=450d7fd25378f4dbe81ded99ed040fe5
+#EXTINF:-1 tvg-id="180" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/2d733170f0602296ccd4045971407ac0.png",11:40 Ngày 07/10 Magdalena Frech Vs Veronika Kudermetova (1) [mèo ú] Hd1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/EU5h7t5BERZfyioSLT5vcw/Fv2lucGIbhPi2caWYvF5Lg/1759833025553/live/meoHD/playlist.m3u8
+#EXTINF:-1 tvg-id="181" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/2d733170f0602296ccd4045971407ac0.png",11:40 Ngày 07/10 Magdalena Frech Vs Veronika Kudermetova (1) [mèo ú] Hd2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-vipxlvb.nsnd.live/s9xcofNiwrHfQfvmhPj-cw/778e7779236aef8ae68b578426d0ddb4/1759833025/live/_definst_/stream_1_1bda7@meoHD/playlist.m3u8
+#EXTINF:-1 tvg-id="182" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/2d733170f0602296ccd4045971407ac0.png",11:40 Ngày 07/10 Magdalena Frech Vs Veronika Kudermetova (1) [mèo ú] Sd
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/bsXRiNHwS7P61oL9YbdXjQ/Fv2lucGIbhPi2caWYvF5Lg/1759833025553/live/meoSD/playlist.m3u8
+#EXTINF:-1 tvg-id="183" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/2d733170f0602296ccd4045971407ac0.png",11:40 Ngày 07/10 Magdalena Frech Vs Veronika Kudermetova (1) [mèo ú] Fullhd
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-vipxlvb.nsnd.live/B6UayWGVSoZ2o603vjbimQ/aa2414c41b563aa2e0f4a276a0f50172/1759833025/live/_definst_/stream_1_1bda7@meoFHD/playlist.m3u8
+#EXTINF:-1 tvg-id="184" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/bd9af771af3da4b55056d96c8515b907.png",11:40 Ngày 07/10 Marta Kostyuk Vs Karolina Muchova (1) [người Già] Hd Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/oldHD.flv?expire=1759833027&sign=b776572c29abfe0695668cde53b0b5e0
+#EXTINF:-1 tvg-id="185" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/bd9af771af3da4b55056d96c8515b907.png",11:40 Ngày 07/10 Marta Kostyuk Vs Karolina Muchova (1) [người Già] Hd1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/2tzy_40hsjc5iVGgfT6rvQ/Fv2lucGIbhPi2caWYvF5Lg/1759833027407/live/oldHD/playlist.m3u8
+#EXTINF:-1 tvg-id="186" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/bd9af771af3da4b55056d96c8515b907.png",11:40 Ngày 07/10 Marta Kostyuk Vs Karolina Muchova (1) [người Già] Hd2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-vipxlvb.nsnd.live/MsU1BYm8-u162zzes0TmXw/61b7c9f6fb3bff2f3c2273378af449b7/1759833027/live/_definst_/stream_1_1bda7@oldHD/playlist.m3u8
+#EXTINF:-1 tvg-id="187" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/bd9af771af3da4b55056d96c8515b907.png",11:40 Ngày 07/10 Marta Kostyuk Vs Karolina Muchova (1) [người Già] Sd
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/GOn7csMUCwMjYR3PeQvGNQ/Fv2lucGIbhPi2caWYvF5Lg/1759833027408/live/oldSD/playlist.m3u8
+#EXTINF:-1 tvg-id="188" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/bd9af771af3da4b55056d96c8515b907.png",11:40 Ngày 07/10 Marta Kostyuk Vs Karolina Muchova (1) [người Già] Fullhd
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-vipxlvb.nsnd.live/ADwsrcZQ5EmaQ8OW7fjKRQ/e56ce8a755cda33e7f050da0b700d013/1759833027/live/_definst_/stream_1_1bda7@oldFHD/playlist.m3u8
+#EXTINF:-1 tvg-id="189" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/bd69483a453f1e41bec1fc86bf1aa0ea.png",11:40 Ngày 07/10 Emma Raducanu Vs Ann Li (1) [mỳ Tôm] Hd Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/myHD.flv?expire=1759833028&sign=dc98ac119c628eac0f2964a2e230f1ab
+#EXTINF:-1 tvg-id="190" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/bd69483a453f1e41bec1fc86bf1aa0ea.png",11:40 Ngày 07/10 Emma Raducanu Vs Ann Li (1) [mỳ Tôm] Hd1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/BOYksYebVHEX89SPXlBZpQ/Fv2lucGIbhPi2caWYvF5Lg/1759833028988/live/myHD/playlist.m3u8
+#EXTINF:-1 tvg-id="191" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/bd69483a453f1e41bec1fc86bf1aa0ea.png",11:40 Ngày 07/10 Emma Raducanu Vs Ann Li (1) [mỳ Tôm] Hd2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-vipxlvb.nsnd.live/P3dWBQYA4Q7lwZ3Jy9g72Q/ad962176acd070100f306c790419005d/1759833028/live/_definst_/stream_1_1bda7@myHD/playlist.m3u8
+#EXTINF:-1 tvg-id="192" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/bd69483a453f1e41bec1fc86bf1aa0ea.png",11:40 Ngày 07/10 Emma Raducanu Vs Ann Li (1) [mỳ Tôm] Sd
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/wA9iyBF_sGMpn5ODdehtqg/Fv2lucGIbhPi2caWYvF5Lg/1759833028988/live/mySD/playlist.m3u8
+#EXTINF:-1 tvg-id="193" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/bd69483a453f1e41bec1fc86bf1aa0ea.png",11:40 Ngày 07/10 Emma Raducanu Vs Ann Li (1) [mỳ Tôm] Fullhd
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-vipxlvb.nsnd.live/uf0Uqh7V4I7kfIbFNNcUww/37c56eb4aaf958eda25bed5c53705fc2/1759833028/live/_definst_/stream_1_1bda7@myFHD/playlist.m3u8
+#EXTINF:-1 tvg-id="194" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/football/team/b25d37216425034b6695ec3c3119d07d.png",12:00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong Fc (1) [người Sắt] Hd Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/satHD.flv?expire=1759833030&sign=73ac5abfe7a4bb8e70f79d684601841a
+#EXTINF:-1 tvg-id="195" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/football/team/b25d37216425034b6695ec3c3119d07d.png",12:00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong Fc (1) [người Sắt] Hd1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/pm1_VenLYH3e79TsVEFsFQ/Fv2lucGIbhPi2caWYvF5Lg/1759833030595/live/satHD/playlist.m3u8
+#EXTINF:-1 tvg-id="196" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/football/team/b25d37216425034b6695ec3c3119d07d.png",12:00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong Fc (1) [người Sắt] Hd2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-vipxlvb.nsnd.live/lqU1V9PNfWEMFxdNjtVBGg/5c978519fd4da0d4f4d7d1181446e6c9/1759833030/live/_definst_/stream_1_1bda7@satHD/playlist.m3u8
+#EXTINF:-1 tvg-id="197" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/football/team/b25d37216425034b6695ec3c3119d07d.png",12:00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong Fc (1) [người Sắt] Sd
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/PtfVh5AQUVs8rgpviChKLg/Fv2lucGIbhPi2caWYvF5Lg/1759833030595/live/satSD/playlist.m3u8
+#EXTINF:-1 tvg-id="198" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/football/team/b25d37216425034b6695ec3c3119d07d.png",12:00 Ngày 07/10 Seoul E-land Fc Vs Hwaseong Fc (1) [người Sắt] Fullhd
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-vipxlvb.nsnd.live/X7TsY7bdel2eEEj1WcEghA/6b78b4ff262c15bca3bdb372d5d5d695/1759833030/live/_definst_/stream_1_1bda7@satFHD/playlist.m3u8
+#EXTINF:-1 tvg-id="199" group-title="Hội Quán 🔥" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Seoul_E-Land_FC.svg/953px-Seoul_E-Land_FC.svg.png",12h00 Ngày 07.10 Seoul E-land Fc Vs Hwaseong (hội Quán) Blv Phan đô Full Hd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
-#EXTINF:-1 tvg-id="180" group-title="Hội Quán 🔥" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Angel_City_FC_logo.svg/831px-Angel_City_FC_logo.svg.png",09h30 Ngày 07.10 Nữ Angel City Vs Nữ Kansas City (hội Quán) Blv Phan Ca Hd
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phando/playlist.m3u8
+#EXTINF:-1 tvg-id="200" group-title="Hội Quán 🔥" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Seoul_E-Land_FC.svg/953px-Seoul_E-Land_FC.svg.png",12h00 Ngày 07.10 Seoul E-land Fc Vs Hwaseong (hội Quán) Blv Phan đô Hd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-id="181" group-title="Hội Quán 🔥" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Angel_City_FC_logo.svg/831px-Angel_City_FC_logo.svg.png",09h30 Ngày 07.10 Nữ Angel City Vs Nữ Kansas City (hội Quán) Blv Phan Ca Sd
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phando/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="201" group-title="Hội Quán 🔥" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Seoul_E-Land_FC.svg/953px-Seoul_E-Land_FC.svg.png",12h00 Ngày 07.10 Seoul E-land Fc Vs Hwaseong (hội Quán) Blv Phan đô Sd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="182" group-title="Hội Quán 🔥" tvg-logo="https://img.thesports.com/volleyball/team/0f260585d460999b26967fe6f313e71a.png",01h30 Ngày 07.10 San Giovanni Nữ Vs Novara Nữ (hội Quán) Blv Alex Phan Full Hd
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phando/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="202" group-title="Hội Quán 🔥" tvg-logo="https://img.thesports.com/volleyball/team/0f260585d460999b26967fe6f313e71a.png",01h30 Ngày 07.10 San Giovanni Nữ Vs Novara Nữ (hội Quán) Blv Alex Phan Full Hd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_alexphan/playlist.m3u8
-#EXTINF:-1 tvg-id="183" group-title="Hội Quán 🔥" tvg-logo="https://img.thesports.com/volleyball/team/0f260585d460999b26967fe6f313e71a.png",01h30 Ngày 07.10 San Giovanni Nữ Vs Novara Nữ (hội Quán) Blv Alex Phan Hd
+#EXTINF:-1 tvg-id="203" group-title="Hội Quán 🔥" tvg-logo="https://img.thesports.com/volleyball/team/0f260585d460999b26967fe6f313e71a.png",01h30 Ngày 07.10 San Giovanni Nữ Vs Novara Nữ (hội Quán) Blv Alex Phan Hd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://tldm0825.edgemaxcdn.org/hqtv_blv_alexphan/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-id="184" group-title="Hội Quán 🔥" tvg-logo="https://img.thesports.com/volleyball/team/0f260585d460999b26967fe6f313e71a.png",01h30 Ngày 07.10 San Giovanni Nữ Vs Novara Nữ (hội Quán) Blv Alex Phan Sd
+#EXTINF:-1 tvg-id="204" group-title="Hội Quán 🔥" tvg-logo="https://img.thesports.com/volleyball/team/0f260585d460999b26967fe6f313e71a.png",01h30 Ngày 07.10 San Giovanni Nữ Vs Novara Nữ (hội Quán) Blv Alex Phan Sd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://tldm0825.edgemaxcdn.org/hqtv_blv_alexphan/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="185" group-title="Mãn Nhãn 🔥" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1335914_small.png",09:30 Ngày 10/07 Angel City Fc (w) Và Kansas City Current (w) (mãn Nhãn) Sd 2
+#EXTINF:-1 tvg-id="205" group-title="Mãn Nhãn 🔥" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1335914_small.png",09:30 Ngày 10/07 Angel City Fc (w) Và Kansas City Current (w) (mãn Nhãn) Sd 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://saoke.cdn.khmer-hd.com/x0y1/playlist.m3u8
-#EXTINF:-1 tvg-id="186" group-title="Mãn Nhãn 🔥" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1335914_small.png",09:30 Ngày 10/07 Angel City Fc (w) Và Kansas City Current (w) (mãn Nhãn) Hd 3
+#EXTINF:-1 tvg-id="206" group-title="Mãn Nhãn 🔥" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1335914_small.png",09:30 Ngày 10/07 Angel City Fc (w) Và Kansas City Current (w) (mãn Nhãn) Hd 3
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://wtyi0525.edgemaxcdn.org/live/x0y3-3410/playlist.m3u8
-#EXTINF:-1 tvg-id="187" group-title="Mãn Nhãn 🔥" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1335914_small.png",09:30 Ngày 10/07 Angel City Fc (w) Và Kansas City Current (w) (mãn Nhãn) Hd 3
+#EXTINF:-1 tvg-id="207" group-title="Mãn Nhãn 🔥" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1335914_small.png",09:30 Ngày 10/07 Angel City Fc (w) Và Kansas City Current (w) (mãn Nhãn) Hd 3
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://stm6dad71710204.stream.hdplaylink.com/sklive/x0y2/playlist.m3u8
-#EXTINF:-1 tvg-id="188" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YjY1NDc1YjAzZjYtMzJhMQ/ZmZmYjg0NTM4ZGQtZDZiYQ.png",Nba Toronto Raptors Vs Denver Nuggets Blv Cozy (colalive) Flv
+#EXTINF:-1 tvg-id="208" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YjY1NDc1YjAzZjYtMzJhMQ/ZmZmYjg0NTM4ZGQtZDZiYQ.png",Nba Toronto Raptors Vs Denver Nuggets Blv Cozy (colalive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh4.app/live/87379114.flv
-#EXTINF:-1 tvg-id="189" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YjY1NDc1YjAzZjYtMzJhMQ/ZmZmYjg0NTM4ZGQtZDZiYQ.png",Nba Toronto Raptors Vs Denver Nuggets Blv Cozy (colalive) M3u8
+#EXTINF:-1 tvg-id="209" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YjY1NDc1YjAzZjYtMzJhMQ/ZmZmYjg0NTM4ZGQtZDZiYQ.png",Nba Toronto Raptors Vs Denver Nuggets Blv Cozy (colalive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh4.app/live/87379114.m3u8
-#EXTINF:-1 tvg-id="190" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MTQ5NzVlNmU0MTAtNjIyMg/MmQxZDdkN2JjY2EtZTc0Mg.png",Vsbet - Thể Thao Hàng đầu đối Tác Vsbet (colalive) Flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.k8v4dh4.app/live/36669975.flv
-#EXTINF:-1 tvg-id="191" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MTQ5NzVlNmU0MTAtNjIyMg/MmQxZDdkN2JjY2EtZTc0Mg.png",Vsbet - Thể Thao Hàng đầu đối Tác Vsbet (colalive) M3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.k8v4dh4.app/live/36669975.m3u8
-#EXTINF:-1 tvg-id="192" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YWE4YjdjMzljNGItMjFlYQ/M2NhZTI3MWJkZDAtNjBjNg.jpg",Xóc Dĩa Xóc Dĩa (colalive) Flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.k8v4dh4.app/live/26250293.flv
-#EXTINF:-1 tvg-id="193" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YWE4YjdjMzljNGItMjFlYQ/M2NhZTI3MWJkZDAtNjBjNg.jpg",Xóc Dĩa Xóc Dĩa (colalive) M3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.k8v4dh4.app/live/26250293.m3u8
-#EXTINF:-1 tvg-id="194" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZWQ4YzAwNzY3NzgtNDcwMg/YzYxYTVjMDliNWItYmQ1MQ.jpg",Colatv- Hướng Dẫn đăng Ký Colatv- Hướng Dẫn đăng Ký (colalive) Flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.k8v4dh4.app/live/58139474.flv
-#EXTINF:-1 tvg-id="195" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZWQ4YzAwNzY3NzgtNDcwMg/YzYxYTVjMDliNWItYmQ1MQ.jpg",Colatv- Hướng Dẫn đăng Ký Colatv- Hướng Dẫn đăng Ký (colalive) M3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.k8v4dh4.app/live/58139474.m3u8
-#EXTINF:-1 tvg-id="196" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OWZiZGJiNWRiNmEtOTRjNQ/OWZjOGFiN2ZjZDktOTdmNg.jpg",Live Bacarat Bacarat (colalive) Flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.k8v4dh4.app/live/36858215.flv
-#EXTINF:-1 tvg-id="197" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OWZiZGJiNWRiNmEtOTRjNQ/OWZjOGFiN2ZjZDktOTdmNg.jpg",Live Bacarat Bacarat (colalive) M3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.k8v4dh4.app/live/36858215.m3u8
-#EXTINF:-1 tvg-id="198" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MWJkY2I3MzRkOTUtNGNiYQ/YWE5YTQ0ZjM4NzUtMWY0Zg.png",Kor D2 Seoul E-land Fc Vs Hwaseong Fc Blv Mountain Dew (colalive) Flv
+#EXTINF:-1 tvg-id="210" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MWJkY2I3MzRkOTUtNGNiYQ/YWE5YTQ0ZjM4NzUtMWY0Zg.png",Kor D2 Seoul E-land Fc Vs Hwaseong Fc Blv Mountain Dew (colalive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh4.app/live/87547578.flv
-#EXTINF:-1 tvg-id="199" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MWJkY2I3MzRkOTUtNGNiYQ/YWE5YTQ0ZjM4NzUtMWY0Zg.png",Kor D2 Seoul E-land Fc Vs Hwaseong Fc Blv Mountain Dew (colalive) M3u8
+#EXTINF:-1 tvg-id="211" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MWJkY2I3MzRkOTUtNGNiYQ/YWE5YTQ0ZjM4NzUtMWY0Zg.png",Kor D2 Seoul E-land Fc Vs Hwaseong Fc Blv Mountain Dew (colalive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh4.app/live/87547578.m3u8
-#EXTINF:-1 tvg-id="200" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/10891.png",22h00 07/10 Gintra-universitetas Vs Nordsjælland (blvtoptop) Dê Gia đình
+#EXTINF:-1 tvg-id="212" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/N2UxZmZhNmJmMDYtOGE2Yw/MDdlOWVlZGYyYTktZDcxNw.png",Kbl Suwon Kt Vs Mobis Phoebus Blv Rockstar (colalive) Flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.k8v4dh4.app/live/82054853.flv
+#EXTINF:-1 tvg-id="213" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/N2UxZmZhNmJmMDYtOGE2Yw/MDdlOWVlZGYyYTktZDcxNw.png",Kbl Suwon Kt Vs Mobis Phoebus Blv Rockstar (colalive) M3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.k8v4dh4.app/live/82054853.m3u8
+#EXTINF:-1 tvg-id="214" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MTQ5NzVlNmU0MTAtNjIyMg/MmQxZDdkN2JjY2EtZTc0Mg.png",Vsbet - Thể Thao Hàng đầu đối Tác Vsbet (colalive) Flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.k8v4dh4.app/live/36669975.flv
+#EXTINF:-1 tvg-id="215" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MTQ5NzVlNmU0MTAtNjIyMg/MmQxZDdkN2JjY2EtZTc0Mg.png",Vsbet - Thể Thao Hàng đầu đối Tác Vsbet (colalive) M3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.k8v4dh4.app/live/36669975.m3u8
+#EXTINF:-1 tvg-id="216" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YWE4YjdjMzljNGItMjFlYQ/M2NhZTI3MWJkZDAtNjBjNg.jpg",Xóc Dĩa Xóc Dĩa (colalive) Flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.k8v4dh4.app/live/26250293.flv
+#EXTINF:-1 tvg-id="217" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YWE4YjdjMzljNGItMjFlYQ/M2NhZTI3MWJkZDAtNjBjNg.jpg",Xóc Dĩa Xóc Dĩa (colalive) M3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.k8v4dh4.app/live/26250293.m3u8
+#EXTINF:-1 tvg-id="218" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZWQ4YzAwNzY3NzgtNDcwMg/YzYxYTVjMDliNWItYmQ1MQ.jpg",Colatv- Hướng Dẫn đăng Ký Colatv- Hướng Dẫn đăng Ký (colalive) Flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.k8v4dh4.app/live/58139474.flv
+#EXTINF:-1 tvg-id="219" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZWQ4YzAwNzY3NzgtNDcwMg/YzYxYTVjMDliNWItYmQ1MQ.jpg",Colatv- Hướng Dẫn đăng Ký Colatv- Hướng Dẫn đăng Ký (colalive) M3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.k8v4dh4.app/live/58139474.m3u8
+#EXTINF:-1 tvg-id="220" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OWZiZGJiNWRiNmEtOTRjNQ/OWZjOGFiN2ZjZDktOTdmNg.jpg",Live Bacarat Bacarat (colalive) Flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.k8v4dh4.app/live/36858215.flv
+#EXTINF:-1 tvg-id="221" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OWZiZGJiNWRiNmEtOTRjNQ/OWZjOGFiN2ZjZDktOTdmNg.jpg",Live Bacarat Bacarat (colalive) M3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.k8v4dh4.app/live/36858215.m3u8
+#EXTINF:-1 tvg-id="222" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/10891.png",22h00 07/10 Gintra-universitetas Vs Nordsjælland (blvtoptop) Dê Gia đình
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/5vto8ydi1j/playlist.m3u8
-#EXTINF:-1 tvg-id="201" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1886.png",23h45 07/10 Juventus W Vs Sl Benfica (blvtoptop) Bún Chả
+#EXTINF:-1 tvg-id="223" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1886.png",23h45 07/10 Juventus W Vs Sl Benfica (blvtoptop) Bún Chả
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/0dq4pt7ka4/playlist.m3u8
-#EXTINF:-1 tvg-id="202" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1850.png",02h00 08/10 Arsenal W Vs Lyon W (blvtoptop) Chaien
+#EXTINF:-1 tvg-id="224" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1850.png",02h00 08/10 Arsenal W Vs Lyon W (blvtoptop) Chaien
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/yql97itgbl/playlist.m3u8
-#EXTINF:-1 tvg-id="203" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1850.png",02h00 08/10 Arsenal W Vs Lyon W (blvtoptop) Lil Shady
+#EXTINF:-1 tvg-id="225" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1850.png",02h00 08/10 Arsenal W Vs Lyon W (blvtoptop) Lil Shady
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/6cjd6zf2ny/playlist.m3u8
-#EXTINF:-1 tvg-id="204" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1918.png",02h00 08/10 Barcelona W Vs  (blvtoptop) Adam
+#EXTINF:-1 tvg-id="226" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1918.png",02h00 08/10 Barcelona W Vs  (blvtoptop) Adam
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/mjap0rrqv8/playlist.m3u8
-#EXTINF:-1 tvg-id="205" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1918.png",02h00 08/10 Barcelona W Vs  (blvtoptop) Bed
+#EXTINF:-1 tvg-id="227" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1918.png",02h00 08/10 Barcelona W Vs  (blvtoptop) Bed
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/aklh087186/playlist.m3u8
-#EXTINF:-1 tvg-id="206" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1506.png",20h00 08/10 Ethiopia Vs Guinea-bissau (blvtoptop) Bún Chả
+#EXTINF:-1 tvg-id="228" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1506.png",20h00 08/10 Ethiopia Vs Guinea-bissau (blvtoptop) Bún Chả
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/0dq4pt7ka4/playlist.m3u8
-#EXTINF:-1 tvg-id="207" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1506.png",20h00 08/10 Ethiopia Vs Guinea-bissau (blvtoptop) Tôm Mì
+#EXTINF:-1 tvg-id="229" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1506.png",20h00 08/10 Ethiopia Vs Guinea-bissau (blvtoptop) Tôm Mì
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/384vepruzs/playlist.m3u8
-#EXTINF:-1 tvg-id="208" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1552.png",22h00 08/10 Oman Vs  (blvtoptop) Bún Chả
+#EXTINF:-1 tvg-id="230" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1552.png",22h00 08/10 Oman Vs  (blvtoptop) Bún Chả
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/0dq4pt7ka4/playlist.m3u8
-#EXTINF:-1 tvg-id="209" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1552.png",22h00 08/10 Oman Vs  (blvtoptop) Dê Gia đình
+#EXTINF:-1 tvg-id="231" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1552.png",22h00 08/10 Oman Vs  (blvtoptop) Dê Gia đình
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/5vto8ydi1j/playlist.m3u8
-#EXTINF:-1 tvg-id="210" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/15224.png",23h45 08/10 Real Madrid W Vs Roma W (blvtoptop) Lil Shady
+#EXTINF:-1 tvg-id="232" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/15224.png",23h45 08/10 Real Madrid W Vs Roma W (blvtoptop) Lil Shady
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/6cjd6zf2ny/playlist.m3u8
-#EXTINF:-1 tvg-id="211" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/15224.png",23h45 08/10 Real Madrid W Vs Roma W (blvtoptop) Bed
+#EXTINF:-1 tvg-id="233" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/15224.png",23h45 08/10 Real Madrid W Vs Roma W (blvtoptop) Bed
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/aklh087186/playlist.m3u8
-#EXTINF:-1 tvg-id="212" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1899.png",23h45 08/10 Twente W Vs Chelsea W (blvtoptop) Adam
+#EXTINF:-1 tvg-id="234" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1899.png",23h45 08/10 Twente W Vs Chelsea W (blvtoptop) Adam
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/mjap0rrqv8/playlist.m3u8
-#EXTINF:-1 tvg-id="213" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1899.png",23h45 08/10 Twente W Vs Chelsea W (blvtoptop) Chaien
+#EXTINF:-1 tvg-id="235" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1899.png",23h45 08/10 Twente W Vs Chelsea W (blvtoptop) Chaien
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/yql97itgbl/playlist.m3u8
