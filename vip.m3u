@@ -450,24 +450,24 @@ https://xem.hoiquan.Click/NguonOnliveTV/sctv4k/ToChaThangVThanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 https://xem.hoiquan.Click/NguonOnliveTV/TVBVietNam/ToChaThangVThanh
-#EXTINF:-1 tvg-id="BunBoGioHeo" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/BunBoGioHeo/TichHop-Socolive",Nạp 10h30-10/10/2025
+#EXTINF:-1 tvg-id="BunBoGioHeo" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/BunBoGioHeo/TichHop-Socolive",Nạp 11h00-10/10/2025
 https://xem.hoiquan.click/BunBo/BunBoGioHeo/GioHeo.m3u8
-#EXTINF:-1 tvg-id="9912091" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/9912091/TichHop-Socolive",WCPCA: Honduras vs Costa Rica
-https://xem.hoiquan.click/BunBo/9912091/GioHeo.m3u8
-#EXTINF:-1 tvg-id="9912111" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/9912111/TichHop-Socolive",NBA: Los Angeles Clippers (Usa) vs Guangzhou (Chn)
-https://xem.hoiquan.click/BunBo/9912111/GioHeo.m3u8
-#EXTINF:-1 tvg-id="9912108" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/9912108/TichHop-Socolive",WCPCA: Honduras vs Costa Rica
-https://xem.hoiquan.click/BunBo/9912108/GioHeo.m3u8
-#EXTINF:-1 tvg-id="9912060" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/9912060/TichHop-Socolive",WCPCA: Honduras vs Costa Rica
-https://xem.hoiquan.click/BunBo/9912060/GioHeo.m3u8
-#EXTINF:-1 tvg-id="283501" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/283501/TichHop-Socolive",WCPCA: Honduras vs Costa Rica
-https://xem.hoiquan.click/BunBo/283501/GioHeo.m3u8
-#EXTINF:-1 tvg-id="9912112" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/9912112/TichHop-Socolive",NBA: Los Angeles Clippers (Usa) vs Guangzhou (Chn)
-https://xem.hoiquan.click/BunBo/9912112/GioHeo.m3u8
-#EXTINF:-1 tvg-id="9912009" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/9912009/TichHop-Socolive",WCPCA: Honduras vs Costa Rica
-https://xem.hoiquan.click/BunBo/9912009/GioHeo.m3u8
 #EXTINF:-1 tvg-id="289098" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/289098/TichHop-Socolive",NBA: Los Angeles Clippers (Usa) vs Guangzhou (Chn)
 https://xem.hoiquan.click/BunBo/289098/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912112" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/9912112/TichHop-Socolive",NBA: Los Angeles Clippers (Usa) vs Guangzhou (Chn)
+https://xem.hoiquan.click/BunBo/9912112/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912108" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/9912108/TichHop-Socolive",WCPCA: Honduras vs Costa Rica
+https://xem.hoiquan.click/BunBo/9912108/GioHeo.m3u8
+#EXTINF:-1 tvg-id="283501" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/283501/TichHop-Socolive",WCPCA: Honduras vs Costa Rica
+https://xem.hoiquan.click/BunBo/283501/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912060" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/9912060/TichHop-Socolive",WCPCA: Honduras vs Costa Rica
+https://xem.hoiquan.click/BunBo/9912060/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912111" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/9912111/TichHop-Socolive",NBA: Los Angeles Clippers (Usa) vs Guangzhou (Chn)
+https://xem.hoiquan.click/BunBo/9912111/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912091" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/9912091/TichHop-Socolive",WCPCA: Honduras vs Costa Rica
+https://xem.hoiquan.click/BunBo/9912091/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912009" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/9912009/TichHop-Socolive",WCPCA: Honduras vs Costa Rica
+https://xem.hoiquan.click/BunBo/9912009/GioHeo.m3u8
 #EXTINF:-1 tvg-id="9912100" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/9912100/TichHop-Socolive",WCPCA: Honduras vs Costa Rica
 https://xem.hoiquan.click/BunBo/9912100/GioHeo.m3u8
 #EXTINF:-1 tvg-id="x7lm7phjwy4zm2w" group-title="Hội Quán Live ⚽️" tvg-logo="https://xem.hoiquan.click/Logo/x7lm7phjwy4zm2w/TichHop-RoBong",🟢 FC Kairat-KuPs
@@ -1923,18 +1923,18 @@ https://chcdn.livestreameuro.live/live/paohd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m301nd/playlist.m3u8
-#EXTINF:-1 tvg-id="13" group-title="Cá Kèo 🔥" tvg-logo="https://img.thesports.com/football/team/d4f4e605a25a9adb6e4d4fba87b16f1e.png",10h00 Ngày 10/10 Haryana (w) Vs Punjab (w) (cá Kèo) Backup 1
+#EXTINF:-1 tvg-id="13" group-title="Cá Kèo 🔥" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/Honduras.png",09h00 Ngày 10/10 Honduras Vs Costa Rica (cá Kèo) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/n4NdwGn5N47fTOhl-Mydbw/Fv2lucGIbhPi2caWYvF5Lg/1760088613585/live/sd-6MvYbMXymCokuva1aT/playlist.m3u8
-#EXTINF:-1 tvg-id="14" group-title="Cá Kèo 🔥" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/Honduras.png",09h00 Ngày 10/10 Honduras Vs Costa Rica (cá Kèo) Backup 1
+https://apisportzz179528093.nsnd.live/9Bufv2HKGXMudpvQ38SxCg/Fv2lucGIbhPi2caWYvF5Lg/1760089688323/live/sd-6MuT7NBn9bJj5XEuRd/playlist.m3u8
+#EXTINF:-1 tvg-id="14" group-title="Cá Kèo 🔥" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/Honduras.png",09h00 Ngày 10/10 Honduras Vs Costa Rica (cá Kèo) Backup 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/TqW9hvWw9lm4eQWBYKLTLg/Fv2lucGIbhPi2caWYvF5Lg/1760088968290/live/sd-6MuT7NBn9bJj5XEuRd/playlist.m3u8
-#EXTINF:-1 tvg-id="15" group-title="Cá Kèo 🔥" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/Honduras.png",09h00 Ngày 10/10 Honduras Vs Costa Rica (cá Kèo) Backup 2
+https://apisportzz179528093.nsnd.live/oCswf6tee3r_eFqBsYC8HQ/Fv2lucGIbhPi2caWYvF5Lg/1760089688324/live/hd-en-6MuT7NBn9bJj5XEuRd/playlist.m3u8
+#EXTINF:-1 tvg-id="15" group-title="Cá Kèo 🔥" tvg-logo="https://img.thesports.com/football/team/d4f4e605a25a9adb6e4d4fba87b16f1e.png",10h00 Ngày 10/10 Haryana (w) Vs Punjab (w) (cá Kèo) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/ZTIHWcNHvCp-DIVMxor56Q/Fv2lucGIbhPi2caWYvF5Lg/1760088968290/live/hd-en-6MuT7NBn9bJj5XEuRd/playlist.m3u8
+https://apisportzz179528093.nsnd.live/bzcYg9SrfBnYI8wzPHMQjg/Fv2lucGIbhPi2caWYvF5Lg/1760089694335/live/sd-6MvYbMXymCokuva1aT/playlist.m3u8
 #EXTINF:-1 tvg-id="16" group-title="Cà Khịa 🔥" tvg-logo="https://img.thesports.com/football/team/570197ce24c78651ca363a146213ba08.png!w100",09h00 Ngày 10/10 Honduras Vs Costa Rica (cà Khịa) Sd 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -2035,42 +2035,42 @@ https://ckcdn.livestreameuro.live/live/m401nd.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://ckcdn.livestreameuro.live/live/m301nd/playlist.m3u8
-#EXTINF:-1 tvg-id="41" group-title="Lương Sơn 🔥" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/1h3bx8zfk81q.png?win007=sell",09h00 Ngày 10/10 Honduras Vs Costa Rica (lương Sơn) Blv Lưu Bị M3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTINF:-1 tvg-id="42" group-title="Lương Sơn 🔥" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/1h3bx8zfk81q.png?win007=sell",09h00 Ngày 10/10 Honduras Vs Costa Rica (lương Sơn) Blv Lưu Bị Flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTINF:-1 tvg-id="43" group-title="Lương Sơn 🔥" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/1h3bx8zfk81q.png?win007=sell",09h00 Ngày 10/10 Honduras Vs Costa Rica (lương Sơn) Blv Thời Thiên M3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/THOITHIEN/index.m3u8?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86
-#EXTINF:-1 tvg-id="44" group-title="Lương Sơn 🔥" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/1h3bx8zfk81q.png?win007=sell",09h00 Ngày 10/10 Honduras Vs Costa Rica (lương Sơn) Blv Thời Thiên Flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/THOITHIEN.flv?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86
-#EXTINF:-1 tvg-id="45" group-title="Lương Sơn 🔥" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/1h3bx8zfk81q.png?win007=sell",09h00 Ngày 10/10 Honduras Vs Costa Rica (lương Sơn) Blv Dương Chí M3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/DUONGCHI/index.m3u8?expire=1788427256&sign=159db9dfd56ca3d84ac81b77379b363a
-#EXTINF:-1 tvg-id="46" group-title="Lương Sơn 🔥" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/1h3bx8zfk81q.png?win007=sell",09h00 Ngày 10/10 Honduras Vs Costa Rica (lương Sơn) Blv Dương Chí Flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/DUONGCHI.flv?expire=1788427256&sign=159db9dfd56ca3d84ac81b77379b363a88075eab5f96a7da123562534b64d4e
-#EXTINF:-1 tvg-id="47" group-title="Lương Sơn 🔥" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/1h3bx8zfk81q.png?win007=sell",09h00 Ngày 10/10 Honduras Vs Costa Rica (lương Sơn) Blv Kevill M3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
-#EXTINF:-1 tvg-id="48" group-title="Lương Sơn 🔥" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/1h3bx8zfk81q.png?win007=sell",09h00 Ngày 10/10 Honduras Vs Costa Rica (lương Sơn) Blv Kevill Flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
-#EXTINF:-1 tvg-id="49" group-title="Lương Sơn 🔥" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/1h3bx8zfk81q.png?win007=sell",09h00 Ngày 10/10 Honduras Vs Costa Rica (lương Sơn) Blv Kaka M3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-#EXTINF:-1 tvg-id="50" group-title="Lương Sơn 🔥" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/1h3bx8zfk81q.png?win007=sell",09h00 Ngày 10/10 Honduras Vs Costa Rica (lương Sơn) Blv Kaka Flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-#EXTINF:-1 tvg-id="51" group-title="Lương Sơn 🔥" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/1h3bx8zfk81q.png?win007=sell",09h00 Ngày 10/10 Honduras Vs Costa Rica (lương Sơn) Blv địch Nhân Kiệt M3u
+#EXTINF:-1 tvg-id="41" group-title="Lương Sơn 🔥" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/1h3bx8zfk81q.png?win007=sell",09h00 Ngày 10/10 Honduras Vs Costa Rica (lương Sơn) Blv địch Nhân Kiệt M3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/NHANKIET/index.m3u8?expire=1788427256&sign=ba090392b81339adcc052deb96414a4c
-#EXTINF:-1 tvg-id="52" group-title="Lương Sơn 🔥" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/1h3bx8zfk81q.png?win007=sell",09h00 Ngày 10/10 Honduras Vs Costa Rica (lương Sơn) Blv địch Nhân Kiệt Flv
+#EXTINF:-1 tvg-id="42" group-title="Lương Sơn 🔥" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/1h3bx8zfk81q.png?win007=sell",09h00 Ngày 10/10 Honduras Vs Costa Rica (lương Sơn) Blv địch Nhân Kiệt Flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/NHANKIET.flv?expire=1788427256&sign=ba090392b81339adcc052deb96414a4c
+#EXTINF:-1 tvg-id="43" group-title="Lương Sơn 🔥" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/1h3bx8zfk81q.png?win007=sell",09h00 Ngày 10/10 Honduras Vs Costa Rica (lương Sơn) Blv Kaka M3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:-1 tvg-id="44" group-title="Lương Sơn 🔥" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/1h3bx8zfk81q.png?win007=sell",09h00 Ngày 10/10 Honduras Vs Costa Rica (lương Sơn) Blv Kaka Flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:-1 tvg-id="45" group-title="Lương Sơn 🔥" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/1h3bx8zfk81q.png?win007=sell",09h00 Ngày 10/10 Honduras Vs Costa Rica (lương Sơn) Blv Lưu Bị M3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:-1 tvg-id="46" group-title="Lương Sơn 🔥" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/1h3bx8zfk81q.png?win007=sell",09h00 Ngày 10/10 Honduras Vs Costa Rica (lương Sơn) Blv Lưu Bị Flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:-1 tvg-id="47" group-title="Lương Sơn 🔥" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/1h3bx8zfk81q.png?win007=sell",09h00 Ngày 10/10 Honduras Vs Costa Rica (lương Sơn) Blv Thời Thiên M3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/THOITHIEN/index.m3u8?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86
+#EXTINF:-1 tvg-id="48" group-title="Lương Sơn 🔥" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/1h3bx8zfk81q.png?win007=sell",09h00 Ngày 10/10 Honduras Vs Costa Rica (lương Sơn) Blv Thời Thiên Flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/THOITHIEN.flv?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86
+#EXTINF:-1 tvg-id="49" group-title="Lương Sơn 🔥" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/1h3bx8zfk81q.png?win007=sell",09h00 Ngày 10/10 Honduras Vs Costa Rica (lương Sơn) Blv Dương Chí M3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/DUONGCHI/index.m3u8?expire=1788427256&sign=159db9dfd56ca3d84ac81b77379b363a
+#EXTINF:-1 tvg-id="50" group-title="Lương Sơn 🔥" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/1h3bx8zfk81q.png?win007=sell",09h00 Ngày 10/10 Honduras Vs Costa Rica (lương Sơn) Blv Dương Chí Flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/DUONGCHI.flv?expire=1788427256&sign=159db9dfd56ca3d84ac81b77379b363a88075eab5f96a7da123562534b64d4e
+#EXTINF:-1 tvg-id="51" group-title="Lương Sơn 🔥" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/1h3bx8zfk81q.png?win007=sell",09h00 Ngày 10/10 Honduras Vs Costa Rica (lương Sơn) Blv Kevill M3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
+#EXTINF:-1 tvg-id="52" group-title="Lương Sơn 🔥" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/1h3bx8zfk81q.png?win007=sell",09h00 Ngày 10/10 Honduras Vs Costa Rica (lương Sơn) Blv Kevill Flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
 #EXTINF:-1 tvg-id="53" group-title="Ra Khơi 🔥" tvg-logo="https://img.thesports.com/football/team/570197ce24c78651ca363a146213ba08.png!w100",09h00 Ngày 10/10 Honduras Vs Costa Rica (ra Khơi) Sd 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -2255,386 +2255,328 @@ https://live.alilicloud.com/live/20af97861660bff5eea9144137d5e2b4/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/2d0e8acc26b391698e2771015e7a4981/playlist.m3u8
-#EXTINF:-1 tvg-id="99" group-title="Gà Vàng 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/fb9a4cf4290646122b3afe17bd914737.png",07h35 Ngày 09/10 Remo Belem (pa) Vs Athletico Paranaense (gà Vàng) Source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/680b1f3d18159478bf2dbb4859b754ff/playlist.m3u8
-#EXTINF:-1 tvg-id="100" group-title="Gà Vàng 🔥" tvg-logo="https://static.flashscore.com/res/image/data/0jM9DKYg-U9vpe29F.png",09h00 Ngày 09/10 Honduras Vs Costa Rica (gà Vàng) Source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/4652c3c976918a321dd2e49024a46d45/playlist.m3u8
-#EXTINF:-1 tvg-id="101" group-title="Gà Vàng 🔥" tvg-logo="https://static.flashscore.com/res/image/data/0jM9DKYg-U9vpe29F.png",09h00 Ngày 09/10 Honduras Vs Costa Rica (gà Vàng) Sd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc38017100.stream.hdplaylink.com/live8/129d285cccdd48b2b02dc73d7c6b53c6_480/playlist.m3u8
-#EXTINF:-1 tvg-id="102" group-title="Gà Vàng 🔥" tvg-logo="https://static.flashscore.com/res/image/data/0jM9DKYg-U9vpe29F.png",09h00 Ngày 09/10 Honduras Vs Costa Rica (gà Vàng) Hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc38017100.stream.hdplaylink.com/live8/129d285cccdd48b2b02dc73d7c6b53c6_720/playlist.m3u8
-#EXTINF:-1 tvg-id="103" group-title="Gà Vàng 🔥" tvg-logo="https://static.flashscore.com/res/image/data/0jM9DKYg-U9vpe29F.png",09h00 Ngày 09/10 Honduras Vs Costa Rica (gà Vàng) Sd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live8.fastestcdn-global.com/live8/129d285cccdd48b2b02dc73d7c6b53c6_480/index.m3u8
-#EXTINF:-1 tvg-id="104" group-title="Gà Vàng 🔥" tvg-logo="https://static.flashscore.com/res/image/data/0jM9DKYg-U9vpe29F.png",09h00 Ngày 09/10 Honduras Vs Costa Rica (gà Vàng) Hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live8.fastestcdn-global.com/live8/129d285cccdd48b2b02dc73d7c6b53c6_720/index.m3u8
-#EXTINF:-1 tvg-id="105" group-title="Gà Vàng 🔥" tvg-logo="https://static.flashscore.com/res/image/data/0jM9DKYg-U9vpe29F.png",09h00 Ngày 09/10 Honduras Vs Costa Rica (gà Vàng) Sd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live7.fastestcdn-global.com/live7/129d285cccdd48b2b02dc73d7c6b53c6_480/index.m3u8
-#EXTINF:-1 tvg-id="106" group-title="Gà Vàng 🔥" tvg-logo="https://static.flashscore.com/res/image/data/0jM9DKYg-U9vpe29F.png",09h00 Ngày 09/10 Honduras Vs Costa Rica (gà Vàng) Hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live7.fastestcdn-global.com/live7/129d285cccdd48b2b02dc73d7c6b53c6_720/index.m3u8
-#EXTINF:-1 tvg-id="107" group-title="Gà Vàng 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/d4f4e605a25a9adb6e4d4fba87b16f1e.png",10h00 Ngày 09/10 Haryana Women Vs Punjab Women (gà Vàng) Source
+#EXTINF:-1 tvg-id="99" group-title="Gà Vàng 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/d4f4e605a25a9adb6e4d4fba87b16f1e.png",10h00 Ngày 09/10 Haryana Women Vs Punjab Women (gà Vàng) Source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/66cbc4cd425d3a7a72b623d43697a73c/playlist.m3u8
-#EXTINF:-1 tvg-id="108" group-title="Văn Khánh 🔥" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/1h3bx8zfk81q.png?win007=sell",09h00 Ngày 10/10 Honduras Vs Costa Rica (văn Khánh) M3u
+#EXTINF:-1 tvg-id="100" group-title="Gà Vàng 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/fb9a4cf4290646122b3afe17bd914737.png",07h35 Ngày 09/10 Remo Belem (pa) Vs Athletico Paranaense (gà Vàng) Source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/680b1f3d18159478bf2dbb4859b754ff/playlist.m3u8
+#EXTINF:-1 tvg-id="101" group-title="Văn Khánh 🔥" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/1h3bx8zfk81q.png?win007=sell",09h00 Ngày 10/10 Honduras Vs Costa Rica (văn Khánh) M3u
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
 https://hls.cdnvankhanh.com/live/GIAOSUXOAY/index.m3u8?expire=1892730180&sign=c561b814d05f14cf153b87d973755453
-#EXTINF:-1 tvg-id="109" group-title="Văn Khánh 🔥" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/1h3bx8zfk81q.png?win007=sell",09h00 Ngày 10/10 Honduras Vs Costa Rica (văn Khánh) Flv
+#EXTINF:-1 tvg-id="102" group-title="Văn Khánh 🔥" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/1h3bx8zfk81q.png?win007=sell",09h00 Ngày 10/10 Honduras Vs Costa Rica (văn Khánh) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
 https://flv.cdnvankhanh.com/live/GIAOSUXOAY.flv?expire=1892730180&sign=c561b814d05f14cf153b87d973755453
-#EXTINF:-1 tvg-id="110" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251007/b488849b93051cfb633512244d9fd0d0.png",09h00 Ngày 10/10 Honduras Vs Costa Rica [blv Deco] (socolive) Flv
+#EXTINF:-1 tvg-id="103" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251007/b488849b93051cfb633512244d9fd0d0.png",09h00 Ngày 10/10 Honduras Vs Costa Rica [blv Deco] (socolive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-9912060_lsd.flv?txSecret=60e7ad93f438e0b238560a15f9a58ed2&txTime=68e8d4c1
-#EXTINF:-1 tvg-id="111" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251007/b488849b93051cfb633512244d9fd0d0.png",09h00 Ngày 10/10 Honduras Vs Costa Rica [blv Deco] (socolive) Hdflv
+#EXTINF:-1 tvg-id="104" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251007/b488849b93051cfb633512244d9fd0d0.png",09h00 Ngày 10/10 Honduras Vs Costa Rica [blv Deco] (socolive) Hdflv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-9912060_lhd.flv?txSecret=079e02dda7fac84f4818b20c233aa72c&txTime=68e8d4c1
-#EXTINF:-1 tvg-id="112" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251007/b488849b93051cfb633512244d9fd0d0.png",09h00 Ngày 10/10 Honduras Vs Costa Rica [blv Deco] (socolive) M3u8
+#EXTINF:-1 tvg-id="105" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251007/b488849b93051cfb633512244d9fd0d0.png",09h00 Ngày 10/10 Honduras Vs Costa Rica [blv Deco] (socolive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-9912060_lsd.m3u8?txSecret=60e7ad93f438e0b238560a15f9a58ed2&txTime=68e8d4c1
-#EXTINF:-1 tvg-id="113" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251007/b488849b93051cfb633512244d9fd0d0.png",09h00 Ngày 10/10 Honduras Vs Costa Rica [blv Deco] (socolive) Hdm3u8
+#EXTINF:-1 tvg-id="106" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251007/b488849b93051cfb633512244d9fd0d0.png",09h00 Ngày 10/10 Honduras Vs Costa Rica [blv Deco] (socolive) Hdm3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=079e02dda7fac84f4818b20c233aa72c&txTime=68e8d4c1
-#EXTINF:-1 tvg-id="114" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251009/bf873024a8fc989f6ba6dad64f3508d9.png",09h30 Ngày 10/10 Los Angeles Clippers (usa) Vs Guangzhou (chn) [blv Henry] (socolive) Flv
+#EXTINF:-1 tvg-id="107" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251009/bf873024a8fc989f6ba6dad64f3508d9.png",09h30 Ngày 10/10 Los Angeles Clippers (usa) Vs Guangzhou (chn) [blv Henry] (socolive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1760071281-0-0-57e19f08a32b33e310012f5ccd069dab
-#EXTINF:-1 tvg-id="115" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251009/bf873024a8fc989f6ba6dad64f3508d9.png",09h30 Ngày 10/10 Los Angeles Clippers (usa) Vs Guangzhou (chn) [blv Henry] (socolive) Hdflv
+#EXTINF:-1 tvg-id="108" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251009/bf873024a8fc989f6ba6dad64f3508d9.png",09h30 Ngày 10/10 Los Angeles Clippers (usa) Vs Guangzhou (chn) [blv Henry] (socolive) Hdflv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1760071281-0-0-f03b8329ee7826ab30125548f1d0ccd7
-#EXTINF:-1 tvg-id="116" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251009/bf873024a8fc989f6ba6dad64f3508d9.png",09h30 Ngày 10/10 Los Angeles Clippers (usa) Vs Guangzhou (chn) [blv Henry] (socolive) M3u8
+#EXTINF:-1 tvg-id="109" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251009/bf873024a8fc989f6ba6dad64f3508d9.png",09h30 Ngày 10/10 Los Angeles Clippers (usa) Vs Guangzhou (chn) [blv Henry] (socolive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1760071281-0-0-ca986601f5640ddfe4cf55381afeb017
-#EXTINF:-1 tvg-id="117" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251009/bf873024a8fc989f6ba6dad64f3508d9.png",09h30 Ngày 10/10 Los Angeles Clippers (usa) Vs Guangzhou (chn) [blv Henry] (socolive) Hdm3u8
+#EXTINF:-1 tvg-id="110" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251009/bf873024a8fc989f6ba6dad64f3508d9.png",09h30 Ngày 10/10 Los Angeles Clippers (usa) Vs Guangzhou (chn) [blv Henry] (socolive) Hdm3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1760071281-0-0-90dac2ab226d1a2954dc1f544421ca20
-#EXTINF:-1 tvg-id="118" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251007/b488849b93051cfb633512244d9fd0d0.png",09h00 Ngày 10/10 Honduras Vs Costa Rica [blv Kan] (socolive) Flv
+#EXTINF:-1 tvg-id="111" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251007/b488849b93051cfb633512244d9fd0d0.png",09h00 Ngày 10/10 Honduras Vs Costa Rica [blv Kan] (socolive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=0f792b748ed4a3812e939c22ef71b9cd&txTime=68e8d4c1
-#EXTINF:-1 tvg-id="119" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251007/b488849b93051cfb633512244d9fd0d0.png",09h00 Ngày 10/10 Honduras Vs Costa Rica [blv Kan] (socolive) Hdflv
+#EXTINF:-1 tvg-id="112" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251007/b488849b93051cfb633512244d9fd0d0.png",09h00 Ngày 10/10 Honduras Vs Costa Rica [blv Kan] (socolive) Hdflv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=7a86118a9d632d521767206d53b84eeb&txTime=68e8d4c1
-#EXTINF:-1 tvg-id="120" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251007/b488849b93051cfb633512244d9fd0d0.png",09h00 Ngày 10/10 Honduras Vs Costa Rica [blv Kan] (socolive) M3u8
+#EXTINF:-1 tvg-id="113" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251007/b488849b93051cfb633512244d9fd0d0.png",09h00 Ngày 10/10 Honduras Vs Costa Rica [blv Kan] (socolive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=0f792b748ed4a3812e939c22ef71b9cd&txTime=68e8d4c1
-#EXTINF:-1 tvg-id="121" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251007/b488849b93051cfb633512244d9fd0d0.png",09h00 Ngày 10/10 Honduras Vs Costa Rica [blv Kan] (socolive) Hdm3u8
+#EXTINF:-1 tvg-id="114" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251007/b488849b93051cfb633512244d9fd0d0.png",09h00 Ngày 10/10 Honduras Vs Costa Rica [blv Kan] (socolive) Hdm3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=7a86118a9d632d521767206d53b84eeb&txTime=68e8d4c1
-#EXTINF:-1 tvg-id="122" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251007/b488849b93051cfb633512244d9fd0d0.png",09h00 Ngày 10/10 Honduras Vs Costa Rica [tạ Biên Giới] (socolive) Flv
+#EXTINF:-1 tvg-id="115" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251007/b488849b93051cfb633512244d9fd0d0.png",09h00 Ngày 10/10 Honduras Vs Costa Rica [tạ Biên Giới] (socolive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1760071281-0-0-a7da064b31099d1bead8de04ceb03aa6
-#EXTINF:-1 tvg-id="123" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251007/b488849b93051cfb633512244d9fd0d0.png",09h00 Ngày 10/10 Honduras Vs Costa Rica [tạ Biên Giới] (socolive) Hdflv
+#EXTINF:-1 tvg-id="116" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251007/b488849b93051cfb633512244d9fd0d0.png",09h00 Ngày 10/10 Honduras Vs Costa Rica [tạ Biên Giới] (socolive) Hdflv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1760071281-0-0-71b6da73901948bd7fdf75cc7e84b105
-#EXTINF:-1 tvg-id="124" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251007/b488849b93051cfb633512244d9fd0d0.png",09h00 Ngày 10/10 Honduras Vs Costa Rica [tạ Biên Giới] (socolive) M3u8
+#EXTINF:-1 tvg-id="117" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251007/b488849b93051cfb633512244d9fd0d0.png",09h00 Ngày 10/10 Honduras Vs Costa Rica [tạ Biên Giới] (socolive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1760071281-0-0-78bb3527dd28906dbf42313b54aa212e
-#EXTINF:-1 tvg-id="125" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251007/b488849b93051cfb633512244d9fd0d0.png",09h00 Ngày 10/10 Honduras Vs Costa Rica [tạ Biên Giới] (socolive) Hdm3u8
+#EXTINF:-1 tvg-id="118" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251007/b488849b93051cfb633512244d9fd0d0.png",09h00 Ngày 10/10 Honduras Vs Costa Rica [tạ Biên Giới] (socolive) Hdm3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1760071281-0-0-aba5dd13a96bf03500fa8408fde834a9
-#EXTINF:-1 tvg-id="126" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251009/bf873024a8fc989f6ba6dad64f3508d9.png",09h30 Ngày 10/10 Los Angeles Clippers (usa) Vs Guangzhou (chn) [blv Dustin] (socolive) Flv
+#EXTINF:-1 tvg-id="119" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251009/bf873024a8fc989f6ba6dad64f3508d9.png",09h30 Ngày 10/10 Los Angeles Clippers (usa) Vs Guangzhou (chn) [blv Dustin] (socolive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-289098_lsd.flv?txSecret=e6389e992e0bf3bc80bf2702fb62b2e6&txTime=68e8d4c1
-#EXTINF:-1 tvg-id="127" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251009/bf873024a8fc989f6ba6dad64f3508d9.png",09h30 Ngày 10/10 Los Angeles Clippers (usa) Vs Guangzhou (chn) [blv Dustin] (socolive) Hdflv
+#EXTINF:-1 tvg-id="120" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251009/bf873024a8fc989f6ba6dad64f3508d9.png",09h30 Ngày 10/10 Los Angeles Clippers (usa) Vs Guangzhou (chn) [blv Dustin] (socolive) Hdflv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-289098_lhd.flv?txSecret=e8d6c28f477804b584bfe00503c9827f&txTime=68e8d4c1
-#EXTINF:-1 tvg-id="128" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251009/bf873024a8fc989f6ba6dad64f3508d9.png",09h30 Ngày 10/10 Los Angeles Clippers (usa) Vs Guangzhou (chn) [blv Dustin] (socolive) M3u8
+#EXTINF:-1 tvg-id="121" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251009/bf873024a8fc989f6ba6dad64f3508d9.png",09h30 Ngày 10/10 Los Angeles Clippers (usa) Vs Guangzhou (chn) [blv Dustin] (socolive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-289098_lsd.m3u8?txSecret=e6389e992e0bf3bc80bf2702fb62b2e6&txTime=68e8d4c1
-#EXTINF:-1 tvg-id="129" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251009/bf873024a8fc989f6ba6dad64f3508d9.png",09h30 Ngày 10/10 Los Angeles Clippers (usa) Vs Guangzhou (chn) [blv Dustin] (socolive) Hdm3u8
+#EXTINF:-1 tvg-id="122" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251009/bf873024a8fc989f6ba6dad64f3508d9.png",09h30 Ngày 10/10 Los Angeles Clippers (usa) Vs Guangzhou (chn) [blv Dustin] (socolive) Hdm3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-289098_lhd.m3u8?txSecret=e8d6c28f477804b584bfe00503c9827f&txTime=68e8d4c1
-#EXTINF:-1 tvg-id="130" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251007/b488849b93051cfb633512244d9fd0d0.png",09h00 Ngày 10/10 Honduras Vs Costa Rica [tam Mao] (socolive) Flv
+#EXTINF:-1 tvg-id="123" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251007/b488849b93051cfb633512244d9fd0d0.png",09h00 Ngày 10/10 Honduras Vs Costa Rica [tam Mao] (socolive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-9912100_lsd.flv?txSecret=3c1effd8bcaa2be13ef9160e7d52e4e1&txTime=68e8d4c1
-#EXTINF:-1 tvg-id="131" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251007/b488849b93051cfb633512244d9fd0d0.png",09h00 Ngày 10/10 Honduras Vs Costa Rica [tam Mao] (socolive) Hdflv
+#EXTINF:-1 tvg-id="124" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251007/b488849b93051cfb633512244d9fd0d0.png",09h00 Ngày 10/10 Honduras Vs Costa Rica [tam Mao] (socolive) Hdflv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-9912100_lhd.flv?txSecret=08d36f1418b6e97d06513e75dbbe8e92&txTime=68e8d4c1
-#EXTINF:-1 tvg-id="132" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251007/b488849b93051cfb633512244d9fd0d0.png",09h00 Ngày 10/10 Honduras Vs Costa Rica [tam Mao] (socolive) M3u8
+#EXTINF:-1 tvg-id="125" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251007/b488849b93051cfb633512244d9fd0d0.png",09h00 Ngày 10/10 Honduras Vs Costa Rica [tam Mao] (socolive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=3c1effd8bcaa2be13ef9160e7d52e4e1&txTime=68e8d4c1
-#EXTINF:-1 tvg-id="133" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251007/b488849b93051cfb633512244d9fd0d0.png",09h00 Ngày 10/10 Honduras Vs Costa Rica [tam Mao] (socolive) Hdm3u8
+#EXTINF:-1 tvg-id="126" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251007/b488849b93051cfb633512244d9fd0d0.png",09h00 Ngày 10/10 Honduras Vs Costa Rica [tam Mao] (socolive) Hdm3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=08d36f1418b6e97d06513e75dbbe8e92&txTime=68e8d4c1
-#EXTINF:-1 tvg-id="134" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251009/bf873024a8fc989f6ba6dad64f3508d9.png",09h30 Ngày 10/10 Los Angeles Clippers (usa) Vs Guangzhou (chn) [blv Bean] (socolive) Flv
+#EXTINF:-1 tvg-id="127" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251009/bf873024a8fc989f6ba6dad64f3508d9.png",09h30 Ngày 10/10 Los Angeles Clippers (usa) Vs Guangzhou (chn) [blv Bean] (socolive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://stream-flv.dfsfe.top/lives/9912111-480p.flv
-#EXTINF:-1 tvg-id="135" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251009/bf873024a8fc989f6ba6dad64f3508d9.png",09h30 Ngày 10/10 Los Angeles Clippers (usa) Vs Guangzhou (chn) [blv Bean] (socolive) Hdflv
+#EXTINF:-1 tvg-id="128" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251009/bf873024a8fc989f6ba6dad64f3508d9.png",09h30 Ngày 10/10 Los Angeles Clippers (usa) Vs Guangzhou (chn) [blv Bean] (socolive) Hdflv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://stream-flv.dfsfe.top/lives/9912111-720p.flv
-#EXTINF:-1 tvg-id="136" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251009/bf873024a8fc989f6ba6dad64f3508d9.png",09h30 Ngày 10/10 Los Angeles Clippers (usa) Vs Guangzhou (chn) [blv Bean] (socolive) M3u8
+#EXTINF:-1 tvg-id="129" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251009/bf873024a8fc989f6ba6dad64f3508d9.png",09h30 Ngày 10/10 Los Angeles Clippers (usa) Vs Guangzhou (chn) [blv Bean] (socolive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://stream-flv.dfsfe.top/lives/9912111-480p.m3u8
-#EXTINF:-1 tvg-id="137" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251009/bf873024a8fc989f6ba6dad64f3508d9.png",09h30 Ngày 10/10 Los Angeles Clippers (usa) Vs Guangzhou (chn) [blv Bean] (socolive) Hdm3u8
+#EXTINF:-1 tvg-id="130" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251009/bf873024a8fc989f6ba6dad64f3508d9.png",09h30 Ngày 10/10 Los Angeles Clippers (usa) Vs Guangzhou (chn) [blv Bean] (socolive) Hdm3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://stream-flv.dfsfe.top/lives/9912111-720p.m3u8
-#EXTINF:-1 tvg-id="138" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251007/b488849b93051cfb633512244d9fd0d0.png",09h00 Ngày 10/10 Honduras Vs Costa Rica [blv Củ Cải] (socolive) Flv
+#EXTINF:-1 tvg-id="131" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251007/b488849b93051cfb633512244d9fd0d0.png",09h00 Ngày 10/10 Honduras Vs Costa Rica [blv Củ Cải] (socolive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1760071281-0-0-fdd871bbbe9d0c14e1dae56c96262a6d
-#EXTINF:-1 tvg-id="139" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251007/b488849b93051cfb633512244d9fd0d0.png",09h00 Ngày 10/10 Honduras Vs Costa Rica [blv Củ Cải] (socolive) Hdflv
+#EXTINF:-1 tvg-id="132" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251007/b488849b93051cfb633512244d9fd0d0.png",09h00 Ngày 10/10 Honduras Vs Costa Rica [blv Củ Cải] (socolive) Hdflv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1760071281-0-0-b298aea8651f57110f88dfba6e9d069b
-#EXTINF:-1 tvg-id="140" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251007/b488849b93051cfb633512244d9fd0d0.png",09h00 Ngày 10/10 Honduras Vs Costa Rica [blv Củ Cải] (socolive) M3u8
+#EXTINF:-1 tvg-id="133" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251007/b488849b93051cfb633512244d9fd0d0.png",09h00 Ngày 10/10 Honduras Vs Costa Rica [blv Củ Cải] (socolive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1760071281-0-0-79c91ba14f00963c5f13d1d5fe24805d
-#EXTINF:-1 tvg-id="141" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251007/b488849b93051cfb633512244d9fd0d0.png",09h00 Ngày 10/10 Honduras Vs Costa Rica [blv Củ Cải] (socolive) Hdm3u8
+#EXTINF:-1 tvg-id="134" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251007/b488849b93051cfb633512244d9fd0d0.png",09h00 Ngày 10/10 Honduras Vs Costa Rica [blv Củ Cải] (socolive) Hdm3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1760071281-0-0-296f6b02f03d44a327023bfa49d94fb4
-#EXTINF:-1 tvg-id="142" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251007/b488849b93051cfb633512244d9fd0d0.png",09h00 Ngày 10/10 Honduras Vs Costa Rica [blv  Typn] (socolive) Flv
+#EXTINF:-1 tvg-id="135" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251007/b488849b93051cfb633512244d9fd0d0.png",09h00 Ngày 10/10 Honduras Vs Costa Rica [blv  Typn] (socolive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912009_lsd.flv?auth_key=1760071281-0-0-8bb6ee321775097661d83e4de95bebf1
-#EXTINF:-1 tvg-id="143" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251007/b488849b93051cfb633512244d9fd0d0.png",09h00 Ngày 10/10 Honduras Vs Costa Rica [blv  Typn] (socolive) Hdflv
+#EXTINF:-1 tvg-id="136" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251007/b488849b93051cfb633512244d9fd0d0.png",09h00 Ngày 10/10 Honduras Vs Costa Rica [blv  Typn] (socolive) Hdflv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912009_lhd.flv?auth_key=1760071281-0-0-c0584789ade13559fb19bbb426902598
-#EXTINF:-1 tvg-id="144" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251007/b488849b93051cfb633512244d9fd0d0.png",09h00 Ngày 10/10 Honduras Vs Costa Rica [blv  Typn] (socolive) M3u8
+#EXTINF:-1 tvg-id="137" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251007/b488849b93051cfb633512244d9fd0d0.png",09h00 Ngày 10/10 Honduras Vs Costa Rica [blv  Typn] (socolive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1760071281-0-0-0765b9cdb4decc1fd33812f07d15e14e
-#EXTINF:-1 tvg-id="145" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251007/b488849b93051cfb633512244d9fd0d0.png",09h00 Ngày 10/10 Honduras Vs Costa Rica [blv  Typn] (socolive) Hdm3u8
+#EXTINF:-1 tvg-id="138" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251007/b488849b93051cfb633512244d9fd0d0.png",09h00 Ngày 10/10 Honduras Vs Costa Rica [blv  Typn] (socolive) Hdm3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1760071281-0-0-1db21267a27a2d74529d252d6829e7b7
-#EXTINF:-1 tvg-id="146" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251008/74474e1726f524567694bf90614f1b08.png",Bit.ly/socolive [socolive] (socolive) Flv
+#EXTINF:-1 tvg-id="139" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251008/74474e1726f524567694bf90614f1b08.png",Bit.ly/socolive [socolive] (socolive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1760071281-0-0-f2e5f2f8e89ef2317accc3392a15daa4
-#EXTINF:-1 tvg-id="147" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251008/74474e1726f524567694bf90614f1b08.png",Bit.ly/socolive [socolive] (socolive) Hdflv
+#EXTINF:-1 tvg-id="140" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251008/74474e1726f524567694bf90614f1b08.png",Bit.ly/socolive [socolive] (socolive) Hdflv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1760071281-0-0-ebe267e4161258f04182d7e898f9569e
-#EXTINF:-1 tvg-id="148" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251008/74474e1726f524567694bf90614f1b08.png",Bit.ly/socolive [socolive] (socolive) M3u8
+#EXTINF:-1 tvg-id="141" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251008/74474e1726f524567694bf90614f1b08.png",Bit.ly/socolive [socolive] (socolive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1760071281-0-0-c408f92f92f361bd30814a59064d9e3c
-#EXTINF:-1 tvg-id="149" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251008/74474e1726f524567694bf90614f1b08.png",Bit.ly/socolive [socolive] (socolive) Hdm3u8
+#EXTINF:-1 tvg-id="142" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251008/74474e1726f524567694bf90614f1b08.png",Bit.ly/socolive [socolive] (socolive) Hdm3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1760071281-0-0-b1524ee4b71460c5d90930252b4ae5cd
-#EXTINF:-1 tvg-id="150" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/rek8GixS-OpJ5uAOg.png",07:15 Ngày 10/10 New York Giants Vs Philadelphia Eagles (1) [người Phép] Hd Nhanh
+#EXTINF:-1 tvg-id="143" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/rek8GixS-OpJ5uAOg.png",07:15 Ngày 10/10 New York Giants Vs Philadelphia Eagles (1) [người Phép] Hd Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179536519.akainu.xyz/live/phepHD.flv?expire=1760079977&sign=54a5dea08c806573c5cf169262d6cb1e
-#EXTINF:-1 tvg-id="151" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/rek8GixS-OpJ5uAOg.png",07:15 Ngày 10/10 New York Giants Vs Philadelphia Eagles (1) [người Phép] Hd1
+#EXTINF:-1 tvg-id="144" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/rek8GixS-OpJ5uAOg.png",07:15 Ngày 10/10 New York Giants Vs Philadelphia Eagles (1) [người Phép] Hd1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179266008.akainu.xyz/lk_dpi-WhqA9njtaxn3aCQ/Fv2lucGIbhPi2caWYvF5Lg/1760079977793/live/phepHD/playlist.m3u8
-#EXTINF:-1 tvg-id="152" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/rek8GixS-OpJ5uAOg.png",07:15 Ngày 10/10 New York Giants Vs Philadelphia Eagles (1) [người Phép] Hd2
+#EXTINF:-1 tvg-id="145" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/rek8GixS-OpJ5uAOg.png",07:15 Ngày 10/10 New York Giants Vs Philadelphia Eagles (1) [người Phép] Hd2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://live-vipxlvb.nsnd.live/iZk9ipOM5vRlWp740X3f0g/44aad5dfa01c79ab75667d799c2e06c1/1760079977/live/_definst_/stream_1_1bda7@phepHD/playlist.m3u8
-#EXTINF:-1 tvg-id="153" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/rek8GixS-OpJ5uAOg.png",07:15 Ngày 10/10 New York Giants Vs Philadelphia Eagles (1) [người Phép] Sd
+#EXTINF:-1 tvg-id="146" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/rek8GixS-OpJ5uAOg.png",07:15 Ngày 10/10 New York Giants Vs Philadelphia Eagles (1) [người Phép] Sd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179602324.akainu.xyz/wLW2wjYNX03jHMCfSeriEw/Fv2lucGIbhPi2caWYvF5Lg/1760079977793/live/phepSD/playlist.m3u8
-#EXTINF:-1 tvg-id="154" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/rek8GixS-OpJ5uAOg.png",07:15 Ngày 10/10 New York Giants Vs Philadelphia Eagles (1) [người Phép] Fullhd
+#EXTINF:-1 tvg-id="147" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/rek8GixS-OpJ5uAOg.png",07:15 Ngày 10/10 New York Giants Vs Philadelphia Eagles (1) [người Phép] Fullhd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://live-vipxlvb.nsnd.live/fpVysrbrpH3bvYluSo1VDw/bb30dc1883f5f92057cd67eec640c4d0/1760079977/live/_definst_/stream_1_1bda7@phepFHD/playlist.m3u8
-#EXTINF:-1 tvg-id="155" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/nFvRbjHG-MyFeHWzn.png",08:08 Ngày 10/10 Cubs Vs Brewers (1) [người Lửa] Hd Nhanh
+#EXTINF:-1 tvg-id="148" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/nFvRbjHG-MyFeHWzn.png",08:08 Ngày 10/10 Cubs Vs Brewers (1) [người Lửa] Hd Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179536519.akainu.xyz/live/luaHD.flv?expire=1760082137&sign=f93847d635ac8adb6af16d21c5279371
-#EXTINF:-1 tvg-id="156" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/nFvRbjHG-MyFeHWzn.png",08:08 Ngày 10/10 Cubs Vs Brewers (1) [người Lửa] Hd1
+#EXTINF:-1 tvg-id="149" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/nFvRbjHG-MyFeHWzn.png",08:08 Ngày 10/10 Cubs Vs Brewers (1) [người Lửa] Hd1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179266008.akainu.xyz/T1X_2e1XA8HIReoWHN78hA/Fv2lucGIbhPi2caWYvF5Lg/1760082137027/live/luaHD/playlist.m3u8
-#EXTINF:-1 tvg-id="157" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/nFvRbjHG-MyFeHWzn.png",08:08 Ngày 10/10 Cubs Vs Brewers (1) [người Lửa] Hd2
+#EXTINF:-1 tvg-id="150" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/nFvRbjHG-MyFeHWzn.png",08:08 Ngày 10/10 Cubs Vs Brewers (1) [người Lửa] Hd2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://live-vipxlvb.nsnd.live/-ypJ0b4Xe0GCPRyFBtUlPw/9f8b38d400ef6d394f2d68b3096e00f1/1760082137/live/_definst_/stream_1_1bda7@luaHD/playlist.m3u8
-#EXTINF:-1 tvg-id="158" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/nFvRbjHG-MyFeHWzn.png",08:08 Ngày 10/10 Cubs Vs Brewers (1) [người Lửa] Sd
+#EXTINF:-1 tvg-id="151" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/nFvRbjHG-MyFeHWzn.png",08:08 Ngày 10/10 Cubs Vs Brewers (1) [người Lửa] Sd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179602324.akainu.xyz/F0O4gqFULVjfN9T_dJC-zw/Fv2lucGIbhPi2caWYvF5Lg/1760082137027/live/luaSD/playlist.m3u8
-#EXTINF:-1 tvg-id="159" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/nFvRbjHG-MyFeHWzn.png",08:08 Ngày 10/10 Cubs Vs Brewers (1) [người Lửa] Fullhd
+#EXTINF:-1 tvg-id="152" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/nFvRbjHG-MyFeHWzn.png",08:08 Ngày 10/10 Cubs Vs Brewers (1) [người Lửa] Fullhd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://live-vipxlvb.nsnd.live/3OuzuYpicqTP8jkWlJCRFQ/74b8773ecaa9df430432c2bf2b6bd9e0/1760082137/live/_definst_/stream_1_1bda7@luaFHD/playlist.m3u8
-#EXTINF:-1 tvg-id="160" group-title="10cam 🔥" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Clippers.png",09:30 Ngày 10/10 Clippers Vs Guangzhou Loong Lions (1) [người Cây] Hd Nhanh
+#EXTINF:-1 tvg-id="153" group-title="10cam 🔥" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Clippers.png",09:30 Ngày 10/10 Clippers Vs Guangzhou Loong Lions (1) [người Cây] Hd Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179536519.akainu.xyz/live/Z2HD.flv?expire=1760084286&sign=9f78b5aa9575e8345641ad3d76e394b8
-#EXTINF:-1 tvg-id="161" group-title="10cam 🔥" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Clippers.png",09:30 Ngày 10/10 Clippers Vs Guangzhou Loong Lions (1) [người Cây] Hd1
+#EXTINF:-1 tvg-id="154" group-title="10cam 🔥" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Clippers.png",09:30 Ngày 10/10 Clippers Vs Guangzhou Loong Lions (1) [người Cây] Hd1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179266008.akainu.xyz/LJb52IUYPBvV4rTtNSDpWA/Fv2lucGIbhPi2caWYvF5Lg/1760084286937/live/Z2HD/playlist.m3u8
-#EXTINF:-1 tvg-id="162" group-title="10cam 🔥" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Clippers.png",09:30 Ngày 10/10 Clippers Vs Guangzhou Loong Lions (1) [người Cây] Hd2
+#EXTINF:-1 tvg-id="155" group-title="10cam 🔥" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Clippers.png",09:30 Ngày 10/10 Clippers Vs Guangzhou Loong Lions (1) [người Cây] Hd2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://live-vipxlvb.nsnd.live/uIueyPbzGHi78ATqidl7rw/d8575e4f2bb7991d6a11b5e422c908f2/1760084286/live/_definst_/stream_1_1bda7@Z2HD/playlist.m3u8
-#EXTINF:-1 tvg-id="163" group-title="10cam 🔥" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Clippers.png",09:30 Ngày 10/10 Clippers Vs Guangzhou Loong Lions (1) [người Cây] Sd
+#EXTINF:-1 tvg-id="156" group-title="10cam 🔥" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Clippers.png",09:30 Ngày 10/10 Clippers Vs Guangzhou Loong Lions (1) [người Cây] Sd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179602324.akainu.xyz/HFAA5G1e9h1Y3D0TL1YhSg/Fv2lucGIbhPi2caWYvF5Lg/1760084286937/live/Z2SD/playlist.m3u8
-#EXTINF:-1 tvg-id="164" group-title="10cam 🔥" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Clippers.png",09:30 Ngày 10/10 Clippers Vs Guangzhou Loong Lions (1) [người Cây] Fullhd
+#EXTINF:-1 tvg-id="157" group-title="10cam 🔥" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Clippers.png",09:30 Ngày 10/10 Clippers Vs Guangzhou Loong Lions (1) [người Cây] Fullhd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://live-vipxlvb.nsnd.live/7EvdE0fAsCNkVeOBnJts2g/2f5c86e8dcb258706feb1f79081dd77d/1760084286/live/_definst_/stream_1_1bda7@Z2FHD/playlist.m3u8
-#EXTINF:-1 tvg-id="165" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/2c92ad15069dd7eb7035238473d65ce6.png",10:00 Ngày 10/10 Katerina Siniakova Vs Jessica Pegula (1) [người Cồn] Hd Nhanh
+#EXTINF:-1 tvg-id="158" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/2c92ad15069dd7eb7035238473d65ce6.png",10:00 Ngày 10/10 Katerina Siniakova Vs Jessica Pegula (1) [người Cồn] Hd Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179536519.akainu.xyz/live/conHD.flv?expire=1760085007&sign=93ea0650e717c5fd0b0817e37a68b1bd
-#EXTINF:-1 tvg-id="166" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/2c92ad15069dd7eb7035238473d65ce6.png",10:00 Ngày 10/10 Katerina Siniakova Vs Jessica Pegula (1) [người Cồn] Hd1
+#EXTINF:-1 tvg-id="159" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/2c92ad15069dd7eb7035238473d65ce6.png",10:00 Ngày 10/10 Katerina Siniakova Vs Jessica Pegula (1) [người Cồn] Hd1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179266008.akainu.xyz/dFx-yisDYZumj2-1ZE4ATQ/Fv2lucGIbhPi2caWYvF5Lg/1760085007582/live/conHD/playlist.m3u8
-#EXTINF:-1 tvg-id="167" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/2c92ad15069dd7eb7035238473d65ce6.png",10:00 Ngày 10/10 Katerina Siniakova Vs Jessica Pegula (1) [người Cồn] Hd2
+#EXTINF:-1 tvg-id="160" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/2c92ad15069dd7eb7035238473d65ce6.png",10:00 Ngày 10/10 Katerina Siniakova Vs Jessica Pegula (1) [người Cồn] Hd2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://live-vipxlvb.nsnd.live/DLTHqxzxqIEeJVvDIo7_vw/2506a4c9a49d6a20c02208f6ddb30434/1760085007/live/_definst_/stream_1_1bda7@conHD/playlist.m3u8
-#EXTINF:-1 tvg-id="168" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/2c92ad15069dd7eb7035238473d65ce6.png",10:00 Ngày 10/10 Katerina Siniakova Vs Jessica Pegula (1) [người Cồn] Sd
+#EXTINF:-1 tvg-id="161" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/2c92ad15069dd7eb7035238473d65ce6.png",10:00 Ngày 10/10 Katerina Siniakova Vs Jessica Pegula (1) [người Cồn] Sd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179602324.akainu.xyz/OY3FFWBynp1lAGPfvjd3lQ/Fv2lucGIbhPi2caWYvF5Lg/1760085007583/live/conSD/playlist.m3u8
-#EXTINF:-1 tvg-id="169" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/2c92ad15069dd7eb7035238473d65ce6.png",10:00 Ngày 10/10 Katerina Siniakova Vs Jessica Pegula (1) [người Cồn] Fullhd
+#EXTINF:-1 tvg-id="162" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/2c92ad15069dd7eb7035238473d65ce6.png",10:00 Ngày 10/10 Katerina Siniakova Vs Jessica Pegula (1) [người Cồn] Fullhd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://live-vipxlvb.nsnd.live/th-aaqx13pHDopguhyfLig/7135f49323c9408d9b4f4a596ce26852/1760085007/live/_definst_/stream_1_1bda7@conFHD/playlist.m3u8
-#EXTINF:-1 tvg-id="170" group-title="10cam 🔥" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/Honduras.png",09:00 Ngày 10/10 Honduras Vs Costa Rica (1) [trâu Gác Bếp] Hd Nhanh
+#EXTINF:-1 tvg-id="163" group-title="10cam 🔥" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/Honduras.png",09:00 Ngày 10/10 Honduras Vs Costa Rica (1) [trâu Gác Bếp] Hd Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179536519.akainu.xyz/live/trauHD.flv?expire=1760083580&sign=c7aaaa232ca341a9f6930b7a656cf3a2
-#EXTINF:-1 tvg-id="171" group-title="10cam 🔥" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/Honduras.png",09:00 Ngày 10/10 Honduras Vs Costa Rica (1) [trâu Gác Bếp] Hd1
+#EXTINF:-1 tvg-id="164" group-title="10cam 🔥" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/Honduras.png",09:00 Ngày 10/10 Honduras Vs Costa Rica (1) [trâu Gác Bếp] Hd1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179266008.akainu.xyz/0KJHWfVaXV6fnRZW4ZrfFg/Fv2lucGIbhPi2caWYvF5Lg/1760083580277/live/trauHD/playlist.m3u8
-#EXTINF:-1 tvg-id="172" group-title="10cam 🔥" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/Honduras.png",09:00 Ngày 10/10 Honduras Vs Costa Rica (1) [trâu Gác Bếp] Hd2
+#EXTINF:-1 tvg-id="165" group-title="10cam 🔥" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/Honduras.png",09:00 Ngày 10/10 Honduras Vs Costa Rica (1) [trâu Gác Bếp] Hd2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://live-vipxlvb.nsnd.live/29nnQriEkqeduZNwVZHb9Q/b3a4e09812c4bf982e7ada2e2628f1f9/1760083580/live/_definst_/stream_1_1bda7@trauHD/playlist.m3u8
-#EXTINF:-1 tvg-id="173" group-title="10cam 🔥" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/Honduras.png",09:00 Ngày 10/10 Honduras Vs Costa Rica (1) [trâu Gác Bếp] Sd
+#EXTINF:-1 tvg-id="166" group-title="10cam 🔥" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/Honduras.png",09:00 Ngày 10/10 Honduras Vs Costa Rica (1) [trâu Gác Bếp] Sd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179602324.akainu.xyz/kHiAPCfe30D60g4ye94KOg/Fv2lucGIbhPi2caWYvF5Lg/1760083580277/live/trauSD/playlist.m3u8
-#EXTINF:-1 tvg-id="174" group-title="10cam 🔥" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/Honduras.png",09:00 Ngày 10/10 Honduras Vs Costa Rica (1) [trâu Gác Bếp] Fullhd
+#EXTINF:-1 tvg-id="167" group-title="10cam 🔥" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/Honduras.png",09:00 Ngày 10/10 Honduras Vs Costa Rica (1) [trâu Gác Bếp] Fullhd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://live-vipxlvb.nsnd.live/pLpL0t5XxgmtWYQf4bkGqQ/847878fb5be3ca4c0539d0883bc5274a/1760083580/live/_definst_/stream_1_1bda7@trauFHD/playlist.m3u8
-#EXTINF:-1 tvg-id="175" group-title="10cam 🔥" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/Honduras.png",09:00 Ngày 10/10 Honduras Vs Costa Rica (1) [trâu Gác Bếp] Backup 1
+#EXTINF:-1 tvg-id="168" group-title="10cam 🔥" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/Honduras.png",09:00 Ngày 10/10 Honduras Vs Costa Rica (1) [trâu Gác Bếp] Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/bvAUuFy26LWPA-43fQSWcw/Fv2lucGIbhPi2caWYvF5Lg/1760083580276/live/sd-6MuT7NBn9bJj5XEuRd/playlist.m3u8
-#EXTINF:-1 tvg-id="176" group-title="10cam 🔥" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/Honduras.png",09:00 Ngày 10/10 Honduras Vs Costa Rica (1) [trâu Gác Bếp] Backup 2
+#EXTINF:-1 tvg-id="169" group-title="10cam 🔥" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/Honduras.png",09:00 Ngày 10/10 Honduras Vs Costa Rica (1) [trâu Gác Bếp] Backup 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/9vdW-pWb9UK803nz3w4HRA/Fv2lucGIbhPi2caWYvF5Lg/1760083580277/live/hd-en-6MuT7NBn9bJj5XEuRd/playlist.m3u8
-#EXTINF:-1 tvg-id="177" group-title="Hội Quán 🔥" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/nUt8y1weoBfa54Oi6JD4dw_96x96.png",09h00 Ngày 10.10 Honduras Vs Costa Rica (hội Quán) Blv Phan Ca Full Hd
+#EXTINF:-1 tvg-id="170" group-title="Hội Quán 🔥" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/nUt8y1weoBfa54Oi6JD4dw_96x96.png",09h00 Ngày 10.10 Honduras Vs Costa Rica (hội Quán) Blv Phan Ca Full Hd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
-#EXTINF:-1 tvg-id="178" group-title="Hội Quán 🔥" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/nUt8y1weoBfa54Oi6JD4dw_96x96.png",09h00 Ngày 10.10 Honduras Vs Costa Rica (hội Quán) Blv Phan Ca Hd
+#EXTINF:-1 tvg-id="171" group-title="Hội Quán 🔥" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/nUt8y1weoBfa54Oi6JD4dw_96x96.png",09h00 Ngày 10.10 Honduras Vs Costa Rica (hội Quán) Blv Phan Ca Hd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-id="179" group-title="Hội Quán 🔥" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/nUt8y1weoBfa54Oi6JD4dw_96x96.png",09h00 Ngày 10.10 Honduras Vs Costa Rica (hội Quán) Blv Phan Ca Sd
+#EXTINF:-1 tvg-id="172" group-title="Hội Quán 🔥" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/nUt8y1weoBfa54Oi6JD4dw_96x96.png",09h00 Ngày 10.10 Honduras Vs Costa Rica (hội Quán) Blv Phan Ca Sd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="180" group-title="Mãn Nhãn 🔥" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5808_small.png",09:00 Ngày 10/10 Honduras Và Costa Rica (mãn Nhãn) Sd 2
+#EXTINF:-1 tvg-id="173" group-title="Mãn Nhãn 🔥" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5808_small.png",09:00 Ngày 10/10 Honduras Và Costa Rica (mãn Nhãn) Sd 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://saoke.cdn.khmer-hd.com/x9y1/playlist.m3u8
-#EXTINF:-1 tvg-id="181" group-title="Mãn Nhãn 🔥" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5808_small.png",09:00 Ngày 10/10 Honduras Và Costa Rica (mãn Nhãn) Sd 2
+#EXTINF:-1 tvg-id="174" group-title="Mãn Nhãn 🔥" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5808_small.png",09:00 Ngày 10/10 Honduras Và Costa Rica (mãn Nhãn) Sd 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://wtyi0525.edgemaxcdn.org/live/x9y3-0639/playlist.m3u8
-#EXTINF:-1 tvg-id="182" group-title="Mãn Nhãn 🔥" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5808_small.png",09:00 Ngày 10/10 Honduras Và Costa Rica (mãn Nhãn) Hd 3
+#EXTINF:-1 tvg-id="175" group-title="Mãn Nhãn 🔥" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5808_small.png",09:00 Ngày 10/10 Honduras Và Costa Rica (mãn Nhãn) Hd 3
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://stm6dad71710204.stream.hdplaylink.com/sklive/x9y2/playlist.m3u8
-#EXTINF:-1 tvg-id="183" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YWExMWFjNjE3MjUtMGM5Nw/ZmI3ZTVlMjAyN2EtYjhmMg.png",Wc Nca Honduras Vs Costa Rica Blv Sting (colalive) Flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.k8v4dh4.app/live/14707124.flv
-#EXTINF:-1 tvg-id="184" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YWExMWFjNjE3MjUtMGM5Nw/ZmI3ZTVlMjAyN2EtYjhmMg.png",Wc Nca Honduras Vs Costa Rica Blv Sting (colalive) M3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.k8v4dh4.app/live/14707124.m3u8
-#EXTINF:-1 tvg-id="185" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MTQ5NzVlNmU0MTAtNjIyMg/MmQxZDdkN2JjY2EtZTc0Mg.png",Vsbet - Thể Thao Hàng đầu đối Tác Vsbet (colalive) Flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.k8v4dh4.app/live/36669975.flv
-#EXTINF:-1 tvg-id="186" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MTQ5NzVlNmU0MTAtNjIyMg/MmQxZDdkN2JjY2EtZTc0Mg.png",Vsbet - Thể Thao Hàng đầu đối Tác Vsbet (colalive) M3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.k8v4dh4.app/live/36669975.m3u8
-#EXTINF:-1 tvg-id="187" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YWE4YjdjMzljNGItMjFlYQ/M2NhZTI3MWJkZDAtNjBjNg.jpg",Xóc Dĩa Xóc Dĩa (colalive) Flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.k8v4dh4.app/live/26250293.flv
-#EXTINF:-1 tvg-id="188" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YWE4YjdjMzljNGItMjFlYQ/M2NhZTI3MWJkZDAtNjBjNg.jpg",Xóc Dĩa Xóc Dĩa (colalive) M3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.k8v4dh4.app/live/26250293.m3u8
-#EXTINF:-1 tvg-id="189" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OWZiZGJiNWRiNmEtOTRjNQ/OWZjOGFiN2ZjZDktOTdmNg.jpg",Live Bacarat Bacarat (colalive) Flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.k8v4dh4.app/live/36858215.flv
-#EXTINF:-1 tvg-id="190" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OWZiZGJiNWRiNmEtOTRjNQ/OWZjOGFiN2ZjZDktOTdmNg.jpg",Live Bacarat Bacarat (colalive) M3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.k8v4dh4.app/live/36858215.m3u8
-#EXTINF:-1 tvg-id="191" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZWQ4YzAwNzY3NzgtNDcwMg/YzYxYTVjMDliNWItYmQ1MQ.jpg",Colatv- Hướng Dẫn đăng Ký Colatv- Hướng Dẫn đăng Ký (colalive) Flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.k8v4dh4.app/live/58139474.flv
-#EXTINF:-1 tvg-id="192" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZWQ4YzAwNzY3NzgtNDcwMg/YzYxYTVjMDliNWItYmQ1MQ.jpg",Colatv- Hướng Dẫn đăng Ký Colatv- Hướng Dẫn đăng Ký (colalive) M3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.k8v4dh4.app/live/58139474.m3u8
-#EXTINF:-1 tvg-id="193" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/17.png",18h00 10/10 South Korea Vs Brazil (blvtoptop) Bed
+#EXTINF:-1 tvg-id="176" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/17.png",18h00 10/10 South Korea Vs Brazil (blvtoptop) Bed
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/aklh087186/playlist.m3u8
-#EXTINF:-1 tvg-id="194" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1095.png",21h00 10/10 Kazakhstan Vs Liechtenstein (blvtoptop) Bún Chả
+#EXTINF:-1 tvg-id="177" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1095.png",21h00 10/10 Kazakhstan Vs Liechtenstein (blvtoptop) Bún Chả
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/0dq4pt7ka4/playlist.m3u8
-#EXTINF:-1 tvg-id="195" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/8228.png",23h00 10/10 Ukraine U21 Vs Hungary U21 (blvtoptop) Chaien
+#EXTINF:-1 tvg-id="178" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/8228.png",23h00 10/10 Ukraine U21 Vs Hungary U21 (blvtoptop) Chaien
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/yql97itgbl/playlist.m3u8
-#EXTINF:-1 tvg-id="196" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/8189.png",23h00 10/10 Denmark U21 Vs Austria U21 (blvtoptop) Lil Shady
+#EXTINF:-1 tvg-id="179" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/8189.png",23h00 10/10 Denmark U21 Vs Austria U21 (blvtoptop) Lil Shady
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/6cjd6zf2ny/playlist.m3u8
-#EXTINF:-1 tvg-id="197" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/8196.png",23h00 10/10 Germany U21 Vs Greece U21 (blvtoptop) Adam
+#EXTINF:-1 tvg-id="180" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/8196.png",23h00 10/10 Germany U21 Vs Greece U21 (blvtoptop) Adam
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/mjap0rrqv8/playlist.m3u8
-#EXTINF:-1 tvg-id="198" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1514.png",23h00 10/10 Rwanda Vs Benin (blvtoptop) Dê Gia đình
+#EXTINF:-1 tvg-id="181" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1514.png",23h00 10/10 Rwanda Vs Benin (blvtoptop) Dê Gia đình
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/5vto8ydi1j/playlist.m3u8
-#EXTINF:-1 tvg-id="199" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/8201.png",23h15 10/10 Italy U21 Vs Sweden U21 (blvtoptop) Bún Chả
+#EXTINF:-1 tvg-id="182" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/8201.png",23h15 10/10 Italy U21 Vs Sweden U21 (blvtoptop) Bún Chả
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/0dq4pt7ka4/playlist.m3u8
-#EXTINF:-1 tvg-id="200" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1111.png",01h45 11/10 Kosovo Vs Slovenia (blvtoptop) Chaien
+#EXTINF:-1 tvg-id="183" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1111.png",01h45 11/10 Kosovo Vs Slovenia (blvtoptop) Chaien
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/yql97itgbl/playlist.m3u8
-#EXTINF:-1 tvg-id="201" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/5.png",01h45 11/10 Sweden Vs Switzerland (blvtoptop) Dê Gia đình
+#EXTINF:-1 tvg-id="184" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/5.png",01h45 11/10 Sweden Vs Switzerland (blvtoptop) Dê Gia đình
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/5vto8ydi1j/playlist.m3u8
-#EXTINF:-1 tvg-id="202" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1.png",01h45 11/10 Belgium Vs Fyr Macedonia (blvtoptop) Bed
+#EXTINF:-1 tvg-id="185" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1.png",01h45 11/10 Belgium Vs Fyr Macedonia (blvtoptop) Bed
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/aklh087186/playlist.m3u8
-#EXTINF:-1 tvg-id="203" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/25.png",01h45 11/10 Germany Vs Luxembourg (blvtoptop) Lil Shady
+#EXTINF:-1 tvg-id="186" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/25.png",01h45 11/10 Germany Vs Luxembourg (blvtoptop) Lil Shady
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/6cjd6zf2ny/playlist.m3u8
-#EXTINF:-1 tvg-id="204" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/2.png",01h45 11/10 France Vs Azerbaijan (blvtoptop) Adam
+#EXTINF:-1 tvg-id="187" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/2.png",01h45 11/10 France Vs Azerbaijan (blvtoptop) Adam
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/mjap0rrqv8/playlist.m3u8
-#EXTINF:-1 tvg-id="205" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1092.png",20h00 11/10 Latvia Vs Andorra (blvtoptop) Bún Chả
+#EXTINF:-1 tvg-id="188" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1092.png",20h00 11/10 Latvia Vs Andorra (blvtoptop) Bún Chả
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/0dq4pt7ka4/playlist.m3u8
-#EXTINF:-1 tvg-id="206" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/799.png",21h15 11/10 Mirandes Vs Leganes (blvtoptop) Chaien
+#EXTINF:-1 tvg-id="189" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/799.png",21h15 11/10 Mirandes Vs Leganes (blvtoptop) Chaien
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/yql97itgbl/playlist.m3u8
-#EXTINF:-1 tvg-id="207" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/799.png",21h15 11/10 Mirandes Vs Leganes (blvtoptop) Tôm Mì
+#EXTINF:-1 tvg-id="190" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/799.png",21h15 11/10 Mirandes Vs Leganes (blvtoptop) Tôm Mì
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/384vepruzs/playlist.m3u8
-#EXTINF:-1 tvg-id="208" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1090.png",23h00 11/10 Norway Vs Israel (blvtoptop) Bún Chả
+#EXTINF:-1 tvg-id="191" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1090.png",23h00 11/10 Norway Vs Israel (blvtoptop) Bún Chả
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/0dq4pt7ka4/playlist.m3u8
-#EXTINF:-1 tvg-id="209" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/769.png",23h00 11/10 Hungary Vs Armenia (blvtoptop) Adam
+#EXTINF:-1 tvg-id="192" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/769.png",23h00 11/10 Hungary Vs Armenia (blvtoptop) Adam
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/mjap0rrqv8/playlist.m3u8
-#EXTINF:-1 tvg-id="210" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/769.png",23h00 11/10 Hungary Vs Armenia (blvtoptop) Lil Shady
+#EXTINF:-1 tvg-id="193" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/769.png",23h00 11/10 Hungary Vs Armenia (blvtoptop) Lil Shady
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/6cjd6zf2ny/playlist.m3u8
-#EXTINF:-1 tvg-id="211" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/723.png",23h30 11/10 Almeria Vs Zaragoza (blvtoptop) Bed
+#EXTINF:-1 tvg-id="194" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/723.png",23h30 11/10 Almeria Vs Zaragoza (blvtoptop) Bed
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/aklh087186/playlist.m3u8
