@@ -2473,174 +2473,186 @@ https://live.alilicloud.com/live/1f6177c23f4efee2a89eebb7a649ff94/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/0e287c73a161ffe81a95cb9c33a7c975/playlist.m3u8
-#EXTINF:-1 tvg-id="152" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251011/b2ff4c3eca12a26f36d2cef35a704c63.png",Bit.ly/socolive [socolive] (socolive) Flv
+#EXTINF:-1 tvg-id="152" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251012/38a98aeaee1a566e613b68391f7576f2.png",05h30 Ngày 15/10 Chapecoense Sc Vs Botafogo Sp [blv Xavi] (socolive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1760481321-0-0-ea3ebbc78655c7f56bdd007e628b015d
-#EXTINF:-1 tvg-id="153" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251011/b2ff4c3eca12a26f36d2cef35a704c63.png",Bit.ly/socolive [socolive] (socolive) Hdflv
+https://pull.niur.live/live/stream-525090_lsd.flv?txSecret=2092eef3e585b2ed3eb00522dae1469b&txTime=68ef1ab2
+#EXTINF:-1 tvg-id="153" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251012/38a98aeaee1a566e613b68391f7576f2.png",05h30 Ngày 15/10 Chapecoense Sc Vs Botafogo Sp [blv Xavi] (socolive) Hdflv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1760481321-0-0-933f9b8986b40575ca03af57961b776a
-#EXTINF:-1 tvg-id="154" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251011/b2ff4c3eca12a26f36d2cef35a704c63.png",Bit.ly/socolive [socolive] (socolive) M3u8
+https://pull.niur.live/live/stream-525090_lhd.flv?txSecret=29c166fc8da9d08ec51898be1c0f47aa&txTime=68ef1ab2
+#EXTINF:-1 tvg-id="154" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251012/38a98aeaee1a566e613b68391f7576f2.png",05h30 Ngày 15/10 Chapecoense Sc Vs Botafogo Sp [blv Xavi] (socolive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1760481321-0-0-2fbcaeaf0ff8f3787c55487855374c85
-#EXTINF:-1 tvg-id="155" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251011/b2ff4c3eca12a26f36d2cef35a704c63.png",Bit.ly/socolive [socolive] (socolive) Hdm3u8
+https://pull.niur.live/live/stream-525090_lsd.m3u8?txSecret=2092eef3e585b2ed3eb00522dae1469b&txTime=68ef1ab2
+#EXTINF:-1 tvg-id="155" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251012/38a98aeaee1a566e613b68391f7576f2.png",05h30 Ngày 15/10 Chapecoense Sc Vs Botafogo Sp [blv Xavi] (socolive) Hdm3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1760481321-0-0-eec5165751d36347c0cee7e2f11174aa
-#EXTINF:-1 tvg-id="156" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251011/b2ff4c3eca12a26f36d2cef35a704c63.png",Tường Thuật: Wcpeu - Northern Ireland Vs Germany [sóc Mèo Méo Meo] (socolive) Flv
+https://pull.niur.live/live/stream-525090_lhd.m3u8?txSecret=29c166fc8da9d08ec51898be1c0f47aa&txTime=68ef1ab2
+#EXTINF:-1 tvg-id="156" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251011/b2ff4c3eca12a26f36d2cef35a704c63.png",Bit.ly/socolive [socolive] (socolive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1760481322-0-0-cd1dbc4e7ecc3febef7ba87b909711fb
-#EXTINF:-1 tvg-id="157" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251011/b2ff4c3eca12a26f36d2cef35a704c63.png",Tường Thuật: Wcpeu - Northern Ireland Vs Germany [sóc Mèo Méo Meo] (socolive) Hdflv
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1760482402-0-0-943532ab6907221d025e5b952b5bda8f
+#EXTINF:-1 tvg-id="157" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251011/b2ff4c3eca12a26f36d2cef35a704c63.png",Bit.ly/socolive [socolive] (socolive) Hdflv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1760481322-0-0-12708fa020f1da600414e7c905331f4e
-#EXTINF:-1 tvg-id="158" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251011/b2ff4c3eca12a26f36d2cef35a704c63.png",Tường Thuật: Wcpeu - Northern Ireland Vs Germany [sóc Mèo Méo Meo] (socolive) M3u8
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1760482402-0-0-f802804978f035ac2d55bbb70e2032bf
+#EXTINF:-1 tvg-id="158" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251011/b2ff4c3eca12a26f36d2cef35a704c63.png",Bit.ly/socolive [socolive] (socolive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1760481322-0-0-2343eba15834e3012382fbee23b0ea17
-#EXTINF:-1 tvg-id="159" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251011/b2ff4c3eca12a26f36d2cef35a704c63.png",Tường Thuật: Wcpeu - Northern Ireland Vs Germany [sóc Mèo Méo Meo] (socolive) Hdm3u8
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1760482402-0-0-48f07fa4f0a20235e91e0b45df3dbfaf
+#EXTINF:-1 tvg-id="159" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251011/b2ff4c3eca12a26f36d2cef35a704c63.png",Bit.ly/socolive [socolive] (socolive) Hdm3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1760481322-0-0-e094105830595d40e3102006cd0bf425
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1760482402-0-0-5f6118cc4d7161e31b5b5a16a85e48bc
 #EXTINF:-1 tvg-id="160" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251011/b2ff4c3eca12a26f36d2cef35a704c63.png",Tường Thuật: Wcpeu - Romania Vs Austria [sóc Phụ Hồ] (socolive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1760481321-0-0-ea50d91f0da931f5bdef746d39936bc1
+https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1760482401-0-0-19f55e1c45ed4db209c99b4bad0b4a5b
 #EXTINF:-1 tvg-id="161" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251011/b2ff4c3eca12a26f36d2cef35a704c63.png",Tường Thuật: Wcpeu - Romania Vs Austria [sóc Phụ Hồ] (socolive) Hdflv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1760481321-0-0-3b6d766e80d13a45fe00e3bd924057a7
+https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1760482401-0-0-2cf8b455ee597aa86b2061706f13f220
 #EXTINF:-1 tvg-id="162" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251011/b2ff4c3eca12a26f36d2cef35a704c63.png",Tường Thuật: Wcpeu - Romania Vs Austria [sóc Phụ Hồ] (socolive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1760481321-0-0-905df7ab175e56c82aab2ab47de8fc84
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1760482401-0-0-6ea0ac89bdd59b4d87d9c16c81a0f4c6
 #EXTINF:-1 tvg-id="163" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251011/b2ff4c3eca12a26f36d2cef35a704c63.png",Tường Thuật: Wcpeu - Romania Vs Austria [sóc Phụ Hồ] (socolive) Hdm3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1760481321-0-0-4f70556e793d0f767f242b077ecaef62
-#EXTINF:-1 tvg-id="164" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251011/b2ff4c3eca12a26f36d2cef35a704c63.png",Tường Thuật: Wcpaf - Cameroon Vs Angola [sóc Nhàm Nhang Nhồ] (socolive) Flv
+https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1760482401-0-0-27c0c20537361ee7367672b13cfcc2c0
+#EXTINF:-1 tvg-id="164" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251011/b2ff4c3eca12a26f36d2cef35a704c63.png",Tường Thuật: Wcpeu - Northern Ireland Vs Germany [sóc Mèo Méo Meo] (socolive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1760481321-0-0-dd11446ab98c4edcb2049fc69085ea03
-#EXTINF:-1 tvg-id="165" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251011/b2ff4c3eca12a26f36d2cef35a704c63.png",Tường Thuật: Wcpaf - Cameroon Vs Angola [sóc Nhàm Nhang Nhồ] (socolive) Hdflv
+https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1760482402-0-0-d831c0da60709d3245c8c43496efff5c
+#EXTINF:-1 tvg-id="165" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251011/b2ff4c3eca12a26f36d2cef35a704c63.png",Tường Thuật: Wcpeu - Northern Ireland Vs Germany [sóc Mèo Méo Meo] (socolive) Hdflv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1760481321-0-0-e642dff18b2fb347abd1ec86ccf2a42f
-#EXTINF:-1 tvg-id="166" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251011/b2ff4c3eca12a26f36d2cef35a704c63.png",Tường Thuật: Wcpaf - Cameroon Vs Angola [sóc Nhàm Nhang Nhồ] (socolive) M3u8
+https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1760482402-0-0-cf20732f48858c950b37c593a26e61bf
+#EXTINF:-1 tvg-id="166" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251011/b2ff4c3eca12a26f36d2cef35a704c63.png",Tường Thuật: Wcpeu - Northern Ireland Vs Germany [sóc Mèo Méo Meo] (socolive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1760481321-0-0-7405e0b6379c6c0e46aa314911d96789
-#EXTINF:-1 tvg-id="167" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251011/b2ff4c3eca12a26f36d2cef35a704c63.png",Tường Thuật: Wcpaf - Cameroon Vs Angola [sóc Nhàm Nhang Nhồ] (socolive) Hdm3u8
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1760482402-0-0-aef396dd99252b48c66654a7a21701cd
+#EXTINF:-1 tvg-id="167" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251011/b2ff4c3eca12a26f36d2cef35a704c63.png",Tường Thuật: Wcpeu - Northern Ireland Vs Germany [sóc Mèo Méo Meo] (socolive) Hdm3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1760481321-0-0-854ff1cb6e310bd55ff1eef9038ee330
-#EXTINF:-1 tvg-id="168" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251011/b2ff4c3eca12a26f36d2cef35a704c63.png",Tường Thuật: Interf - Uruguay Vs Uzbekistan [sóc Xào Sả ớt] (socolive) Flv
+https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1760482402-0-0-b646e73f6ae2f399d2bf8a1077f1222f
+#EXTINF:-1 tvg-id="168" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251011/b2ff4c3eca12a26f36d2cef35a704c63.png",Tường Thuật: Wcpaf - Cameroon Vs Angola [sóc Nhàm Nhang Nhồ] (socolive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1760481322-0-0-d4369edb2915aa94d2c4e998d3423735
-#EXTINF:-1 tvg-id="169" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251011/b2ff4c3eca12a26f36d2cef35a704c63.png",Tường Thuật: Interf - Uruguay Vs Uzbekistan [sóc Xào Sả ớt] (socolive) Hdflv
+https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1760482401-0-0-d58b7200ea88b7ed409c62d038edb523
+#EXTINF:-1 tvg-id="169" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251011/b2ff4c3eca12a26f36d2cef35a704c63.png",Tường Thuật: Wcpaf - Cameroon Vs Angola [sóc Nhàm Nhang Nhồ] (socolive) Hdflv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1760481322-0-0-72de3f34f419427804044bd8a5a2e33d
-#EXTINF:-1 tvg-id="170" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251011/b2ff4c3eca12a26f36d2cef35a704c63.png",Tường Thuật: Interf - Uruguay Vs Uzbekistan [sóc Xào Sả ớt] (socolive) M3u8
+https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1760482401-0-0-6c8ca44176a80b340d9e436c58c95c78
+#EXTINF:-1 tvg-id="170" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251011/b2ff4c3eca12a26f36d2cef35a704c63.png",Tường Thuật: Wcpaf - Cameroon Vs Angola [sóc Nhàm Nhang Nhồ] (socolive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1760481322-0-0-a2cf890199395bae10698654734ddfdd
-#EXTINF:-1 tvg-id="171" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251011/b2ff4c3eca12a26f36d2cef35a704c63.png",Tường Thuật: Interf - Uruguay Vs Uzbekistan [sóc Xào Sả ớt] (socolive) Hdm3u8
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1760482401-0-0-0e9511b59b8154ff4bcf6d3a51d3c6fa
+#EXTINF:-1 tvg-id="171" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251011/b2ff4c3eca12a26f36d2cef35a704c63.png",Tường Thuật: Wcpaf - Cameroon Vs Angola [sóc Nhàm Nhang Nhồ] (socolive) Hdm3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1760481322-0-0-98012b4c514dc0317127dbfee2b1f9ee
-#EXTINF:-1 tvg-id="172" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251011/b2ff4c3eca12a26f36d2cef35a704c63.png",Tường Thuật: Wcpeu - Ukraine Vs Azerbaijan [sóc Trong Rừng Xà Nu] (socolive) Flv
+https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1760482401-0-0-5511b69b905331f35ba86c44640db01a
+#EXTINF:-1 tvg-id="172" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251011/b2ff4c3eca12a26f36d2cef35a704c63.png",Tường Thuật: Wcpeu - Iceland Vs France [sóc Chó điên] (socolive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1760481322-0-0-9b82e29820ecc794aeeb8cb541f4a755
-#EXTINF:-1 tvg-id="173" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251011/b2ff4c3eca12a26f36d2cef35a704c63.png",Tường Thuật: Wcpeu - Ukraine Vs Azerbaijan [sóc Trong Rừng Xà Nu] (socolive) Hdflv
+https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1760482401-0-0-92e89efb727aeff27735e27e8536df1f
+#EXTINF:-1 tvg-id="173" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251011/b2ff4c3eca12a26f36d2cef35a704c63.png",Tường Thuật: Wcpeu - Iceland Vs France [sóc Chó điên] (socolive) Hdflv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1760481322-0-0-3580b30ae19cad828bc62094583045f7
-#EXTINF:-1 tvg-id="174" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251011/b2ff4c3eca12a26f36d2cef35a704c63.png",Tường Thuật: Wcpeu - Ukraine Vs Azerbaijan [sóc Trong Rừng Xà Nu] (socolive) M3u8
+https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1760482401-0-0-0481620091607ca65e54d0b5abbfebea
+#EXTINF:-1 tvg-id="174" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251011/b2ff4c3eca12a26f36d2cef35a704c63.png",Tường Thuật: Wcpeu - Iceland Vs France [sóc Chó điên] (socolive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1760481322-0-0-f6e2bc0e7e31f0dfc8ad3c3b2919ef37
-#EXTINF:-1 tvg-id="175" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251011/b2ff4c3eca12a26f36d2cef35a704c63.png",Tường Thuật: Wcpeu - Ukraine Vs Azerbaijan [sóc Trong Rừng Xà Nu] (socolive) Hdm3u8
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1760482401-0-0-02d8835c233af955a9b45d9b069b23e6
+#EXTINF:-1 tvg-id="175" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251011/b2ff4c3eca12a26f36d2cef35a704c63.png",Tường Thuật: Wcpeu - Iceland Vs France [sóc Chó điên] (socolive) Hdm3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1760481322-0-0-ea8f25a49d47aae0f9cfe005ffc2b9c6
-#EXTINF:-1 tvg-id="176" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251011/b2ff4c3eca12a26f36d2cef35a704c63.png",Tường Thuật: Wcpeu - Iceland Vs France [sóc Chó điên] (socolive) Flv
+https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1760482401-0-0-68aab3b42c1834236b248949b3c48b22
+#EXTINF:-1 tvg-id="176" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251011/b2ff4c3eca12a26f36d2cef35a704c63.png",Tường Thuật: Wcpeu - Ukraine Vs Azerbaijan [sóc Trong Rừng Xà Nu] (socolive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1760481321-0-0-7fc5b31a560944bda24ec8c13d9275cc
-#EXTINF:-1 tvg-id="177" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251011/b2ff4c3eca12a26f36d2cef35a704c63.png",Tường Thuật: Wcpeu - Iceland Vs France [sóc Chó điên] (socolive) Hdflv
+https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1760482402-0-0-991cf827585bccedd953dd5c1f222bdb
+#EXTINF:-1 tvg-id="177" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251011/b2ff4c3eca12a26f36d2cef35a704c63.png",Tường Thuật: Wcpeu - Ukraine Vs Azerbaijan [sóc Trong Rừng Xà Nu] (socolive) Hdflv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1760481321-0-0-7776c53e2cb639fafd478d7dae134fc8
-#EXTINF:-1 tvg-id="178" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251011/b2ff4c3eca12a26f36d2cef35a704c63.png",Tường Thuật: Wcpeu - Iceland Vs France [sóc Chó điên] (socolive) M3u8
+https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1760482402-0-0-6d0234baf65e7c21008a20ece74cb5eb
+#EXTINF:-1 tvg-id="178" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251011/b2ff4c3eca12a26f36d2cef35a704c63.png",Tường Thuật: Wcpeu - Ukraine Vs Azerbaijan [sóc Trong Rừng Xà Nu] (socolive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1760481321-0-0-b8c2af6325fb779c21b9a4178043ebe3
-#EXTINF:-1 tvg-id="179" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251011/b2ff4c3eca12a26f36d2cef35a704c63.png",Tường Thuật: Wcpeu - Iceland Vs France [sóc Chó điên] (socolive) Hdm3u8
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1760482402-0-0-02576aa4a090a79e510f271296f57151
+#EXTINF:-1 tvg-id="179" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251011/b2ff4c3eca12a26f36d2cef35a704c63.png",Tường Thuật: Wcpeu - Ukraine Vs Azerbaijan [sóc Trong Rừng Xà Nu] (socolive) Hdm3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1760481321-0-0-bb45435e0d9245fafadb9ba9bf3a5c18
-#EXTINF:-1 tvg-id="180" group-title="Mãn Nhãn 🔥" tvg-logo="https://img0.aiscore.com/football/team/b115ab8e380eaa05faed77923811d2a4.png!w60",04:00 Ngày 10/15 Matagalpa Fc Vs Managua Fc (mãn Nhãn) Sd 2
+https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1760482402-0-0-883cad437c81182fe3d14786a1846f53
+#EXTINF:-1 tvg-id="180" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251011/b2ff4c3eca12a26f36d2cef35a704c63.png",Tường Thuật: Interf - Uruguay Vs Uzbekistan [sóc Xào Sả ớt] (socolive) Flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1760482402-0-0-92a65718dba66493fc9d9e71baa0c9ec
+#EXTINF:-1 tvg-id="181" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251011/b2ff4c3eca12a26f36d2cef35a704c63.png",Tường Thuật: Interf - Uruguay Vs Uzbekistan [sóc Xào Sả ớt] (socolive) Hdflv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1760482402-0-0-27e6eabb9dfb3b7995f7c357f0d3f879
+#EXTINF:-1 tvg-id="182" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251011/b2ff4c3eca12a26f36d2cef35a704c63.png",Tường Thuật: Interf - Uruguay Vs Uzbekistan [sóc Xào Sả ớt] (socolive) M3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1760482402-0-0-b23eb84219a7d14e06965349422bca56
+#EXTINF:-1 tvg-id="183" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251011/b2ff4c3eca12a26f36d2cef35a704c63.png",Tường Thuật: Interf - Uruguay Vs Uzbekistan [sóc Xào Sả ớt] (socolive) Hdm3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1760482402-0-0-190866c2b79c989a0c64e556742281a5
+#EXTINF:-1 tvg-id="184" group-title="Mãn Nhãn 🔥" tvg-logo="https://img0.aiscore.com/football/team/b115ab8e380eaa05faed77923811d2a4.png!w60",04:00 Ngày 10/15 Matagalpa Fc Vs Managua Fc (mãn Nhãn) Sd 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://saoke.cdn.khmer-hd.com/x9y1/playlist.m3u8
-#EXTINF:-1 tvg-id="181" group-title="Mãn Nhãn 🔥" tvg-logo="https://img0.aiscore.com/football/team/b115ab8e380eaa05faed77923811d2a4.png!w60",04:00 Ngày 10/15 Matagalpa Fc Vs Managua Fc (mãn Nhãn) Sd 2
+#EXTINF:-1 tvg-id="185" group-title="Mãn Nhãn 🔥" tvg-logo="https://img0.aiscore.com/football/team/b115ab8e380eaa05faed77923811d2a4.png!w60",04:00 Ngày 10/15 Matagalpa Fc Vs Managua Fc (mãn Nhãn) Sd 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://wtyi0525.edgemaxcdn.org/live/x9y3-0828/playlist.m3u8
-#EXTINF:-1 tvg-id="182" group-title="Mãn Nhãn 🔥" tvg-logo="https://img0.aiscore.com/football/team/b115ab8e380eaa05faed77923811d2a4.png!w60",04:00 Ngày 10/15 Matagalpa Fc Vs Managua Fc (mãn Nhãn) Hd 3
+#EXTINF:-1 tvg-id="186" group-title="Mãn Nhãn 🔥" tvg-logo="https://img0.aiscore.com/football/team/b115ab8e380eaa05faed77923811d2a4.png!w60",04:00 Ngày 10/15 Matagalpa Fc Vs Managua Fc (mãn Nhãn) Hd 3
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://stm6dad71710204.stream.hdplaylink.com/sklive/x9y2/playlist.m3u8
-#EXTINF:-1 tvg-id="183" group-title="Mãn Nhãn 🔥" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5922_small.png",08:00 Ngày 10/15 Panama Và Suriname (mãn Nhãn) Sd 2
+#EXTINF:-1 tvg-id="187" group-title="Mãn Nhãn 🔥" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5922_small.png",08:00 Ngày 10/15 Panama Và Suriname (mãn Nhãn) Sd 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://saoke.cdn.khmer-hd.com/x1y1/playlist.m3u8
-#EXTINF:-1 tvg-id="184" group-title="Mãn Nhãn 🔥" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5922_small.png",08:00 Ngày 10/15 Panama Và Suriname (mãn Nhãn) Sd 2
+#EXTINF:-1 tvg-id="188" group-title="Mãn Nhãn 🔥" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5922_small.png",08:00 Ngày 10/15 Panama Và Suriname (mãn Nhãn) Sd 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://wtyi0525.edgemaxcdn.org/live/x1y3-2814/playlist.m3u8
-#EXTINF:-1 tvg-id="185" group-title="Mãn Nhãn 🔥" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5922_small.png",08:00 Ngày 10/15 Panama Và Suriname (mãn Nhãn) Hd 3
+#EXTINF:-1 tvg-id="189" group-title="Mãn Nhãn 🔥" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5922_small.png",08:00 Ngày 10/15 Panama Và Suriname (mãn Nhãn) Hd 3
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://stm6dad71710204.stream.hdplaylink.com/sklive/x1y2/playlist.m3u8
-#EXTINF:-1 tvg-id="186" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NTJlZmMzNjk1MGQtZjNlYQ/MmMxOWM2M2JkN2ItZGVjNg.png",Asian Cup Nepal Vs Việt Nam Tường Thuật (colalive) Flv
+#EXTINF:-1 tvg-id="190" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NTJlZmMzNjk1MGQtZjNlYQ/MmMxOWM2M2JkN2ItZGVjNg.png",Asian Cup Nepal Vs Việt Nam Tường Thuật (colalive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh4.app/live/57010001.flv
-#EXTINF:-1 tvg-id="187" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NTJlZmMzNjk1MGQtZjNlYQ/MmMxOWM2M2JkN2ItZGVjNg.png",Asian Cup Nepal Vs Việt Nam Tường Thuật (colalive) M3u8
+#EXTINF:-1 tvg-id="191" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NTJlZmMzNjk1MGQtZjNlYQ/MmMxOWM2M2JkN2ItZGVjNg.png",Asian Cup Nepal Vs Việt Nam Tường Thuật (colalive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh4.app/live/57010001.m3u8
-#EXTINF:-1 tvg-id="188" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MTQ5NzVlNmU0MTAtNjIyMg/MmQxZDdkN2JjY2EtZTc0Mg.png",Vsbet - Thể Thao Hàng đầu đối Tác Vsbet (colalive) Flv
+#EXTINF:-1 tvg-id="192" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MTQ5NzVlNmU0MTAtNjIyMg/MmQxZDdkN2JjY2EtZTc0Mg.png",Vsbet - Thể Thao Hàng đầu đối Tác Vsbet (colalive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh4.app/live/36669975.flv
-#EXTINF:-1 tvg-id="189" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MTQ5NzVlNmU0MTAtNjIyMg/MmQxZDdkN2JjY2EtZTc0Mg.png",Vsbet - Thể Thao Hàng đầu đối Tác Vsbet (colalive) M3u8
+#EXTINF:-1 tvg-id="193" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MTQ5NzVlNmU0MTAtNjIyMg/MmQxZDdkN2JjY2EtZTc0Mg.png",Vsbet - Thể Thao Hàng đầu đối Tác Vsbet (colalive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh4.app/live/36669975.m3u8
-#EXTINF:-1 tvg-id="190" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZWQ4YzAwNzY3NzgtNDcwMg/YzYxYTVjMDliNWItYmQ1MQ.jpg",Colatv- Hướng Dẫn đăng Ký Colatv- Hướng Dẫn đăng Ký (colalive) Flv
+#EXTINF:-1 tvg-id="194" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZWQ4YzAwNzY3NzgtNDcwMg/YzYxYTVjMDliNWItYmQ1MQ.jpg",Colatv- Hướng Dẫn đăng Ký Colatv- Hướng Dẫn đăng Ký (colalive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh4.app/live/58139474.flv
-#EXTINF:-1 tvg-id="191" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZWQ4YzAwNzY3NzgtNDcwMg/YzYxYTVjMDliNWItYmQ1MQ.jpg",Colatv- Hướng Dẫn đăng Ký Colatv- Hướng Dẫn đăng Ký (colalive) M3u8
+#EXTINF:-1 tvg-id="195" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZWQ4YzAwNzY3NzgtNDcwMg/YzYxYTVjMDliNWItYmQ1MQ.jpg",Colatv- Hướng Dẫn đăng Ký Colatv- Hướng Dẫn đăng Ký (colalive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh4.app/live/58139474.m3u8
-#EXTINF:-1 tvg-id="192" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YWE4YjdjMzljNGItMjFlYQ/M2NhZTI3MWJkZDAtNjBjNg.jpg",Xóc Dĩa Xóc Dĩa (colalive) Flv
+#EXTINF:-1 tvg-id="196" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YWE4YjdjMzljNGItMjFlYQ/M2NhZTI3MWJkZDAtNjBjNg.jpg",Xóc Dĩa Xóc Dĩa (colalive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh4.app/live/26250293.flv
-#EXTINF:-1 tvg-id="193" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YWE4YjdjMzljNGItMjFlYQ/M2NhZTI3MWJkZDAtNjBjNg.jpg",Xóc Dĩa Xóc Dĩa (colalive) M3u8
+#EXTINF:-1 tvg-id="197" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YWE4YjdjMzljNGItMjFlYQ/M2NhZTI3MWJkZDAtNjBjNg.jpg",Xóc Dĩa Xóc Dĩa (colalive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh4.app/live/26250293.m3u8
-#EXTINF:-1 tvg-id="194" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OWZiZGJiNWRiNmEtOTRjNQ/OWZjOGFiN2ZjZDktOTdmNg.jpg",Live Bacarat Bacarat (colalive) Flv
+#EXTINF:-1 tvg-id="198" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OWZiZGJiNWRiNmEtOTRjNQ/OWZjOGFiN2ZjZDktOTdmNg.jpg",Live Bacarat Bacarat (colalive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh4.app/live/36858215.flv
-#EXTINF:-1 tvg-id="195" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OWZiZGJiNWRiNmEtOTRjNQ/OWZjOGFiN2ZjZDktOTdmNg.jpg",Live Bacarat Bacarat (colalive) M3u8
+#EXTINF:-1 tvg-id="199" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OWZiZGJiNWRiNmEtOTRjNQ/OWZjOGFiN2ZjZDktOTdmNg.jpg",Live Bacarat Bacarat (colalive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh4.app/live/36858215.m3u8
-#EXTINF:-1 tvg-id="196" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/10906.png",23h00 15/10 Vllaznia Vs Inter Milano W (blvtoptop) Bed
+#EXTINF:-1 tvg-id="200" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/10906.png",23h00 15/10 Vllaznia Vs Inter Milano W (blvtoptop) Bed
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/aklh087186/playlist.m3u8
-#EXTINF:-1 tvg-id="197" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/15535.png",23h45 15/10 Vålerenga W Vs Vfl Wolfsburg W (blvtoptop) Bún Chả
+#EXTINF:-1 tvg-id="201" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/15535.png",23h45 15/10 Vålerenga W Vs Vfl Wolfsburg W (blvtoptop) Bún Chả
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/0dq4pt7ka4/playlist.m3u8
-#EXTINF:-1 tvg-id="198" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/15535.png",23h45 15/10 Vålerenga W Vs Vfl Wolfsburg W (blvtoptop) Chaien
+#EXTINF:-1 tvg-id="202" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/15535.png",23h45 15/10 Vålerenga W Vs Vfl Wolfsburg W (blvtoptop) Chaien
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/yql97itgbl/playlist.m3u8
-#EXTINF:-1 tvg-id="199" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1674.png",23h45 15/10 Lyon W Vs St. Pölten W (blvtoptop) Adam
+#EXTINF:-1 tvg-id="203" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1674.png",23h45 15/10 Lyon W Vs St. Pölten W (blvtoptop) Adam
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/mjap0rrqv8/playlist.m3u8
-#EXTINF:-1 tvg-id="200" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1674.png",23h45 15/10 Lyon W Vs St. Pölten W (blvtoptop) Lil Shady
+#EXTINF:-1 tvg-id="204" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1674.png",23h45 15/10 Lyon W Vs St. Pölten W (blvtoptop) Lil Shady
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/6cjd6zf2ny/playlist.m3u8
-#EXTINF:-1 tvg-id="201" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1853.png",02h00 16/10 Chelsea W Vs Paris Fc W (blvtoptop) Lil Shady
+#EXTINF:-1 tvg-id="205" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1853.png",02h00 16/10 Chelsea W Vs Paris Fc W (blvtoptop) Lil Shady
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/6cjd6zf2ny/playlist.m3u8
-#EXTINF:-1 tvg-id="202" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1790.png",02h00 16/10 Oh Leuven W Vs Twente W (blvtoptop) Bed
+#EXTINF:-1 tvg-id="206" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1790.png",02h00 16/10 Oh Leuven W Vs Twente W (blvtoptop) Bed
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/aklh087186/playlist.m3u8
-#EXTINF:-1 tvg-id="203" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1892.png",02h00 16/10 Roma W Vs Barcelona W (blvtoptop) Adam
+#EXTINF:-1 tvg-id="207" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1892.png",02h00 16/10 Roma W Vs Barcelona W (blvtoptop) Adam
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/mjap0rrqv8/playlist.m3u8
-#EXTINF:-1 tvg-id="204" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1892.png",02h00 16/10 Roma W Vs Barcelona W (blvtoptop) Tôm Mì
+#EXTINF:-1 tvg-id="208" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1892.png",02h00 16/10 Roma W Vs Barcelona W (blvtoptop) Tôm Mì
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/384vepruzs/playlist.m3u8
-#EXTINF:-1 tvg-id="205" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/403.png",23h30 16/10 Esbjerg Vs Hobro (blvtoptop) Chaien
+#EXTINF:-1 tvg-id="209" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/403.png",23h30 16/10 Esbjerg Vs Hobro (blvtoptop) Chaien
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/yql97itgbl/playlist.m3u8
-#EXTINF:-1 tvg-id="206" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1910.png",23h45 16/10 Atletico Madrid W Vs Manchester United W (blvtoptop) Bún Chả
+#EXTINF:-1 tvg-id="210" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1910.png",23h45 16/10 Atletico Madrid W Vs Manchester United W (blvtoptop) Bún Chả
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/0dq4pt7ka4/playlist.m3u8
