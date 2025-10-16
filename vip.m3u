@@ -450,26 +450,34 @@ https://xem.hoiquan.Click/NguonOnliveTV/sctv4k/ToChaThangVThanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 https://xem.hoiquan.Click/NguonOnliveTV/TVBVietNam/ToChaThangVThanh
-#EXTINF:-1 tvg-id="BunBoGioHeo" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/BunBoGioHeo/TichHop-Socolive",Nạp 15h47-16/10/2025
+#EXTINF:-1 tvg-id="BunBoGioHeo" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/BunBoGioHeo/TichHop-Socolive",Nạp 17h00-16/10/2025
 https://xem.hoiquan.click/BunBo/BunBoGioHeo/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912092" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/9912092/TichHop-Socolive",AZE D1: Mingachevir vs Simal FK
+https://xem.hoiquan.click/BunBo/9912092/GioHeo.m3u8
 #EXTINF:-1 tvg-id="9912112" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/9912112/TichHop-Socolive",NBL: Adelaide vs South East Melbourne
 https://xem.hoiquan.click/BunBo/9912112/GioHeo.m3u8
+#EXTINF:-1 tvg-id="400722" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/400722/TichHop-Socolive",KAZ D1: FK Taraz vs AKAS Almaty
+https://xem.hoiquan.click/BunBo/400722/GioHeo.m3u8
+#EXTINF:-1 tvg-id="991140" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/991140/TichHop-Socolive",KAZ D1: FK Taraz vs AKAS Almaty
+https://xem.hoiquan.click/BunBo/991140/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912111" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/9912111/TichHop-Socolive",KBL: Wonju DB vs KCC Egis
+https://xem.hoiquan.click/BunBo/9912111/GioHeo.m3u8
+#EXTINF:-1 tvg-id="547345" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/547345/TichHop-Socolive",AZE D1: Mingachevir vs Simal FK
+https://xem.hoiquan.click/BunBo/547345/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912104" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/9912104/TichHop-Socolive",KAZ D1: FK Taraz vs AKAS Almaty
+https://xem.hoiquan.click/BunBo/9912104/GioHeo.m3u8
 #EXTINF:-1 tvg-id="9912106" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/9912106/TichHop-Socolive",NBL: Adelaide vs South East Melbourne
 https://xem.hoiquan.click/BunBo/9912106/GioHeo.m3u8
+#EXTINF:-1 tvg-id="327159" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/327159/TichHop-Socolive",KAZ D1: FK Taraz vs AKAS Almaty
+https://xem.hoiquan.click/BunBo/327159/GioHeo.m3u8
+#EXTINF:-1 tvg-id="513394" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/513394/TichHop-Socolive",AZE D1: FK MOIK Baku vs Cəbrayıl FK
+https://xem.hoiquan.click/BunBo/513394/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912099" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/9912099/TichHop-Socolive",NBA: Los Angeles Lakers vs Dallas Mavericks
+https://xem.hoiquan.click/BunBo/9912099/GioHeo.m3u8
 #EXTINF:-1 tvg-id="289098" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/289098/TichHop-Socolive",NBL: Adelaide vs South East Melbourne
 https://xem.hoiquan.click/BunBo/289098/GioHeo.m3u8
-#EXTINF:-1 tvg-id="175784" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/175784/TichHop-Socolive",BIT.LY/SOCOLIVE
-https://xem.hoiquan.click/BunBo/175784/GioHeo.m3u8
-#EXTINF:-1 tvg-id="343500" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/343500/TichHop-Socolive",Tường thuật: WCPCA - El Salvador vs Guatemala
-https://xem.hoiquan.click/BunBo/343500/GioHeo.m3u8
-#EXTINF:-1 tvg-id="152898" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/152898/TichHop-Socolive",Tường thuật: FIFA U20 - Morocco vs France
-https://xem.hoiquan.click/BunBo/152898/GioHeo.m3u8
-#EXTINF:-1 tvg-id="133824" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/133824/TichHop-Socolive",Tường thuật: UEFA WCL - OL Lyonnes vs St. Polten
-https://xem.hoiquan.click/BunBo/133824/GioHeo.m3u8
-#EXTINF:-1 tvg-id="9912079" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/9912079/TichHop-Socolive",Tường thuật: WCPCA - Jamaica vs Bermuda
-https://xem.hoiquan.click/BunBo/9912079/GioHeo.m3u8
-#EXTINF:-1 tvg-id="179093" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/179093/TichHop-Socolive",Tường thuật: UEFA WCL - AS Roma vs Barcelona
-https://xem.hoiquan.click/BunBo/179093/GioHeo.m3u8
+#EXTINF:-1 tvg-id="532081" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/532081/TichHop-Socolive",AZE D1: Difai Agsu FK vs Shahdagh Qusar
+https://xem.hoiquan.click/BunBo/532081/GioHeo.m3u8
 #EXTINF:-1 tvg-id="x7lm7phjwy4zm2w" group-title="Hội Quán Live ⚽️" tvg-logo="https://xem.hoiquan.click/Logo/x7lm7phjwy4zm2w/TichHop-RoBong",🟢 FC Kairat-KuPs
 https://xem.hoiquan.click/RoBongTV/x7lm7phjwy4zm2w/truyenhinh.m3u8
 #EXTINF:-1 tvg-id="vjxm8gheg84wr6o" group-title="Hội Quán Live ⚽️" tvg-logo="https://xem.hoiquan.click/Logo/vjxm8gheg84wr6o/TichHop-RoBong",🟢 Liverpool-Bournemouth
@@ -1875,206 +1883,206 @@ https://xem.hoiquan.Click/HuuVinh/SporTV2/DoiTacDongGop.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/2be9533c15a4e5944c9637aa40b4ba5b/playlist.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Cá Heo 🔥" tvg-logo="https://img.thesports.com/football/team/beb9b09ee6ff7fa55269da94345e7d7f.png",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (cá Heo) Sd 1
+#EXTINF:-1 tvg-id="1" group-title="Bún Chả 🔥" tvg-logo="https://img.thesports.com/football/team/7872058f5de152a08645c6d2eb14c29d.png",16h00 Ngày 16/10 Ispe Fc U21 Vs Yangon United Fc U21 1 (bún Chả1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/32289cd26f8e258b5818628925397c43/playlist.m3u8
+#EXTINF:-1 tvg-id="2" group-title="Cá Heo 🔥" tvg-logo="https://img.thesports.com/football/team/beb9b09ee6ff7fa55269da94345e7d7f.png",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (cá Heo) Sd 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://caheopro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@bomsd1/playlist.m3u8
-#EXTINF:-1 tvg-id="2" group-title="Cá Heo 🔥" tvg-logo="https://img.thesports.com/football/team/beb9b09ee6ff7fa55269da94345e7d7f.png",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (cá Heo) Hd 1
+#EXTINF:-1 tvg-id="3" group-title="Cá Heo 🔥" tvg-logo="https://img.thesports.com/football/team/beb9b09ee6ff7fa55269da94345e7d7f.png",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (cá Heo) Hd 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://caheopro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@bomhd1/playlist.m3u8
-#EXTINF:-1 tvg-id="3" group-title="Cá Heo 🔥" tvg-logo="https://img.thesports.com/football/team/beb9b09ee6ff7fa55269da94345e7d7f.png",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (cá Heo)
+#EXTINF:-1 tvg-id="4" group-title="Cá Heo 🔥" tvg-logo="https://img.thesports.com/football/team/beb9b09ee6ff7fa55269da94345e7d7f.png",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (cá Heo)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://179245845.cdnfree.pro/live/bomhd2/playlist.m3u8
-#EXTINF:-1 tvg-id="4" group-title="Cá Heo 🔥" tvg-logo="https://img.thesports.com/football/team/beb9b09ee6ff7fa55269da94345e7d7f.png",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (cá Heo) Sd 3 (nhanh)
+#EXTINF:-1 tvg-id="5" group-title="Cá Heo 🔥" tvg-logo="https://img.thesports.com/football/team/beb9b09ee6ff7fa55269da94345e7d7f.png",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (cá Heo) Sd 3 (nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://caheopro.cdnlive.pro/live/stream_9_f915e9e2@bomsd1.flv
-#EXTINF:-1 tvg-id="5" group-title="Cá Heo 🔥" tvg-logo="https://img.thesports.com/football/team/beb9b09ee6ff7fa55269da94345e7d7f.png",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (cá Heo) Hd 3 (nhanh)
+#EXTINF:-1 tvg-id="6" group-title="Cá Heo 🔥" tvg-logo="https://img.thesports.com/football/team/beb9b09ee6ff7fa55269da94345e7d7f.png",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (cá Heo) Hd 3 (nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://caheopro.cdnlive.pro/live/stream_9_f915e9e2@bomhd1.flv
-#EXTINF:-1 tvg-id="6" group-title="Cá Heo 🔥" tvg-logo="https://img.thesports.com/v2/team/bc79ef21e5d110f08db77b2f05e39a2a.png",15h40 Ngày 16/10 Adam Walton Vs Daniil Medvedev (cá Heo) Nhà đài
+#EXTINF:-1 tvg-id="7" group-title="Cá Heo 🔥" tvg-logo="https://img.thesports.com/v2/team/bc79ef21e5d110f08db77b2f05e39a2a.png",15h40 Ngày 16/10 Adam Walton Vs Daniil Medvedev (cá Heo) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m201nd/playlist.m3u8
-#EXTINF:-1 tvg-id="7" group-title="Cá Heo 🔥" tvg-logo="https://img.thesports.com/football/team/54abe7b7c8ee579989d36621d28d96f0.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty (cá Heo) Sd 1
+#EXTINF:-1 tvg-id="8" group-title="Cá Heo 🔥" tvg-logo="https://img.thesports.com/football/team/54abe7b7c8ee579989d36621d28d96f0.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty (cá Heo) Sd 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://caheopro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@natrasd1/playlist.m3u8
-#EXTINF:-1 tvg-id="8" group-title="Cá Heo 🔥" tvg-logo="https://img.thesports.com/football/team/54abe7b7c8ee579989d36621d28d96f0.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty (cá Heo) Hd 1
+#EXTINF:-1 tvg-id="9" group-title="Cá Heo 🔥" tvg-logo="https://img.thesports.com/football/team/54abe7b7c8ee579989d36621d28d96f0.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty (cá Heo) Hd 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://caheopro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@natrahd1/playlist.m3u8
-#EXTINF:-1 tvg-id="9" group-title="Cá Heo 🔥" tvg-logo="https://img.thesports.com/football/team/54abe7b7c8ee579989d36621d28d96f0.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty (cá Heo)
+#EXTINF:-1 tvg-id="10" group-title="Cá Heo 🔥" tvg-logo="https://img.thesports.com/football/team/54abe7b7c8ee579989d36621d28d96f0.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty (cá Heo)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://179245845.cdnfree.pro/live/natrahd2/playlist.m3u8
-#EXTINF:-1 tvg-id="10" group-title="Cá Heo 🔥" tvg-logo="https://img.thesports.com/football/team/54abe7b7c8ee579989d36621d28d96f0.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty (cá Heo) Sd Nhanh
+#EXTINF:-1 tvg-id="11" group-title="Cá Heo 🔥" tvg-logo="https://img.thesports.com/football/team/54abe7b7c8ee579989d36621d28d96f0.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty (cá Heo) Sd Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://caheopro.cdnlive.pro/live/stream_9_f915e9e2@natrasd1.flv
-#EXTINF:-1 tvg-id="11" group-title="Cá Heo 🔥" tvg-logo="https://img.thesports.com/football/team/54abe7b7c8ee579989d36621d28d96f0.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty (cá Heo) Hd Nhanh
+#EXTINF:-1 tvg-id="12" group-title="Cá Heo 🔥" tvg-logo="https://img.thesports.com/football/team/54abe7b7c8ee579989d36621d28d96f0.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty (cá Heo) Hd Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://caheopro.cdnlive.pro/live/stream_9_f915e9e2@natrahd1.flv
-#EXTINF:-1 tvg-id="12" group-title="Cá Kèo 🔥" tvg-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/ChuaCoLogo.png",15h00 Ngày 16/10 Shanxi U18 Vs Shandongu18 (cá Kèo) Backup 1
+#EXTINF:-1 tvg-id="13" group-title="Cá Kèo 🔥" tvg-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/ChuaCoLogo.png",15h00 Ngày 16/10 Shanxi U18 Vs Shandongu18 (cá Kèo) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/9sJTFlNxnjCCtRJ4t7SxvA/Fv2lucGIbhPi2caWYvF5Lg/1760625728961/live/sd-6MvXriHY4D5c3VoX63/playlist.m3u8
-#EXTINF:-1 tvg-id="13" group-title="Cá Kèo 🔥" tvg-logo="https://img.thesports.com/football/team/beb9b09ee6ff7fa55269da94345e7d7f.png",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (cá Kèo) Backup 1
+#EXTINF:-1 tvg-id="14" group-title="Cá Kèo 🔥" tvg-logo="https://img.thesports.com/football/team/beb9b09ee6ff7fa55269da94345e7d7f.png",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (cá Kèo) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/W2byQOtTHarBFcAiIoBdXA/Fv2lucGIbhPi2caWYvF5Lg/1760625731368/live/sd-6MvYbdmFjBuT41GrpB/playlist.m3u8
-#EXTINF:-1 tvg-id="14" group-title="Cà Khịa 🔥" tvg-logo="https://img.thesports.com/football/team/beb9b09ee6ff7fa55269da94345e7d7f.png",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (cà Khịa) Sd 1
+#EXTINF:-1 tvg-id="15" group-title="Cà Khịa 🔥" tvg-logo="https://img.thesports.com/football/team/beb9b09ee6ff7fa55269da94345e7d7f.png",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (cà Khịa) Sd 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@bomsd1/playlist.m3u8
-#EXTINF:-1 tvg-id="15" group-title="Cà Khịa 🔥" tvg-logo="https://img.thesports.com/football/team/beb9b09ee6ff7fa55269da94345e7d7f.png",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (cà Khịa) Hd 1
+#EXTINF:-1 tvg-id="16" group-title="Cà Khịa 🔥" tvg-logo="https://img.thesports.com/football/team/beb9b09ee6ff7fa55269da94345e7d7f.png",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (cà Khịa) Hd 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@bomhd1/playlist.m3u8
-#EXTINF:-1 tvg-id="16" group-title="Cà Khịa 🔥" tvg-logo="https://img.thesports.com/football/team/beb9b09ee6ff7fa55269da94345e7d7f.png",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (cà Khịa) Sd 3 (nhanh)
+#EXTINF:-1 tvg-id="17" group-title="Cà Khịa 🔥" tvg-logo="https://img.thesports.com/football/team/beb9b09ee6ff7fa55269da94345e7d7f.png",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (cà Khịa) Sd 3 (nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@bomsd1.flv
-#EXTINF:-1 tvg-id="17" group-title="Cà Khịa 🔥" tvg-logo="https://img.thesports.com/football/team/beb9b09ee6ff7fa55269da94345e7d7f.png",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (cà Khịa) Hd 3 (nhanh)
+#EXTINF:-1 tvg-id="18" group-title="Cà Khịa 🔥" tvg-logo="https://img.thesports.com/football/team/beb9b09ee6ff7fa55269da94345e7d7f.png",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (cà Khịa) Hd 3 (nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@bomhd1.flv
-#EXTINF:-1 tvg-id="18" group-title="Cà Khịa 🔥" tvg-logo="https://img.thesports.com/football/team/54abe7b7c8ee579989d36621d28d96f0.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty (cà Khịa) Sd 1
+#EXTINF:-1 tvg-id="19" group-title="Cà Khịa 🔥" tvg-logo="https://img.thesports.com/football/team/54abe7b7c8ee579989d36621d28d96f0.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty (cà Khịa) Sd 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@natrasd1/playlist.m3u8
-#EXTINF:-1 tvg-id="19" group-title="Cà Khịa 🔥" tvg-logo="https://img.thesports.com/football/team/54abe7b7c8ee579989d36621d28d96f0.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty (cà Khịa) Hd 1
+#EXTINF:-1 tvg-id="20" group-title="Cà Khịa 🔥" tvg-logo="https://img.thesports.com/football/team/54abe7b7c8ee579989d36621d28d96f0.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty (cà Khịa) Hd 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@natrahd1/playlist.m3u8
-#EXTINF:-1 tvg-id="20" group-title="Cà Khịa 🔥" tvg-logo="https://img.thesports.com/football/team/54abe7b7c8ee579989d36621d28d96f0.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty (cà Khịa) Sd Nhanh
+#EXTINF:-1 tvg-id="21" group-title="Cà Khịa 🔥" tvg-logo="https://img.thesports.com/football/team/54abe7b7c8ee579989d36621d28d96f0.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty (cà Khịa) Sd Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@natrasd1.flv
-#EXTINF:-1 tvg-id="21" group-title="Cà Khịa 🔥" tvg-logo="https://img.thesports.com/football/team/54abe7b7c8ee579989d36621d28d96f0.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty (cà Khịa) Hd Nhanh
+#EXTINF:-1 tvg-id="22" group-title="Cà Khịa 🔥" tvg-logo="https://img.thesports.com/football/team/54abe7b7c8ee579989d36621d28d96f0.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty (cà Khịa) Hd Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@natrahd1.flv
-#EXTINF:-1 tvg-id="22" group-title="Lấy Kinh 🔥" tvg-logo="https://img.thesports.com/football/team/54abe7b7c8ee579989d36621d28d96f0.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty (lấy Kinh) Sd Nhanh
+#EXTINF:-1 tvg-id="23" group-title="Lấy Kinh 🔥" tvg-logo="https://img.thesports.com/football/team/54abe7b7c8ee579989d36621d28d96f0.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty (lấy Kinh) Sd Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@natrasd1RK.flv
-#EXTINF:-1 tvg-id="23" group-title="Lấy Kinh 🔥" tvg-logo="https://img.thesports.com/football/team/54abe7b7c8ee579989d36621d28d96f0.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty (lấy Kinh) Hd Nhanh
+#EXTINF:-1 tvg-id="24" group-title="Lấy Kinh 🔥" tvg-logo="https://img.thesports.com/football/team/54abe7b7c8ee579989d36621d28d96f0.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty (lấy Kinh) Hd Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@natrahd1RK.flv
-#EXTINF:-1 tvg-id="24" group-title="Lấy Kinh 🔥" tvg-logo="https://img.thesports.com/football/team/54abe7b7c8ee579989d36621d28d96f0.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty (lấy Kinh) Sd 1
+#EXTINF:-1 tvg-id="25" group-title="Lấy Kinh 🔥" tvg-logo="https://img.thesports.com/football/team/54abe7b7c8ee579989d36621d28d96f0.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty (lấy Kinh) Sd 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@natrasd1RK/playlist.m3u8
-#EXTINF:-1 tvg-id="25" group-title="Lấy Kinh 🔥" tvg-logo="https://img.thesports.com/football/team/54abe7b7c8ee579989d36621d28d96f0.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty (lấy Kinh) Hd 1
+#EXTINF:-1 tvg-id="26" group-title="Lấy Kinh 🔥" tvg-logo="https://img.thesports.com/football/team/54abe7b7c8ee579989d36621d28d96f0.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty (lấy Kinh) Hd 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@natrahd1RK/playlist.m3u8
-#EXTINF:-1 tvg-id="26" group-title="Lấy Kinh 🔥" tvg-logo="https://img.thesports.com/football/team/54abe7b7c8ee579989d36621d28d96f0.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty (lấy Kinh)
+#EXTINF:-1 tvg-id="27" group-title="Lấy Kinh 🔥" tvg-logo="https://img.thesports.com/football/team/54abe7b7c8ee579989d36621d28d96f0.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty (lấy Kinh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://ckhot-179939170.cdnfree.pro/live/natrahd2RK/playlist.m3u8
-#EXTINF:-1 tvg-id="27" group-title="Lấy Kinh 🔥" tvg-logo="https://img.thesports.com/football/team/beb9b09ee6ff7fa55269da94345e7d7f.png",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (lấy Kinh) Sd 1
+#EXTINF:-1 tvg-id="28" group-title="Lấy Kinh 🔥" tvg-logo="https://img.thesports.com/football/team/beb9b09ee6ff7fa55269da94345e7d7f.png",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (lấy Kinh) Sd 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@bomsd1RK/playlist.m3u8
-#EXTINF:-1 tvg-id="28" group-title="Lấy Kinh 🔥" tvg-logo="https://img.thesports.com/football/team/beb9b09ee6ff7fa55269da94345e7d7f.png",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (lấy Kinh) Hd 1
+#EXTINF:-1 tvg-id="29" group-title="Lấy Kinh 🔥" tvg-logo="https://img.thesports.com/football/team/beb9b09ee6ff7fa55269da94345e7d7f.png",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (lấy Kinh) Hd 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@bomhd1RK/playlist.m3u8
-#EXTINF:-1 tvg-id="29" group-title="Lấy Kinh 🔥" tvg-logo="https://img.thesports.com/football/team/beb9b09ee6ff7fa55269da94345e7d7f.png",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (lấy Kinh)
+#EXTINF:-1 tvg-id="30" group-title="Lấy Kinh 🔥" tvg-logo="https://img.thesports.com/football/team/beb9b09ee6ff7fa55269da94345e7d7f.png",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (lấy Kinh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://ckhot-179939170.cdnfree.pro/live/bomhd2/playlist.m3u8
-#EXTINF:-1 tvg-id="30" group-title="Lấy Kinh 🔥" tvg-logo="https://img.thesports.com/football/team/beb9b09ee6ff7fa55269da94345e7d7f.png",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (lấy Kinh) Sd Nhanh
+#EXTINF:-1 tvg-id="31" group-title="Lấy Kinh 🔥" tvg-logo="https://img.thesports.com/football/team/beb9b09ee6ff7fa55269da94345e7d7f.png",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (lấy Kinh) Sd Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@bomsd1RK.flv
-#EXTINF:-1 tvg-id="31" group-title="Lấy Kinh 🔥" tvg-logo="https://img.thesports.com/football/team/beb9b09ee6ff7fa55269da94345e7d7f.png",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (lấy Kinh) Hd Nhanh
+#EXTINF:-1 tvg-id="32" group-title="Lấy Kinh 🔥" tvg-logo="https://img.thesports.com/football/team/beb9b09ee6ff7fa55269da94345e7d7f.png",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (lấy Kinh) Hd Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@bomhd1RK.flv
-#EXTINF:-1 tvg-id="32" group-title="Lấy Kinh 🔥" tvg-logo="https://img.thesports.com/v2/team/bc79ef21e5d110f08db77b2f05e39a2a.png",15h40 Ngày 16/10 Adam Walton Vs Daniil Medvedev (lấy Kinh) Nhà đài
+#EXTINF:-1 tvg-id="33" group-title="Lấy Kinh 🔥" tvg-logo="https://img.thesports.com/v2/team/bc79ef21e5d110f08db77b2f05e39a2a.png",15h40 Ngày 16/10 Adam Walton Vs Daniil Medvedev (lấy Kinh) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m201nd/playlist.m3u8
-#EXTINF:-1 tvg-id="33" group-title="Lương Sơn 🔥" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/167020307636.png?win007=sell",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (lương Sơn) Blv Kenchu M3u
+#EXTINF:-1 tvg-id="34" group-title="Lương Sơn 🔥" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/167020307636.png?win007=sell",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (lương Sơn) Blv Kenchu M3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
-#EXTINF:-1 tvg-id="34" group-title="Lương Sơn 🔥" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/167020307636.png?win007=sell",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (lương Sơn) Blv Kenchu Flv
+#EXTINF:-1 tvg-id="35" group-title="Lương Sơn 🔥" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/167020307636.png?win007=sell",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (lương Sơn) Blv Kenchu Flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/KENCHU.flv?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
-#EXTINF:-1 tvg-id="35" group-title="Lương Sơn 🔥" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/167020307636.png?win007=sell",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (lương Sơn) Blv Ura M3u
+#EXTINF:-1 tvg-id="36" group-title="Lương Sơn 🔥" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/167020307636.png?win007=sell",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (lương Sơn) Blv Ura M3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
-#EXTINF:-1 tvg-id="36" group-title="Lương Sơn 🔥" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/167020307636.png?win007=sell",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (lương Sơn) Blv Ura Flv
+#EXTINF:-1 tvg-id="37" group-title="Lương Sơn 🔥" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/167020307636.png?win007=sell",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (lương Sơn) Blv Ura Flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/URA.flv?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
-#EXTINF:-1 tvg-id="37" group-title="Lương Sơn 🔥" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/167020307636.png?win007=sell",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (lương Sơn) Blv Pep M3u
+#EXTINF:-1 tvg-id="38" group-title="Lương Sơn 🔥" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/167020307636.png?win007=sell",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (lương Sơn) Blv Pep M3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/PEP/index.m3u8?expire=1788427256&sign=045fe0fdaccb38fbf0e27a786cbbd38f
-#EXTINF:-1 tvg-id="38" group-title="Lương Sơn 🔥" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/167020307636.png?win007=sell",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (lương Sơn) Blv Pep Flv
+#EXTINF:-1 tvg-id="39" group-title="Lương Sơn 🔥" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/167020307636.png?win007=sell",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (lương Sơn) Blv Pep Flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/PEP.flv?expire=1788427256&sign=045fe0fdaccb38fbf0e27a786cbbd38f
-#EXTINF:-1 tvg-id="39" group-title="Lương Sơn 🔥" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/167020307636.png?win007=sell",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (lương Sơn) Blv địch Nhân Kiệt M3u
+#EXTINF:-1 tvg-id="40" group-title="Lương Sơn 🔥" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/167020307636.png?win007=sell",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (lương Sơn) Blv địch Nhân Kiệt M3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/NHANKIET/index.m3u8?expire=1788427256&sign=ba090392b81339adcc052deb96414a4c
-#EXTINF:-1 tvg-id="40" group-title="Lương Sơn 🔥" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/167020307636.png?win007=sell",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (lương Sơn) Blv địch Nhân Kiệt Flv
+#EXTINF:-1 tvg-id="41" group-title="Lương Sơn 🔥" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/167020307636.png?win007=sell",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (lương Sơn) Blv địch Nhân Kiệt Flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/NHANKIET.flv?expire=1788427256&sign=ba090392b81339adcc052deb96414a4c
-#EXTINF:-1 tvg-id="41" group-title="Lương Sơn 🔥" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/167020307636.png?win007=sell",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (lương Sơn) Blv Zoro M3u
+#EXTINF:-1 tvg-id="42" group-title="Lương Sơn 🔥" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/167020307636.png?win007=sell",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (lương Sơn) Blv Zoro M3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/ZORO/index.m3u8?expire=1788427256&sign=8e04682553e334be697e3ef428fa6031
-#EXTINF:-1 tvg-id="42" group-title="Lương Sơn 🔥" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/167020307636.png?win007=sell",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (lương Sơn) Blv Zoro Flv
+#EXTINF:-1 tvg-id="43" group-title="Lương Sơn 🔥" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/167020307636.png?win007=sell",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (lương Sơn) Blv Zoro Flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/ZORO.flv?expire=1788427256&sign=8e04682553e334be697e3ef428fa6031
-#EXTINF:-1 tvg-id="43" group-title="Lương Sơn 🔥" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/167020307636.png?win007=sell",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (lương Sơn) Blv Lý Quỳ M3u
+#EXTINF:-1 tvg-id="44" group-title="Lương Sơn 🔥" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/167020307636.png?win007=sell",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (lương Sơn) Blv Lý Quỳ M3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-#EXTINF:-1 tvg-id="44" group-title="Lương Sơn 🔥" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/167020307636.png?win007=sell",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (lương Sơn) Blv Lý Quỳ Flv
+#EXTINF:-1 tvg-id="45" group-title="Lương Sơn 🔥" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/167020307636.png?win007=sell",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (lương Sơn) Blv Lý Quỳ Flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-#EXTINF:-1 tvg-id="45" group-title="Ra Khơi 🔥" tvg-logo="https://img.thesports.com/football/team/beb9b09ee6ff7fa55269da94345e7d7f.png",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (ra Khơi) Sd 1
+#EXTINF:-1 tvg-id="46" group-title="Ra Khơi 🔥" tvg-logo="https://img.thesports.com/football/team/beb9b09ee6ff7fa55269da94345e7d7f.png",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (ra Khơi) Sd 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@bomsd1RK/playlist.m3u8
-#EXTINF:-1 tvg-id="46" group-title="Ra Khơi 🔥" tvg-logo="https://img.thesports.com/football/team/beb9b09ee6ff7fa55269da94345e7d7f.png",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (ra Khơi) Hd 1
+#EXTINF:-1 tvg-id="47" group-title="Ra Khơi 🔥" tvg-logo="https://img.thesports.com/football/team/beb9b09ee6ff7fa55269da94345e7d7f.png",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (ra Khơi) Hd 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@bomhd1RK/playlist.m3u8
-#EXTINF:-1 tvg-id="47" group-title="Ra Khơi 🔥" tvg-logo="https://img.thesports.com/football/team/beb9b09ee6ff7fa55269da94345e7d7f.png",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (ra Khơi) Sd 3 (nhanh)
+#EXTINF:-1 tvg-id="48" group-title="Ra Khơi 🔥" tvg-logo="https://img.thesports.com/football/team/beb9b09ee6ff7fa55269da94345e7d7f.png",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (ra Khơi) Sd 3 (nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@bomsd1RK.flv
-#EXTINF:-1 tvg-id="48" group-title="Ra Khơi 🔥" tvg-logo="https://img.thesports.com/football/team/beb9b09ee6ff7fa55269da94345e7d7f.png",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (ra Khơi) Hd 3 (nhanh)
+#EXTINF:-1 tvg-id="49" group-title="Ra Khơi 🔥" tvg-logo="https://img.thesports.com/football/team/beb9b09ee6ff7fa55269da94345e7d7f.png",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (ra Khơi) Hd 3 (nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@bomhd1RK.flv
-#EXTINF:-1 tvg-id="49" group-title="Ra Khơi 🔥" tvg-logo="https://img.thesports.com/football/team/54abe7b7c8ee579989d36621d28d96f0.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty (ra Khơi) Sd 1
+#EXTINF:-1 tvg-id="50" group-title="Ra Khơi 🔥" tvg-logo="https://img.thesports.com/football/team/54abe7b7c8ee579989d36621d28d96f0.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty (ra Khơi) Sd 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@natrasd1RK/playlist.m3u8
-#EXTINF:-1 tvg-id="50" group-title="Ra Khơi 🔥" tvg-logo="https://img.thesports.com/football/team/54abe7b7c8ee579989d36621d28d96f0.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty (ra Khơi) Hd 1
+#EXTINF:-1 tvg-id="51" group-title="Ra Khơi 🔥" tvg-logo="https://img.thesports.com/football/team/54abe7b7c8ee579989d36621d28d96f0.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty (ra Khơi) Hd 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@natrahd1RK/playlist.m3u8
-#EXTINF:-1 tvg-id="51" group-title="Ra Khơi 🔥" tvg-logo="https://img.thesports.com/football/team/54abe7b7c8ee579989d36621d28d96f0.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty (ra Khơi) Sd Nhanh
+#EXTINF:-1 tvg-id="52" group-title="Ra Khơi 🔥" tvg-logo="https://img.thesports.com/football/team/54abe7b7c8ee579989d36621d28d96f0.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty (ra Khơi) Sd Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@natrasd1RK.flv
-#EXTINF:-1 tvg-id="52" group-title="Ra Khơi 🔥" tvg-logo="https://img.thesports.com/football/team/54abe7b7c8ee579989d36621d28d96f0.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty (ra Khơi) Hd Nhanh
+#EXTINF:-1 tvg-id="53" group-title="Ra Khơi 🔥" tvg-logo="https://img.thesports.com/football/team/54abe7b7c8ee579989d36621d28d96f0.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty (ra Khơi) Hd Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@natrahd1RK.flv
-#EXTINF:-1 tvg-id="53" group-title="Sao Kê 🔥" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/1/1a/T%C3%A2y_Ninh_FC.svg/1200px-T%C3%A2y_Ninh_FC.svg.png",14:30 Ngày 10/16 Tây Ninh Vs Hà Nội (sao Kê) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/saoke1x1/playlist.m3u8
 #EXTINF:-1 tvg-id="54" group-title="Sao Kê 🔥" tvg-logo="https://ygnutd.com/wp-content/uploads/2016/04/ISPE.png",16:00 Ngày 10/16 Ispe Fc Vs Yangon United (sao Kê) Sd 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
@@ -2159,440 +2167,474 @@ https://live.alilicloud.com/live/32289cd26f8e258b5818628925397c43/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/08ef06256e823d9321df6fd4dd1674b2/playlist.m3u8
-#EXTINF:-1 tvg-id="75" group-title="Văn Khánh 🔥" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1760545692.jpeg",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (văn Khánh) M3u
+#EXTINF:-1 tvg-id="75" group-title="Gà Vàng 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/54abe7b7c8ee579989d36621d28d96f0.png",17h00 Ngày 15/10 Fk Taraz Vs Akas Almaty (gà Vàng) Source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/5d5b6af904d36b8e126eb853152d49c2/playlist.m3u8
+#EXTINF:-1 tvg-id="76" group-title="Gà Vàng 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/54abe7b7c8ee579989d36621d28d96f0.png",17h00 Ngày 15/10 Fk Taraz Vs Akas Almaty (gà Vàng) Sd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc38017100.stream.hdplaylink.com/live8/b3a574ac1cff4ecc8f394ad55a3bdcf1_480/playlist.m3u8
+#EXTINF:-1 tvg-id="77" group-title="Gà Vàng 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/54abe7b7c8ee579989d36621d28d96f0.png",17h00 Ngày 15/10 Fk Taraz Vs Akas Almaty (gà Vàng) Hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc38017100.stream.hdplaylink.com/live8/b3a574ac1cff4ecc8f394ad55a3bdcf1_720/playlist.m3u8
+#EXTINF:-1 tvg-id="78" group-title="Gà Vàng 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/54abe7b7c8ee579989d36621d28d96f0.png",17h00 Ngày 15/10 Fk Taraz Vs Akas Almaty (gà Vàng) Sd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live8.fastestcdn-global.com/live8/b3a574ac1cff4ecc8f394ad55a3bdcf1_480/index.m3u8
+#EXTINF:-1 tvg-id="79" group-title="Gà Vàng 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/54abe7b7c8ee579989d36621d28d96f0.png",17h00 Ngày 15/10 Fk Taraz Vs Akas Almaty (gà Vàng) Hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live8.fastestcdn-global.com/live8/b3a574ac1cff4ecc8f394ad55a3bdcf1_720/index.m3u8
+#EXTINF:-1 tvg-id="80" group-title="Gà Vàng 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/54abe7b7c8ee579989d36621d28d96f0.png",17h00 Ngày 15/10 Fk Taraz Vs Akas Almaty (gà Vàng) Sd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live7.fastestcdn-global.com/live7/b3a574ac1cff4ecc8f394ad55a3bdcf1_480/index.m3u8
+#EXTINF:-1 tvg-id="81" group-title="Gà Vàng 🔥" tvg-logo="https://cdn.rapid-api.icu/football/team/54abe7b7c8ee579989d36621d28d96f0.png",17h00 Ngày 15/10 Fk Taraz Vs Akas Almaty (gà Vàng) Hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live7.fastestcdn-global.com/live7/b3a574ac1cff4ecc8f394ad55a3bdcf1_720/index.m3u8
+#EXTINF:-1 tvg-id="82" group-title="Văn Khánh 🔥" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1760545692.jpeg",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (văn Khánh) M3u
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
 https://hls.cdnvankhanh.com/live/VANMILAN/index.m3u8?expire=1892616120&sign=a4103cfb6e6a1371923d317a9442db9b
-#EXTINF:-1 tvg-id="76" group-title="Văn Khánh 🔥" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1760545692.jpeg",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (văn Khánh) Flv
+#EXTINF:-1 tvg-id="83" group-title="Văn Khánh 🔥" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1760545692.jpeg",15h00 Ngày 16/10 Student Union Fc Vs Hal Fc (văn Khánh) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
 https://flv.cdnvankhanh.com/live/VANMILAN.flv?expire=1892616120&sign=a4103cfb6e6a1371923d317a9442db9b
-#EXTINF:-1 tvg-id="77" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251014/72cdaac13a83cd73368b99c8565479f1.png",15h30 Ngày 16/10 Adelaide Vs South East Melbourne [blv Henry] (socolive) Flv
+#EXTINF:-1 tvg-id="84" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251014/72cdaac13a83cd73368b99c8565479f1.png",15h30 Ngày 16/10 Adelaide Vs South East Melbourne [blv Henry] (socolive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1760611282-0-0-a1deeb9dd76e59bea8ba7a8a395ed7cd
-#EXTINF:-1 tvg-id="78" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251014/72cdaac13a83cd73368b99c8565479f1.png",15h30 Ngày 16/10 Adelaide Vs South East Melbourne [blv Henry] (socolive) Hdflv
+#EXTINF:-1 tvg-id="85" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251014/72cdaac13a83cd73368b99c8565479f1.png",15h30 Ngày 16/10 Adelaide Vs South East Melbourne [blv Henry] (socolive) Hdflv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1760611282-0-0-33697446f1a9bacba3ab8b2e30a5fb4a
-#EXTINF:-1 tvg-id="79" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251014/72cdaac13a83cd73368b99c8565479f1.png",15h30 Ngày 16/10 Adelaide Vs South East Melbourne [blv Henry] (socolive) M3u8
+#EXTINF:-1 tvg-id="86" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251014/72cdaac13a83cd73368b99c8565479f1.png",15h30 Ngày 16/10 Adelaide Vs South East Melbourne [blv Henry] (socolive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1760611282-0-0-bf688bc157416c7e021d5119094c2e69
-#EXTINF:-1 tvg-id="80" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251014/72cdaac13a83cd73368b99c8565479f1.png",15h30 Ngày 16/10 Adelaide Vs South East Melbourne [blv Henry] (socolive) Hdm3u8
+#EXTINF:-1 tvg-id="87" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251014/72cdaac13a83cd73368b99c8565479f1.png",15h30 Ngày 16/10 Adelaide Vs South East Melbourne [blv Henry] (socolive) Hdm3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1760611282-0-0-00ac1ac08c2747efac9af7fcbe6294d5
-#EXTINF:-1 tvg-id="81" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251013/6a85a82081429aa50d8a2ad42f1dfce2.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty [blv Fanta] (socolive) Flv
+#EXTINF:-1 tvg-id="88" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251013/6a85a82081429aa50d8a2ad42f1dfce2.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty [blv Fanta] (socolive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912104_lsd.flv?auth_key=1760611282-0-0-1c5c726554a74eeb69158de6bb1bf251
-#EXTINF:-1 tvg-id="82" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251013/6a85a82081429aa50d8a2ad42f1dfce2.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty [blv Fanta] (socolive) Hdflv
+#EXTINF:-1 tvg-id="89" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251013/6a85a82081429aa50d8a2ad42f1dfce2.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty [blv Fanta] (socolive) Hdflv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912104_lhd.flv?auth_key=1760611282-0-0-885827afb280d401abf92d3699dcfd45
-#EXTINF:-1 tvg-id="83" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251013/6a85a82081429aa50d8a2ad42f1dfce2.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty [blv Fanta] (socolive) M3u8
+#EXTINF:-1 tvg-id="90" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251013/6a85a82081429aa50d8a2ad42f1dfce2.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty [blv Fanta] (socolive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-9912104_lsd.m3u8?auth_key=1760611282-0-0-f8c3cfc0e08d3385b6ba7f87b1b4b04b
-#EXTINF:-1 tvg-id="84" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251013/6a85a82081429aa50d8a2ad42f1dfce2.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty [blv Fanta] (socolive) Hdm3u8
+#EXTINF:-1 tvg-id="91" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251013/6a85a82081429aa50d8a2ad42f1dfce2.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty [blv Fanta] (socolive) Hdm3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-9912104_lhd.m3u8?auth_key=1760611282-0-0-d73bc2b907eb616796fc8c7462d3da90
-#EXTINF:-1 tvg-id="85" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251013/6a85a82081429aa50d8a2ad42f1dfce2.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty [blv Fireman] (socolive) Flv
+#EXTINF:-1 tvg-id="92" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251013/6a85a82081429aa50d8a2ad42f1dfce2.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty [blv Fireman] (socolive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1760611282-0-0-63cdd1c10ee4a5f27bd4398d85a37610
-#EXTINF:-1 tvg-id="86" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251013/6a85a82081429aa50d8a2ad42f1dfce2.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty [blv Fireman] (socolive) Hdflv
+#EXTINF:-1 tvg-id="93" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251013/6a85a82081429aa50d8a2ad42f1dfce2.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty [blv Fireman] (socolive) Hdflv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1760611282-0-0-23ae190f975fe893ab4bb8836ff3f113
-#EXTINF:-1 tvg-id="87" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251013/6a85a82081429aa50d8a2ad42f1dfce2.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty [blv Fireman] (socolive) M3u8
+#EXTINF:-1 tvg-id="94" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251013/6a85a82081429aa50d8a2ad42f1dfce2.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty [blv Fireman] (socolive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1760611282-0-0-a6980d91aef8c1ee2fa0fd2155beedb2
-#EXTINF:-1 tvg-id="88" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251013/6a85a82081429aa50d8a2ad42f1dfce2.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty [blv Fireman] (socolive) Hdm3u8
+#EXTINF:-1 tvg-id="95" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251013/6a85a82081429aa50d8a2ad42f1dfce2.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty [blv Fireman] (socolive) Hdm3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1760611282-0-0-ee7c192e111414d47b5af6925dfc2dc9
-#EXTINF:-1 tvg-id="89" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251014/72cdaac13a83cd73368b99c8565479f1.png",15h30 Ngày 16/10 Adelaide Vs South East Melbourne [blv Dustin] (socolive) Flv
+#EXTINF:-1 tvg-id="96" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251014/72cdaac13a83cd73368b99c8565479f1.png",15h30 Ngày 16/10 Adelaide Vs South East Melbourne [blv Dustin] (socolive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-289098_lsd.flv?txSecret=dcd3ce4c6451426d89fa6f2f9c86e918&txTime=68f11222
-#EXTINF:-1 tvg-id="90" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251014/72cdaac13a83cd73368b99c8565479f1.png",15h30 Ngày 16/10 Adelaide Vs South East Melbourne [blv Dustin] (socolive) Hdflv
+#EXTINF:-1 tvg-id="97" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251014/72cdaac13a83cd73368b99c8565479f1.png",15h30 Ngày 16/10 Adelaide Vs South East Melbourne [blv Dustin] (socolive) Hdflv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-289098_lhd.flv?txSecret=246f9c862339fdbeed0da548ef7daabb&txTime=68f11222
-#EXTINF:-1 tvg-id="91" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251014/72cdaac13a83cd73368b99c8565479f1.png",15h30 Ngày 16/10 Adelaide Vs South East Melbourne [blv Dustin] (socolive) M3u8
+#EXTINF:-1 tvg-id="98" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251014/72cdaac13a83cd73368b99c8565479f1.png",15h30 Ngày 16/10 Adelaide Vs South East Melbourne [blv Dustin] (socolive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-289098_lsd.m3u8?txSecret=dcd3ce4c6451426d89fa6f2f9c86e918&txTime=68f11222
-#EXTINF:-1 tvg-id="92" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251014/72cdaac13a83cd73368b99c8565479f1.png",15h30 Ngày 16/10 Adelaide Vs South East Melbourne [blv Dustin] (socolive) Hdm3u8
+#EXTINF:-1 tvg-id="99" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251014/72cdaac13a83cd73368b99c8565479f1.png",15h30 Ngày 16/10 Adelaide Vs South East Melbourne [blv Dustin] (socolive) Hdm3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-289098_lhd.m3u8?txSecret=246f9c862339fdbeed0da548ef7daabb&txTime=68f11222
-#EXTINF:-1 tvg-id="93" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251014/ba3d78ce2e989fe48827c8ac618d4ee0.png",09h30 Ngày 16/10 Los Angeles Lakers Vs Dallas Mavericks [king] (socolive) Flv
+#EXTINF:-1 tvg-id="100" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251014/ba3d78ce2e989fe48827c8ac618d4ee0.png",09h30 Ngày 16/10 Los Angeles Lakers Vs Dallas Mavericks [king] (socolive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-9912099_lsd.flv?txSecret=c42155e16ec6f8a1edb4128e720728d2&txTime=68f11222
-#EXTINF:-1 tvg-id="94" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251014/ba3d78ce2e989fe48827c8ac618d4ee0.png",09h30 Ngày 16/10 Los Angeles Lakers Vs Dallas Mavericks [king] (socolive) Hdflv
+#EXTINF:-1 tvg-id="101" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251014/ba3d78ce2e989fe48827c8ac618d4ee0.png",09h30 Ngày 16/10 Los Angeles Lakers Vs Dallas Mavericks [king] (socolive) Hdflv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-9912099_lhd.flv?txSecret=cbd9270b9fe95eccfa7f72cf17591ce5&txTime=68f11222
-#EXTINF:-1 tvg-id="95" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251014/ba3d78ce2e989fe48827c8ac618d4ee0.png",09h30 Ngày 16/10 Los Angeles Lakers Vs Dallas Mavericks [king] (socolive) M3u8
+#EXTINF:-1 tvg-id="102" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251014/ba3d78ce2e989fe48827c8ac618d4ee0.png",09h30 Ngày 16/10 Los Angeles Lakers Vs Dallas Mavericks [king] (socolive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=c42155e16ec6f8a1edb4128e720728d2&txTime=68f11222
-#EXTINF:-1 tvg-id="96" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251014/ba3d78ce2e989fe48827c8ac618d4ee0.png",09h30 Ngày 16/10 Los Angeles Lakers Vs Dallas Mavericks [king] (socolive) Hdm3u8
+#EXTINF:-1 tvg-id="103" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251014/ba3d78ce2e989fe48827c8ac618d4ee0.png",09h30 Ngày 16/10 Los Angeles Lakers Vs Dallas Mavericks [king] (socolive) Hdm3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=cbd9270b9fe95eccfa7f72cf17591ce5&txTime=68f11222
-#EXTINF:-1 tvg-id="97" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251013/6a85a82081429aa50d8a2ad42f1dfce2.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty [blv Vitamin] (socolive) Flv
+#EXTINF:-1 tvg-id="104" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251013/6a85a82081429aa50d8a2ad42f1dfce2.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty [blv Vitamin] (socolive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1760611282-0-0-5ecde62fd342b7497da888c49d7336ed
-#EXTINF:-1 tvg-id="98" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251013/6a85a82081429aa50d8a2ad42f1dfce2.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty [blv Vitamin] (socolive) Hdflv
+#EXTINF:-1 tvg-id="105" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251013/6a85a82081429aa50d8a2ad42f1dfce2.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty [blv Vitamin] (socolive) Hdflv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1760611282-0-0-cbe768e0999d786bf1d91d9cec9834c2
-#EXTINF:-1 tvg-id="99" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251013/6a85a82081429aa50d8a2ad42f1dfce2.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty [blv Vitamin] (socolive) M3u8
+#EXTINF:-1 tvg-id="106" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251013/6a85a82081429aa50d8a2ad42f1dfce2.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty [blv Vitamin] (socolive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1760611282-0-0-4cad4c7f188c9cf1f4043efd9387bf12
-#EXTINF:-1 tvg-id="100" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251013/6a85a82081429aa50d8a2ad42f1dfce2.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty [blv Vitamin] (socolive) Hdm3u8
+#EXTINF:-1 tvg-id="107" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251013/6a85a82081429aa50d8a2ad42f1dfce2.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty [blv Vitamin] (socolive) Hdm3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1760611282-0-0-b4ac7869496090af47209212fca8058b
-#EXTINF:-1 tvg-id="101" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251013/6a85a82081429aa50d8a2ad42f1dfce2.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty [blv Coca] (socolive) Flv
+#EXTINF:-1 tvg-id="108" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251013/6a85a82081429aa50d8a2ad42f1dfce2.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty [blv Coca] (socolive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1760611282-0-0-2ee4bbb43a1aeec364861795d16f18a4
-#EXTINF:-1 tvg-id="102" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251013/6a85a82081429aa50d8a2ad42f1dfce2.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty [blv Coca] (socolive) Hdflv
+#EXTINF:-1 tvg-id="109" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251013/6a85a82081429aa50d8a2ad42f1dfce2.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty [blv Coca] (socolive) Hdflv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1760611282-0-0-3bfaec3533332912d4cd3554cb49316d
-#EXTINF:-1 tvg-id="103" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251013/6a85a82081429aa50d8a2ad42f1dfce2.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty [blv Coca] (socolive) M3u8
+#EXTINF:-1 tvg-id="110" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251013/6a85a82081429aa50d8a2ad42f1dfce2.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty [blv Coca] (socolive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1760611282-0-0-a7e1b3202947670e19ea9158417c3ae2
-#EXTINF:-1 tvg-id="104" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251013/6a85a82081429aa50d8a2ad42f1dfce2.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty [blv Coca] (socolive) Hdm3u8
+#EXTINF:-1 tvg-id="111" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251013/6a85a82081429aa50d8a2ad42f1dfce2.png",17h00 Ngày 16/10 Fk Taraz Vs Akas Almaty [blv Coca] (socolive) Hdm3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1760611282-0-0-2abab14e9cb79644ba3e2fbff29027ee
-#EXTINF:-1 tvg-id="105" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251014/72cdaac13a83cd73368b99c8565479f1.png",15h30 Ngày 16/10 Adelaide Vs South East Melbourne [brian] (socolive) Flv
+#EXTINF:-1 tvg-id="112" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251014/72cdaac13a83cd73368b99c8565479f1.png",15h30 Ngày 16/10 Adelaide Vs South East Melbourne [brian] (socolive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1760611282-0-0-0f111189366a58e06acd1914f2468537
-#EXTINF:-1 tvg-id="106" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251014/72cdaac13a83cd73368b99c8565479f1.png",15h30 Ngày 16/10 Adelaide Vs South East Melbourne [brian] (socolive) Hdflv
+#EXTINF:-1 tvg-id="113" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251014/72cdaac13a83cd73368b99c8565479f1.png",15h30 Ngày 16/10 Adelaide Vs South East Melbourne [brian] (socolive) Hdflv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1760611282-0-0-d2c7d084cb7a7de1f46a0e4b3061a9f6
-#EXTINF:-1 tvg-id="107" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251014/72cdaac13a83cd73368b99c8565479f1.png",15h30 Ngày 16/10 Adelaide Vs South East Melbourne [brian] (socolive) M3u8
+#EXTINF:-1 tvg-id="114" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251014/72cdaac13a83cd73368b99c8565479f1.png",15h30 Ngày 16/10 Adelaide Vs South East Melbourne [brian] (socolive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1760611282-0-0-eef4fd1ff4d481bbe1e5ae520ca19e20
-#EXTINF:-1 tvg-id="108" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251014/72cdaac13a83cd73368b99c8565479f1.png",15h30 Ngày 16/10 Adelaide Vs South East Melbourne [brian] (socolive) Hdm3u8
+#EXTINF:-1 tvg-id="115" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251014/72cdaac13a83cd73368b99c8565479f1.png",15h30 Ngày 16/10 Adelaide Vs South East Melbourne [brian] (socolive) Hdm3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1760611282-0-0-258acbb322245010078de6c8c1b58ae5
-#EXTINF:-1 tvg-id="109" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251014/07b50899544741c939644bdb079f851f.png",17h00 Ngày 16/10 Wonju Db Vs Kcc Egis [blv Bean] (socolive) Flv
+#EXTINF:-1 tvg-id="116" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251014/07b50899544741c939644bdb079f851f.png",17h00 Ngày 16/10 Wonju Db Vs Kcc Egis [blv Bean] (socolive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://stream-flv.dfsfe.top/lives/9912111-480p.flv
-#EXTINF:-1 tvg-id="110" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251014/07b50899544741c939644bdb079f851f.png",17h00 Ngày 16/10 Wonju Db Vs Kcc Egis [blv Bean] (socolive) Hdflv
+#EXTINF:-1 tvg-id="117" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251014/07b50899544741c939644bdb079f851f.png",17h00 Ngày 16/10 Wonju Db Vs Kcc Egis [blv Bean] (socolive) Hdflv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://stream-flv.dfsfe.top/lives/9912111-720p.flv
-#EXTINF:-1 tvg-id="111" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251014/07b50899544741c939644bdb079f851f.png",17h00 Ngày 16/10 Wonju Db Vs Kcc Egis [blv Bean] (socolive) M3u8
+#EXTINF:-1 tvg-id="118" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251014/07b50899544741c939644bdb079f851f.png",17h00 Ngày 16/10 Wonju Db Vs Kcc Egis [blv Bean] (socolive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://stream-flv.dfsfe.top/lives/9912111-480p.m3u8
-#EXTINF:-1 tvg-id="112" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251014/07b50899544741c939644bdb079f851f.png",17h00 Ngày 16/10 Wonju Db Vs Kcc Egis [blv Bean] (socolive) Hdm3u8
+#EXTINF:-1 tvg-id="119" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251014/07b50899544741c939644bdb079f851f.png",17h00 Ngày 16/10 Wonju Db Vs Kcc Egis [blv Bean] (socolive) Hdm3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://stream-flv.dfsfe.top/lives/9912111-720p.m3u8
-#EXTINF:-1 tvg-id="113" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251012/11aadb77dd976059a590dae3ff3159d9.png",Bit.ly/socolive [socolive] (socolive) Flv
+#EXTINF:-1 tvg-id="120" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251012/11aadb77dd976059a590dae3ff3159d9.png",Bit.ly/socolive [socolive] (socolive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1760611282-0-0-e8f26af5b6f57958ca5cfb6722653733
-#EXTINF:-1 tvg-id="114" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251012/11aadb77dd976059a590dae3ff3159d9.png",Bit.ly/socolive [socolive] (socolive) Hdflv
+#EXTINF:-1 tvg-id="121" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251012/11aadb77dd976059a590dae3ff3159d9.png",Bit.ly/socolive [socolive] (socolive) Hdflv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1760611282-0-0-d7f386d184aa50cae2dd88439b403413
-#EXTINF:-1 tvg-id="115" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251012/11aadb77dd976059a590dae3ff3159d9.png",Bit.ly/socolive [socolive] (socolive) M3u8
+#EXTINF:-1 tvg-id="122" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251012/11aadb77dd976059a590dae3ff3159d9.png",Bit.ly/socolive [socolive] (socolive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1760611282-0-0-fb713b6ce0e9b4e8397930a0d696545e
-#EXTINF:-1 tvg-id="116" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251012/11aadb77dd976059a590dae3ff3159d9.png",Bit.ly/socolive [socolive] (socolive) Hdm3u8
+#EXTINF:-1 tvg-id="123" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251012/11aadb77dd976059a590dae3ff3159d9.png",Bit.ly/socolive [socolive] (socolive) Hdm3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1760611282-0-0-7e3c72a1b881030744d58041947f7735
-#EXTINF:-1 tvg-id="117" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251012/11aadb77dd976059a590dae3ff3159d9.png",Tường Thuật: Fifa U20 - Morocco Vs France [sóc Nhàm Nhang Nhồ] (socolive) Flv
+#EXTINF:-1 tvg-id="124" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251012/11aadb77dd976059a590dae3ff3159d9.png",Tường Thuật: Fifa U20 - Morocco Vs France [sóc Nhàm Nhang Nhồ] (socolive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1760611265-0-0-e057a9a1d2b53c921a87906d6d2551cb
-#EXTINF:-1 tvg-id="118" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251012/11aadb77dd976059a590dae3ff3159d9.png",Tường Thuật: Fifa U20 - Morocco Vs France [sóc Nhàm Nhang Nhồ] (socolive) Hdflv
+#EXTINF:-1 tvg-id="125" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251012/11aadb77dd976059a590dae3ff3159d9.png",Tường Thuật: Fifa U20 - Morocco Vs France [sóc Nhàm Nhang Nhồ] (socolive) Hdflv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1760611265-0-0-0605bf678b6e7edea51e324b1c8ea04d
-#EXTINF:-1 tvg-id="119" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251012/11aadb77dd976059a590dae3ff3159d9.png",Tường Thuật: Fifa U20 - Morocco Vs France [sóc Nhàm Nhang Nhồ] (socolive) M3u8
+#EXTINF:-1 tvg-id="126" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251012/11aadb77dd976059a590dae3ff3159d9.png",Tường Thuật: Fifa U20 - Morocco Vs France [sóc Nhàm Nhang Nhồ] (socolive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1760611265-0-0-8fbd545801f09f5e474ee18a34b337ce
-#EXTINF:-1 tvg-id="120" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251012/11aadb77dd976059a590dae3ff3159d9.png",Tường Thuật: Fifa U20 - Morocco Vs France [sóc Nhàm Nhang Nhồ] (socolive) Hdm3u8
+#EXTINF:-1 tvg-id="127" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251012/11aadb77dd976059a590dae3ff3159d9.png",Tường Thuật: Fifa U20 - Morocco Vs France [sóc Nhàm Nhang Nhồ] (socolive) Hdm3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1760611265-0-0-9bce058ef6d48cdb3e1ac83001d4dd58
-#EXTINF:-1 tvg-id="121" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251012/11aadb77dd976059a590dae3ff3159d9.png",Tường Thuật: Interf - Mexico Vs Ecuador [sóc Phụ Hồ] (socolive) Flv
+#EXTINF:-1 tvg-id="128" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251012/11aadb77dd976059a590dae3ff3159d9.png",Tường Thuật: Interf - Mexico Vs Ecuador [sóc Phụ Hồ] (socolive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1760611265-0-0-8d17a2ba3be6f503b9a77e0758bc5cf2
-#EXTINF:-1 tvg-id="122" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251012/11aadb77dd976059a590dae3ff3159d9.png",Tường Thuật: Interf - Mexico Vs Ecuador [sóc Phụ Hồ] (socolive) Hdflv
+#EXTINF:-1 tvg-id="129" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251012/11aadb77dd976059a590dae3ff3159d9.png",Tường Thuật: Interf - Mexico Vs Ecuador [sóc Phụ Hồ] (socolive) Hdflv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1760611265-0-0-a8db3a6669e4d42e05fea1edcb612842
-#EXTINF:-1 tvg-id="123" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251012/11aadb77dd976059a590dae3ff3159d9.png",Tường Thuật: Interf - Mexico Vs Ecuador [sóc Phụ Hồ] (socolive) M3u8
+#EXTINF:-1 tvg-id="130" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251012/11aadb77dd976059a590dae3ff3159d9.png",Tường Thuật: Interf - Mexico Vs Ecuador [sóc Phụ Hồ] (socolive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1760611265-0-0-253678da139bddeb23029c4fadfc796a
-#EXTINF:-1 tvg-id="124" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251012/11aadb77dd976059a590dae3ff3159d9.png",Tường Thuật: Interf - Mexico Vs Ecuador [sóc Phụ Hồ] (socolive) Hdm3u8
+#EXTINF:-1 tvg-id="131" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251012/11aadb77dd976059a590dae3ff3159d9.png",Tường Thuật: Interf - Mexico Vs Ecuador [sóc Phụ Hồ] (socolive) Hdm3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1760611265-0-0-0c503d21b80ed417acceace6949f474c
-#EXTINF:-1 tvg-id="125" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251012/11aadb77dd976059a590dae3ff3159d9.png",Tường Thuật: Wcpca - Jamaica Vs Bermuda [sóc Trong Rừng Xà Nu] (socolive) Flv
+#EXTINF:-1 tvg-id="132" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251012/11aadb77dd976059a590dae3ff3159d9.png",Tường Thuật: Wcpca - Jamaica Vs Bermuda [sóc Trong Rừng Xà Nu] (socolive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1760611265-0-0-7f5e340913d3fdfa2b6d7842a08bc1ae
-#EXTINF:-1 tvg-id="126" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251012/11aadb77dd976059a590dae3ff3159d9.png",Tường Thuật: Wcpca - Jamaica Vs Bermuda [sóc Trong Rừng Xà Nu] (socolive) Hdflv
+#EXTINF:-1 tvg-id="133" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251012/11aadb77dd976059a590dae3ff3159d9.png",Tường Thuật: Wcpca - Jamaica Vs Bermuda [sóc Trong Rừng Xà Nu] (socolive) Hdflv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1760611265-0-0-2cbabc224c091a7b4e3c886a614ad0d4
-#EXTINF:-1 tvg-id="127" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251012/11aadb77dd976059a590dae3ff3159d9.png",Tường Thuật: Wcpca - Jamaica Vs Bermuda [sóc Trong Rừng Xà Nu] (socolive) M3u8
+#EXTINF:-1 tvg-id="134" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251012/11aadb77dd976059a590dae3ff3159d9.png",Tường Thuật: Wcpca - Jamaica Vs Bermuda [sóc Trong Rừng Xà Nu] (socolive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1760611265-0-0-7227615396953734d0b9f03f772b9322
-#EXTINF:-1 tvg-id="128" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251012/11aadb77dd976059a590dae3ff3159d9.png",Tường Thuật: Wcpca - Jamaica Vs Bermuda [sóc Trong Rừng Xà Nu] (socolive) Hdm3u8
+#EXTINF:-1 tvg-id="135" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251012/11aadb77dd976059a590dae3ff3159d9.png",Tường Thuật: Wcpca - Jamaica Vs Bermuda [sóc Trong Rừng Xà Nu] (socolive) Hdm3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1760611265-0-0-abe964e368d3fbb407eb053873bed526
-#EXTINF:-1 tvg-id="129" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251012/11aadb77dd976059a590dae3ff3159d9.png",Tường Thuật: Uefa Wcl - As Roma Vs Barcelona [sóc Xào Sả ớt] (socolive) Flv
+#EXTINF:-1 tvg-id="136" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251012/11aadb77dd976059a590dae3ff3159d9.png",Tường Thuật: Uefa Wcl - As Roma Vs Barcelona [sóc Xào Sả ớt] (socolive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1760611265-0-0-0f292c98919a15f1892b148f9632944d
-#EXTINF:-1 tvg-id="130" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251012/11aadb77dd976059a590dae3ff3159d9.png",Tường Thuật: Uefa Wcl - As Roma Vs Barcelona [sóc Xào Sả ớt] (socolive) Hdflv
+#EXTINF:-1 tvg-id="137" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251012/11aadb77dd976059a590dae3ff3159d9.png",Tường Thuật: Uefa Wcl - As Roma Vs Barcelona [sóc Xào Sả ớt] (socolive) Hdflv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1760611265-0-0-cc4dd38a12ecc3b52e1a207e200d6fb5
-#EXTINF:-1 tvg-id="131" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251012/11aadb77dd976059a590dae3ff3159d9.png",Tường Thuật: Uefa Wcl - As Roma Vs Barcelona [sóc Xào Sả ớt] (socolive) M3u8
+#EXTINF:-1 tvg-id="138" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251012/11aadb77dd976059a590dae3ff3159d9.png",Tường Thuật: Uefa Wcl - As Roma Vs Barcelona [sóc Xào Sả ớt] (socolive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1760611265-0-0-7355bafadbd135d8ff2efa568921f6ee
-#EXTINF:-1 tvg-id="132" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251012/11aadb77dd976059a590dae3ff3159d9.png",Tường Thuật: Uefa Wcl - As Roma Vs Barcelona [sóc Xào Sả ớt] (socolive) Hdm3u8
+#EXTINF:-1 tvg-id="139" group-title="Socolive 🔥" tvg-logo="https://sta.vnres.co/file/common/20251012/11aadb77dd976059a590dae3ff3159d9.png",Tường Thuật: Uefa Wcl - As Roma Vs Barcelona [sóc Xào Sả ớt] (socolive) Hdm3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1760611265-0-0-6160e2f4b4991bd23b440b23c145356a
-#EXTINF:-1 tvg-id="133" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/basketball/team/e94f441698752284a7b2f6c37ea3aee6.png",17:00 Ngày 16/10 Wonju Dongbu Promy Vs Kcc Egis (1) [người Gầy] Hd Nhanh
+#EXTINF:-1 tvg-id="140" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/basketball/team/e94f441698752284a7b2f6c37ea3aee6.png",17:00 Ngày 16/10 Wonju Dongbu Promy Vs Kcc Egis (1) [người Gầy] Hd Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/gayHD.flv?expire=1760628607&sign=5defc55da2e5bd17539d3f2c3cd04e47
-#EXTINF:-1 tvg-id="134" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/basketball/team/e94f441698752284a7b2f6c37ea3aee6.png",17:00 Ngày 16/10 Wonju Dongbu Promy Vs Kcc Egis (1) [người Gầy] Hd1
+https://hotlivezz179536519.akainu.xyz/live/gayHD.flv?expire=1760629686&sign=93375eaa9800da03d9ba581283cfb61f
+#EXTINF:-1 tvg-id="141" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/basketball/team/e94f441698752284a7b2f6c37ea3aee6.png",17:00 Ngày 16/10 Wonju Dongbu Promy Vs Kcc Egis (1) [người Gầy] Hd1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/qW1IGczbWJbps7TIdFWKrw/Fv2lucGIbhPi2caWYvF5Lg/1760628607989/live/gayHD/playlist.m3u8
-#EXTINF:-1 tvg-id="135" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/basketball/team/e94f441698752284a7b2f6c37ea3aee6.png",17:00 Ngày 16/10 Wonju Dongbu Promy Vs Kcc Egis (1) [người Gầy] Hd2
+https://hotlivezz179266008.akainu.xyz/wR4qf81xEMt4dyS9GRzBew/Fv2lucGIbhPi2caWYvF5Lg/1760629686695/live/gayHD/playlist.m3u8
+#EXTINF:-1 tvg-id="142" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/basketball/team/e94f441698752284a7b2f6c37ea3aee6.png",17:00 Ngày 16/10 Wonju Dongbu Promy Vs Kcc Egis (1) [người Gầy] Hd2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/2FW8PuvFSdU6xrIzV2O5zw/66ae10d686c6ce5cc9ef4eeff7542f73/1760628607/live/_definst_/stream_1_1bda7@gayHD/playlist.m3u8
-#EXTINF:-1 tvg-id="136" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/basketball/team/e94f441698752284a7b2f6c37ea3aee6.png",17:00 Ngày 16/10 Wonju Dongbu Promy Vs Kcc Egis (1) [người Gầy] Sd
+https://live-vipxlvb.nsnd.live/uPQATJrWEDIYSmrvxMa9aA/66ae10d686c6ce5cc9ef4eeff7542f73/1760629686/live/_definst_/stream_1_1bda7@gayHD/playlist.m3u8
+#EXTINF:-1 tvg-id="143" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/basketball/team/e94f441698752284a7b2f6c37ea3aee6.png",17:00 Ngày 16/10 Wonju Dongbu Promy Vs Kcc Egis (1) [người Gầy] Sd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/d8Zr6owgtZ0WBE75PJ0yyQ/Fv2lucGIbhPi2caWYvF5Lg/1760628607989/live/gaySD/playlist.m3u8
-#EXTINF:-1 tvg-id="137" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/basketball/team/e94f441698752284a7b2f6c37ea3aee6.png",17:00 Ngày 16/10 Wonju Dongbu Promy Vs Kcc Egis (1) [người Gầy] Fullhd
+https://hotlivezz179602324.akainu.xyz/ZToN7WYhSzlbFVdcXvJJBg/Fv2lucGIbhPi2caWYvF5Lg/1760629686695/live/gaySD/playlist.m3u8
+#EXTINF:-1 tvg-id="144" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/basketball/team/e94f441698752284a7b2f6c37ea3aee6.png",17:00 Ngày 16/10 Wonju Dongbu Promy Vs Kcc Egis (1) [người Gầy] Fullhd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/Hc4P8NA5W8HSsCkoEU9O2Q/84da5215d1a1dcfaac34c074325b27a0/1760628607/live/_definst_/stream_1_1bda7@gayFHD/playlist.m3u8
-#EXTINF:-1 tvg-id="138" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/basketball/team/37b283feab059616a2c700d2f6d9d03d.png",17:00 Ngày 16/10 Laguna Krah Asia Vs Rizal Golden Coolers (1) [người Phép] Hd Nhanh
+https://live-vipxlvb.nsnd.live/-VBZTgc7yuXPo4-GxEL6Pg/84da5215d1a1dcfaac34c074325b27a0/1760629686/live/_definst_/stream_1_1bda7@gayFHD/playlist.m3u8
+#EXTINF:-1 tvg-id="145" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/basketball/team/37b283feab059616a2c700d2f6d9d03d.png",17:00 Ngày 16/10 Laguna Krah Asia Vs Rizal Golden Coolers (1) [người Phép] Hd Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/phepHD.flv?expire=1760628609&sign=999a412b1efbe362b3774913c1a8b630
-#EXTINF:-1 tvg-id="139" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/basketball/team/37b283feab059616a2c700d2f6d9d03d.png",17:00 Ngày 16/10 Laguna Krah Asia Vs Rizal Golden Coolers (1) [người Phép] Hd1
+https://hotlivezz179536519.akainu.xyz/live/phepHD.flv?expire=1760629689&sign=a997c6851fe5b87ae91a0b5922ecfe55
+#EXTINF:-1 tvg-id="146" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/basketball/team/37b283feab059616a2c700d2f6d9d03d.png",17:00 Ngày 16/10 Laguna Krah Asia Vs Rizal Golden Coolers (1) [người Phép] Hd1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/gd9SAH6vM4tNLhmANEKNTA/Fv2lucGIbhPi2caWYvF5Lg/1760628609726/live/phepHD/playlist.m3u8
-#EXTINF:-1 tvg-id="140" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/basketball/team/37b283feab059616a2c700d2f6d9d03d.png",17:00 Ngày 16/10 Laguna Krah Asia Vs Rizal Golden Coolers (1) [người Phép] Hd2
+https://hotlivezz179266008.akainu.xyz/sYMgupyw_aVmiuhqseolNg/Fv2lucGIbhPi2caWYvF5Lg/1760629689147/live/phepHD/playlist.m3u8
+#EXTINF:-1 tvg-id="147" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/basketball/team/37b283feab059616a2c700d2f6d9d03d.png",17:00 Ngày 16/10 Laguna Krah Asia Vs Rizal Golden Coolers (1) [người Phép] Hd2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/BOEqOCy4XgvsaGUA3fqNUQ/44aad5dfa01c79ab75667d799c2e06c1/1760628609/live/_definst_/stream_1_1bda7@phepHD/playlist.m3u8
-#EXTINF:-1 tvg-id="141" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/basketball/team/37b283feab059616a2c700d2f6d9d03d.png",17:00 Ngày 16/10 Laguna Krah Asia Vs Rizal Golden Coolers (1) [người Phép] Sd
+https://live-vipxlvb.nsnd.live/VvQlBQca4G3zWVQUDwZwjw/44aad5dfa01c79ab75667d799c2e06c1/1760629689/live/_definst_/stream_1_1bda7@phepHD/playlist.m3u8
+#EXTINF:-1 tvg-id="148" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/basketball/team/37b283feab059616a2c700d2f6d9d03d.png",17:00 Ngày 16/10 Laguna Krah Asia Vs Rizal Golden Coolers (1) [người Phép] Sd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/FfV5R-Ym2MJPi71nJH7fLw/Fv2lucGIbhPi2caWYvF5Lg/1760628609726/live/phepSD/playlist.m3u8
-#EXTINF:-1 tvg-id="142" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/basketball/team/37b283feab059616a2c700d2f6d9d03d.png",17:00 Ngày 16/10 Laguna Krah Asia Vs Rizal Golden Coolers (1) [người Phép] Fullhd
+https://hotlivezz179602324.akainu.xyz/d5gx77EhKGETerOqikYYKg/Fv2lucGIbhPi2caWYvF5Lg/1760629689147/live/phepSD/playlist.m3u8
+#EXTINF:-1 tvg-id="149" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/basketball/team/37b283feab059616a2c700d2f6d9d03d.png",17:00 Ngày 16/10 Laguna Krah Asia Vs Rizal Golden Coolers (1) [người Phép] Fullhd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/TyIqmw7l7U9OW0wdunyRkA/bb30dc1883f5f92057cd67eec640c4d0/1760628609/live/_definst_/stream_1_1bda7@phepFHD/playlist.m3u8
-#EXTINF:-1 tvg-id="143" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/f17UoNTp-YcDbgzEM.png",12:00 Ngày 16/10 Worlds 2025 (1) [tai Lung] Hd Nhanh
+https://live-vipxlvb.nsnd.live/F3GfD05EJJIpMU5TeiXpuw/bb30dc1883f5f92057cd67eec640c4d0/1760629689/live/_definst_/stream_1_1bda7@phepFHD/playlist.m3u8
+#EXTINF:-1 tvg-id="150" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/f17UoNTp-YcDbgzEM.png",12:00 Ngày 16/10 Worlds 2025 (1) [tai Lung] Hd Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179536519.akainu.xyz/live/lungHD.flv?expire=1760625365&sign=2d3562598c3be92ace9634da1951c218
-#EXTINF:-1 tvg-id="144" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/f17UoNTp-YcDbgzEM.png",12:00 Ngày 16/10 Worlds 2025 (1) [tai Lung] Hd1
+#EXTINF:-1 tvg-id="151" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/f17UoNTp-YcDbgzEM.png",12:00 Ngày 16/10 Worlds 2025 (1) [tai Lung] Hd1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179266008.akainu.xyz/jTLhMu3TE5mLnJNR4WKhUQ/Fv2lucGIbhPi2caWYvF5Lg/1760625365888/live/lungHD/playlist.m3u8
-#EXTINF:-1 tvg-id="145" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/f17UoNTp-YcDbgzEM.png",12:00 Ngày 16/10 Worlds 2025 (1) [tai Lung] Hd2
+#EXTINF:-1 tvg-id="152" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/f17UoNTp-YcDbgzEM.png",12:00 Ngày 16/10 Worlds 2025 (1) [tai Lung] Hd2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://live-vipxlvb.nsnd.live/_xdGPNQ5Rj-d6VAdGJKbDw/2b6f412a8d5f1f173548083dc2d6020e/1760625365/live/_definst_/stream_1_1bda7@lungHD/playlist.m3u8
-#EXTINF:-1 tvg-id="146" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/f17UoNTp-YcDbgzEM.png",12:00 Ngày 16/10 Worlds 2025 (1) [tai Lung] Sd
+#EXTINF:-1 tvg-id="153" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/f17UoNTp-YcDbgzEM.png",12:00 Ngày 16/10 Worlds 2025 (1) [tai Lung] Sd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179602324.akainu.xyz/ZbIFe3KHr_Ru6Ye0Wvc2rA/Fv2lucGIbhPi2caWYvF5Lg/1760625365888/live/lungSD/playlist.m3u8
-#EXTINF:-1 tvg-id="147" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/f17UoNTp-YcDbgzEM.png",12:00 Ngày 16/10 Worlds 2025 (1) [tai Lung] Fullhd
+#EXTINF:-1 tvg-id="154" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/f17UoNTp-YcDbgzEM.png",12:00 Ngày 16/10 Worlds 2025 (1) [tai Lung] Fullhd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://live-vipxlvb.nsnd.live/RzUemGoQi0N5MvAkSmPlCQ/883ca40e5184f080c92fcfdbaf37405d/1760625365/live/_definst_/stream_1_1bda7@lungFHD/playlist.m3u8
-#EXTINF:-1 tvg-id="148" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/KbRWarRp-vsXl9GAU.png",14:00 Ngày 16/10 Denmark Open 2025 (1) [sân 1] Hd Nhanh
+#EXTINF:-1 tvg-id="155" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/KbRWarRp-vsXl9GAU.png",14:00 Ngày 16/10 Denmark Open 2025 (1) [sân 1] Hd Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179536519.akainu.xyz/live/thuHD.flv?expire=1760619253&sign=39008ee7d99b1e77f04459fedef348a4
-#EXTINF:-1 tvg-id="149" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/KbRWarRp-vsXl9GAU.png",14:00 Ngày 16/10 Denmark Open 2025 (1) [sân 1] Hd1
+#EXTINF:-1 tvg-id="156" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/KbRWarRp-vsXl9GAU.png",14:00 Ngày 16/10 Denmark Open 2025 (1) [sân 1] Hd1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179266008.akainu.xyz/A5VkxNVYubYVvQu1KRKlTw/Fv2lucGIbhPi2caWYvF5Lg/1760619253299/live/thuHD/playlist.m3u8
-#EXTINF:-1 tvg-id="150" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/KbRWarRp-vsXl9GAU.png",14:00 Ngày 16/10 Denmark Open 2025 (1) [sân 1] Hd2
+#EXTINF:-1 tvg-id="157" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/KbRWarRp-vsXl9GAU.png",14:00 Ngày 16/10 Denmark Open 2025 (1) [sân 1] Hd2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://live-vipxlvb.nsnd.live/9CbeITVPgtxjEX52zIukaA/19c6df53af2e8e4da3153ccd33338ce9/1760619253/live/_definst_/stream_1_1bda7@thuHD/playlist.m3u8
-#EXTINF:-1 tvg-id="151" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/KbRWarRp-vsXl9GAU.png",14:00 Ngày 16/10 Denmark Open 2025 (1) [sân 1] Sd
+#EXTINF:-1 tvg-id="158" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/KbRWarRp-vsXl9GAU.png",14:00 Ngày 16/10 Denmark Open 2025 (1) [sân 1] Sd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179602324.akainu.xyz/U3tutsoWVrFmDLMl6Ryvrw/Fv2lucGIbhPi2caWYvF5Lg/1760619253299/live/thuSD/playlist.m3u8
-#EXTINF:-1 tvg-id="152" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/KbRWarRp-vsXl9GAU.png",14:00 Ngày 16/10 Denmark Open 2025 (1) [sân 1] Fullhd
+#EXTINF:-1 tvg-id="159" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/KbRWarRp-vsXl9GAU.png",14:00 Ngày 16/10 Denmark Open 2025 (1) [sân 1] Fullhd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://live-vipxlvb.nsnd.live/zpxWJBPLFq3TWrHlytv4aw/23c640f28fcd1bae0920b90a9358ecbd/1760619253/live/_definst_/stream_1_1bda7@thuFHD/playlist.m3u8
-#EXTINF:-1 tvg-id="153" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/KbRWarRp-vsXl9GAU.png",14:00 Ngày 16/10 Denmark Open 2025 (1) [sân 2] Hd Nhanh
+#EXTINF:-1 tvg-id="160" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/KbRWarRp-vsXl9GAU.png",14:00 Ngày 16/10 Denmark Open 2025 (1) [sân 2] Hd Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179536519.akainu.xyz/live/xienHD.flv?expire=1760619253&sign=8df319fe976868073315956d56621794
-#EXTINF:-1 tvg-id="154" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/KbRWarRp-vsXl9GAU.png",14:00 Ngày 16/10 Denmark Open 2025 (1) [sân 2] Hd1
+#EXTINF:-1 tvg-id="161" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/KbRWarRp-vsXl9GAU.png",14:00 Ngày 16/10 Denmark Open 2025 (1) [sân 2] Hd1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179266008.akainu.xyz/WJ04V1FUMTsj9n67vsk7YQ/Fv2lucGIbhPi2caWYvF5Lg/1760619253300/live/xienHD/playlist.m3u8
-#EXTINF:-1 tvg-id="155" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/KbRWarRp-vsXl9GAU.png",14:00 Ngày 16/10 Denmark Open 2025 (1) [sân 2] Hd2
+#EXTINF:-1 tvg-id="162" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/KbRWarRp-vsXl9GAU.png",14:00 Ngày 16/10 Denmark Open 2025 (1) [sân 2] Hd2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://live-vipxlvb.nsnd.live/roI27GreeQijcKn1mqZZcg/0aafe7a6d19bfafd5e27cf7084b37d51/1760619253/live/_definst_/stream_1_1bda7@xienHD/playlist.m3u8
-#EXTINF:-1 tvg-id="156" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/KbRWarRp-vsXl9GAU.png",14:00 Ngày 16/10 Denmark Open 2025 (1) [sân 2] Sd
+#EXTINF:-1 tvg-id="163" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/KbRWarRp-vsXl9GAU.png",14:00 Ngày 16/10 Denmark Open 2025 (1) [sân 2] Sd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179602324.akainu.xyz/XH7nCr1UFE2nwxeyGt6Jmw/Fv2lucGIbhPi2caWYvF5Lg/1760619253301/live/xienSD/playlist.m3u8
-#EXTINF:-1 tvg-id="157" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/KbRWarRp-vsXl9GAU.png",14:00 Ngày 16/10 Denmark Open 2025 (1) [sân 2] Fullhd
+#EXTINF:-1 tvg-id="164" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/KbRWarRp-vsXl9GAU.png",14:00 Ngày 16/10 Denmark Open 2025 (1) [sân 2] Fullhd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://live-vipxlvb.nsnd.live/hdbbqSfIWcE64RUvT05y9Q/cac03b136a8c356be180b4618c6bfeb5/1760619253/live/_definst_/stream_1_1bda7@xienFHD/playlist.m3u8
-#EXTINF:-1 tvg-id="158" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/KbRWarRp-vsXl9GAU.png",14:00 Ngày 16/10 Denmark Open 2025 (1) [nhà đài] Sân 1
+#EXTINF:-1 tvg-id="165" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/KbRWarRp-vsXl9GAU.png",14:00 Ngày 16/10 Denmark Open 2025 (1) [nhà đài] Sân 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179026907.akainu.xyz/29uscaTQY2WmN_l_Lt4Nkg/Fv2lucGIbhPi2caWYvF5Lg/1760619253301/live/may21/playlist.m3u8
-#EXTINF:-1 tvg-id="159" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/KbRWarRp-vsXl9GAU.png",14:00 Ngày 16/10 Denmark Open 2025 (1) [nhà đài] Sân 2
+#EXTINF:-1 tvg-id="166" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/KbRWarRp-vsXl9GAU.png",14:00 Ngày 16/10 Denmark Open 2025 (1) [nhà đài] Sân 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179026907.akainu.xyz/Pyr2IE4eAbwcSuR74HccxA/Fv2lucGIbhPi2caWYvF5Lg/1760619253301/live/may24/playlist.m3u8
-#EXTINF:-1 tvg-id="160" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/KbRWarRp-vsXl9GAU.png",14:00 Ngày 16/10 Denmark Open 2025 (1) [nhà đài] Sân 3
+#EXTINF:-1 tvg-id="167" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/KbRWarRp-vsXl9GAU.png",14:00 Ngày 16/10 Denmark Open 2025 (1) [nhà đài] Sân 3
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179026907.akainu.xyz/hoc94K-bDSKu3pbiQ39OGg/Fv2lucGIbhPi2caWYvF5Lg/1760619253301/live/may241/playlist.m3u8
-#EXTINF:-1 tvg-id="161" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/basketball/team/af9d0a8374fb9658485eadbe1e224f4c.png",15:30 Ngày 16/10 Adelaide 36ers Vs South East Melbourne (1) [người Lửa] Hd Nhanh
+#EXTINF:-1 tvg-id="168" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/basketball/team/af9d0a8374fb9658485eadbe1e224f4c.png",15:30 Ngày 16/10 Adelaide 36ers Vs South East Melbourne (1) [người Lửa] Hd Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179536519.akainu.xyz/live/luaHD.flv?expire=1760625374&sign=7e260e7b561612d79e9bf95556f0930d
-#EXTINF:-1 tvg-id="162" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/basketball/team/af9d0a8374fb9658485eadbe1e224f4c.png",15:30 Ngày 16/10 Adelaide 36ers Vs South East Melbourne (1) [người Lửa] Hd1
+#EXTINF:-1 tvg-id="169" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/basketball/team/af9d0a8374fb9658485eadbe1e224f4c.png",15:30 Ngày 16/10 Adelaide 36ers Vs South East Melbourne (1) [người Lửa] Hd1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179266008.akainu.xyz/nlo9eoMIqpqGh-7Dw-3Iew/Fv2lucGIbhPi2caWYvF5Lg/1760625374232/live/luaHD/playlist.m3u8
-#EXTINF:-1 tvg-id="163" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/basketball/team/af9d0a8374fb9658485eadbe1e224f4c.png",15:30 Ngày 16/10 Adelaide 36ers Vs South East Melbourne (1) [người Lửa] Hd2
+#EXTINF:-1 tvg-id="170" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/basketball/team/af9d0a8374fb9658485eadbe1e224f4c.png",15:30 Ngày 16/10 Adelaide 36ers Vs South East Melbourne (1) [người Lửa] Hd2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://live-vipxlvb.nsnd.live/nSgDhy8WnFmFsTkckINkAg/9f8b38d400ef6d394f2d68b3096e00f1/1760625374/live/_definst_/stream_1_1bda7@luaHD/playlist.m3u8
-#EXTINF:-1 tvg-id="164" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/basketball/team/af9d0a8374fb9658485eadbe1e224f4c.png",15:30 Ngày 16/10 Adelaide 36ers Vs South East Melbourne (1) [người Lửa] Sd
+#EXTINF:-1 tvg-id="171" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/basketball/team/af9d0a8374fb9658485eadbe1e224f4c.png",15:30 Ngày 16/10 Adelaide 36ers Vs South East Melbourne (1) [người Lửa] Sd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179602324.akainu.xyz/vWg3mPMnmS_vcSdlNeI0sQ/Fv2lucGIbhPi2caWYvF5Lg/1760625374232/live/luaSD/playlist.m3u8
-#EXTINF:-1 tvg-id="165" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/basketball/team/af9d0a8374fb9658485eadbe1e224f4c.png",15:30 Ngày 16/10 Adelaide 36ers Vs South East Melbourne (1) [người Lửa] Fullhd
+#EXTINF:-1 tvg-id="172" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/basketball/team/af9d0a8374fb9658485eadbe1e224f4c.png",15:30 Ngày 16/10 Adelaide 36ers Vs South East Melbourne (1) [người Lửa] Fullhd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://live-vipxlvb.nsnd.live/j6DO1qiKRs3SK5Lr4FFVqA/74b8773ecaa9df430432c2bf2b6bd9e0/1760625374/live/_definst_/stream_1_1bda7@luaFHD/playlist.m3u8
-#EXTINF:-1 tvg-id="166" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/bc79ef21e5d110f08db77b2f05e39a2a.png",15:40 Ngày 16/10 Adam Walton Vs Daniil Medvedev (1) [mèo ú] Hd Nhanh
+#EXTINF:-1 tvg-id="173" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/bc79ef21e5d110f08db77b2f05e39a2a.png",15:40 Ngày 16/10 Adam Walton Vs Daniil Medvedev (1) [mèo ú] Hd Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179536519.akainu.xyz/live/Z2HD.flv?expire=1760625378&sign=94294db532c2ee215ba7aab64aa08fb3
-#EXTINF:-1 tvg-id="167" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/bc79ef21e5d110f08db77b2f05e39a2a.png",15:40 Ngày 16/10 Adam Walton Vs Daniil Medvedev (1) [mèo ú] Hd1
+#EXTINF:-1 tvg-id="174" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/bc79ef21e5d110f08db77b2f05e39a2a.png",15:40 Ngày 16/10 Adam Walton Vs Daniil Medvedev (1) [mèo ú] Hd1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179266008.akainu.xyz/MLlsRAugrEgWvuTiiJAjVg/Fv2lucGIbhPi2caWYvF5Lg/1760625378211/live/Z2HD/playlist.m3u8
-#EXTINF:-1 tvg-id="168" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/bc79ef21e5d110f08db77b2f05e39a2a.png",15:40 Ngày 16/10 Adam Walton Vs Daniil Medvedev (1) [mèo ú] Hd2
+#EXTINF:-1 tvg-id="175" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/bc79ef21e5d110f08db77b2f05e39a2a.png",15:40 Ngày 16/10 Adam Walton Vs Daniil Medvedev (1) [mèo ú] Hd2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://live-vipxlvb.nsnd.live/ujWAioJ_T1C6XU9x4d8rvw/d8575e4f2bb7991d6a11b5e422c908f2/1760625378/live/_definst_/stream_1_1bda7@Z2HD/playlist.m3u8
-#EXTINF:-1 tvg-id="169" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/bc79ef21e5d110f08db77b2f05e39a2a.png",15:40 Ngày 16/10 Adam Walton Vs Daniil Medvedev (1) [mèo ú] Sd
+#EXTINF:-1 tvg-id="176" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/bc79ef21e5d110f08db77b2f05e39a2a.png",15:40 Ngày 16/10 Adam Walton Vs Daniil Medvedev (1) [mèo ú] Sd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179602324.akainu.xyz/mMwWTev1uYi_ky7dN672rw/Fv2lucGIbhPi2caWYvF5Lg/1760625378211/live/Z2SD/playlist.m3u8
-#EXTINF:-1 tvg-id="170" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/bc79ef21e5d110f08db77b2f05e39a2a.png",15:40 Ngày 16/10 Adam Walton Vs Daniil Medvedev (1) [mèo ú] Fullhd
+#EXTINF:-1 tvg-id="177" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/bc79ef21e5d110f08db77b2f05e39a2a.png",15:40 Ngày 16/10 Adam Walton Vs Daniil Medvedev (1) [mèo ú] Fullhd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://live-vipxlvb.nsnd.live/2VFfRBH1xiPdn5XSc8lFwg/2f5c86e8dcb258706feb1f79081dd77d/1760625378/live/_definst_/stream_1_1bda7@Z2FHD/playlist.m3u8
-#EXTINF:-1 tvg-id="171" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/0dca575777aa5916970b07baaa9517d7.png",15:50 Ngày 16/10 Ekaterina Alexandrova Vs Yuan Yue (1) [người Cồn] Hd Nhanh
+#EXTINF:-1 tvg-id="178" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/0dca575777aa5916970b07baaa9517d7.png",15:50 Ngày 16/10 Ekaterina Alexandrova Vs Yuan Yue (1) [người Cồn] Hd Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179536519.akainu.xyz/live/conHD.flv?expire=1760625376&sign=0a6100be6a4fd4da49500cd329ad8557
-#EXTINF:-1 tvg-id="172" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/0dca575777aa5916970b07baaa9517d7.png",15:50 Ngày 16/10 Ekaterina Alexandrova Vs Yuan Yue (1) [người Cồn] Hd1
+#EXTINF:-1 tvg-id="179" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/0dca575777aa5916970b07baaa9517d7.png",15:50 Ngày 16/10 Ekaterina Alexandrova Vs Yuan Yue (1) [người Cồn] Hd1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179266008.akainu.xyz/0_Ql7e4jaAKZa2aSZqi_ww/Fv2lucGIbhPi2caWYvF5Lg/1760625376237/live/conHD/playlist.m3u8
-#EXTINF:-1 tvg-id="173" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/0dca575777aa5916970b07baaa9517d7.png",15:50 Ngày 16/10 Ekaterina Alexandrova Vs Yuan Yue (1) [người Cồn] Hd2
+#EXTINF:-1 tvg-id="180" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/0dca575777aa5916970b07baaa9517d7.png",15:50 Ngày 16/10 Ekaterina Alexandrova Vs Yuan Yue (1) [người Cồn] Hd2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://live-vipxlvb.nsnd.live/1HhGnFNStfcKydFxulXaoQ/2506a4c9a49d6a20c02208f6ddb30434/1760625376/live/_definst_/stream_1_1bda7@conHD/playlist.m3u8
-#EXTINF:-1 tvg-id="174" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/0dca575777aa5916970b07baaa9517d7.png",15:50 Ngày 16/10 Ekaterina Alexandrova Vs Yuan Yue (1) [người Cồn] Sd
+#EXTINF:-1 tvg-id="181" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/0dca575777aa5916970b07baaa9517d7.png",15:50 Ngày 16/10 Ekaterina Alexandrova Vs Yuan Yue (1) [người Cồn] Sd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179602324.akainu.xyz/a_ZhnNncfKB8VxJHbULcDw/Fv2lucGIbhPi2caWYvF5Lg/1760625376237/live/conSD/playlist.m3u8
-#EXTINF:-1 tvg-id="175" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/0dca575777aa5916970b07baaa9517d7.png",15:50 Ngày 16/10 Ekaterina Alexandrova Vs Yuan Yue (1) [người Cồn] Fullhd
+#EXTINF:-1 tvg-id="182" group-title="10cam 🔥" tvg-logo="https://img.thesports.com/v2/team/0dca575777aa5916970b07baaa9517d7.png",15:50 Ngày 16/10 Ekaterina Alexandrova Vs Yuan Yue (1) [người Cồn] Fullhd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://live-vipxlvb.nsnd.live/n3XZzlWUCjZDyCmS6-WMeA/7135f49323c9408d9b4f4a596ce26852/1760625376/live/_definst_/stream_1_1bda7@conFHD/playlist.m3u8
-#EXTINF:-1 tvg-id="176" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/bHjeunRp-S6P2tkLb.png",09:30 Ngày 16/10 Wta250 Osaka Open (1) [nhà đài] Sân Trung Tâm
+#EXTINF:-1 tvg-id="183" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/bHjeunRp-S6P2tkLb.png",09:30 Ngày 16/10 Wta250 Osaka Open (1) [nhà đài] Sân Trung Tâm
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/USvyBiOGrqybOrZ52hB00g/Fv2lucGIbhPi2caWYvF5Lg/1760628976918/live/may27/playlist.m3u8
-#EXTINF:-1 tvg-id="177" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/bHjeunRp-S6P2tkLb.png",09:30 Ngày 16/10 Wta250 Osaka Open (1) [nhà đài] Sân 1
+https://hotlivezz179026907.akainu.xyz/EdAhzejjh96VUNdJnEQClQ/Fv2lucGIbhPi2caWYvF5Lg/1760630055355/live/may27/playlist.m3u8
+#EXTINF:-1 tvg-id="184" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/bHjeunRp-S6P2tkLb.png",09:30 Ngày 16/10 Wta250 Osaka Open (1) [nhà đài] Sân 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/m1uHDBT3KEC-EhEFCeZtOw/Fv2lucGIbhPi2caWYvF5Lg/1760628976918/live/may271/playlist.m3u8
-#EXTINF:-1 tvg-id="178" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/xOk2ZxB7-4rmnJNSH.png",12:00 Ngày 16/10 Wta500 Ningbo Open (1) [nhà đài] Sân Trung Tâm
+https://hotlivezz179026907.akainu.xyz/Ajdu-zcGne_ZX6uMQMusKQ/Fv2lucGIbhPi2caWYvF5Lg/1760630055355/live/may271/playlist.m3u8
+#EXTINF:-1 tvg-id="185" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/xOk2ZxB7-4rmnJNSH.png",12:00 Ngày 16/10 Wta500 Ningbo Open (1) [nhà đài] Sân Trung Tâm
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/a1kmevmxXQZzvVd7bGauwg/Fv2lucGIbhPi2caWYvF5Lg/1760628978810/live/may28/playlist.m3u8
-#EXTINF:-1 tvg-id="179" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/xOk2ZxB7-4rmnJNSH.png",12:00 Ngày 16/10 Wta500 Ningbo Open (1) [nhà đài] Grandstand
+https://hotlivezz179026907.akainu.xyz/kSjQhukAajTakWf6Hiofnw/Fv2lucGIbhPi2caWYvF5Lg/1760630057202/live/may28/playlist.m3u8
+#EXTINF:-1 tvg-id="186" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/xOk2ZxB7-4rmnJNSH.png",12:00 Ngày 16/10 Wta500 Ningbo Open (1) [nhà đài] Grandstand
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/yDch7XibIl4wXAGjTZSm-w/Fv2lucGIbhPi2caWYvF5Lg/1760628978810/live/may281/playlist.m3u8
-#EXTINF:-1 tvg-id="180" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/Qi4teG8j-nydsW1al.png",13:00 Ngày 16/10 Atp250 Almaty Open (1) [nhà đài] Hd
+https://hotlivezz179026907.akainu.xyz/hRyxNlVM0SwvfcB_L1Y15w/Fv2lucGIbhPi2caWYvF5Lg/1760630057202/live/may281/playlist.m3u8
+#EXTINF:-1 tvg-id="187" group-title="10cam 🔥" tvg-logo="https://static.flashscore.com/res/image/data/Qi4teG8j-nydsW1al.png",13:00 Ngày 16/10 Atp250 Almaty Open (1) [nhà đài] Hd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/fbAbC6i9we4bFkm_VRU3qA/Fv2lucGIbhPi2caWYvF5Lg/1760628980556/live/may25/playlist.m3u8
-#EXTINF:-1 tvg-id="181" group-title="Hội Quán 🔥" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Gen.G_logo.png",17h00 Ngày 16.10 Gen Vs Al (hội Quán) Blv Phan Ca Full Hd
+https://hotlivezz179026907.akainu.xyz/zZf7JngIbPWqsRvTq22r5Q/Fv2lucGIbhPi2caWYvF5Lg/1760630058555/live/may25/playlist.m3u8
+#EXTINF:-1 tvg-id="188" group-title="Hội Quán 🔥" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Gen.G_logo.png",17h00 Ngày 16.10 Gen Vs Al (hội Quán) Blv Phan Ca Full Hd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
-#EXTINF:-1 tvg-id="182" group-title="Hội Quán 🔥" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Gen.G_logo.png",17h00 Ngày 16.10 Gen Vs Al (hội Quán) Blv Phan Ca Hd
+#EXTINF:-1 tvg-id="189" group-title="Hội Quán 🔥" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Gen.G_logo.png",17h00 Ngày 16.10 Gen Vs Al (hội Quán) Blv Phan Ca Hd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-id="183" group-title="Hội Quán 🔥" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Gen.G_logo.png",17h00 Ngày 16.10 Gen Vs Al (hội Quán) Blv Phan Ca Sd
+#EXTINF:-1 tvg-id="190" group-title="Hội Quán 🔥" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Gen.G_logo.png",17h00 Ngày 16.10 Gen Vs Al (hội Quán) Blv Phan Ca Sd
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="184" group-title="Mãn Nhãn 🔥" tvg-logo="https://ygnutd.com/wp-content/uploads/2016/04/ISPE.png",16:00 Ngày 10/16 Ispe Fc Vs Yangon United (mãn Nhãn) Sd 2
+#EXTINF:-1 tvg-id="191" group-title="Mãn Nhãn 🔥" tvg-logo="https://ygnutd.com/wp-content/uploads/2016/04/ISPE.png",16:00 Ngày 10/16 Ispe Fc Vs Yangon United (mãn Nhãn) Sd 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://saoke.cdn.khmer-hd.com/x11y11/playlist.m3u8
-#EXTINF:-1 tvg-id="185" group-title="Mãn Nhãn 🔥" tvg-logo="https://ygnutd.com/wp-content/uploads/2016/04/ISPE.png",16:00 Ngày 10/16 Ispe Fc Vs Yangon United (mãn Nhãn) Sd 2
+#EXTINF:-1 tvg-id="192" group-title="Mãn Nhãn 🔥" tvg-logo="https://ygnutd.com/wp-content/uploads/2016/04/ISPE.png",16:00 Ngày 10/16 Ispe Fc Vs Yangon United (mãn Nhãn) Sd 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://wtyi0525.edgemaxcdn.org/live/x11y3-0367/playlist.m3u8
-#EXTINF:-1 tvg-id="186" group-title="Mãn Nhãn 🔥" tvg-logo="https://ygnutd.com/wp-content/uploads/2016/04/ISPE.png",16:00 Ngày 10/16 Ispe Fc Vs Yangon United (mãn Nhãn) Hd 3
+#EXTINF:-1 tvg-id="193" group-title="Mãn Nhãn 🔥" tvg-logo="https://ygnutd.com/wp-content/uploads/2016/04/ISPE.png",16:00 Ngày 10/16 Ispe Fc Vs Yangon United (mãn Nhãn) Hd 3
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://stm6dad71710204.stream.hdplaylink.com/sklive/x11y2/playlist.m3u8
-#EXTINF:-1 tvg-id="187" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YjY1NDc1YjAzZjYtMzJhMQ/ZmZmYjg0NTM4ZGQtZDZiYQ.png",Nbl Adelaide Vs South East Melbourne Blv Cozy (colalive) Flv
+#EXTINF:-1 tvg-id="194" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YjY1NDc1YjAzZjYtMzJhMQ/ZmZmYjg0NTM4ZGQtZDZiYQ.png",Nbl Adelaide Vs South East Melbourne Blv Cozy (colalive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh4.app/live/87379114.flv
-#EXTINF:-1 tvg-id="188" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YjY1NDc1YjAzZjYtMzJhMQ/ZmZmYjg0NTM4ZGQtZDZiYQ.png",Nbl Adelaide Vs South East Melbourne Blv Cozy (colalive) M3u8
+#EXTINF:-1 tvg-id="195" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YjY1NDc1YjAzZjYtMzJhMQ/ZmZmYjg0NTM4ZGQtZDZiYQ.png",Nbl Adelaide Vs South East Melbourne Blv Cozy (colalive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh4.app/live/87379114.m3u8
-#EXTINF:-1 tvg-id="189" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/N2UxZmZhNmJmMDYtOGE2Yw/MDdlOWVlZGYyYTktZDcxNw.png",Kbl Wonju Db Vs Kcc Egis Blv Rockstar (colalive) Flv
+#EXTINF:-1 tvg-id="196" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/N2UxZmZhNmJmMDYtOGE2Yw/MDdlOWVlZGYyYTktZDcxNw.png",Kbl Wonju Db Vs Kcc Egis Blv Rockstar (colalive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh4.app/live/82054853.flv
-#EXTINF:-1 tvg-id="190" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/N2UxZmZhNmJmMDYtOGE2Yw/MDdlOWVlZGYyYTktZDcxNw.png",Kbl Wonju Db Vs Kcc Egis Blv Rockstar (colalive) M3u8
+#EXTINF:-1 tvg-id="197" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/N2UxZmZhNmJmMDYtOGE2Yw/MDdlOWVlZGYyYTktZDcxNw.png",Kbl Wonju Db Vs Kcc Egis Blv Rockstar (colalive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh4.app/live/82054853.m3u8
-#EXTINF:-1 tvg-id="191" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MTQ5NzVlNmU0MTAtNjIyMg/MmQxZDdkN2JjY2EtZTc0Mg.png",Vsbet - Thể Thao Hàng đầu đối Tác Vsbet (colalive) Flv
+#EXTINF:-1 tvg-id="198" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MTQ5NzVlNmU0MTAtNjIyMg/MmQxZDdkN2JjY2EtZTc0Mg.png",Vsbet - Thể Thao Hàng đầu đối Tác Vsbet (colalive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh4.app/live/36669975.flv
-#EXTINF:-1 tvg-id="192" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MTQ5NzVlNmU0MTAtNjIyMg/MmQxZDdkN2JjY2EtZTc0Mg.png",Vsbet - Thể Thao Hàng đầu đối Tác Vsbet (colalive) M3u8
+#EXTINF:-1 tvg-id="199" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MTQ5NzVlNmU0MTAtNjIyMg/MmQxZDdkN2JjY2EtZTc0Mg.png",Vsbet - Thể Thao Hàng đầu đối Tác Vsbet (colalive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh4.app/live/36669975.m3u8
-#EXTINF:-1 tvg-id="193" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YWE4YjdjMzljNGItMjFlYQ/M2NhZTI3MWJkZDAtNjBjNg.jpg",Xóc Dĩa Xóc Dĩa (colalive) Flv
+#EXTINF:-1 tvg-id="200" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YWE4YjdjMzljNGItMjFlYQ/M2NhZTI3MWJkZDAtNjBjNg.jpg",Xóc Dĩa Xóc Dĩa (colalive) Flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh4.app/live/26250293.flv
-#EXTINF:-1 tvg-id="194" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YWE4YjdjMzljNGItMjFlYQ/M2NhZTI3MWJkZDAtNjBjNg.jpg",Xóc Dĩa Xóc Dĩa (colalive) M3u8
+#EXTINF:-1 tvg-id="201" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YWE4YjdjMzljNGItMjFlYQ/M2NhZTI3MWJkZDAtNjBjNg.jpg",Xóc Dĩa Xóc Dĩa (colalive) M3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh4.app/live/26250293.m3u8
-#EXTINF:-1 tvg-id="195" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/403.png",23h30 16/10 Esbjerg Vs Hobro (blvtoptop) Tôm Mì
+#EXTINF:-1 tvg-id="202" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZWQ4YzAwNzY3NzgtNDcwMg/YzYxYTVjMDliNWItYmQ1MQ.jpg",Colatv- Hướng Dẫn đăng Ký Colatv- Hướng Dẫn đăng Ký (colalive) Flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.k8v4dh4.app/live/58139474.flv
+#EXTINF:-1 tvg-id="203" group-title="Colalive 🔥" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZWQ4YzAwNzY3NzgtNDcwMg/YzYxYTVjMDliNWItYmQ1MQ.jpg",Colatv- Hướng Dẫn đăng Ký Colatv- Hướng Dẫn đăng Ký (colalive) M3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.k8v4dh4.app/live/58139474.m3u8
+#EXTINF:-1 tvg-id="204" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/403.png",23h30 16/10 Esbjerg Vs Hobro (blvtoptop) Tôm Mì
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/384vepruzs/playlist.m3u8
-#EXTINF:-1 tvg-id="196" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1910.png",23h45 16/10 Atletico Madrid W Vs Manchester United W (blvtoptop) Chaien
+#EXTINF:-1 tvg-id="205" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1910.png",23h45 16/10 Atletico Madrid W Vs Manchester United W (blvtoptop) Chaien
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/yql97itgbl/playlist.m3u8
-#EXTINF:-1 tvg-id="197" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/15495.png",02h00 17/10 Sl Benfica Vs Arsenal W (blvtoptop) Adam
+#EXTINF:-1 tvg-id="206" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/15495.png",02h00 17/10 Sl Benfica Vs Arsenal W (blvtoptop) Adam
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/mjap0rrqv8/playlist.m3u8
-#EXTINF:-1 tvg-id="198" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1860.png",02h00 17/10 Bayern Munich W Vs Juventus W (blvtoptop) Lil Shady
+#EXTINF:-1 tvg-id="207" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1860.png",02h00 17/10 Bayern Munich W Vs Juventus W (blvtoptop) Lil Shady
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/6cjd6zf2ny/playlist.m3u8
-#EXTINF:-1 tvg-id="199" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1667.png",02h00 17/10 Paris Saint Germain W Vs Real Madrid W (blvtoptop) Bed
+#EXTINF:-1 tvg-id="208" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/1667.png",02h00 17/10 Paris Saint Germain W Vs Real Madrid W (blvtoptop) Bed
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/aklh087186/playlist.m3u8
-#EXTINF:-1 tvg-id="200" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/26603.png",16h00 17/10 Văn Hiến Vs Dong Thap (blvtoptop) Tôm Mì
+#EXTINF:-1 tvg-id="209" group-title="Blvtoptop 🔥" tvg-logo="https://media.api-sports.io/football/teams/26603.png",16h00 17/10 Văn Hiến Vs Dong Thap (blvtoptop) Tôm Mì
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/384vepruzs/playlist.m3u8
-#EXTINF:-1 tvg-id="201" group-title="Blvtoptop 🔥" tvg-logo="https://sf-static.upanhlaylink.com/img/image_2025101660c0b92c466007ae86e2dda10861752d.jpg",16h00 17/10 Việt Nam W U17 Vs Hong Kong W U17 (blvtoptop) Chaien
+#EXTINF:-1 tvg-id="210" group-title="Blvtoptop 🔥" tvg-logo="https://sf-static.upanhlaylink.com/img/image_2025101660c0b92c466007ae86e2dda10861752d.jpg",16h00 17/10 Việt Nam W U17 Vs Hong Kong W U17 (blvtoptop) Chaien
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/yql97itgbl/playlist.m3u8
