@@ -1,81 +1,404 @@
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>404 Not Found</title>
-</head><body>
-<h1>Not Found</h1>
-<p>The requested URL was not found on this server.</p>
-<hr>
-<address>Apache Server at xem.hoiquan.click Port 443</address>
-</body></html>
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>404 Not Found</title>
-</head><body>
-<h1>Not Found</h1>
-<p>The requested URL was not found on this server.</p>
-<hr>
-<address>Apache Server at xem.hoiquan.click Port 443</address>
-</body></html>
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>404 Not Found</title>
-</head><body>
-<h1>Not Found</h1>
-<p>The requested URL was not found on this server.</p>
-<hr>
-<address>Apache Server at xem.hoiquan.click Port 443</address>
-</body></html>
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>404 Not Found</title>
-</head><body>
-<h1>Not Found</h1>
-<p>The requested URL was not found on this server.</p>
-<hr>
-<address>Apache Server at xem.hoiquan.click Port 443</address>
-</body></html>
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>404 Not Found</title>
-</head><body>
-<h1>Not Found</h1>
-<p>The requested URL was not found on this server.</p>
-<hr>
-<address>Apache Server at xem.hoiquan.click Port 443</address>
-</body></html>
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>404 Not Found</title>
-</head><body>
-<h1>Not Found</h1>
-<p>The requested URL was not found on this server.</p>
-<hr>
-<address>Apache Server at xem.hoiquan.click Port 443</address>
-</body></html>
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>404 Not Found</title>
-</head><body>
-<h1>Not Found</h1>
-<p>The requested URL was not found on this server.</p>
-<hr>
-<address>Apache Server at xem.hoiquan.click Port 443</address>
-</body></html>
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>404 Not Found</title>
-</head><body>
-<h1>Not Found</h1>
-<p>The requested URL was not found on this server.</p>
-<hr>
-<address>Apache Server at xem.hoiquan.click Port 443</address>
-</body></html>
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>404 Not Found</title>
-</head><body>
-<h1>Not Found</h1>
-<p>The requested URL was not found on this server.</p>
-<hr>
-<address>Apache Server at xem.hoiquan.click Port 443</address>
-</body></html>
+#EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml"
+
+
+#Thông Báo: Nhóm vừa bị Phá Hoại, rất Xin Lỗi mọi người. vui lòng vào nhóm lại với Link mới.
+
+
+#Đây là kênh tổng hợp của các kênh TV iptv trên mạng xã hội, Admin không phải tác giả của những kênh này, do đó không chịu trách nhiệm về bất cứ điều gì dưới mọi hình thức
+
+#Tuyệt đối 100% không thu phí hay có bất kì hình thức thu tiền của mọi người
+
+#Link nhóm Zalo Hội Quán CLICK: https://zalo.me/g/iytapv300
+
+#EXTINF:-1 tvg-id="vtv1-hd" group-title="Kênh VTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtv1-hd/KenhCoBan",VTV1 HD
+https://xem.hoiquan.Click/CoBan/vtv1-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtv2-hd" group-title="Kênh VTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtv2-hd/KenhCoBan",VTV2 HD
+https://xem.hoiquan.Click/CoBan/vtv2-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtv3-hd" group-title="Kênh VTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtv3-hd/KenhCoBan",VTV3 HD
+https://xem.hoiquan.Click/CoBan/vtv3-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtv4-hd" group-title="Kênh VTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtv4-hd/KenhCoBan",VTV4 HD
+https://xem.hoiquan.Click/CoBan/vtv4-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtv5-hd" group-title="Kênh VTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtv5-hd/KenhCoBan",VTV5 HD
+https://xem.hoiquan.Click/CoBan/vtv5-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtv5-tay-nguyen" group-title="Kênh VTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtv5-tay-nguyen/KenhCoBan",VTV5 Tây Nguyên
+https://xem.hoiquan.Click/CoBan/vtv5-tay-nguyen/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtv5-tay-nam-bo" group-title="Kênh VTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtv5-tay-nam-bo/KenhCoBan",VTV5 Tây Nam Bộ
+https://xem.hoiquan.Click/CoBan/vtv5-tay-nam-bo/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtv-can-tho" group-title="Kênh VTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtv-can-tho/KenhCoBan",VTV Cần Thơ HD
+https://xem.hoiquan.Click/CoBan/vtv-can-tho/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtv7-hd" group-title="Kênh VTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtv7-hd/KenhCoBan",VTV7 HD
+https://xem.hoiquan.Click/CoBan/vtv7-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtv8-hd" group-title="Kênh VTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtv8-hd/KenhCoBan",VTV8 HD
+https://xem.hoiquan.Click/CoBan/vtv8-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtv9-hd" group-title="Kênh VTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtv9-hd/KenhCoBan",VTV9 HD
+https://xem.hoiquan.Click/CoBan/vtv9-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="antv" group-title="Kênh thiết yếu" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/antv/KenhCoBan",ANTV
+https://xem.hoiquan.Click/CoBan/antv/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="qpvn-hd" group-title="Kênh thiết yếu" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/qpvn-hd/KenhCoBan",QPVN HD
+https://xem.hoiquan.Click/CoBan/qpvn-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtvcab-1-vie-giai-tri-hd" group-title="VTV Cab" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtvcab-1-vie-giai-tri-hd/KenhCoBan",VTVcab 1 - Vie Giải Trí HD
+https://xem.hoiquan.Click/CoBan/vtvcab-1-vie-giai-tri-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtvcab-2-phim-viet-hd" group-title="VTV Cab" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtvcab-2-phim-viet-hd/KenhCoBan",VTVcab 2 - Phim Việt HD
+https://xem.hoiquan.Click/CoBan/vtvcab-2-phim-viet-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtvcab10-on-cine-hd" group-title="VTV Cab" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtvcab10-on-cine-hd/KenhCoBan",VTVcab10 - On Cine HD
+https://xem.hoiquan.Click/CoBan/vtvcab10-on-cine-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtvcab19-vie-dramas" group-title="VTV Cab" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtvcab19-vie-dramas/KenhCoBan",VTVcab19 – Vie Dramas
+https://xem.hoiquan.Click/CoBan/vtvcab19-vie-dramas/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtvcab-8-bi-bi-sd" group-title="VTV Cab" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtvcab-8-bi-bi-sd/KenhCoBan",VTVcab 8 Bibi SD
+https://xem.hoiquan.Click/CoBan/vtvcab-8-bi-bi-sd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtvcab-21-cartoon-kids-hd" group-title="VTV Cab" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtvcab-21-cartoon-kids-hd/KenhCoBan",VTVcab 21- Cartoon Kids HD
+https://xem.hoiquan.Click/CoBan/vtvcab-21-cartoon-kids-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtvcab-4-on-movies" group-title="VTV Cab" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtvcab-4-on-movies/KenhCoBan",Vtvcab 4 – On Movies
+https://xem.hoiquan.Click/CoBan/vtvcab-4-on-movies/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtvcab-5-e-channel-hd" group-title="VTV Cab" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtvcab-5-e-channel-hd/KenhCoBan",VTVcab 5 - E Channel HD
+https://xem.hoiquan.Click/CoBan/vtvcab-5-e-channel-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtvcab-12-styletv-hd" group-title="VTV Cab" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtvcab-12-styletv-hd/KenhCoBan",VTVcab 12 - StyleTV HD
+https://xem.hoiquan.Click/CoBan/vtvcab-12-styletv-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtvcab15-on-music" group-title="VTV Cab" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtvcab15-on-music/KenhCoBan",VTVcab15 – On Music
+https://xem.hoiquan.Click/CoBan/vtvcab15-on-music/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtvcab17-trending-tv" group-title="VTV Cab" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtvcab17-trending-tv/KenhCoBan",Vtvcab17 – Trending TV
+https://xem.hoiquan.Click/CoBan/vtvcab17-trending-tv/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtvcab-20-v-family-hd" group-title="VTV Cab" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtvcab-20-v-family-hd/KenhCoBan",VTVcab 20 - V Family HD
+https://xem.hoiquan.Click/CoBan/vtvcab-20-v-family-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtvcab-22-life-tv-hd" group-title="VTV Cab" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtvcab-22-life-tv-hd/KenhCoBan",VTVcab 22 - Life TV HD
+https://xem.hoiquan.Click/CoBan/vtvcab-22-life-tv-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtvcab-23-golf-channel" group-title="VTV Cab" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtvcab-23-golf-channel/KenhCoBan",VTVcab 23 - Golf Channel(Kênh VTV Cab)
+https://xem.hoiquan.Click/CoBan/vtvcab-23-golf-channel/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtvcab-9-infotv-hd" group-title="VTV Cab" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtvcab-9-infotv-hd/KenhCoBan",VTVcab 9 - InfoTV HD
+https://xem.hoiquan.Click/CoBan/vtvcab-9-infotv-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtvcab13-on-homeshopping" group-title="VTV Cab" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtvcab13-on-homeshopping/KenhCoBan",VTVcab13-On Homeshopping
+https://xem.hoiquan.Click/CoBan/vtvcab13-on-homeshopping/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="o2tv" group-title="VTV Cab" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/o2tv/KenhCoBan",O2TV
+https://xem.hoiquan.Click/CoBan/o2tv/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="an-vien-hd" group-title="VTV Cab" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/an-vien-hd/KenhCoBan",An Viên HD
+https://xem.hoiquan.Click/CoBan/an-vien-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="box-hits" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/box-hits/KenhCoBan",Box Hits
+https://xem.hoiquan.Click/CoBan/box-hits/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="box-movie-1-hd" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/box-movie-1-hd/KenhCoBan",Box Movie 1 HD
+https://xem.hoiquan.Click/CoBan/box-movie-1-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="hollywood-classic-hd" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/hollywood-classic-hd/KenhCoBan",Hollywood Classic HD
+https://xem.hoiquan.Click/CoBan/hollywood-classic-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="in-the-box" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/in-the-box/KenhCoBan",In The Box
+https://xem.hoiquan.Click/CoBan/in-the-box/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="happy-kids-hd" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/happy-kids-hd/KenhCoBan",Happy Kids HD
+https://xem.hoiquan.Click/CoBan/happy-kids-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="woman-hd" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/woman-hd/KenhCoBan",Woman HD
+https://xem.hoiquan.Click/CoBan/woman-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="man" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/man/KenhCoBan",Man
+https://xem.hoiquan.Click/CoBan/man/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="planet-earth-hd" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/planet-earth-hd/KenhCoBan",Planet Earth HD
+https://xem.hoiquan.Click/CoBan/planet-earth-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="dr-fit-hd" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/dr-fit-hd/KenhCoBan",Dr Fit HD
+https://xem.hoiquan.Click/CoBan/dr-fit-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="music-box" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/music-box/KenhCoBan",Music box
+https://xem.hoiquan.Click/CoBan/music-box/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="outdoor-hd" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/outdoor-hd/KenhCoBan",Outdoor HD
+https://xem.hoiquan.Click/CoBan/outdoor-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="channel-news-asia" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/channel-news-asia/KenhCoBan",Channel News Asia
+https://xem.hoiquan.Click/CoBan/channel-news-asia/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="afn-hd" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/afn-hd/KenhCoBan",AFN HD
+https://xem.hoiquan.Click/CoBan/afn-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="hgtv" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/hgtv/KenhCoBan",HGTV
+https://xem.hoiquan.Click/CoBan/hgtv/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="kbs-world" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/kbs-world/KenhCoBan",KBS World
+https://xem.hoiquan.Click/CoBan/kbs-world/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="dw" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/dw/KenhCoBan",DW
+https://xem.hoiquan.Click/CoBan/dw/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="nhk" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/nhk/KenhCoBan",NHK
+https://xem.hoiquan.Click/CoBan/nhk/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="france-24" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/france-24/KenhCoBan",France 24
+https://xem.hoiquan.Click/CoBan/france-24/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="tv5" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/tv5/KenhCoBan",TV5
+https://xem.hoiquan.Click/CoBan/tv5/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="cnbc-sd" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/cnbc-sd/KenhCoBan",CNBC SD
+https://xem.hoiquan.Click/CoBan/cnbc-sd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="history-hd" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/history-hd/KenhCoBan",History HD
+https://xem.hoiquan.Click/CoBan/history-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="kix" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/kix/KenhCoBan",Kix
+https://xem.hoiquan.Click/CoBan/kix/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="arirang" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/arirang/KenhCoBan",Arirang
+https://xem.hoiquan.Click/CoBan/arirang/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="davinci-hd" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/davinci-hd/KenhCoBan",DaVinci HD
+https://xem.hoiquan.Click/CoBan/davinci-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="htv1" group-title="Kênh HTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/htv1/KenhCoBan",HTV1
+https://xem.hoiquan.Click/CoBan/htv1/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="htv2" group-title="Kênh HTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/htv2/KenhCoBan",HTV2
+https://xem.hoiquan.Click/CoBan/htv2/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="htv3" group-title="Kênh HTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/htv3/KenhCoBan",HTV3
+https://xem.hoiquan.Click/CoBan/htv3/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="htv4" group-title="Kênh HTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/htv4/KenhCoBan",HTV4
+https://xem.hoiquan.Click/CoBan/htv4/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="htv7-hd" group-title="Kênh HTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/htv7-hd/KenhCoBan",HTV7 HD
+https://xem.hoiquan.Click/CoBan/htv7-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="htv9-hd" group-title="Kênh HTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/htv9-hd/KenhCoBan",HTV9 HD
+https://xem.hoiquan.Click/CoBan/htv9-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="htv-the-thao" group-title="Kênh HTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/htv-the-thao/KenhCoBan",HTV Thể Thao
+https://xem.hoiquan.Click/CoBan/htv-the-thao/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="htvc-gia-dinh" group-title="Kênh HTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/htvc-gia-dinh/KenhCoBan",HTVC gia đình
+https://xem.hoiquan.Click/CoBan/htvc-gia-dinh/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="htvc-phu-nu" group-title="Kênh HTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/htvc-phu-nu/KenhCoBan",HTVC phụ Nữ
+https://xem.hoiquan.Click/CoBan/htvc-phu-nu/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="htvc-thuan-viet" group-title="Kênh HTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/htvc-thuan-viet/KenhCoBan",HTVC thuần việt
+https://xem.hoiquan.Click/CoBan/htvc-thuan-viet/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="htvc-phim-truyen-hd" group-title="Kênh HTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/htvc-phim-truyen-hd/KenhCoBan",HTVC phim truyện HD
+https://xem.hoiquan.Click/CoBan/htvc-phim-truyen-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="htvc-ca-nhac" group-title="Kênh HTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/htvc-ca-nhac/KenhCoBan",HTVC ca nhạc
+https://xem.hoiquan.Click/CoBan/htvc-ca-nhac/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="htvc" group-title="Kênh HTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/htvc/KenhCoBan",HTVC+ Channel B
+https://xem.hoiquan.Click/CoBan/htvc/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="htvc-du-lich-cuoc-song" group-title="Kênh HTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/htvc-du-lich-cuoc-song/KenhCoBan",HTVC du lịch & cuộc sống
+https://xem.hoiquan.Click/CoBan/htvc-du-lich-cuoc-song/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vinh-long-1" group-title="Kênh Vĩnh Long" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vinh-long-1/KenhCoBan",Vĩnh Long 1
+https://xem.hoiquan.Click/CoBan/vinh-long-1/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vinh-long-2" group-title="Kênh Vĩnh Long" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vinh-long-2/KenhCoBan",Vĩnh Long 2
+https://xem.hoiquan.Click/CoBan/vinh-long-2/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vinh-long-3" group-title="Kênh Vĩnh Long" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vinh-long-3/KenhCoBan",Vĩnh Long 3
+https://xem.hoiquan.Click/CoBan/vinh-long-3/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vinh-long-4" group-title="Kênh Vĩnh Long" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vinh-long-4/KenhCoBan",Vĩnh Long 4
+https://xem.hoiquan.Click/CoBan/vinh-long-4/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="sctv6" group-title="Kênh SCTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/sctv6/KenhCoBan",SCTV6
+https://xem.hoiquan.Click/CoBan/sctv6/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="sctv2-today-tv" group-title="Kênh SCTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/sctv2-today-tv/KenhCoBan",SCTV2 - Today TV
+https://xem.hoiquan.Click/CoBan/sctv2-today-tv/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="qtv-3" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/qtv-3/KenhCoBan",QTV 3
+https://xem.hoiquan.Click/CoBan/qtv-3/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="hai-phong-plus" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/hai-phong-plus/KenhCoBan",Hải Phòng +
+https://xem.hoiquan.Click/CoBan/hai-phong-plus/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="ha-noi-1" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/ha-noi-1/KenhCoBan",Hà Nội 1
+https://xem.hoiquan.Click/CoBan/ha-noi-1/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="ha-noi-2" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/ha-noi-2/KenhCoBan",Hà Nội 2
+https://xem.hoiquan.Click/CoBan/ha-noi-2/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="an-giang" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/an-giang/KenhCoBan",An Giang
+https://xem.hoiquan.Click/CoBan/an-giang/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="bac-giang" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/bac-giang/KenhCoBan",Bắc Giang
+https://xem.hoiquan.Click/CoBan/bac-giang/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="youtv" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/youtv/KenhCoBan",YouTV
+https://xem.hoiquan.Click/CoBan/youtv/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="bac-kan" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/bac-kan/KenhCoBan",Bắc Kạn
+https://xem.hoiquan.Click/CoBan/bac-kan/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="hitv" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/hitv/KenhCoBan",HITV
+https://xem.hoiquan.Click/CoBan/hitv/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="bac-lieu" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/bac-lieu/KenhCoBan",Bạc Liêu
+https://xem.hoiquan.Click/CoBan/bac-lieu/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="bac-ninh" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/bac-ninh/KenhCoBan",Bắc Ninh
+https://xem.hoiquan.Click/CoBan/bac-ninh/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="ben-tre" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/ben-tre/KenhCoBan",Bến Tre
+https://xem.hoiquan.Click/CoBan/ben-tre/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="binh-dinh" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/binh-dinh/KenhCoBan",Bình Định
+https://xem.hoiquan.Click/CoBan/binh-dinh/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="btv1" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/btv1/KenhCoBan",BTV1
+https://xem.hoiquan.Click/CoBan/btv1/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="btv2" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/btv2/KenhCoBan",BTV2
+https://xem.hoiquan.Click/CoBan/btv2/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="binh-phuoc" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/binh-phuoc/KenhCoBan",Bình Phước
+https://xem.hoiquan.Click/CoBan/binh-phuoc/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="binh-thuan" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/binh-thuan/KenhCoBan",Bình Thuận
+https://xem.hoiquan.Click/CoBan/binh-thuan/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="ca-mau" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/ca-mau/KenhCoBan",Cà Mau
+https://xem.hoiquan.Click/CoBan/ca-mau/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="can-tho" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/can-tho/KenhCoBan",Cần Thơ 1
+https://xem.hoiquan.Click/CoBan/can-tho/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="hau-giang" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/hau-giang/KenhCoBan",Cần Thơ 2
+https://xem.hoiquan.Click/CoBan/hau-giang/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="soc-trang" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/soc-trang/KenhCoBan",Cần Thơ 1
+https://xem.hoiquan.Click/CoBan/soc-trang/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="cao-bang" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/cao-bang/KenhCoBan",Cao Bằng
+https://xem.hoiquan.Click/CoBan/cao-bang/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="da-nang" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/da-nang/KenhCoBan",Đà Nẵng
+https://xem.hoiquan.Click/CoBan/da-nang/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="dac-nong" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/dac-nong/KenhCoBan",Đắc Nông
+https://xem.hoiquan.Click/CoBan/dac-nong/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="dak-lak" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/dak-lak/KenhCoBan",Đắk Lắk
+https://xem.hoiquan.Click/CoBan/dak-lak/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="dien-bien" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/dien-bien/KenhCoBan",Điện Biên
+https://xem.hoiquan.Click/CoBan/dien-bien/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="nam-dinh" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/nam-dinh/KenhCoBan",Nam Định
+https://xem.hoiquan.Click/CoBan/nam-dinh/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="dong-nai" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/dong-nai/KenhCoBan",Đồng Nai
+https://xem.hoiquan.Click/CoBan/dong-nai/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="dong-thap" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/dong-thap/KenhCoBan",Đồng Tháp
+https://xem.hoiquan.Click/CoBan/dong-thap/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="gia-lai" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/gia-lai/KenhCoBan",Gia Lai
+https://xem.hoiquan.Click/CoBan/gia-lai/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="ha-giang" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/ha-giang/KenhCoBan",Hà Giang
+https://xem.hoiquan.Click/CoBan/ha-giang/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="ha-nam" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/ha-nam/KenhCoBan",Hà Nam
+https://xem.hoiquan.Click/CoBan/ha-nam/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="ha-tinh" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/ha-tinh/KenhCoBan",Hà Tĩnh
+https://xem.hoiquan.Click/CoBan/ha-tinh/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="hai-duong" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/hai-duong/KenhCoBan",Hải Dương
+https://xem.hoiquan.Click/CoBan/hai-duong/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="hai-phong" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/hai-phong/KenhCoBan",Hải Phòng
+https://xem.hoiquan.Click/CoBan/hai-phong/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="hoa-binh" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/hoa-binh/KenhCoBan",Hòa Bình
+https://xem.hoiquan.Click/CoBan/hoa-binh/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="hue" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/hue/KenhCoBan",Huế
+https://xem.hoiquan.Click/CoBan/hue/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="hung-yen" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/hung-yen/KenhCoBan",Hưng Yên
+https://xem.hoiquan.Click/CoBan/hung-yen/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="khanh-hoa" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/khanh-hoa/KenhCoBan",Khánh Hòa
+https://xem.hoiquan.Click/CoBan/khanh-hoa/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="kien-giang" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/kien-giang/KenhCoBan",Kiên Giang
+https://xem.hoiquan.Click/CoBan/kien-giang/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="kon-tum" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/kon-tum/KenhCoBan",Kon Tum
+https://xem.hoiquan.Click/CoBan/kon-tum/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="lai-chau" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/lai-chau/KenhCoBan",Lai Châu
+https://xem.hoiquan.Click/CoBan/lai-chau/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="lam-dong" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/lam-dong/KenhCoBan",Lâm Đồng
+https://xem.hoiquan.Click/CoBan/lam-dong/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="lang-son" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/lang-son/KenhCoBan",Lạng Sơn
+https://xem.hoiquan.Click/CoBan/lang-son/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="lao-cai" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/lao-cai/KenhCoBan",Lào Cai
+https://xem.hoiquan.Click/CoBan/lao-cai/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="long-an" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/long-an/KenhCoBan",Long An
+https://xem.hoiquan.Click/CoBan/long-an/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="nghe-an" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/nghe-an/KenhCoBan",Nghệ An
+https://xem.hoiquan.Click/CoBan/nghe-an/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="ninh-binh" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/ninh-binh/KenhCoBan",Ninh Bình
+https://xem.hoiquan.Click/CoBan/ninh-binh/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="ninh-thuan" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/ninh-thuan/KenhCoBan",Ninh Thuận
+https://xem.hoiquan.Click/CoBan/ninh-thuan/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="phu-tho" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/phu-tho/KenhCoBan",Phú Thọ
+https://xem.hoiquan.Click/CoBan/phu-tho/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="phu-yen" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/phu-yen/KenhCoBan",Phú Yên
+https://xem.hoiquan.Click/CoBan/phu-yen/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="quang-binh" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/quang-binh/KenhCoBan",Quảng Bình
+https://xem.hoiquan.Click/CoBan/quang-binh/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="quang-nam" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/quang-nam/KenhCoBan",Quảng Nam
+https://xem.hoiquan.Click/CoBan/quang-nam/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="quang-ngai" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/quang-ngai/KenhCoBan",Quảng Ngãi
+https://xem.hoiquan.Click/CoBan/quang-ngai/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="qtv-1" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/qtv-1/KenhCoBan",QTV 1
+https://xem.hoiquan.Click/CoBan/qtv-1/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="quang-tri" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/quang-tri/KenhCoBan",Quảng Trị
+https://xem.hoiquan.Click/CoBan/quang-tri/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="son-la" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/son-la/KenhCoBan",Sơn La
+https://xem.hoiquan.Click/CoBan/son-la/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="tay-ninh" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/tay-ninh/KenhCoBan",Tây Ninh
+https://xem.hoiquan.Click/CoBan/tay-ninh/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="thai-binh" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/thai-binh/KenhCoBan",Thái Bình
+https://xem.hoiquan.Click/CoBan/thai-binh/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="thai-nguyen" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/thai-nguyen/KenhCoBan",Thái Nguyên
+https://xem.hoiquan.Click/CoBan/thai-nguyen/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="thanh-hoa" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/thanh-hoa/KenhCoBan",Thanh Hóa
+https://xem.hoiquan.Click/CoBan/thanh-hoa/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="tien-giang" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/tien-giang/KenhCoBan",Tiền Giang
+https://xem.hoiquan.Click/CoBan/tien-giang/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="tra-vinh" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/tra-vinh/KenhCoBan",Trà Vinh
+https://xem.hoiquan.Click/CoBan/tra-vinh/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="tuyen-quang" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/tuyen-quang/KenhCoBan",Tuyên Quang
+https://xem.hoiquan.Click/CoBan/tuyen-quang/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vinh-phuc" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vinh-phuc/KenhCoBan",Vĩnh Phúc
+https://xem.hoiquan.Click/CoBan/vinh-phuc/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vung-tau" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vung-tau/KenhCoBan",Vũng Tàu
+https://xem.hoiquan.Click/CoBan/vung-tau/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="yen-bai" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/yen-bai/KenhCoBan",Yên Bái
+https://xem.hoiquan.Click/CoBan/yen-bai/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="dong-nai-2" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/dong-nai-2/KenhCoBan",Đồng Nai 2
+https://xem.hoiquan.Click/CoBan/dong-nai-2/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="tv360.live" group-title="Sự kiện trực tiếp" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/tv360.live/KenhCoBan",TV360 Live
+https://xem.hoiquan.Click/CoBan/tv360.live/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="tv360.Mekong" group-title="Sự kiện trực tiếp" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/tv360.Mekong/KenhCoBan",Mekong
+https://xem.hoiquan.Click/CoBan/tv360.Mekong/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="tv360.PhimAuMy" group-title="Sự kiện trực tiếp" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/tv360.PhimAuMy/KenhCoBan",Phim Âu Mỹ
+https://xem.hoiquan.Click/CoBan/tv360.PhimAuMy/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="fm90" group-title="Kênh FM" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/fm90/KenhCoBan",FM90(Kênh FM)
+https://xem.hoiquan.Click/CoBan/fm90/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="fm96" group-title="Kênh FM" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/fm96/KenhCoBan",FM96(Kênh FM)
+https://xem.hoiquan.Click/CoBan/fm96/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="BunBoGioHeo" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/BunBoGioHeo/TichHop-Socolive",Nạp 19h15-18/10/2025
+https://xem.hoiquan.click/BunBo/BunBoGioHeo/GioHeo.m3u8
+#EXTINF:-1 tvg-id="380460" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/380460/TichHop-Socolive",ENG PR: Nottingham Forest vs Chelsea
+https://xem.hoiquan.click/BunBo/380460/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912104" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/9912104/TichHop-Socolive",ENG PR: Nottingham Forest vs Chelsea
+https://xem.hoiquan.click/BunBo/9912104/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912108" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/9912108/TichHop-Socolive",ENG PR: Nottingham Forest vs Chelsea
+https://xem.hoiquan.click/BunBo/9912108/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912060" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/9912060/TichHop-Socolive",ENG PR: Nottingham Forest vs Chelsea
+https://xem.hoiquan.click/BunBo/9912060/GioHeo.m3u8
+#EXTINF:-1 tvg-id="351530" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/351530/TichHop-Socolive",ENG PR: Nottingham Forest vs Chelsea
+https://xem.hoiquan.click/BunBo/351530/GioHeo.m3u8
+#EXTINF:-1 tvg-id="327159" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/327159/TichHop-Socolive",ENG PR: Nottingham Forest vs Chelsea
+https://xem.hoiquan.click/BunBo/327159/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912103" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/9912103/TichHop-Socolive",ENG PR: Nottingham Forest vs Chelsea
+https://xem.hoiquan.click/BunBo/9912103/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912100" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/9912100/TichHop-Socolive",ENG PR: Nottingham Forest vs Chelsea
+https://xem.hoiquan.click/BunBo/9912100/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912101" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/9912101/TichHop-Socolive",ENG PR: Nottingham Forest vs Chelsea
+https://xem.hoiquan.click/BunBo/9912101/GioHeo.m3u8
+#EXTINF:-1 tvg-id="414317" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/414317/TichHop-Socolive",ENG PR: Nottingham Forest vs Chelsea
+https://xem.hoiquan.click/BunBo/414317/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912041" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/9912041/TichHop-Socolive",ENG PR: Nottingham Forest vs Chelsea
+https://xem.hoiquan.click/BunBo/9912041/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912105" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/9912105/TichHop-Socolive",ENG PR: Nottingham Forest vs Chelsea
+https://xem.hoiquan.click/BunBo/9912105/GioHeo.m3u8
+#EXTINF:-1 tvg-id="532257" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/532257/TichHop-Socolive",SPA D1: Sevilla FC vs RCD Mallorca
+https://xem.hoiquan.click/BunBo/532257/GioHeo.m3u8
+#EXTINF:-1 tvg-id="513394" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/513394/TichHop-Socolive",VIE D1: Hanoi FC vs Ninh Binh FC
+https://xem.hoiquan.click/BunBo/513394/GioHeo.m3u8
+#EXTINF:-1 tvg-id="527384" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/527384/TichHop-Socolive",VIE D1: Song Lam Nghe An vs Cong An Ha Noi FC
+https://xem.hoiquan.click/BunBo/527384/GioHeo.m3u8
+#EXTINF:-1 tvg-id="484845" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/484845/TichHop-Socolive",VIE D1: Song Lam Nghe An vs Cong An Ha Noi FC
+https://xem.hoiquan.click/BunBo/484845/GioHeo.m3u8
+#EXTINF:-1 tvg-id="283501" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/283501/TichHop-Socolive",VIE D1: Song Lam Nghe An vs Cong An Ha Noi FC
+https://xem.hoiquan.click/BunBo/283501/GioHeo.m3u8
+#EXTINF:-1 tvg-id="462413" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/462413/TichHop-Socolive",AUS D1: Perth Glory vs Wellington Phoenix
+https://xem.hoiquan.click/BunBo/462413/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912015" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/9912015/TichHop-Socolive",SPA D1: Sevilla FC vs RCD Mallorca
+https://xem.hoiquan.click/BunBo/9912015/GioHeo.m3u8
+#EXTINF:-1 tvg-id="485739" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/485739/TichHop-Socolive",VIE D1: Song Lam Nghe An vs Cong An Ha Noi FC
+https://xem.hoiquan.click/BunBo/485739/GioHeo.m3u8
+#EXTINF:-1 tvg-id="532999" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/532999/TichHop-Socolive",VIE D1: Song Lam Nghe An vs Cong An Ha Noi FC
+https://xem.hoiquan.click/BunBo/532999/GioHeo.m3u8
+#EXTINF:-1 tvg-id="991140" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/991140/TichHop-Socolive",SPA D1: Sevilla FC vs RCD Mallorca
+https://xem.hoiquan.click/BunBo/991140/GioHeo.m3u8
+#EXTINF:-1 tvg-id="519740" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/519740/TichHop-Socolive",CHA D1: Yanbian Longding vs Foshan Nanshi
+https://xem.hoiquan.click/BunBo/519740/GioHeo.m3u8
+#EXTINF:-1 tvg-id="547345" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/547345/TichHop-Socolive",CHA SL: Zhejiang Professional FC vs Shandong Taishan FC
+https://xem.hoiquan.click/BunBo/547345/GioHeo.m3u8
+#EXTINF:-1 tvg-id="291277" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/291277/TichHop-Socolive",VIE D1: Hanoi FC vs Ninh Binh FC
+https://xem.hoiquan.click/BunBo/291277/GioHeo.m3u8
+#EXTINF:-1 tvg-id="321443" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/321443/TichHop-Socolive",VIE D1: Hanoi FC vs Ninh Binh FC
+https://xem.hoiquan.click/BunBo/321443/GioHeo.m3u8
+#EXTINF:-1 tvg-id="522086" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/522086/TichHop-Socolive",VIE D1: Thep Xanh Nam Dinh FC vs Becamex Ho Chi Minh City
+https://xem.hoiquan.click/BunBo/522086/GioHeo.m3u8
+#EXTINF:-1 tvg-id="459401" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/459401/TichHop-Socolive",VIE D1: Thep Xanh Nam Dinh FC vs Becamex Ho Chi Minh City
+https://xem.hoiquan.click/BunBo/459401/GioHeo.m3u8
+#EXTINF:-1 tvg-id="356042" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/356042/TichHop-Socolive",VIE D1: Thep Xanh Nam Dinh FC vs Becamex Ho Chi Minh City
+https://xem.hoiquan.click/BunBo/356042/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912092" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/9912092/TichHop-Socolive",VIE D1: Thep Xanh Nam Dinh FC vs Becamex Ho Chi Minh City
+https://xem.hoiquan.click/BunBo/9912092/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912007" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/9912007/TichHop-Socolive",VIE D1: Song Lam Nghe An vs Cong An Ha Noi FC
+https://xem.hoiquan.click/BunBo/9912007/GioHeo.m3u8
+#EXTINF:-1 tvg-id="511367" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/511367/TichHop-Socolive",AUS D1: Perth Glory vs Wellington Phoenix
+https://xem.hoiquan.click/BunBo/511367/GioHeo.m3u8
+#EXTINF:-1 tvg-id="500605" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/500605/TichHop-Socolive",SPA D1: Sevilla FC vs RCD Mallorca
+https://xem.hoiquan.click/BunBo/500605/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912107" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/9912107/TichHop-Socolive",SPA D1: Sevilla FC vs RCD Mallorca
+https://xem.hoiquan.click/BunBo/9912107/GioHeo.m3u8
+#EXTINF:-1 tvg-id="512649" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/512649/TichHop-Socolive",AUS D1: Perth Glory vs Wellington Phoenix
+https://xem.hoiquan.click/BunBo/512649/GioHeo.m3u8
+#EXTINF:-1 tvg-id="372746" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/372746/TichHop-Socolive",SPA D1: Sevilla FC vs RCD Mallorca
+https://xem.hoiquan.click/BunBo/372746/GioHeo.m3u8
+#EXTINF:-1 tvg-id="536185" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/536185/TichHop-Socolive",AUS D1: Perth Glory vs Wellington Phoenix
+https://xem.hoiquan.click/BunBo/536185/GioHeo.m3u8
+#EXTINF:-1 tvg-id="532081" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/532081/TichHop-Socolive",VIE D1: Hanoi FC vs Ninh Binh FC
+https://xem.hoiquan.click/BunBo/532081/GioHeo.m3u8
+#EXTINF:-1 tvg-id="534055" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/534055/TichHop-Socolive",VIE D1: Hanoi FC vs Ninh Binh FC
+https://xem.hoiquan.click/BunBo/534055/GioHeo.m3u8
+#EXTINF:-1 tvg-id="479849" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/479849/TichHop-Socolive",VIE D1: Hanoi FC vs Ninh Binh FC
+https://xem.hoiquan.click/BunBo/479849/GioHeo.m3u8
+#EXTINF:-1 tvg-id="290928" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/290928/TichHop-Socolive",ITA D1: Pisa vs Hellas Verona
+https://xem.hoiquan.click/BunBo/290928/GioHeo.m3u8
+#EXTINF:-1 tvg-id="AUSFFAWesternUnitedFCvsSydneyFC" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/1/TichHop-CoLaTV",AUS FFA Western United FC vs Sydney FC
+https://xem.hoiquan.Click/DocQuyen/AUSFFAWesternUnitedFCvsSydneyFC/TayChayVThanh.m3u8
+#EXTINF:-1 tvg-id="COLATVHNGDNNGK" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/2/TichHop-CoLaTV",COLATV- HƯỚNG DẪN ĐĂNG KÝ
+https://xem.hoiquan.Click/DocQuyen/COLATVHNGDNNGK/TayChayVThanh.m3u8
+#EXTINF:-1 tvg-id="LIVEBACARAT" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/3/TichHop-CoLaTV",LIVE BACARAT
+https://xem.hoiquan.Click/DocQuyen/LIVEBACARAT/TayChayVThanh.m3u8
+#EXTINF:-1 tvg-id="Livestreaming" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/4/TichHop-CoLaTV",Live streaming
+https://xem.hoiquan.Click/DocQuyen/Livestreaming/TayChayVThanh.m3u8
+#EXTINF:-1 tvg-id="VSBETTHTHAOHNGU" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/5/TichHop-CoLaTV",VSBET - THỂ THAO HÀNG ĐẦU
+https://xem.hoiquan.Click/DocQuyen/VSBETTHTHAOHNGU/TayChayVThanh.m3u8
+#EXTINF:-1 tvg-id="XCDA" group-title="Hội Quán Live ⚽️" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/6/TichHop-CoLaTV",XÓC DĨA
+https://xem.hoiquan.Click/DocQuyen/XCDA/TayChayVThanh.m3u8
