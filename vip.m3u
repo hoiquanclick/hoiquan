@@ -442,40 +442,44 @@ https://toiyeuvietnam.dpdns.org/NguonOnliveTV/sctv4k/ToChaThangVThanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 https://toiyeuvietnam.dpdns.org/NguonOnliveTV/TVBVietNam/ToChaThangVThanh
-#EXTINF:-1 tvg-id="BunBoGioHeo" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/BunBoGioHeo/TichHop-Socolive",Nạp 06h45-22/10/2025
+#EXTINF:-1 tvg-id="BunBoGioHeo" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/BunBoGioHeo/TichHop-Socolive",Nạp 07h00-22/10/2025
 https://toiyeuvietnam.dpdns.org/BunBo/BunBoGioHeo/GioHeo.m3u8
-#EXTINF:-1 tvg-id="445260" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/445260/TichHop-Socolive",ARG D1: Club Atlético Unión vs Defensa Y Justicia
-https://toiyeuvietnam.dpdns.org/BunBo/445260/GioHeo.m3u8
-#EXTINF:-1 tvg-id="289098" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/289098/TichHop-Socolive",NBA: Oklahoma City Thunder vs Houston Rockets
-https://toiyeuvietnam.dpdns.org/BunBo/289098/GioHeo.m3u8
-#EXTINF:-1 tvg-id="515530" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/515530/TichHop-Socolive",NBA: Oklahoma City Thunder vs Houston Rockets
-https://toiyeuvietnam.dpdns.org/BunBo/515530/GioHeo.m3u8
-#EXTINF:-1 tvg-id="522086" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/522086/TichHop-Socolive",COL D1: Millonarios vs Atletico Bucaramanga
-https://toiyeuvietnam.dpdns.org/BunBo/522086/GioHeo.m3u8
 #EXTINF:-1 tvg-id="427562" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/427562/TichHop-Socolive",ARG D1: Club Atlético Unión vs Defensa Y Justicia
 https://toiyeuvietnam.dpdns.org/BunBo/427562/GioHeo.m3u8
-#EXTINF:-1 tvg-id="500605" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/500605/TichHop-Socolive",ARG D1: Club Atlético Unión vs Defensa Y Justicia
-https://toiyeuvietnam.dpdns.org/BunBo/500605/GioHeo.m3u8
+#EXTINF:-1 tvg-id="537460" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/537460/TichHop-Socolive",COL D1: Millonarios vs Atletico Bucaramanga
+https://toiyeuvietnam.dpdns.org/BunBo/537460/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912111" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912111/TichHop-Socolive",ARG BL: Independiente de Oliva vs Gimnasia
+https://toiyeuvietnam.dpdns.org/BunBo/9912111/GioHeo.m3u8
 #EXTINF:-1 tvg-id="9912099" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912099/TichHop-Socolive",NBA: Oklahoma City Thunder vs Houston Rockets
 https://toiyeuvietnam.dpdns.org/BunBo/9912099/GioHeo.m3u8
 #EXTINF:-1 tvg-id="9912112" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912112/TichHop-Socolive",NBA: Oklahoma City Thunder vs Houston Rockets
 https://toiyeuvietnam.dpdns.org/BunBo/9912112/GioHeo.m3u8
-#EXTINF:-1 tvg-id="474421" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/474421/TichHop-Socolive",ARG D1: Club Atlético Unión vs Defensa Y Justicia
-https://toiyeuvietnam.dpdns.org/BunBo/474421/GioHeo.m3u8
-#EXTINF:-1 tvg-id="9912106" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912106/TichHop-Socolive",NBA: Oklahoma City Thunder vs Houston Rockets
-https://toiyeuvietnam.dpdns.org/BunBo/9912106/GioHeo.m3u8
-#EXTINF:-1 tvg-id="485739" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/485739/TichHop-Socolive",COL D1: Millonarios vs Atletico Bucaramanga
-https://toiyeuvietnam.dpdns.org/BunBo/485739/GioHeo.m3u8
-#EXTINF:-1 tvg-id="537460" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/537460/TichHop-Socolive",COL D1: Millonarios vs Atletico Bucaramanga
-https://toiyeuvietnam.dpdns.org/BunBo/537460/GioHeo.m3u8
-#EXTINF:-1 tvg-id="479849" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/479849/TichHop-Socolive",BOL LFPB: Real Tomayapo vs Bolivar
-https://toiyeuvietnam.dpdns.org/BunBo/479849/GioHeo.m3u8
-#EXTINF:-1 tvg-id="308080" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/308080/TichHop-Socolive",BOL LFPB: Real Tomayapo vs Bolivar
-https://toiyeuvietnam.dpdns.org/BunBo/308080/GioHeo.m3u8
-#EXTINF:-1 tvg-id="9912111" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912111/TichHop-Socolive",ARG BL: Independiente de Oliva vs Gimnasia
-https://toiyeuvietnam.dpdns.org/BunBo/9912111/GioHeo.m3u8
 #EXTINF:-1 tvg-id="372746" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/372746/TichHop-Socolive",BOL LFPB: Real Tomayapo vs Bolivar
 https://toiyeuvietnam.dpdns.org/BunBo/372746/GioHeo.m3u8
+#EXTINF:-1 tvg-id="474421" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/474421/TichHop-Socolive",ARG D1: Club Atlético Unión vs Defensa Y Justicia
+https://toiyeuvietnam.dpdns.org/BunBo/474421/GioHeo.m3u8
+#EXTINF:-1 tvg-id="485739" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/485739/TichHop-Socolive",COL D1: Millonarios vs Atletico Bucaramanga
+https://toiyeuvietnam.dpdns.org/BunBo/485739/GioHeo.m3u8
+#EXTINF:-1 tvg-id="522086" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/522086/TichHop-Socolive",COL D1: Millonarios vs Atletico Bucaramanga
+https://toiyeuvietnam.dpdns.org/BunBo/522086/GioHeo.m3u8
+#EXTINF:-1 tvg-id="500605" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/500605/TichHop-Socolive",ARG D1: Club Atlético Unión vs Defensa Y Justicia
+https://toiyeuvietnam.dpdns.org/BunBo/500605/GioHeo.m3u8
+#EXTINF:-1 tvg-id="445260" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/445260/TichHop-Socolive",ARG D1: Club Atlético Unión vs Defensa Y Justicia
+https://toiyeuvietnam.dpdns.org/BunBo/445260/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912106" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912106/TichHop-Socolive",NBA: Oklahoma City Thunder vs Houston Rockets
+https://toiyeuvietnam.dpdns.org/BunBo/9912106/GioHeo.m3u8
+#EXTINF:-1 tvg-id="289098" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/289098/TichHop-Socolive",NBA: Oklahoma City Thunder vs Houston Rockets
+https://toiyeuvietnam.dpdns.org/BunBo/289098/GioHeo.m3u8
+#EXTINF:-1 tvg-id="515530" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/515530/TichHop-Socolive",NBA: Oklahoma City Thunder vs Houston Rockets
+https://toiyeuvietnam.dpdns.org/BunBo/515530/GioHeo.m3u8
+#EXTINF:-1 tvg-id="308080" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/308080/TichHop-Socolive",BOL LFPB: Real Tomayapo vs Bolivar
+https://toiyeuvietnam.dpdns.org/BunBo/308080/GioHeo.m3u8
+#EXTINF:-1 tvg-id="479849" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/479849/TichHop-Socolive",BOL LFPB: Real Tomayapo vs Bolivar
+https://toiyeuvietnam.dpdns.org/BunBo/479849/GioHeo.m3u8
+#EXTINF:-1 tvg-id="542758" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/542758/TichHop-Socolive",CON CSA: Independiente del Valle vs Atletico Mineiro
+https://toiyeuvietnam.dpdns.org/BunBo/542758/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912035" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912035/TichHop-Socolive",CON CSA: Independiente del Valle vs Atletico Mineiro
+https://toiyeuvietnam.dpdns.org/BunBo/9912035/GioHeo.m3u8
 #EXTINF:-1 tvg-id="965mk8t2w8ejm1g" group-title="Hội Quán Live ⚽️" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/965mk8t2w8ejm1g/TichHop-RoBong",🟢 Thunder-Rockets
 https://toiyeuvietnam.dpdns.org/RoBongTV/965mk8t2w8ejm1g/truyenhinh.m3u8
 #EXTINF:-1 tvg-id="x7lm7phjwy4zm2w" group-title="Hội Quán Live ⚽️" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/x7lm7phjwy4zm2w/TichHop-RoBong",🟢 FC Kairat-KuPs
