@@ -442,78 +442,64 @@ https://toiyeuvietnam.dpdns.org/NguonOnliveTV/sctv4k/ToChaThangVThanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 https://toiyeuvietnam.dpdns.org/NguonOnliveTV/TVBVietNam/ToChaThangVThanh
-#EXTINF:-1 tvg-id="BunBoGioHeo" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/BunBoGioHeo/TichHop-Socolive",Nạp 02h45-29/10/2025
+#EXTINF:-1 tvg-id="BunBoGioHeo" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/BunBoGioHeo/TichHop-Socolive",Nạp 03h15-29/10/2025
 https://toiyeuvietnam.dpdns.org/BunBo/BunBoGioHeo/GioHeo.m3u8
-#EXTINF:-1 tvg-id="9912050" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912050/TichHop-Socolive",GERC: FC St. Pauli vs TSG Hoffenheim
-https://toiyeuvietnam.dpdns.org/BunBo/9912050/GioHeo.m3u8
-#EXTINF:-1 tvg-id="291277" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/291277/TichHop-Socolive",ITA D1: Atalanta vs AC Milan
-https://toiyeuvietnam.dpdns.org/BunBo/291277/GioHeo.m3u8
-#EXTINF:-1 tvg-id="414317" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/414317/TichHop-Socolive",ITA D1: Atalanta vs AC Milan
-https://toiyeuvietnam.dpdns.org/BunBo/414317/GioHeo.m3u8
-#EXTINF:-1 tvg-id="532999" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/532999/TichHop-Socolive",ITA D1: Atalanta vs AC Milan
-https://toiyeuvietnam.dpdns.org/BunBo/532999/GioHeo.m3u8
 #EXTINF:-1 tvg-id="235232" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/235232/TichHop-Socolive",GERC: Energie Cottbus vs RB Leipzig
 https://toiyeuvietnam.dpdns.org/BunBo/235232/GioHeo.m3u8
 #EXTINF:-1 tvg-id="9912092" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912092/TichHop-Socolive",ENG LC: Grimsby Town vs Brentford
 https://toiyeuvietnam.dpdns.org/BunBo/9912092/GioHeo.m3u8
-#EXTINF:-1 tvg-id="387694" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/387694/TichHop-Socolive",ITA D1: Atalanta vs AC Milan
-https://toiyeuvietnam.dpdns.org/BunBo/387694/GioHeo.m3u8
-#EXTINF:-1 tvg-id="9912105" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912105/TichHop-Socolive",ITA D1: Atalanta vs AC Milan
-https://toiyeuvietnam.dpdns.org/BunBo/9912105/GioHeo.m3u8
-#EXTINF:-1 tvg-id="484845" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/484845/TichHop-Socolive",GERC: Eintracht Frankfurt vs Borussia Dortmund
-https://toiyeuvietnam.dpdns.org/BunBo/484845/GioHeo.m3u8
+#EXTINF:-1 tvg-id="414317" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/414317/TichHop-Socolive",ITA D1: Atalanta vs AC Milan
+https://toiyeuvietnam.dpdns.org/BunBo/414317/GioHeo.m3u8
 #EXTINF:-1 tvg-id="511367" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/511367/TichHop-Socolive",GERC: Energie Cottbus vs RB Leipzig
 https://toiyeuvietnam.dpdns.org/BunBo/511367/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912105" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912105/TichHop-Socolive",ITA D1: Atalanta vs AC Milan
+https://toiyeuvietnam.dpdns.org/BunBo/9912105/GioHeo.m3u8
 #EXTINF:-1 tvg-id="548260" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/548260/TichHop-Socolive",GERC: FC St. Pauli vs TSG Hoffenheim
 https://toiyeuvietnam.dpdns.org/BunBo/548260/GioHeo.m3u8
+#EXTINF:-1 tvg-id="387694" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/387694/TichHop-Socolive",ITA D1: Atalanta vs AC Milan
+https://toiyeuvietnam.dpdns.org/BunBo/387694/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912050" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912050/TichHop-Socolive",GERC: FC St. Pauli vs TSG Hoffenheim
+https://toiyeuvietnam.dpdns.org/BunBo/9912050/GioHeo.m3u8
+#EXTINF:-1 tvg-id="532999" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/532999/TichHop-Socolive",ITA D1: Atalanta vs AC Milan
+https://toiyeuvietnam.dpdns.org/BunBo/532999/GioHeo.m3u8
+#EXTINF:-1 tvg-id="532081" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/532081/TichHop-Socolive",GERC: FC St. Pauli vs TSG Hoffenheim
+https://toiyeuvietnam.dpdns.org/BunBo/532081/GioHeo.m3u8
+#EXTINF:-1 tvg-id="291277" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/291277/TichHop-Socolive",ITA D1: Atalanta vs AC Milan
+https://toiyeuvietnam.dpdns.org/BunBo/291277/GioHeo.m3u8
 #EXTINF:-1 tvg-id="531989" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/531989/TichHop-Socolive",ITA D1: Atalanta vs AC Milan
 https://toiyeuvietnam.dpdns.org/BunBo/531989/GioHeo.m3u8
-#EXTINF:-1 tvg-id="336303" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/336303/TichHop-Socolive",KSA KC: Al Nassr FC vs Al Ittihad Club
-https://toiyeuvietnam.dpdns.org/BunBo/336303/GioHeo.m3u8
-#EXTINF:-1 tvg-id="304148" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/304148/TichHop-Socolive",KSA KC: Al Nassr FC vs Al Ittihad Club
-https://toiyeuvietnam.dpdns.org/BunBo/304148/GioHeo.m3u8
-#EXTINF:-1 tvg-id="536185" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/536185/TichHop-Socolive",KSA KC: Al Nassr FC vs Al Ittihad Club
-https://toiyeuvietnam.dpdns.org/BunBo/536185/GioHeo.m3u8
-#EXTINF:-1 tvg-id="9912113" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912113/TichHop-Socolive",KSA KC: Al Nassr FC vs Al Ittihad Club
-https://toiyeuvietnam.dpdns.org/BunBo/9912113/GioHeo.m3u8
+#EXTINF:-1 tvg-id="484845" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/484845/TichHop-Socolive",GERC: Eintracht Frankfurt vs Borussia Dortmund
+https://toiyeuvietnam.dpdns.org/BunBo/484845/GioHeo.m3u8
 #EXTINF:-1 tvg-id="991140" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/991140/TichHop-Socolive",GERC: Eintracht Frankfurt vs Borussia Dortmund
 https://toiyeuvietnam.dpdns.org/BunBo/991140/GioHeo.m3u8
 #EXTINF:-1 tvg-id="9912109" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912109/TichHop-Socolive",ENG LC: Wycombe Wanderers vs Fulham
 https://toiyeuvietnam.dpdns.org/BunBo/9912109/GioHeo.m3u8
-#EXTINF:-1 tvg-id="459401" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/459401/TichHop-Socolive",ENG LC: Wycombe Wanderers vs Fulham
-https://toiyeuvietnam.dpdns.org/BunBo/459401/GioHeo.m3u8
-#EXTINF:-1 tvg-id="356042" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/356042/TichHop-Socolive",ENG LC: Grimsby Town vs Brentford
-https://toiyeuvietnam.dpdns.org/BunBo/356042/GioHeo.m3u8
-#EXTINF:-1 tvg-id="512649" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/512649/TichHop-Socolive",GERC: Borussia Monchengladbach vs Karlsruher SC
-https://toiyeuvietnam.dpdns.org/BunBo/512649/GioHeo.m3u8
 #EXTINF:-1 tvg-id="9912043" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912043/TichHop-Socolive",ENG LC: Wycombe Wanderers vs Fulham
 https://toiyeuvietnam.dpdns.org/BunBo/9912043/GioHeo.m3u8
-#EXTINF:-1 tvg-id="9912111" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912111/TichHop-Socolive",EURO: Zalgiris Kaunas vs Virtus Bologna
-https://toiyeuvietnam.dpdns.org/BunBo/9912111/GioHeo.m3u8
-#EXTINF:-1 tvg-id="532081" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/532081/TichHop-Socolive",GERC: FC St. Pauli vs TSG Hoffenheim
-https://toiyeuvietnam.dpdns.org/BunBo/532081/GioHeo.m3u8
+#EXTINF:-1 tvg-id="459401" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/459401/TichHop-Socolive",ENG LC: Wycombe Wanderers vs Fulham
+https://toiyeuvietnam.dpdns.org/BunBo/459401/GioHeo.m3u8
 #EXTINF:-1 tvg-id="290928" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/290928/TichHop-Socolive",ENG LC: Grimsby Town vs Brentford
 https://toiyeuvietnam.dpdns.org/BunBo/290928/GioHeo.m3u8
+#EXTINF:-1 tvg-id="356042" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/356042/TichHop-Socolive",ENG LC: Grimsby Town vs Brentford
+https://toiyeuvietnam.dpdns.org/BunBo/356042/GioHeo.m3u8
 #EXTINF:-1 tvg-id="479849" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/479849/TichHop-Socolive",GERC: Energie Cottbus vs RB Leipzig
 https://toiyeuvietnam.dpdns.org/BunBo/479849/GioHeo.m3u8
-#EXTINF:-1 tvg-id="532257" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/532257/TichHop-Socolive",GERC: FC Augsburg vs VfL Bochum 1848
-https://toiyeuvietnam.dpdns.org/BunBo/532257/GioHeo.m3u8
-#EXTINF:-1 tvg-id="501412" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/501412/TichHop-Socolive",GERC: FC Augsburg vs VfL Bochum 1848
-https://toiyeuvietnam.dpdns.org/BunBo/501412/GioHeo.m3u8
-#EXTINF:-1 tvg-id="285067" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/285067/TichHop-Socolive",PORLC: Sporting CP vs Alverca
-https://toiyeuvietnam.dpdns.org/BunBo/285067/GioHeo.m3u8
-#EXTINF:-1 tvg-id="445260" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/445260/TichHop-Socolive",GERC: FC Augsburg vs VfL Bochum 1848
-https://toiyeuvietnam.dpdns.org/BunBo/445260/GioHeo.m3u8
 #EXTINF:-1 tvg-id="406865" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/406865/TichHop-Socolive",GERC: Borussia Monchengladbach vs Karlsruher SC
 https://toiyeuvietnam.dpdns.org/BunBo/406865/GioHeo.m3u8
-#EXTINF:-1 tvg-id="4jwq2ghn0d83m0v" group-title="Hội Quán Live ⚽️" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/4jwq2ghn0d83m0v/TichHop-RoBong",🟢 Eintracht Frankfurt-Dortmund
-https://toiyeuvietnam.dpdns.org/RoBongTV/4jwq2ghn0d83m0v/truyenhinh.m3u8
-#EXTINF:-1 tvg-id="pxwrxlhy76dkryk" group-title="Hội Quán Live ⚽️" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/pxwrxlhy76dkryk/TichHop-RoBong",🟢 Gemert-Fortuna Sittard
-https://toiyeuvietnam.dpdns.org/RoBongTV/pxwrxlhy76dkryk/truyenhinh.m3u8
-#EXTINF:-1 tvg-id="y0or5jh8ejxpqwz" group-title="Hội Quán Live ⚽️" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/y0or5jh8ejxpqwz/TichHop-RoBong",🟢 Sweden(w)-Spain(w)
-https://toiyeuvietnam.dpdns.org/RoBongTV/y0or5jh8ejxpqwz/truyenhinh.m3u8
-#EXTINF:-1 tvg-id="jw2r09hk78nzrz8" group-title="Hội Quán Live ⚽️" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/jw2r09hk78nzrz8/TichHop-RoBong",🟢 Al Nassr-Al-Ittihad Club
-https://toiyeuvietnam.dpdns.org/RoBongTV/jw2r09hk78nzrz8/truyenhinh.m3u8
+#EXTINF:-1 tvg-id="501412" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/501412/TichHop-Socolive",GERC: FC Augsburg vs VfL Bochum 1848
+https://toiyeuvietnam.dpdns.org/BunBo/501412/GioHeo.m3u8
+#EXTINF:-1 tvg-id="512649" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/512649/TichHop-Socolive",GERC: Borussia Monchengladbach vs Karlsruher SC
+https://toiyeuvietnam.dpdns.org/BunBo/512649/GioHeo.m3u8
+#EXTINF:-1 tvg-id="532257" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/532257/TichHop-Socolive",GERC: FC Augsburg vs VfL Bochum 1848
+https://toiyeuvietnam.dpdns.org/BunBo/532257/GioHeo.m3u8
+#EXTINF:-1 tvg-id="445260" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/445260/TichHop-Socolive",GERC: FC Augsburg vs VfL Bochum 1848
+https://toiyeuvietnam.dpdns.org/BunBo/445260/GioHeo.m3u8
+#EXTINF:-1 tvg-id="336303" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/336303/TichHop-Socolive",PORLC: Sporting CP vs Alverca
+https://toiyeuvietnam.dpdns.org/BunBo/336303/GioHeo.m3u8
+#EXTINF:-1 tvg-id="285067" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/285067/TichHop-Socolive",PORLC: Sporting CP vs Alverca
+https://toiyeuvietnam.dpdns.org/BunBo/285067/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912111" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912111/TichHop-Socolive",EURO: Valencia vs Fenerbahce
+https://toiyeuvietnam.dpdns.org/BunBo/9912111/GioHeo.m3u8
 #EXTINF:-1 tvg-id="zp5rzghg44z1q82" group-title="Hội Quán Live ⚽️" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/zp5rzghg44z1q82/TichHop-RoBong",🟢 Constancia-Girona
 https://toiyeuvietnam.dpdns.org/RoBongTV/zp5rzghg44z1q82/truyenhinh.m3u8
 #EXTINF:-1 tvg-id="y0or5jh8661jqwz" group-title="Hội Quán Live ⚽️" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/y0or5jh8661jqwz/TichHop-RoBong",🟢 CS Dinamo Bucuresti-FC Dinamo 1948
@@ -524,10 +510,34 @@ https://toiyeuvietnam.dpdns.org/RoBongTV/y0or5jh8j7x1qwz/truyenhinh.m3u8
 https://toiyeuvietnam.dpdns.org/RoBongTV/dj2ryohl5pglq1z/truyenhinh.m3u8
 #EXTINF:-1 tvg-id="y0or5jh81j54qwz" group-title="Hội Quán Live ⚽️" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/y0or5jh81j54qwz/TichHop-RoBong",🟢 ASSE-Pau FC
 https://toiyeuvietnam.dpdns.org/RoBongTV/y0or5jh81j54qwz/truyenhinh.m3u8
-#EXTINF:-1 tvg-id="dn1m17tpx3zjmoe" group-title="Hội Quán Live ⚽️" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/dn1m17tpx3zjmoe/TichHop-RoBong",🟢 Zalgiris-Virtus Bologna
-https://toiyeuvietnam.dpdns.org/RoBongTV/dn1m17tpx3zjmoe/truyenhinh.m3u8
-#EXTINF:-1 tvg-id="x7lm73t3v99er2w" group-title="Hội Quán Live ⚽️" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/x7lm73t3v99er2w/TichHop-RoBong",🟢 Crvena Zvezda-Lyon-Villeurbanne
-https://toiyeuvietnam.dpdns.org/RoBongTV/x7lm73t3v99er2w/truyenhinh.m3u8
+#EXTINF:-1 tvg-id="zp5rzghg2envq82" group-title="Hội Quán Live ⚽️" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/zp5rzghg2envq82/TichHop-RoBong",🟢 Borussia M’gladbach-Karlsruher SC
+https://toiyeuvietnam.dpdns.org/RoBongTV/zp5rzghg2envq82/truyenhinh.m3u8
+#EXTINF:-1 tvg-id="1l4rjnh93p87m7v" group-title="Hội Quán Live ⚽️" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/1l4rjnh93p87m7v/TichHop-RoBong",🟢 Augsburg-Bochum
+https://toiyeuvietnam.dpdns.org/RoBongTV/1l4rjnh93p87m7v/truyenhinh.m3u8
+#EXTINF:-1 tvg-id="318q66hx7dl0qo9" group-title="Hội Quán Live ⚽️" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/318q66hx7dl0qo9/TichHop-RoBong",🟢 Energie Cottbus-RB Leipzig
+https://toiyeuvietnam.dpdns.org/RoBongTV/318q66hx7dl0qo9/truyenhinh.m3u8
+#EXTINF:-1 tvg-id="jw2r09hkpd81rz8" group-title="Hội Quán Live ⚽️" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/jw2r09hkpd81rz8/TichHop-RoBong",🟢 St. Pauli-Hoffenheim
+https://toiyeuvietnam.dpdns.org/RoBongTV/jw2r09hkpd81rz8/truyenhinh.m3u8
+#EXTINF:-1 tvg-id="x7lm7phjk1lwm2w" group-title="Hội Quán Live ⚽️" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/x7lm7phjk1lwm2w/TichHop-RoBong",🟢 Atalanta-Milan
+https://toiyeuvietnam.dpdns.org/RoBongTV/x7lm7phjk1lwm2w/truyenhinh.m3u8
+#EXTINF:-1 tvg-id="k82rekhgn7x4rep" group-title="Hội Quán Live ⚽️" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/k82rekhgn7x4rep/TichHop-RoBong",🟢 Grimsby Town-Brentford
+https://toiyeuvietnam.dpdns.org/RoBongTV/k82rekhgn7x4rep/truyenhinh.m3u8
+#EXTINF:-1 tvg-id="l7oqdehgd58yr51" group-title="Hội Quán Live ⚽️" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/l7oqdehgd58yr51/TichHop-RoBong",🟢 Wycombe Wanderers-Fulham
+https://toiyeuvietnam.dpdns.org/RoBongTV/l7oqdehgd58yr51/truyenhinh.m3u8
+#EXTINF:-1 tvg-id="4wyrn4h625o2q86" group-title="Hội Quán Live ⚽️" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/4wyrn4h625o2q86/TichHop-RoBong",🟢 Wales(w)-Poland(w)
+https://toiyeuvietnam.dpdns.org/RoBongTV/4wyrn4h625o2q86/truyenhinh.m3u8
+#EXTINF:-1 tvg-id="l5ergph4y7l8r8k" group-title="Hội Quán Live ⚽️" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/l5ergph4y7l8r8k/TichHop-RoBong",🟢 Netherlands(w)-Canada(w)
+https://toiyeuvietnam.dpdns.org/RoBongTV/l5ergph4y7l8r8k/truyenhinh.m3u8
+#EXTINF:-1 tvg-id="jw2r09hk7o08rz8" group-title="Hội Quán Live ⚽️" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/jw2r09hk7o08rz8/TichHop-RoBong",🟢 Wrexham-Cardiff City
+https://toiyeuvietnam.dpdns.org/RoBongTV/jw2r09hk7o08rz8/truyenhinh.m3u8
+#EXTINF:-1 tvg-id="l5ergph42zgkr8k" group-title="Hội Quán Live ⚽️" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/l5ergph42zgkr8k/TichHop-RoBong",🟢 VVV Venlo-SC Heerenveen
+https://toiyeuvietnam.dpdns.org/RoBongTV/l5ergph42zgkr8k/truyenhinh.m3u8
+#EXTINF:-1 tvg-id="k82rekhg66odrep" group-title="Hội Quán Live ⚽️" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/k82rekhg66odrep/TichHop-RoBong",🟢 -Real Sociedad
+https://toiyeuvietnam.dpdns.org/RoBongTV/k82rekhg66odrep/truyenhinh.m3u8
+#EXTINF:-1 tvg-id="318q66hx224pqo9" group-title="Hội Quán Live ⚽️" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/318q66hx224pqo9/TichHop-RoBong",🟢 CD Toledo-Sevilla
+https://toiyeuvietnam.dpdns.org/RoBongTV/318q66hx224pqo9/truyenhinh.m3u8
+#EXTINF:-1 tvg-id="vjxm8ghej9v6r6o" group-title="Hội Quán Live ⚽️" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vjxm8ghej9v6r6o/TichHop-RoBong",🟢 France(w)-Germany(w)
+https://toiyeuvietnam.dpdns.org/RoBongTV/vjxm8ghej9v6r6o/truyenhinh.m3u8
 #EXTINF:-1 tvg-id="1l4rjztjg12gm7v" group-title="Hội Quán Live ⚽️" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/1l4rjztjg12gm7v/TichHop-RoBong",🟢 Berlin-CEZ Nymburk
 https://toiyeuvietnam.dpdns.org/RoBongTV/1l4rjztjg12gm7v/truyenhinh.m3u8
 #EXTINF:-1 tvg-id="ednm9kt2ov3nryo" group-title="Hội Quán Live ⚽️" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/ednm9kt2ov3nryo/TichHop-RoBong",🟢 FC Bayern Munchen-Real Madrid
@@ -538,6 +548,10 @@ https://toiyeuvietnam.dpdns.org/RoBongTV/l5ergytldnv2r8k/truyenhinh.m3u8
 https://toiyeuvietnam.dpdns.org/RoBongTV/2y8m4ptw78yjml0/truyenhinh.m3u8
 #EXTINF:-1 tvg-id="y0or5gtz5g1xqwz" group-title="Hội Quán Live ⚽️" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/y0or5gtz5g1xqwz/TichHop-RoBong",🟢 Barça-Olimpia Milano
 https://toiyeuvietnam.dpdns.org/RoBongTV/y0or5gtz5g1xqwz/truyenhinh.m3u8
+#EXTINF:-1 tvg-id="965mk8t2wnzgm1g" group-title="Hội Quán Live ⚽️" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/965mk8t2wnzgm1g/TichHop-RoBong",🟢 Paris-Anadolu Efes S.K.
+https://toiyeuvietnam.dpdns.org/RoBongTV/965mk8t2wnzgm1g/truyenhinh.m3u8
+#EXTINF:-1 tvg-id="y0or5gtz53y6qwz" group-title="Hội Quán Live ⚽️" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/y0or5gtz53y6qwz/TichHop-RoBong",🟢 Valencia-Fenerbahçe Beko
+https://toiyeuvietnam.dpdns.org/RoBongTV/y0or5gtz53y6qwz/truyenhinh.m3u8
 #EXTINF:-1 tvg-id="x7lm7phjwy4zm2w" group-title="Hội Quán Live ⚽️" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/x7lm7phjwy4zm2w/TichHop-RoBong",🟢 FC Kairat-KuPs
 https://toiyeuvietnam.dpdns.org/RoBongTV/x7lm7phjwy4zm2w/truyenhinh.m3u8
 #EXTINF:-1 tvg-id="vjxm8gheg84wr6o" group-title="Hội Quán Live ⚽️" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vjxm8gheg84wr6o/TichHop-RoBong",🟢 Liverpool-Bournemouth
