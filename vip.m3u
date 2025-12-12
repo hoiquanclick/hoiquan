@@ -162,8 +162,8 @@ https://toiyeuvietnam.dpdns.org/CoBan/sctv6/TuyetDoiKhongKinhDoanh.m3u8
 https://toiyeuvietnam.dpdns.org/CoBan/sctv2-today-tv/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="qtv-3" group-title="Kênh địa phương" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/qtv-3/KenhCoBan",QTV 3
 https://toiyeuvietnam.dpdns.org/CoBan/qtv-3/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="hai-phong-plus" group-title="Kênh địa phương" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/hai-phong-plus/KenhCoBan",Hải Phòng +
-https://toiyeuvietnam.dpdns.org/CoBan/hai-phong-plus/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="hai-phong-3" group-title="Kênh địa phương" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/hai-phong-3/KenhCoBan",Hải Phòng 3
+https://toiyeuvietnam.dpdns.org/CoBan/hai-phong-3/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="ha-noi-1" group-title="Kênh địa phương" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/ha-noi-1/KenhCoBan",Hà Nội 1
 https://toiyeuvietnam.dpdns.org/CoBan/ha-noi-1/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="ha-noi-2" group-title="Kênh địa phương" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/ha-noi-2/KenhCoBan",Hà Nội 2
@@ -430,6 +430,10 @@ https://toiyeuvietnam.dpdns.org/NguonOnliveTV/sctvhdpth/ToChaThangVThanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 https://toiyeuvietnam.dpdns.org/NguonOnliveTV/sctv4k/ToChaThangVThanh
+#EXTINF:-1 tvg-id="sctvhdpth" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="Kênh địa phương" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/sctvhdpth/KenhBoSung",Hải Phòng +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://toiyeuvietnam.dpdns.org/NguonOnliveTV/sctvhdpth/ToChaThangVThanh
 #EXTINF:-1 tvg-id="TVBVietNam" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="Kênh địa phương" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/TVBVietNam/KenhBoSung",TVB VIỆT NAM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
