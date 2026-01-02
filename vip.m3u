@@ -303,10 +303,6 @@ https://toiyeuvietnam.dpdns.org/CoBan/tv360.live/TuyetDoiKhongKinhDoanh.m3u8
 https://toiyeuvietnam.dpdns.org/CoBan/fm90/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="fm96" group-title="Kênh FM" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/fm96/KenhCoBan",FM96(Kênh FM)
 https://toiyeuvietnam.dpdns.org/CoBan/fm96/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="thoitiet" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="K+ Copy" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/thoitiet/KenhBoSung",K+ Thời Tiết
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-https://toiyeuvietnam.dpdns.org/NguonOnliveTV/thoitiet/ToChaThangVThanh
 #EXTINF:-1 tvg-id="vietnamtoday" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="Kênh VTV" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vietnamtoday/KenhBoSung",Vietnam Today
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
@@ -331,26 +327,6 @@ https://toiyeuvietnam.dpdns.org/NguonOnliveTV/vtvcab6hd/ToChaThangVThanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 https://toiyeuvietnam.dpdns.org/NguonOnliveTV/hanoi2/ToChaThangVThanh
-#EXTINF:-1 tvg-id="kcinehd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="K+ Copy" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/kcinehd/KenhBoSung",K+ Cine
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-https://toiyeuvietnam.dpdns.org/NguonOnliveTV/kcinehd/ToChaThangVThanh
-#EXTINF:-1 tvg-id="kactionhd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="K+ Copy" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/kactionhd/KenhBoSung",K+ Action
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-https://toiyeuvietnam.dpdns.org/NguonOnliveTV/kactionhd/ToChaThangVThanh
-#EXTINF:-1 tvg-id="ksport1hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="K+ Copy" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/ksport1hd/KenhBoSung",K+ Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-https://toiyeuvietnam.dpdns.org/NguonOnliveTV/ksport1hd/ToChaThangVThanh
-#EXTINF:-1 tvg-id="ksport2hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="K+ Copy" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/ksport2hd/KenhBoSung",K+ Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-https://toiyeuvietnam.dpdns.org/NguonOnliveTV/ksport2hd/ToChaThangVThanh
-#EXTINF:-1 tvg-id="kkidshd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="K+ Copy" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/kkidshd/KenhBoSung",K+ Kids
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-https://toiyeuvietnam.dpdns.org/NguonOnliveTV/kkidshd/ToChaThangVThanh
 #EXTINF:-1 tvg-id="sctv1hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="Kênh SCTV" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/sctv1hd/KenhBoSung",SCTV1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
