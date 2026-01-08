@@ -471,10 +471,10 @@ https://toiyeuvietnam.dpdns.org/NguonOnliveTV/AlJazeeraEnglish/ToChaThangVThanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 https://toiyeuvietnam.dpdns.org/NguonOnliveTV/TRTWorld/ToChaThangVThanh
-#EXTINF:-1 tvg-id="cnbc" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="In The Box" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/cnbc/KenhBoSung",CNBC
+#EXTINF:-1 tvg-id="cnbchd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="In The Box" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/cnbchd/KenhBoSung",CNBC HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
-https://toiyeuvietnam.dpdns.org/NguonOnliveTV/cnbc/ToChaThangVThanh
+https://toiyeuvietnam.dpdns.org/NguonOnliveTV/cnbchd/ToChaThangVThanh
 #EXTINF:-1 tvg-id="kix" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="In The Box" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/kix/KenhBoSung",KIX HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
