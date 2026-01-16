@@ -279,6 +279,12 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/hitv/KenhCoBan.m3u8
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/youtv/KenhCoBan.m3u8
 #EXTINF:-1 tvg-id="tv360.live" group-title="Sự kiện trực tiếp" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/tv360.live/KenhCoBan.png",TV360 Live
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360.live/KenhCoBan.m3u8
+#EXTINF:-1 tvg-id="tv360-9" group-title="Sự kiện trực tiếp" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/tv360-9/KenhCoBan.png",TV360+ 9
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-9/KenhCoBan.m3u8
+#EXTINF:-1 tvg-id="tv360-10" group-title="Sự kiện trực tiếp" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/tv360-10/KenhCoBan.png",TV360+ 10
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-10/KenhCoBan.m3u8
+#EXTINF:-1 tvg-id="tv360-11" group-title="Sự kiện trực tiếp" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/tv360-11/KenhCoBan.png",TV360+ 11
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-11/KenhCoBan.m3u8
 #EXTINF:-1 tvg-id="phim-viet" group-title="Sự kiện trực tiếp" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/phim-viet/KenhCoBan.png",Phim Việt
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/phim-viet/KenhCoBan.m3u8
 #EXTINF:-1 tvg-id="phim-au-my" group-title="Sự kiện trực tiếp" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/phim-au-my/KenhCoBan.png",Phim Âu Mỹ
