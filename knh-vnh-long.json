@@ -1,0 +1,202 @@
+{
+    "channels": [
+        {
+            "id": "vinh-long-1",
+            "name": "Vĩnh Long 1",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/vinh-long-1/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "vinh-long-1",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "vinh-long-1",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "vinh-long-1",
+                                    "name": "Vĩnh Long 1",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/vinh-long-1/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "vinh-long-1",
+                                            "name": "Vĩnh Long 1",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vinh-long-1/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "vinh-long-2",
+            "name": "Vĩnh Long 2",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/vinh-long-2/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "vinh-long-2",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "vinh-long-2",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "vinh-long-2",
+                                    "name": "Vĩnh Long 2",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/vinh-long-2/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "vinh-long-2",
+                                            "name": "Vĩnh Long 2",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vinh-long-2/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "vinh-long-3",
+            "name": "Vĩnh Long 3",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/vinh-long-3/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "vinh-long-3",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "vinh-long-3",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "vinh-long-3",
+                                    "name": "Vĩnh Long 3",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/vinh-long-3/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "vinh-long-3",
+                                            "name": "Vĩnh Long 3",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vinh-long-3/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "vinh-long-4",
+            "name": "Vĩnh Long 4",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/vinh-long-4/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "vinh-long-4",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "vinh-long-4",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "vinh-long-4",
+                                    "name": "Vĩnh Long 4",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/vinh-long-4/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "vinh-long-4",
+                                            "name": "Vĩnh Long 4",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vinh-long-4/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "count": 4,
+    "group": "knh-vnh-long",
+    "group_name": "Kênh Vĩnh Long",
+    "timestamp": "2026-02-05 17:46:56",
+    "display": "horizontal",
+    "enable_detail": true
+}
