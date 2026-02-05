@@ -1,0 +1,874 @@
+{
+    "channels": [
+        {
+            "id": "vtvcab-1-vie-giai-tri-hd",
+            "name": "VTVcab 1 - Vie Giải Trí HD",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/vtvcab-1-vie-giai-tri-hd/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "vtvcab-1-vie-giai-tri-hd",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "vtvcab-1-vie-giai-tri-hd",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "vtvcab-1-vie-giai-tri-hd",
+                                    "name": "VTVcab 1 - Vie Giải Trí HD",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/vtvcab-1-vie-giai-tri-hd/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "vtvcab-1-vie-giai-tri-hd",
+                                            "name": "VTVcab 1 - Vie Giải Trí HD",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-1-vie-giai-tri-hd/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "vtvcab-2-phim-viet-hd",
+            "name": "VTVcab 2 - Phim Việt HD",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/vtvcab-2-phim-viet-hd/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "vtvcab-2-phim-viet-hd",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "vtvcab-2-phim-viet-hd",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "vtvcab-2-phim-viet-hd",
+                                    "name": "VTVcab 2 - Phim Việt HD",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/vtvcab-2-phim-viet-hd/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "vtvcab-2-phim-viet-hd",
+                                            "name": "VTVcab 2 - Phim Việt HD",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-2-phim-viet-hd/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "vtvcab10-on-cine-hd",
+            "name": "VTVcab10 - On Cine HD",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/vtvcab10-on-cine-hd/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "vtvcab10-on-cine-hd",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "vtvcab10-on-cine-hd",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "vtvcab10-on-cine-hd",
+                                    "name": "VTVcab10 - On Cine HD",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/vtvcab10-on-cine-hd/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "vtvcab10-on-cine-hd",
+                                            "name": "VTVcab10 - On Cine HD",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab10-on-cine-hd/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "vtvcab19-vie-dramas",
+            "name": "VTVcab19 – Vie Dramas",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/vtvcab19-vie-dramas/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "vtvcab19-vie-dramas",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "vtvcab19-vie-dramas",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "vtvcab19-vie-dramas",
+                                    "name": "VTVcab19 – Vie Dramas",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/vtvcab19-vie-dramas/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "vtvcab19-vie-dramas",
+                                            "name": "VTVcab19 – Vie Dramas",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab19-vie-dramas/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "vtvcab-8-bi-bi-sd",
+            "name": "VTVcab 8 Bibi SD",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/vtvcab-8-bi-bi-sd/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "vtvcab-8-bi-bi-sd",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "vtvcab-8-bi-bi-sd",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "vtvcab-8-bi-bi-sd",
+                                    "name": "VTVcab 8 Bibi SD",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/vtvcab-8-bi-bi-sd/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "vtvcab-8-bi-bi-sd",
+                                            "name": "VTVcab 8 Bibi SD",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-8-bi-bi-sd/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "vtvcab-21-cartoon-kids-hd",
+            "name": "VTVcab 21- Cartoon Kids HD",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/vtvcab-21-cartoon-kids-hd/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "vtvcab-21-cartoon-kids-hd",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "vtvcab-21-cartoon-kids-hd",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "vtvcab-21-cartoon-kids-hd",
+                                    "name": "VTVcab 21- Cartoon Kids HD",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/vtvcab-21-cartoon-kids-hd/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "vtvcab-21-cartoon-kids-hd",
+                                            "name": "VTVcab 21- Cartoon Kids HD",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-21-cartoon-kids-hd/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "vtvcab-4-on-movies",
+            "name": "Vtvcab 4 – On Movies",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/vtvcab-4-on-movies/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "vtvcab-4-on-movies",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "vtvcab-4-on-movies",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "vtvcab-4-on-movies",
+                                    "name": "Vtvcab 4 – On Movies",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/vtvcab-4-on-movies/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "vtvcab-4-on-movies",
+                                            "name": "Vtvcab 4 – On Movies",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-4-on-movies/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "vtvcab-5-e-channel-hd",
+            "name": "VTVcab 5 - E Channel HD",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/vtvcab-5-e-channel-hd/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "vtvcab-5-e-channel-hd",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "vtvcab-5-e-channel-hd",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "vtvcab-5-e-channel-hd",
+                                    "name": "VTVcab 5 - E Channel HD",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/vtvcab-5-e-channel-hd/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "vtvcab-5-e-channel-hd",
+                                            "name": "VTVcab 5 - E Channel HD",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-5-e-channel-hd/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "vtvcab-12-styletv-hd",
+            "name": "VTVcab 12 - StyleTV HD",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/vtvcab-12-styletv-hd/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "vtvcab-12-styletv-hd",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "vtvcab-12-styletv-hd",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "vtvcab-12-styletv-hd",
+                                    "name": "VTVcab 12 - StyleTV HD",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/vtvcab-12-styletv-hd/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "vtvcab-12-styletv-hd",
+                                            "name": "VTVcab 12 - StyleTV HD",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-12-styletv-hd/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "vtvcab15-on-music",
+            "name": "VTVcab15 – On Music",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/vtvcab15-on-music/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "vtvcab15-on-music",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "vtvcab15-on-music",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "vtvcab15-on-music",
+                                    "name": "VTVcab15 – On Music",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/vtvcab15-on-music/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "vtvcab15-on-music",
+                                            "name": "VTVcab15 – On Music",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab15-on-music/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "vtvcab17-trending-tv",
+            "name": "Vtvcab17 – Trending TV",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/vtvcab17-trending-tv/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "vtvcab17-trending-tv",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "vtvcab17-trending-tv",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "vtvcab17-trending-tv",
+                                    "name": "Vtvcab17 – Trending TV",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/vtvcab17-trending-tv/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "vtvcab17-trending-tv",
+                                            "name": "Vtvcab17 – Trending TV",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab17-trending-tv/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "vtvcab-20-v-family-hd",
+            "name": "VTVcab 20 - V Family HD",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/vtvcab-20-v-family-hd/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "vtvcab-20-v-family-hd",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "vtvcab-20-v-family-hd",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "vtvcab-20-v-family-hd",
+                                    "name": "VTVcab 20 - V Family HD",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/vtvcab-20-v-family-hd/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "vtvcab-20-v-family-hd",
+                                            "name": "VTVcab 20 - V Family HD",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-20-v-family-hd/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "vtvcab-22-life-tv-hd",
+            "name": "VTVcab 22 - Life TV HD",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/vtvcab-22-life-tv-hd/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "vtvcab-22-life-tv-hd",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "vtvcab-22-life-tv-hd",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "vtvcab-22-life-tv-hd",
+                                    "name": "VTVcab 22 - Life TV HD",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/vtvcab-22-life-tv-hd/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "vtvcab-22-life-tv-hd",
+                                            "name": "VTVcab 22 - Life TV HD",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-22-life-tv-hd/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "vtvcab-23-golf-channel",
+            "name": "VTVcab 23 - Golf Channel(Kênh VTV Cab)",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/vtvcab-23-golf-channel/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "vtvcab-23-golf-channel",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "vtvcab-23-golf-channel",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "vtvcab-23-golf-channel",
+                                    "name": "VTVcab 23 - Golf Channel(Kênh VTV Cab)",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/vtvcab-23-golf-channel/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "vtvcab-23-golf-channel",
+                                            "name": "VTVcab 23 - Golf Channel(Kênh VTV Cab)",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-23-golf-channel/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "vtvcab-9-infotv-hd",
+            "name": "VTVcab 9 - InfoTV HD",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/vtvcab-9-infotv-hd/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "vtvcab-9-infotv-hd",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "vtvcab-9-infotv-hd",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "vtvcab-9-infotv-hd",
+                                    "name": "VTVcab 9 - InfoTV HD",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/vtvcab-9-infotv-hd/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "vtvcab-9-infotv-hd",
+                                            "name": "VTVcab 9 - InfoTV HD",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-9-infotv-hd/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "vtvcab13-on-homeshopping",
+            "name": "VTVcab13-On Homeshopping",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/vtvcab13-on-homeshopping/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "vtvcab13-on-homeshopping",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "vtvcab13-on-homeshopping",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "vtvcab13-on-homeshopping",
+                                    "name": "VTVcab13-On Homeshopping",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/vtvcab13-on-homeshopping/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "vtvcab13-on-homeshopping",
+                                            "name": "VTVcab13-On Homeshopping",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab13-on-homeshopping/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "o2tv",
+            "name": "O2TV",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/o2tv/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "o2tv",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "o2tv",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "o2tv",
+                                    "name": "O2TV",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/o2tv/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "o2tv",
+                                            "name": "O2TV",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/o2tv/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "an-vien-hd",
+            "name": "An Viên HD",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/an-vien-hd/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "an-vien-hd",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "an-vien-hd",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "an-vien-hd",
+                                    "name": "An Viên HD",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/an-vien-hd/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "an-vien-hd",
+                                            "name": "An Viên HD",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/an-vien-hd/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "count": 18,
+    "group": "vtv-cab",
+    "group_name": "VTV Cab",
+    "timestamp": "2026-02-05 17:46:56",
+    "display": "slider",
+    "enable_detail": false
+}
