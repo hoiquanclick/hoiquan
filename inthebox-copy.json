@@ -1,0 +1,586 @@
+{
+    "channels": [
+        {
+            "id": "outdoor-hd",
+            "name": "Outdoor HD",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/outdoor-hd/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "outdoor-hd",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "outdoor-hd",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "outdoor-hd",
+                                    "name": "Outdoor HD",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/outdoor-hd/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "outdoor-hd",
+                                            "name": "Outdoor HD",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/outdoor-hd/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "channel-news-asia",
+            "name": "Channel News Asia",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/channel-news-asia/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "channel-news-asia",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "channel-news-asia",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "channel-news-asia",
+                                    "name": "Channel News Asia",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/channel-news-asia/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "channel-news-asia",
+                                            "name": "Channel News Asia",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/channel-news-asia/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "afn-hd",
+            "name": "AFN HD",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/afn-hd/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "afn-hd",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "afn-hd",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "afn-hd",
+                                    "name": "AFN HD",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/afn-hd/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "afn-hd",
+                                            "name": "AFN HD",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/afn-hd/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "hgtv",
+            "name": "HGTV",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/hgtv/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "hgtv",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "hgtv",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "hgtv",
+                                    "name": "HGTV",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/hgtv/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "hgtv",
+                                            "name": "HGTV",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/hgtv/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "kbs-world",
+            "name": "KBS World",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/kbs-world/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "kbs-world",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "kbs-world",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "kbs-world",
+                                    "name": "KBS World",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/kbs-world/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "kbs-world",
+                                            "name": "KBS World",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/kbs-world/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "nhk",
+            "name": "NHK",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/nhk/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "nhk",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "nhk",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "nhk",
+                                    "name": "NHK",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/nhk/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "nhk",
+                                            "name": "NHK",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/nhk/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "france-24",
+            "name": "France 24",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/france-24/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "france-24",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "france-24",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "france-24",
+                                    "name": "France 24",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/france-24/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "france-24",
+                                            "name": "France 24",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/france-24/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "cnbc-sd",
+            "name": "CNBC SD",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/cnbc-sd/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "cnbc-sd",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "cnbc-sd",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "cnbc-sd",
+                                    "name": "CNBC SD",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/cnbc-sd/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "cnbc-sd",
+                                            "name": "CNBC SD",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/cnbc-sd/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "history-hd",
+            "name": "History HD",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/history-hd/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "history-hd",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "history-hd",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "history-hd",
+                                    "name": "History HD",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/history-hd/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "history-hd",
+                                            "name": "History HD",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/history-hd/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "kix",
+            "name": "Kix",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/kix/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "kix",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "kix",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "kix",
+                                    "name": "Kix",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/kix/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "kix",
+                                            "name": "Kix",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/kix/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "arirang",
+            "name": "Arirang",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/arirang/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "arirang",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "arirang",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "arirang",
+                                    "name": "Arirang",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/arirang/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "arirang",
+                                            "name": "Arirang",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/arirang/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "davinci-hd",
+            "name": "DaVinci HD",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/davinci-hd/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "davinci-hd",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "davinci-hd",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "davinci-hd",
+                                    "name": "DaVinci HD",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/davinci-hd/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "davinci-hd",
+                                            "name": "DaVinci HD",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/davinci-hd/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "count": 12,
+    "group": "inthebox-copy",
+    "group_name": "InTheBox Copy",
+    "timestamp": "2026-02-05 17:46:56",
+    "display": "horizontal",
+    "enable_detail": true
+}
