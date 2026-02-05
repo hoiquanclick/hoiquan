@@ -1,0 +1,106 @@
+{
+    "channels": [
+        {
+            "id": "sctv6",
+            "name": "SCTV6",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/sctv6/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "sctv6",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "sctv6",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "sctv6",
+                                    "name": "SCTV6",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/sctv6/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "sctv6",
+                                            "name": "SCTV6",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/sctv6/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "sctv2-today-tv",
+            "name": "SCTV2 - Today TV",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/sctv2-today-tv/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "sctv2-today-tv",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "sctv2-today-tv",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "sctv2-today-tv",
+                                    "name": "SCTV2 - Today TV",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/sctv2-today-tv/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "sctv2-today-tv",
+                                            "name": "SCTV2 - Today TV",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/sctv2-today-tv/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "count": 2,
+    "group": "knh-sctv",
+    "group_name": "Kênh SCTV",
+    "timestamp": "2026-02-05 17:46:56",
+    "display": "horizontal",
+    "enable_detail": true
+}
