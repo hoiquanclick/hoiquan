@@ -266,8 +266,8 @@
             "display": "slider",
             "grid_columns": null,
             "remote_data": {
-                "enable": false,
-                "url": "https://toiyeuvietnam.dpdns.org/MON/group-full.php?group=knh-vtv"
+                "enable": true,
+                "url": "https://raw.githubusercontent.com/hoiquanclick/hoiquan/main/knh-vtv.json"
             },
             "enable_detail": false
         },
@@ -375,8 +375,8 @@
             "display": "slider",
             "grid_columns": null,
             "remote_data": {
-                "enable": false,
-                "url": "https://toiyeuvietnam.dpdns.org/MON/group-full.php?group=knh-thit-yu"
+                "enable": true,
+                "url": "https://raw.githubusercontent.com/hoiquanclick/hoiquan/main/knh-thit-yu.json"
             },
             "enable_detail": false
         },
@@ -628,8 +628,8 @@
             "display": "slider",
             "grid_columns": null,
             "remote_data": {
-                "enable": false,
-                "url": "https://toiyeuvietnam.dpdns.org/MON/group-full.php?group=vtv-cab"
+                "enable": true,
+                "url": "https://raw.githubusercontent.com/hoiquanclick/hoiquan/main/vtv-cab.json"
             },
             "enable_detail": false
         },
@@ -882,7 +882,7 @@
             "grid_columns": null,
             "remote_data": {
                 "enable": true,
-                "url": "https://toiyeuvietnam.dpdns.org/MON/group-full.php?group=inthebox-copy"
+                "url": "https://raw.githubusercontent.com/hoiquanclick/hoiquan/main/inthebox-copy.json"
             },
             "enable_detail": true
         },
@@ -1135,7 +1135,7 @@
             "grid_columns": null,
             "remote_data": {
                 "enable": true,
-                "url": "https://toiyeuvietnam.dpdns.org/MON/group-full.php?group=knh-htv"
+                "url": "https://raw.githubusercontent.com/hoiquanclick/hoiquan/main/knh-htv.json"
             },
             "enable_detail": true
         },
@@ -1340,7 +1340,7 @@
             "grid_columns": null,
             "remote_data": {
                 "enable": true,
-                "url": "https://toiyeuvietnam.dpdns.org/MON/group-full.php?group=knh-vnh-long"
+                "url": "https://raw.githubusercontent.com/hoiquanclick/hoiquan/main/knh-vnh-long.json"
             },
             "enable_detail": true
         },
@@ -1449,7 +1449,7 @@
             "grid_columns": null,
             "remote_data": {
                 "enable": true,
-                "url": "https://toiyeuvietnam.dpdns.org/MON/group-full.php?group=knh-sctv"
+                "url": "https://raw.githubusercontent.com/hoiquanclick/hoiquan/main/knh-sctv.json"
             },
             "enable_detail": true
         },
@@ -1702,7 +1702,7 @@
             "grid_columns": null,
             "remote_data": {
                 "enable": true,
-                "url": "https://toiyeuvietnam.dpdns.org/MON/group-full.php?group=knh-a-phng"
+                "url": "https://raw.githubusercontent.com/hoiquanclick/hoiquan/main/knh-a-phng.json"
             },
             "enable_detail": true
         },
@@ -1811,7 +1811,7 @@
             "grid_columns": null,
             "remote_data": {
                 "enable": true,
-                "url": "https://toiyeuvietnam.dpdns.org/MON/group-full.php?group=knh-fm"
+                "url": "https://raw.githubusercontent.com/hoiquanclick/hoiquan/main/knh-fm.json"
             },
             "enable_detail": true
         },
@@ -2064,12 +2064,12 @@
             "grid_columns": null,
             "remote_data": {
                 "enable": true,
-                "url": "https://toiyeuvietnam.dpdns.org/MON/group-full.php?group=s-kin-trc-tip"
+                "url": "https://raw.githubusercontent.com/hoiquanclick/hoiquan/main/s-kin-trc-tip.json"
             },
             "enable_detail": true
         },
         {
-            "id": "tat-ca",
+            "id": "all",
             "name": "Tất Cả",
             "channels": [
                 {
@@ -2317,7 +2317,7 @@
             "grid_columns": 2,
             "remote_data": {
                 "enable": true,
-                "url": "https://toiyeuvietnam.dpdns.org/MON/group-full.php?group=all"
+                "url": "https://raw.githubusercontent.com/hoiquanclick/hoiquan/main/all.json"
             },
             "enable_detail": true
         },
