@@ -1,0 +1,106 @@
+{
+    "channels": [
+        {
+            "id": "antv",
+            "name": "ANTV",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/antv/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "antv",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "antv",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "antv",
+                                    "name": "ANTV",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/antv/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "antv",
+                                            "name": "ANTV",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/antv/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "qpvn-hd",
+            "name": "QPVN HD",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/qpvn-hd/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "qpvn-hd",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "qpvn-hd",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "qpvn-hd",
+                                    "name": "QPVN HD",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/qpvn-hd/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "qpvn-hd",
+                                            "name": "QPVN HD",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/qpvn-hd/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "count": 2,
+    "group": "knh-thit-yu",
+    "group_name": "Kênh thiết yếu",
+    "timestamp": "2026-02-05 17:46:56",
+    "display": "slider",
+    "enable_detail": false
+}
