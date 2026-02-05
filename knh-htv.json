@@ -1,0 +1,682 @@
+{
+    "channels": [
+        {
+            "id": "htv1",
+            "name": "HTV1",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/htv1/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "htv1",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "htv1",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "htv1",
+                                    "name": "HTV1",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/htv1/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "htv1",
+                                            "name": "HTV1",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/htv1/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "htv2",
+            "name": "HTV2",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/htv2/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "htv2",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "htv2",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "htv2",
+                                    "name": "HTV2",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/htv2/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "htv2",
+                                            "name": "HTV2",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/htv2/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "htv3",
+            "name": "HTV3",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/htv3/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "htv3",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "htv3",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "htv3",
+                                    "name": "HTV3",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/htv3/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "htv3",
+                                            "name": "HTV3",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/htv3/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "htv4",
+            "name": "HTV4",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/htv4/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "htv4",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "htv4",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "htv4",
+                                    "name": "HTV4",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/htv4/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "htv4",
+                                            "name": "HTV4",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/htv4/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "htv7-hd",
+            "name": "HTV7 HD",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/htv7-hd/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "htv7-hd",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "htv7-hd",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "htv7-hd",
+                                    "name": "HTV7 HD",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/htv7-hd/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "htv7-hd",
+                                            "name": "HTV7 HD",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/htv7-hd/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "htv9-hd",
+            "name": "HTV9 HD",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/htv9-hd/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "htv9-hd",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "htv9-hd",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "htv9-hd",
+                                    "name": "HTV9 HD",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/htv9-hd/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "htv9-hd",
+                                            "name": "HTV9 HD",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/htv9-hd/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "htv-the-thao",
+            "name": "HTV Thể Thao",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/htv-the-thao/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "htv-the-thao",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "htv-the-thao",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "htv-the-thao",
+                                    "name": "HTV Thể Thao",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/htv-the-thao/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "htv-the-thao",
+                                            "name": "HTV Thể Thao",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/htv-the-thao/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "htvc-gia-dinh",
+            "name": "HTVC gia đình",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/htvc-gia-dinh/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "htvc-gia-dinh",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "htvc-gia-dinh",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "htvc-gia-dinh",
+                                    "name": "HTVC gia đình",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/htvc-gia-dinh/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "htvc-gia-dinh",
+                                            "name": "HTVC gia đình",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/htvc-gia-dinh/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "htvc-phu-nu",
+            "name": "HTVC phụ Nữ",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/htvc-phu-nu/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "htvc-phu-nu",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "htvc-phu-nu",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "htvc-phu-nu",
+                                    "name": "HTVC phụ Nữ",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/htvc-phu-nu/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "htvc-phu-nu",
+                                            "name": "HTVC phụ Nữ",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/htvc-phu-nu/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "htvc-thuan-viet",
+            "name": "HTVC thuần việt",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/htvc-thuan-viet/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "htvc-thuan-viet",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "htvc-thuan-viet",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "htvc-thuan-viet",
+                                    "name": "HTVC thuần việt",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/htvc-thuan-viet/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "htvc-thuan-viet",
+                                            "name": "HTVC thuần việt",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/htvc-thuan-viet/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "htvc-phim-truyen-hd",
+            "name": "HTVC phim truyện HD",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/htvc-phim-truyen-hd/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "htvc-phim-truyen-hd",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "htvc-phim-truyen-hd",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "htvc-phim-truyen-hd",
+                                    "name": "HTVC phim truyện HD",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/htvc-phim-truyen-hd/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "htvc-phim-truyen-hd",
+                                            "name": "HTVC phim truyện HD",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/htvc-phim-truyen-hd/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "htvc-ca-nhac",
+            "name": "HTVC ca nhạc",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/htvc-ca-nhac/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "htvc-ca-nhac",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "htvc-ca-nhac",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "htvc-ca-nhac",
+                                    "name": "HTVC ca nhạc",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/htvc-ca-nhac/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "htvc-ca-nhac",
+                                            "name": "HTVC ca nhạc",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/htvc-ca-nhac/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "htvc",
+            "name": "HTVC+ Channel B",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/htvc/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "htvc",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "htvc",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "htvc",
+                                    "name": "HTVC+ Channel B",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/htvc/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "htvc",
+                                            "name": "HTVC+ Channel B",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/htvc/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "htvc-du-lich-cuoc-song",
+            "name": "HTVC du lịch & cuộc sống",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/htvc-du-lich-cuoc-song/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "htvc-du-lich-cuoc-song",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "htvc-du-lich-cuoc-song",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "htvc-du-lich-cuoc-song",
+                                    "name": "HTVC du lịch & cuộc sống",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/htvc-du-lich-cuoc-song/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "htvc-du-lich-cuoc-song",
+                                            "name": "HTVC du lịch & cuộc sống",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/htvc-du-lich-cuoc-song/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "count": 14,
+    "group": "knh-htv",
+    "group_name": "Kênh HTV",
+    "timestamp": "2026-02-05 17:46:56",
+    "display": "horizontal",
+    "enable_detail": true
+}
