@@ -1,0 +1,106 @@
+{
+    "channels": [
+        {
+            "id": "fm90",
+            "name": "FM90(Kênh FM)",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/fm90/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "fm90",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "fm90",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "fm90",
+                                    "name": "FM90(Kênh FM)",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/fm90/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "fm90",
+                                            "name": "FM90(Kênh FM)",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/fm90/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "fm96",
+            "name": "FM96(Kênh FM)",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/fm96/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "fm96",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "fm96",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "fm96",
+                                    "name": "FM96(Kênh FM)",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/fm96/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "fm96",
+                                            "name": "FM96(Kênh FM)",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/fm96/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "count": 2,
+    "group": "knh-fm",
+    "group_name": "Kênh FM",
+    "timestamp": "2026-02-05 17:46:56",
+    "display": "horizontal",
+    "enable_detail": true
+}
