@@ -1,0 +1,442 @@
+{
+    "channels": [
+        {
+            "id": "hitv",
+            "name": "HITV",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/hitv/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "hitv",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "hitv",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "hitv",
+                                    "name": "HITV",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/hitv/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "hitv",
+                                            "name": "HITV",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/hitv/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "youtv",
+            "name": "YouTV",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/youtv/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "youtv",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "youtv",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "youtv",
+                                    "name": "YouTV",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/youtv/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "youtv",
+                                            "name": "YouTV",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/youtv/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "tv360.live",
+            "name": "TV360 Live",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/tv360.live/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "tv360live",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "tv360live",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "tv360live",
+                                    "name": "TV360 Live",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/tv360.live/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "tv360live",
+                                            "name": "TV360 Live",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360.live/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "tv360-9",
+            "name": "TV360+ 9",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/tv360-9/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "tv360-9",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "tv360-9",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "tv360-9",
+                                    "name": "TV360+ 9",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/tv360-9/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "tv360-9",
+                                            "name": "TV360+ 9",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-9/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "tv360-10",
+            "name": "TV360+ 10",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/tv360-10/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "tv360-10",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "tv360-10",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "tv360-10",
+                                    "name": "TV360+ 10",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/tv360-10/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "tv360-10",
+                                            "name": "TV360+ 10",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-10/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "tv360-11",
+            "name": "TV360+ 11",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/tv360-11/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "tv360-11",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "tv360-11",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "tv360-11",
+                                    "name": "TV360+ 11",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/tv360-11/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "tv360-11",
+                                            "name": "TV360+ 11",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-11/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "phim-viet",
+            "name": "Phim Việt",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/phim-viet/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "phim-viet",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "phim-viet",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "phim-viet",
+                                    "name": "Phim Việt",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/phim-viet/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "phim-viet",
+                                            "name": "Phim Việt",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/phim-viet/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "phim-au-my",
+            "name": "Phim Âu Mỹ",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/phim-au-my/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "phim-au-my",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "phim-au-my",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "phim-au-my",
+                                    "name": "Phim Âu Mỹ",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/phim-au-my/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "phim-au-my",
+                                            "name": "Phim Âu Mỹ",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/phim-au-my/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "hoat-hinh",
+            "name": "Hoạt hình",
+            "image": {
+                "display": "cover",
+                "shape": "square",
+                "url": "https://toiyeuvietnam.dpdns.org/Logo/hoat-hinh/KenhCoBan",
+                "height": 101,
+                "width": 155
+            },
+            "type": "single",
+            "display": "text-below",
+            "sources": [
+                {
+                    "id": "hoat-hinh",
+                    "name": "",
+                    "contents": [
+                        {
+                            "id": "hoat-hinh",
+                            "name": "",
+                            "streams": [
+                                {
+                                    "id": "hoat-hinh",
+                                    "name": "Hoạt hình",
+                                    "image": {
+                                        "display": "contain",
+                                        "shape": "square",
+                                        "url": "https://toiyeuvietnam.dpdns.org/Logo/hoat-hinh/KenhCoBan",
+                                        "height": 101,
+                                        "width": 155
+                                    },
+                                    "stream_links": [
+                                        {
+                                            "id": "hoat-hinh",
+                                            "name": "Hoạt hình",
+                                            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/hoat-hinh/KenhCoBan.m3u8",
+                                            "type": "hls",
+                                            "default": true
+                                        }
+                                    ],
+                                    "remote_data": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "count": 9,
+    "group": "s-kin-trc-tip",
+    "group_name": "Sự kiện trực tiếp",
+    "timestamp": "2026-02-05 17:46:56",
+    "display": "horizontal",
+    "enable_detail": true
+}
