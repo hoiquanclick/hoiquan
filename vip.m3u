@@ -507,6 +507,18 @@ https://toiyeuvietnam.dpdns.org/OnliveTV/tlchd/Free.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 https://toiyeuvietnam.dpdns.org/OnliveTV/babytvhd/Free.m3u8
+#EXTINF:-1 tvg-id="davinci" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="InTheBox Copy" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/davinci/KenhBoSung.png",Davinci
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://toiyeuvietnam.dpdns.org/OnliveTV/davinci/Free.m3u8
+#EXTINF:-1 tvg-id="hgtv" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="InTheBox Copy" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/hgtv/KenhBoSung.png",HGTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://toiyeuvietnam.dpdns.org/OnliveTV/hgtv/Free.m3u8
+#EXTINF:-1 tvg-id="nhk_premium" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="InTheBox Copy" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/nhk_premium/KenhBoSung.png",NHK Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://toiyeuvietnam.dpdns.org/OnliveTV/nhk_premium/Free.m3u8
 #EXTINF:-1 tvg-id="skyf1" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="⚽Lậu" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/skyf1/KenhBoSung.png",Sky Sport F1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
