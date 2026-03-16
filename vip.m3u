@@ -291,6 +291,42 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/phim-viet/KenhCoBan.m3u8
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/phim-au-my/KenhCoBan.m3u8
 #EXTINF:-1 tvg-id="hoat-hinh" group-title="Sự kiện trực tiếp" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/hoat-hinh/KenhCoBan.png",Hoạt hình
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/hoat-hinh/KenhCoBan.m3u8
+#EXTINF:-1 tvg-id="tv360-plus-1" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="Sự kiện trực tiếp" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/tv360-plus-1/KenhBoSung.png",TV360+ 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://toiyeuvietnam.dpdns.org/OnliveTV/tv360-plus-1/Free.m3u8
+#EXTINF:-1 tvg-id="tv360-plus-2" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="Sự kiện trực tiếp" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/tv360-plus-2/KenhBoSung.png",TV360+ 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://toiyeuvietnam.dpdns.org/OnliveTV/tv360-plus-2/Free.m3u8
+#EXTINF:-1 tvg-id="tv360-plus-3" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="Sự kiện trực tiếp" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/tv360-plus-3/KenhBoSung.png",TV360+ 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://toiyeuvietnam.dpdns.org/OnliveTV/tv360-plus-3/Free.m3u8
+#EXTINF:-1 tvg-id="tv360-plus-4" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="Sự kiện trực tiếp" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/tv360-plus-4/KenhBoSung.png",TV360+ 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://toiyeuvietnam.dpdns.org/OnliveTV/tv360-plus-4/Free.m3u8
+#EXTINF:-1 tvg-id="tv360-5" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="Sự kiện trực tiếp" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/tv360-5/KenhBoSung.png",TV360+ 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://toiyeuvietnam.dpdns.org/OnliveTV/tv360-5/Free.m3u8
+#EXTINF:-1 tvg-id="tv360-6" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="Sự kiện trực tiếp" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/tv360-6/KenhBoSung.png",TV360+ 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://toiyeuvietnam.dpdns.org/OnliveTV/tv360-6/Free.m3u8
+#EXTINF:-1 tvg-id="tv360-7" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="Sự kiện trực tiếp" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/tv360-7/KenhBoSung.png",TV360+ 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://toiyeuvietnam.dpdns.org/OnliveTV/tv360-7/Free.m3u8
+#EXTINF:-1 tvg-id="tv360-8" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="Sự kiện trực tiếp" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/tv360-8/KenhBoSung.png",TV360+ 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://toiyeuvietnam.dpdns.org/OnliveTV/tv360-8/Free.m3u8
+#EXTINF:-1 tvg-id="tv360-12" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="Sự kiện trực tiếp" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/tv360-12/KenhBoSung.png",TV360+ 12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://toiyeuvietnam.dpdns.org/OnliveTV/tv360-12/Free.m3u8
 #EXTINF:-1 tvg-id="vietnamtoday" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="Kênh VTV" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vietnamtoday/KenhBoSung.png",Vietnam Today
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
