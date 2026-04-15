@@ -1137,24 +1137,3 @@ https://toiyeuvietnam.dpdns.org/DocQuyen/Livestreaming/TayChayVThanh.m3u8
 https://toiyeuvietnam.dpdns.org/DocQuyen/VSBETTHTHAOHNGU/TayChayVThanh.m3u8
 #EXTINF:-1 tvg-id="XCDA" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/6/TichHop-CoLaTV",XÓC DĨA
 https://toiyeuvietnam.dpdns.org/DocQuyen/XCDA/TayChayVThanh.m3u8
-#EXTINF:-1 tvg-id="HKLNTV1" group-title="HK.TH Lào" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/LNTV1/KenhBoSung.png,LNTV 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://toiyeuvietnam.dpdns.org/CongTac/HKLNTV1/HoangKhai.m3u8
-#EXTINF:-1 tvg-id="HKLNTV3" group-title="HK.TH Lào" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/LNTV3/KenhBoSung.png,LNTV 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://toiyeuvietnam.dpdns.org/CongTac/HKLNTV3/HoangKhai.m3u8
-#EXTINF:-1 tvg-id="HKLATV" group-title="HK.TH Lào" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/LATV/KenhBoSung.png,LATV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://toiyeuvietnam.dpdns.org/CongTac/HKLATV/HoangKhai.m3u8
-#EXTINF:-1 tvg-id="HKESTV" group-title="HK.TH Lào" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/ESTV/KenhBoSung.png,ESTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://toiyeuvietnam.dpdns.org/CongTac/HKESTV/HoangKhai.m3u8
-#EXTINF:-1 tvg-id="HKTVE9" group-title="HK.TH Lào" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/TVE9/KenhBoSung.png,TVE 9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://toiyeuvietnam.dpdns.org/CongTac/HKTVE9/HoangKhai.m3u8
-#EXTINF:-1 tvg-id="HKPSTV" group-title="HK.TH Lào" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/PSTV/KenhBoSung.png,Lao PSTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://toiyeuvietnam.dpdns.org/CongTac/HKPSTV/HoangKhai.m3u8
-#EXTINF:-1 tvg-id="HKMVLao" group-title="HK.TH Lào" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/MVLao/KenhBoSung.png,MVLao
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://toiyeuvietnam.dpdns.org/CongTac/HKMVLao/HoangKhai.m3u8
