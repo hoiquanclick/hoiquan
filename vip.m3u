@@ -1141,24 +1141,24 @@ https://toiyeuvietnam.dpdns.org/DocQuyen/Livestreaming/TayChayVThanh.m3u8
 https://toiyeuvietnam.dpdns.org/DocQuyen/VSBETTHTHAOHNGU/TayChayVThanh.m3u8
 #EXTINF:-1 tvg-id="XCDA" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/6/TichHop-CoLaTV",XÓC DĨA
 https://toiyeuvietnam.dpdns.org/DocQuyen/XCDA/TayChayVThanh.m3u8
-#EXTINF:-1 tvg-id="HKLNTV1" group-title="HK.TH Lào" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20240420/video/58be66c7-73e7-486b-9400-1ff8a4fe7460.png,LNTV 1
+#EXTINF:-1 tvg-id="HKLNTV1" group-title="HK.TH Lào" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20240420/video/58be66c7-73e7-486b-9400-1ff8a4fe7460.png",LNTV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://toiyeuvietnam.dpdns.org/CongTac/HKLNTV1/HoangKhai.m3u8
-#EXTINF:-1 tvg-id="HKLNTV3" group-title="HK.TH Lào" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20240420/video/6853bab5-36a7-4de7-ba0f-9cb23a1ca0cd.png,LNTV 3
+#EXTINF:-1 tvg-id="HKLNTV3" group-title="HK.TH Lào" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20240420/video/6853bab5-36a7-4de7-ba0f-9cb23a1ca0cd.png",LNTV 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://toiyeuvietnam.dpdns.org/CongTac/HKLNTV3/HoangKhai.m3u8
-#EXTINF:-1 tvg-id="HKLATV" group-title="HK.TH Lào" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20240420/video/8a809824-b739-4cb1-b04e-3fc0b364654b.png,LATV
+#EXTINF:-1 tvg-id="HKLATV" group-title="HK.TH Lào" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20240420/video/8a809824-b739-4cb1-b04e-3fc0b364654b.png",LATV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://toiyeuvietnam.dpdns.org/CongTac/HKLATV/HoangKhai.m3u8
-#EXTINF:-1 tvg-id="HKESTV" group-title="HK.TH Lào" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20240420/video/33966f2c-cd97-47c5-9c98-04edff5f2bc8.png,ESTV
+#EXTINF:-1 tvg-id="HKESTV" group-title="HK.TH Lào" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20240420/video/33966f2c-cd97-47c5-9c98-04edff5f2bc8.png",ESTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://toiyeuvietnam.dpdns.org/CongTac/HKESTV/HoangKhai.m3u8
-#EXTINF:-1 tvg-id="HKTVE9" group-title="HK.TH Lào" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20240420/video/0c76d682-7171-4d91-9026-c367927237de.png,TVE 9
+#EXTINF:-1 tvg-id="HKTVE9" group-title="HK.TH Lào" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20240420/video/0c76d682-7171-4d91-9026-c367927237de.png",TVE 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://toiyeuvietnam.dpdns.org/CongTac/HKTVE9/HoangKhai.m3u8
-#EXTINF:-1 tvg-id="HKPSTV" group-title="HK.TH Lào" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20240420/video/7c0f18bd-3e64-46d6-9737-474b03a5b20c.png,Lao PSTV
+#EXTINF:-1 tvg-id="HKPSTV" group-title="HK.TH Lào" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20240420/video/7c0f18bd-3e64-46d6-9737-474b03a5b20c.png",Lao PSTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://toiyeuvietnam.dpdns.org/CongTac/HKPSTV/HoangKhai.m3u8
-#EXTINF:-1 tvg-id="HKMVLao" group-title="HK.TH Lào" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20240420/video/7c0f18bd-3e64-46d6-9737-474b03a5b20c.png,MVLao
+#EXTINF:-1 tvg-id="HKMVLao" group-title="HK.TH Lào" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20240420/video/7c0f18bd-3e64-46d6-9737-474b03a5b20c.png",MVLao
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://toiyeuvietnam.dpdns.org/CongTac/HKMVLao/HoangKhai.m3u8
