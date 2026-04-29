@@ -954,6 +954,8 @@ https://toiyeuvietnam.dpdns.org/CongTac/HKTVE9/HoangKhai.m3u8
 https://toiyeuvietnam.dpdns.org/CongTac/HKPSTV/HoangKhai.m3u8
 #EXTINF:-1 tvg-id="HKMVLao" group-title="HK.TH Lào" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20240420/video/7c0f18bd-3e64-46d6-9737-474b03a5b20c.png",MVLao
 https://toiyeuvietnam.dpdns.org/CongTac/HKMVLao/HoangKhai.m3u8
+#EXTINF:-1 tvg-id="HKSkyWorld" group-title="HK.TH Lào" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230918/video/f0682015-1191-4c65-881c-a6cab1d7a680.png",SkyWorld Channel 8
+https://toiyeuvietnam.dpdns.org/CongTac/HKSkyWorld/HoangKhai.m3u8
 #EXTINF:-1 tvg-id="HKmytv" group-title="HK.TH Campuchia" tvg-logo="http://cambodia.mom-gmr.org/uploads/tx_lfrogmom/media/13-400_import.png",MY TV
 https://toiyeuvietnam.dpdns.org/CongTac/HKmytv/HoangKhai.m3u8
 #EXTINF:-1 tvg-id="HKCTN.kh" group-title="HK.TH Campuchia" tvg-logo="https://ctn.com.kh/wp-content/themes/ctntvcambodia/img/logo.png",CTN
