@@ -562,32 +562,38 @@ https://toiyeuvietnam.dpdns.org/OnliveTV/OANNetwork/Free.m3u8
 #EXTINF:-1 tvg-id="zoomoo" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="InTheBox Copy" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/zoomoo/KenhBoSung.png",ZooMoo
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 https://toiyeuvietnam.dpdns.org/OnliveTV/zoomoo/Free.m3u8
-#EXTINF:-1 tvg-id="BunBoGioHeo" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/BunBoGioHeo/TichHop-Socolive",Nạp 10h15-09/05/2026
+#EXTINF:-1 tvg-id="BunBoGioHeo" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/BunBoGioHeo/TichHop-Socolive",Nạp 10h30-09/05/2026
 https://toiyeuvietnam.dpdns.org/BunBo/BunBoGioHeo/GioHeo.m3u8
-#EXTINF:-1 tvg-id="9912041" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912041/TichHop-Socolive",OFC OPL: Auckland FC Reserves vs Bula FC
-https://toiyeuvietnam.dpdns.org/BunBo/9912041/GioHeo.m3u8
-#EXTINF:-1 tvg-id="9912099" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912099/TichHop-Socolive",NBA: Minnesota Timberwolves vs San Antonio Spurs
-https://toiyeuvietnam.dpdns.org/BunBo/9912099/GioHeo.m3u8
 #EXTINF:-1 tvg-id="558264" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/558264/TichHop-Socolive",NBA: Minnesota Timberwolves vs San Antonio Spurs
 https://toiyeuvietnam.dpdns.org/BunBo/558264/GioHeo.m3u8
-#EXTINF:-1 tvg-id="9912106" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912106/TichHop-Socolive",NBA: Minnesota Timberwolves vs San Antonio Spurs
-https://toiyeuvietnam.dpdns.org/BunBo/9912106/GioHeo.m3u8
-#EXTINF:-1 tvg-id="9912112" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912112/TichHop-Socolive",NBA: Minnesota Timberwolves vs San Antonio Spurs
-https://toiyeuvietnam.dpdns.org/BunBo/9912112/GioHeo.m3u8
-#EXTINF:-1 tvg-id="9912110" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912110/TichHop-Socolive",OFC OPL: Auckland FC Reserves vs Bula FC
-https://toiyeuvietnam.dpdns.org/BunBo/9912110/GioHeo.m3u8
-#EXTINF:-1 tvg-id="414317" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/414317/TichHop-Socolive",OFC OPL: Auckland FC Reserves vs Bula FC
-https://toiyeuvietnam.dpdns.org/BunBo/414317/GioHeo.m3u8
-#EXTINF:-1 tvg-id="9912115" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912115/TichHop-Socolive",NBA: Minnesota Timberwolves vs San Antonio Spurs
-https://toiyeuvietnam.dpdns.org/BunBo/9912115/GioHeo.m3u8
 #EXTINF:-1 tvg-id="356042" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/356042/TichHop-Socolive",NBA: Minnesota Timberwolves vs San Antonio Spurs
 https://toiyeuvietnam.dpdns.org/BunBo/356042/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912110" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912110/TichHop-Socolive",OFC OPL: Auckland FC Reserves vs Bula FC
+https://toiyeuvietnam.dpdns.org/BunBo/9912110/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912115" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912115/TichHop-Socolive",NBA: Minnesota Timberwolves vs San Antonio Spurs
+https://toiyeuvietnam.dpdns.org/BunBo/9912115/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912112" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912112/TichHop-Socolive",NBA: Minnesota Timberwolves vs San Antonio Spurs
+https://toiyeuvietnam.dpdns.org/BunBo/9912112/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912041" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912041/TichHop-Socolive",OFC OPL: Auckland FC Reserves vs Bula FC
+https://toiyeuvietnam.dpdns.org/BunBo/9912041/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912106" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912106/TichHop-Socolive",NBA: Minnesota Timberwolves vs San Antonio Spurs
+https://toiyeuvietnam.dpdns.org/BunBo/9912106/GioHeo.m3u8
 #EXTINF:-1 tvg-id="534219" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/534219/TichHop-Socolive",OFC OPL: Auckland FC Reserves vs Bula FC
 https://toiyeuvietnam.dpdns.org/BunBo/534219/GioHeo.m3u8
-#EXTINF:-1 tvg-id="235232" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/235232/TichHop-Socolive",OFC OPL: Auckland FC Reserves vs Bula FC
-https://toiyeuvietnam.dpdns.org/BunBo/235232/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912099" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912099/TichHop-Socolive",NBA: Minnesota Timberwolves vs San Antonio Spurs
+https://toiyeuvietnam.dpdns.org/BunBo/9912099/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912122" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912122/TichHop-Socolive",AUS WAL: Melbourne City Women vs Melbourne Victory Women
+https://toiyeuvietnam.dpdns.org/BunBo/9912122/GioHeo.m3u8
 #EXTINF:-1 tvg-id="485739" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/485739/TichHop-Socolive",OFC OPL: Auckland FC Reserves vs Bula FC
 https://toiyeuvietnam.dpdns.org/BunBo/485739/GioHeo.m3u8
+#EXTINF:-1 tvg-id="414317" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/414317/TichHop-Socolive",OFC OPL: Auckland FC Reserves vs Bula FC
+https://toiyeuvietnam.dpdns.org/BunBo/414317/GioHeo.m3u8
+#EXTINF:-1 tvg-id="235232" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/235232/TichHop-Socolive",OFC OPL: Auckland FC Reserves vs Bula FC
+https://toiyeuvietnam.dpdns.org/BunBo/235232/GioHeo.m3u8
+#EXTINF:-1 tvg-id="321443" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/321443/TichHop-Socolive",AUS NNSW: Weston Workers FC vs Valentine
+https://toiyeuvietnam.dpdns.org/BunBo/321443/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912114" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912114/TichHop-Socolive",AUS NNSW: Weston Workers FC vs Valentine
+https://toiyeuvietnam.dpdns.org/BunBo/9912114/GioHeo.m3u8
 #EXTINF:-1 tvg-id="ednm9whwxwjgryo" group-title="Hội Quán Live ⚽️" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/ednm9whwxwjgryo/TichHop-RoBong",🟢 Los Angeles FC-Austin FC
 https://toiyeuvietnam.dpdns.org/RoBongTV/ednm9whwxwjgryo/truyenhinh.m3u8
 #EXTINF:-1 tvg-id="x7lm7phjwy4zm2w" group-title="Hội Quán Live ⚽️" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/x7lm7phjwy4zm2w/TichHop-RoBong",🟢 FC Kairat-KuPs
