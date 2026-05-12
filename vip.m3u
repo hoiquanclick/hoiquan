@@ -562,24 +562,20 @@ https://toiyeuvietnam.dpdns.org/OnliveTV/OANNetwork/Free.m3u8
 #EXTINF:-1 tvg-id="zoomoo" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="InTheBox Copy" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/zoomoo/KenhBoSung.png",ZooMoo
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 https://toiyeuvietnam.dpdns.org/OnliveTV/zoomoo/Free.m3u8
-#EXTINF:-1 tvg-id="BunBoGioHeo" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/BunBoGioHeo/TichHop-Socolive",Nạp 16h30-12/05/2026
+#EXTINF:-1 tvg-id="BunBoGioHeo" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/BunBoGioHeo/TichHop-Socolive",Nạp 16h45-12/05/2026
 https://toiyeuvietnam.dpdns.org/BunBo/BunBoGioHeo/GioHeo.m3u8
-#EXTINF:-1 tvg-id="304148" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/304148/TichHop-Socolive",AUS CGP: Canberra White Eagles vs Queanbeyan City
-https://toiyeuvietnam.dpdns.org/BunBo/304148/GioHeo.m3u8
-#EXTINF:-1 tvg-id="9912060" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912060/TichHop-Socolive",UKR D1: FK Oleksandria vs Zorya
-https://toiyeuvietnam.dpdns.org/BunBo/9912060/GioHeo.m3u8
-#EXTINF:-1 tvg-id="605223" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/605223/TichHop-Socolive",UKR D1: FK Oleksandria vs Zorya
-https://toiyeuvietnam.dpdns.org/BunBo/605223/GioHeo.m3u8
-#EXTINF:-1 tvg-id="9912106" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912106/TichHop-Socolive",MPBL: Negros Hacienderos vs Marikina Shoemasters
-https://toiyeuvietnam.dpdns.org/BunBo/9912106/GioHeo.m3u8
 #EXTINF:-1 tvg-id="9912108" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912108/TichHop-Socolive",AUS CGP: Canberra White Eagles vs Queanbeyan City
 https://toiyeuvietnam.dpdns.org/BunBo/9912108/GioHeo.m3u8
-#EXTINF:-1 tvg-id="9912112" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912112/TichHop-Socolive",MPBL: Negros Hacienderos vs Marikina Shoemasters
-https://toiyeuvietnam.dpdns.org/BunBo/9912112/GioHeo.m3u8
-#EXTINF:-1 tvg-id="534055" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/534055/TichHop-Socolive",UKR D1: FK Oleksandria vs Zorya
-https://toiyeuvietnam.dpdns.org/BunBo/534055/GioHeo.m3u8
+#EXTINF:-1 tvg-id="605223" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/605223/TichHop-Socolive",UKR D1: FK Oleksandria vs Zorya
+https://toiyeuvietnam.dpdns.org/BunBo/605223/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912060" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912060/TichHop-Socolive",UKR D1: FK Oleksandria vs Zorya
+https://toiyeuvietnam.dpdns.org/BunBo/9912060/GioHeo.m3u8
 #EXTINF:-1 tvg-id="485739" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/485739/TichHop-Socolive",AUS CGP: Canberra White Eagles vs Queanbeyan City
 https://toiyeuvietnam.dpdns.org/BunBo/485739/GioHeo.m3u8
+#EXTINF:-1 tvg-id="534055" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/534055/TichHop-Socolive",UKR D1: FK Oleksandria vs Zorya
+https://toiyeuvietnam.dpdns.org/BunBo/534055/GioHeo.m3u8
+#EXTINF:-1 tvg-id="304148" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/304148/TichHop-Socolive",AUS CGP: Canberra White Eagles vs Queanbeyan City
+https://toiyeuvietnam.dpdns.org/BunBo/304148/GioHeo.m3u8
 #EXTINF:-1 tvg-id="ednm9whwxwjgryo" group-title="Hội Quán Live ⚽️" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/ednm9whwxwjgryo/TichHop-RoBong",🟢 Los Angeles FC-Austin FC
 https://toiyeuvietnam.dpdns.org/RoBongTV/ednm9whwxwjgryo/truyenhinh.m3u8
 #EXTINF:-1 tvg-id="x7lm7phjwy4zm2w" group-title="Hội Quán Live ⚽️" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/x7lm7phjwy4zm2w/TichHop-RoBong",🟢 FC Kairat-KuPs
