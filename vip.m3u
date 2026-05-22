@@ -562,42 +562,34 @@ https://toiyeuvietnam.dpdns.org/OnliveTV/OANNetwork/Free.m3u8
 #EXTINF:-1 tvg-id="zoomoo" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="InTheBox Copy" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/zoomoo/KenhBoSung.png",ZooMoo
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 https://toiyeuvietnam.dpdns.org/OnliveTV/zoomoo/Free.m3u8
-#EXTINF:-1 tvg-id="BunBoGioHeo" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/BunBoGioHeo/TichHop-Socolive",Nạp 09h45-22/05/2026
+#EXTINF:-1 tvg-id="BunBoGioHeo" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/BunBoGioHeo/TichHop-Socolive",Nạp 10h00-22/05/2026
 https://toiyeuvietnam.dpdns.org/BunBo/BunBoGioHeo/GioHeo.m3u8
-#EXTINF:-1 tvg-id="9912108" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912108/TichHop-Socolive",MEX D1: Cruz Azul vs Pumas U.N.A.M.
-https://toiyeuvietnam.dpdns.org/BunBo/9912108/GioHeo.m3u8
-#EXTINF:-1 tvg-id="9912015" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912015/TichHop-Socolive",MEX D1: Cruz Azul vs Pumas U.N.A.M.
-https://toiyeuvietnam.dpdns.org/BunBo/9912015/GioHeo.m3u8
+#EXTINF:-1 tvg-id="527383" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/527383/TichHop-Socolive",CON CSA: Macara vs Alianza Atletico Sullana
+https://toiyeuvietnam.dpdns.org/BunBo/527383/GioHeo.m3u8
 #EXTINF:-1 tvg-id="387694" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/387694/TichHop-Socolive",CON CSA: Macara vs Alianza Atletico Sullana
 https://toiyeuvietnam.dpdns.org/BunBo/387694/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912122" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912122/TichHop-Socolive",MEX D1: Cruz Azul vs Pumas U.N.A.M.
+https://toiyeuvietnam.dpdns.org/BunBo/9912122/GioHeo.m3u8
+#EXTINF:-1 tvg-id="548860" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/548860/TichHop-Socolive",CON CSA: Macara vs Alianza Atletico Sullana
+https://toiyeuvietnam.dpdns.org/BunBo/548860/GioHeo.m3u8
 #EXTINF:-1 tvg-id="9912091" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912091/TichHop-Socolive",MEX D1: Cruz Azul vs Pumas U.N.A.M.
 https://toiyeuvietnam.dpdns.org/BunBo/9912091/GioHeo.m3u8
+#EXTINF:-1 tvg-id="605412" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/605412/TichHop-Socolive",CON CSA: Macara vs Alianza Atletico Sullana
+https://toiyeuvietnam.dpdns.org/BunBo/605412/GioHeo.m3u8
 #EXTINF:-1 tvg-id="9912008" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912008/TichHop-Socolive",CON CSA: Macara vs Alianza Atletico Sullana
 https://toiyeuvietnam.dpdns.org/BunBo/9912008/GioHeo.m3u8
 #EXTINF:-1 tvg-id="534055" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/534055/TichHop-Socolive",CON CSA: Macara vs Alianza Atletico Sullana
 https://toiyeuvietnam.dpdns.org/BunBo/534055/GioHeo.m3u8
-#EXTINF:-1 tvg-id="605412" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/605412/TichHop-Socolive",CON CSA: Macara vs Alianza Atletico Sullana
-https://toiyeuvietnam.dpdns.org/BunBo/605412/GioHeo.m3u8
-#EXTINF:-1 tvg-id="548860" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/548860/TichHop-Socolive",CON CSA: Macara vs Alianza Atletico Sullana
-https://toiyeuvietnam.dpdns.org/BunBo/548860/GioHeo.m3u8
-#EXTINF:-1 tvg-id="9912122" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912122/TichHop-Socolive",MEX D1: Cruz Azul vs Pumas U.N.A.M.
-https://toiyeuvietnam.dpdns.org/BunBo/9912122/GioHeo.m3u8
-#EXTINF:-1 tvg-id="414317" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/414317/TichHop-Socolive",MEX D1: Cruz Azul vs Pumas U.N.A.M.
-https://toiyeuvietnam.dpdns.org/BunBo/414317/GioHeo.m3u8
-#EXTINF:-1 tvg-id="527383" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/527383/TichHop-Socolive",CON CSA: Macara vs Alianza Atletico Sullana
-https://toiyeuvietnam.dpdns.org/BunBo/527383/GioHeo.m3u8
 #EXTINF:-1 tvg-id="494201" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/494201/TichHop-Socolive",MEX D1: Cruz Azul vs Pumas U.N.A.M.
 https://toiyeuvietnam.dpdns.org/BunBo/494201/GioHeo.m3u8
+#EXTINF:-1 tvg-id="414317" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/414317/TichHop-Socolive",MEX D1: Cruz Azul vs Pumas U.N.A.M.
+https://toiyeuvietnam.dpdns.org/BunBo/414317/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912108" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912108/TichHop-Socolive",MEX D1: Cruz Azul vs Pumas U.N.A.M.
+https://toiyeuvietnam.dpdns.org/BunBo/9912108/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912015" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912015/TichHop-Socolive",MEX D1: Cruz Azul vs Pumas U.N.A.M.
+https://toiyeuvietnam.dpdns.org/BunBo/9912015/GioHeo.m3u8
 #EXTINF:-1 tvg-id="356042" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/356042/TichHop-Socolive",WNBA: Phoenix Mercury W vs Los Angeles Sparks W
 https://toiyeuvietnam.dpdns.org/BunBo/356042/GioHeo.m3u8
-#EXTINF:-1 tvg-id="9912106" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912106/TichHop-Socolive",NBA: New York Knicks vs Cleveland Cavaliers
-https://toiyeuvietnam.dpdns.org/BunBo/9912106/GioHeo.m3u8
-#EXTINF:-1 tvg-id="9912115" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912115/TichHop-Socolive",NBA: New York Knicks vs Cleveland Cavaliers
-https://toiyeuvietnam.dpdns.org/BunBo/9912115/GioHeo.m3u8
-#EXTINF:-1 tvg-id="9912112" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912112/TichHop-Socolive",NBA: New York Knicks vs Cleveland Cavaliers
-https://toiyeuvietnam.dpdns.org/BunBo/9912112/GioHeo.m3u8
-#EXTINF:-1 tvg-id="9912099" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912099/TichHop-Socolive",NBA: New York Knicks vs Cleveland Cavaliers
-https://toiyeuvietnam.dpdns.org/BunBo/9912099/GioHeo.m3u8
 #EXTINF:-1 tvg-id="ednm9whwxwjgryo" group-title="Hội Quán Live ⚽️" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/ednm9whwxwjgryo/TichHop-RoBong",🟢 Los Angeles FC-Austin FC
 https://toiyeuvietnam.dpdns.org/RoBongTV/ednm9whwxwjgryo/truyenhinh.m3u8
 #EXTINF:-1 tvg-id="x7lm7phjwy4zm2w" group-title="Hội Quán Live ⚽️" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/x7lm7phjwy4zm2w/TichHop-RoBong",🟢 FC Kairat-KuPs
