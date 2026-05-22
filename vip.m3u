@@ -562,34 +562,38 @@ https://toiyeuvietnam.dpdns.org/OnliveTV/OANNetwork/Free.m3u8
 #EXTINF:-1 tvg-id="zoomoo" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="InTheBox Copy" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/zoomoo/KenhBoSung.png",ZooMoo
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 https://toiyeuvietnam.dpdns.org/OnliveTV/zoomoo/Free.m3u8
-#EXTINF:-1 tvg-id="BunBoGioHeo" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/BunBoGioHeo/TichHop-Socolive",Nạp 15h30-22/05/2026
+#EXTINF:-1 tvg-id="BunBoGioHeo" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/BunBoGioHeo/TichHop-Socolive",Nạp 15h45-22/05/2026
 https://toiyeuvietnam.dpdns.org/BunBo/BunBoGioHeo/GioHeo.m3u8
-#EXTINF:-1 tvg-id="414317" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/414317/TichHop-Socolive",IDN D1: Arema FC vs PSIM Yogyakarta
-https://toiyeuvietnam.dpdns.org/BunBo/414317/GioHeo.m3u8
-#EXTINF:-1 tvg-id="484845" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/484845/TichHop-Socolive",CHA D2: Dalian Yingbo B vs Tai'an Tiankuang
-https://toiyeuvietnam.dpdns.org/BunBo/484845/GioHeo.m3u8
 #EXTINF:-1 tvg-id="290928" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/290928/TichHop-Socolive",CHA D2: Dalian Yingbo B vs Tai'an Tiankuang
 https://toiyeuvietnam.dpdns.org/BunBo/290928/GioHeo.m3u8
-#EXTINF:-1 tvg-id="462413" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/462413/TichHop-Socolive",IDN D1: Arema FC vs PSIM Yogyakarta
-https://toiyeuvietnam.dpdns.org/BunBo/462413/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912110" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912110/TichHop-Socolive",IDN D1: Arema FC vs PSIM Yogyakarta
+https://toiyeuvietnam.dpdns.org/BunBo/9912110/GioHeo.m3u8
+#EXTINF:-1 tvg-id="414317" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/414317/TichHop-Socolive",IDN D1: Arema FC vs PSIM Yogyakarta
+https://toiyeuvietnam.dpdns.org/BunBo/414317/GioHeo.m3u8
+#EXTINF:-1 tvg-id="527383" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/527383/TichHop-Socolive",IDN D1: Arema FC vs PSIM Yogyakarta
+https://toiyeuvietnam.dpdns.org/BunBo/527383/GioHeo.m3u8
+#EXTINF:-1 tvg-id="527384" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/527384/TichHop-Socolive",CHA D2: Dalian Yingbo B vs Tai'an Tiankuang
+https://toiyeuvietnam.dpdns.org/BunBo/527384/GioHeo.m3u8
+#EXTINF:-1 tvg-id="400722" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/400722/TichHop-Socolive",CHA D2: Dalian Yingbo B vs Tai'an Tiankuang
+https://toiyeuvietnam.dpdns.org/BunBo/400722/GioHeo.m3u8
 #EXTINF:-1 tvg-id="9912015" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912015/TichHop-Socolive",CHA D2: Dalian Yingbo B vs Tai'an Tiankuang
 https://toiyeuvietnam.dpdns.org/BunBo/9912015/GioHeo.m3u8
 #EXTINF:-1 tvg-id="9912108" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912108/TichHop-Socolive",IDN D1: Arema FC vs PSIM Yogyakarta
 https://toiyeuvietnam.dpdns.org/BunBo/9912108/GioHeo.m3u8
-#EXTINF:-1 tvg-id="527383" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/527383/TichHop-Socolive",IDN D1: Arema FC vs PSIM Yogyakarta
-https://toiyeuvietnam.dpdns.org/BunBo/527383/GioHeo.m3u8
-#EXTINF:-1 tvg-id="327159" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/327159/TichHop-Socolive",IDN D1: Arema FC vs PSIM Yogyakarta
-https://toiyeuvietnam.dpdns.org/BunBo/327159/GioHeo.m3u8
-#EXTINF:-1 tvg-id="527384" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/527384/TichHop-Socolive",CHA D2: Dalian Yingbo B vs Tai'an Tiankuang
-https://toiyeuvietnam.dpdns.org/BunBo/527384/GioHeo.m3u8
-#EXTINF:-1 tvg-id="9912110" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912110/TichHop-Socolive",IDN D1: Arema FC vs PSIM Yogyakarta
-https://toiyeuvietnam.dpdns.org/BunBo/9912110/GioHeo.m3u8
+#EXTINF:-1 tvg-id="462413" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/462413/TichHop-Socolive",IDN D1: Arema FC vs PSIM Yogyakarta
+https://toiyeuvietnam.dpdns.org/BunBo/462413/GioHeo.m3u8
+#EXTINF:-1 tvg-id="484845" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/484845/TichHop-Socolive",CHA D2: Dalian Yingbo B vs Tai'an Tiankuang
+https://toiyeuvietnam.dpdns.org/BunBo/484845/GioHeo.m3u8
 #EXTINF:-1 tvg-id="472241" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/472241/TichHop-Socolive",CHA D2: Dalian Yingbo B vs Tai'an Tiankuang
 https://toiyeuvietnam.dpdns.org/BunBo/472241/GioHeo.m3u8
-#EXTINF:-1 tvg-id="400722" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/400722/TichHop-Socolive",CHA D2: Dalian Yingbo B vs Tai'an Tiankuang
-https://toiyeuvietnam.dpdns.org/BunBo/400722/GioHeo.m3u8
+#EXTINF:-1 tvg-id="327159" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/327159/TichHop-Socolive",IDN D1: Arema FC vs PSIM Yogyakarta
+https://toiyeuvietnam.dpdns.org/BunBo/327159/GioHeo.m3u8
 #EXTINF:-1 tvg-id="531989" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/531989/TichHop-Socolive",VIE D2: Ho Chi Minh City vs Truong Tuoi Dong Nai
 https://toiyeuvietnam.dpdns.org/BunBo/531989/GioHeo.m3u8
+#EXTINF:-1 tvg-id="291277" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/291277/TichHop-Socolive",VIE D2: Ho Chi Minh City vs Truong Tuoi Dong Nai
+https://toiyeuvietnam.dpdns.org/BunBo/291277/GioHeo.m3u8
+#EXTINF:-1 tvg-id="513394" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/513394/TichHop-Socolive",SWE D1: Elfsborg vs Mjallby AIF
+https://toiyeuvietnam.dpdns.org/BunBo/513394/GioHeo.m3u8
 #EXTINF:-1 tvg-id="9912106" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912106/TichHop-Socolive",NZBL: Manawatu Jets vs Canterbury Rams
 https://toiyeuvietnam.dpdns.org/BunBo/9912106/GioHeo.m3u8
 #EXTINF:-1 tvg-id="9912099" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912099/TichHop-Socolive",NZBL: Manawatu Jets vs Canterbury Rams
@@ -600,6 +604,8 @@ https://toiyeuvietnam.dpdns.org/BunBo/9912112/GioHeo.m3u8
 https://toiyeuvietnam.dpdns.org/BunBo/9912115/GioHeo.m3u8
 #EXTINF:-1 tvg-id="558264" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/558264/TichHop-Socolive",NZBL: Manawatu Jets vs Canterbury Rams
 https://toiyeuvietnam.dpdns.org/BunBo/558264/GioHeo.m3u8
+#EXTINF:-1 tvg-id="608899" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/608899/TichHop-Socolive",VIE D2: Ho Chi Minh City vs Truong Tuoi Dong Nai
+https://toiyeuvietnam.dpdns.org/BunBo/608899/GioHeo.m3u8
 #EXTINF:-1 tvg-id="ednm9whwxwjgryo" group-title="Hội Quán Live ⚽️" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/ednm9whwxwjgryo/TichHop-RoBong",🟢 Los Angeles FC-Austin FC
 https://toiyeuvietnam.dpdns.org/RoBongTV/ednm9whwxwjgryo/truyenhinh.m3u8
 #EXTINF:-1 tvg-id="x7lm7phjwy4zm2w" group-title="Hội Quán Live ⚽️" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/x7lm7phjwy4zm2w/TichHop-RoBong",🟢 FC Kairat-KuPs
