@@ -709,32 +709,34 @@ https://toiyeuvietnam.dpdns.org/OnliveTV/OANNetwork/Free.m3u8
 #EXTINF:-1 tvg-id="zoomoo" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="InTheBox Copy" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/zoomoo/KenhBoSung.png",ZooMoo
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 https://toiyeuvietnam.dpdns.org/OnliveTV/zoomoo/Free.m3u8
-#EXTINF:-1 tvg-id="BunBoGioHeo" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/BunBoGioHeo/TichHop-Socolive",Nạp 06h00-16/06/2026
+#EXTINF:-1 tvg-id="BunBoGioHeo" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/BunBoGioHeo/TichHop-Socolive",Nạp 06h15-16/06/2026
 https://toiyeuvietnam.dpdns.org/BunBo/BunBoGioHeo/GioHeo.m3u8
-#EXTINF:-1 tvg-id="9912091" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912091/TichHop-Socolive",WORLD CUP: Saudi Arabia vs Uruguay
-https://toiyeuvietnam.dpdns.org/BunBo/9912091/GioHeo.m3u8
 #EXTINF:-1 tvg-id="327159" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/327159/TichHop-Socolive",WORLD CUP: Saudi Arabia vs Uruguay
 https://toiyeuvietnam.dpdns.org/BunBo/327159/GioHeo.m3u8
-#EXTINF:-1 tvg-id="462413" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/462413/TichHop-Socolive",WORLD CUP: Saudi Arabia vs Uruguay
-https://toiyeuvietnam.dpdns.org/BunBo/462413/GioHeo.m3u8
-#EXTINF:-1 tvg-id="991140" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/991140/TichHop-Socolive",WORLD CUP: Saudi Arabia vs Uruguay
-https://toiyeuvietnam.dpdns.org/BunBo/991140/GioHeo.m3u8
-#EXTINF:-1 tvg-id="611382" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/611382/TichHop-Socolive",WORLD CUP: Saudi Arabia vs Uruguay
-https://toiyeuvietnam.dpdns.org/BunBo/611382/GioHeo.m3u8
 #EXTINF:-1 tvg-id="9912122" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912122/TichHop-Socolive",WORLD CUP: Saudi Arabia vs Uruguay
 https://toiyeuvietnam.dpdns.org/BunBo/9912122/GioHeo.m3u8
-#EXTINF:-1 tvg-id="387694" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/387694/TichHop-Socolive",WORLD CUP: Saudi Arabia vs Uruguay
-https://toiyeuvietnam.dpdns.org/BunBo/387694/GioHeo.m3u8
-#EXTINF:-1 tvg-id="527383" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/527383/TichHop-Socolive",WORLD CUP: Saudi Arabia vs Uruguay
-https://toiyeuvietnam.dpdns.org/BunBo/527383/GioHeo.m3u8
-#EXTINF:-1 tvg-id="548860" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/548860/TichHop-Socolive",WORLD CUP: Saudi Arabia vs Uruguay
-https://toiyeuvietnam.dpdns.org/BunBo/548860/GioHeo.m3u8
-#EXTINF:-1 tvg-id="595335" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/595335/TichHop-Socolive",WORLD CUP: Saudi Arabia vs Uruguay
-https://toiyeuvietnam.dpdns.org/BunBo/595335/GioHeo.m3u8
+#EXTINF:-1 tvg-id="991140" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/991140/TichHop-Socolive",WORLD CUP: Saudi Arabia vs Uruguay
+https://toiyeuvietnam.dpdns.org/BunBo/991140/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912091" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912091/TichHop-Socolive",WORLD CUP: Saudi Arabia vs Uruguay
+https://toiyeuvietnam.dpdns.org/BunBo/9912091/GioHeo.m3u8
 #EXTINF:-1 tvg-id="494201" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/494201/TichHop-Socolive",WORLD CUP: Saudi Arabia vs Uruguay
 https://toiyeuvietnam.dpdns.org/BunBo/494201/GioHeo.m3u8
+#EXTINF:-1 tvg-id="595335" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/595335/TichHop-Socolive",WORLD CUP: Saudi Arabia vs Uruguay
+https://toiyeuvietnam.dpdns.org/BunBo/595335/GioHeo.m3u8
 #EXTINF:-1 tvg-id="9912108" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912108/TichHop-Socolive",WORLD CUP: Saudi Arabia vs Uruguay
 https://toiyeuvietnam.dpdns.org/BunBo/9912108/GioHeo.m3u8
+#EXTINF:-1 tvg-id="611382" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/611382/TichHop-Socolive",WORLD CUP: Saudi Arabia vs Uruguay
+https://toiyeuvietnam.dpdns.org/BunBo/611382/GioHeo.m3u8
+#EXTINF:-1 tvg-id="462413" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/462413/TichHop-Socolive",WORLD CUP: Saudi Arabia vs Uruguay
+https://toiyeuvietnam.dpdns.org/BunBo/462413/GioHeo.m3u8
+#EXTINF:-1 tvg-id="387694" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/387694/TichHop-Socolive",WORLD CUP: Saudi Arabia vs Uruguay
+https://toiyeuvietnam.dpdns.org/BunBo/387694/GioHeo.m3u8
+#EXTINF:-1 tvg-id="548860" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/548860/TichHop-Socolive",WORLD CUP: Saudi Arabia vs Uruguay
+https://toiyeuvietnam.dpdns.org/BunBo/548860/GioHeo.m3u8
+#EXTINF:-1 tvg-id="527383" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/527383/TichHop-Socolive",WORLD CUP: Saudi Arabia vs Uruguay
+https://toiyeuvietnam.dpdns.org/BunBo/527383/GioHeo.m3u8
+#EXTINF:-1 tvg-id="235232" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/235232/TichHop-Socolive",BRA D3: Ypiranga(RS) vs Botafogo PB
+https://toiyeuvietnam.dpdns.org/BunBo/235232/GioHeo.m3u8
 #EXTINF:-1 tvg-id="485739" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/485739/TichHop-Socolive",BRA D3: Ferroviaria SP vs Barra FC
 https://toiyeuvietnam.dpdns.org/BunBo/485739/GioHeo.m3u8
 #EXTINF:-1 tvg-id="560690" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/560690/TichHop-Socolive",BRA D3: Ypiranga(RS) vs Botafogo PB
