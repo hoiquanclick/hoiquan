@@ -795,88 +795,94 @@ https://toiyeuvietnam.dpdns.org/OnliveTV/CCTV16/Free.m3u8
 #EXTINF:-1 tvg-id="CCTV17" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="CCTV" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/CCTV17/KenhBoSung.png",CCTV17
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 https://toiyeuvietnam.dpdns.org/OnliveTV/CCTV17/Free.m3u8
-#EXTINF:-1 tvg-id="BunBoGioHeo" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/BunBoGioHeo/TichHop-Socolive",Nạp 00h00-15/07/2026
+#EXTINF:-1 tvg-id="BunBoGioHeo" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/BunBoGioHeo/TichHop-Socolive",Nạp 00h15-15/07/2026
 https://toiyeuvietnam.dpdns.org/BunBo/BunBoGioHeo/GioHeo.m3u8
-#EXTINF:-1 tvg-id="511367" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/511367/TichHop-Socolive",UEFA CL: Inter Club Escaldes vs Lincoln Red Imps FC
-https://toiyeuvietnam.dpdns.org/BunBo/511367/GioHeo.m3u8
-#EXTINF:-1 tvg-id="462413" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/462413/TichHop-Socolive",UEFA CL: KuPs vs FC Vardar Skopje
-https://toiyeuvietnam.dpdns.org/BunBo/462413/GioHeo.m3u8
 #EXTINF:-1 tvg-id="557845" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/557845/TichHop-Socolive",UEFA CL: KuPs vs FC Vardar Skopje
 https://toiyeuvietnam.dpdns.org/BunBo/557845/GioHeo.m3u8
-#EXTINF:-1 tvg-id="527384" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/527384/TichHop-Socolive",UEFA CL: KuPs vs FC Vardar Skopje
-https://toiyeuvietnam.dpdns.org/BunBo/527384/GioHeo.m3u8
-#EXTINF:-1 tvg-id="582342" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/582342/TichHop-Socolive",UEFA CL: Inter Club Escaldes vs Lincoln Red Imps FC
-https://toiyeuvietnam.dpdns.org/BunBo/582342/GioHeo.m3u8
-#EXTINF:-1 tvg-id="622602" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/622602/TichHop-Socolive",UEFA CL: Inter Club Escaldes vs Lincoln Red Imps FC
-https://toiyeuvietnam.dpdns.org/BunBo/622602/GioHeo.m3u8
-#EXTINF:-1 tvg-id="9912114" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912114/TichHop-Socolive",UEFA CL: KuPs vs FC Vardar Skopje
-https://toiyeuvietnam.dpdns.org/BunBo/9912114/GioHeo.m3u8
-#EXTINF:-1 tvg-id="536185" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/536185/TichHop-Socolive",UEFA CL: Inter Club Escaldes vs Lincoln Red Imps FC
-https://toiyeuvietnam.dpdns.org/BunBo/536185/GioHeo.m3u8
-#EXTINF:-1 tvg-id="607400" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/607400/TichHop-Socolive",UEFA CL: Inter Club Escaldes vs Lincoln Red Imps FC
-https://toiyeuvietnam.dpdns.org/BunBo/607400/GioHeo.m3u8
-#EXTINF:-1 tvg-id="472241" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/472241/TichHop-Socolive",UEFA CL: FC Iberia 1999 Tbilisi vs FC Flora Tallinn
-https://toiyeuvietnam.dpdns.org/BunBo/472241/GioHeo.m3u8
-#EXTINF:-1 tvg-id="548860" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/548860/TichHop-Socolive",UEFA CL: KuPs vs FC Vardar Skopje
-https://toiyeuvietnam.dpdns.org/BunBo/548860/GioHeo.m3u8
 #EXTINF:-1 tvg-id="256080" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/256080/TichHop-Socolive",UEFA CL: KuPs vs FC Vardar Skopje
 https://toiyeuvietnam.dpdns.org/BunBo/256080/GioHeo.m3u8
-#EXTINF:-1 tvg-id="291277" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/291277/TichHop-Socolive",INT CF: Sporting CP vs Celtic FC
-https://toiyeuvietnam.dpdns.org/BunBo/291277/GioHeo.m3u8
-#EXTINF:-1 tvg-id="599634" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/599634/TichHop-Socolive",INT CF: Sporting CP vs Celtic FC
-https://toiyeuvietnam.dpdns.org/BunBo/599634/GioHeo.m3u8
-#EXTINF:-1 tvg-id="387694" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/387694/TichHop-Socolive",UEFA CL: Riga FC vs Ararat-Armenia FC
-https://toiyeuvietnam.dpdns.org/BunBo/387694/GioHeo.m3u8
-#EXTINF:-1 tvg-id="552832" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/552832/TichHop-Socolive",UEFA CL: Győri ETO FC vs Vikingur Reykjavik
-https://toiyeuvietnam.dpdns.org/BunBo/552832/GioHeo.m3u8
-#EXTINF:-1 tvg-id="484845" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/484845/TichHop-Socolive",UEFA CL: Riga FC vs Ararat-Armenia FC
-https://toiyeuvietnam.dpdns.org/BunBo/484845/GioHeo.m3u8
-#EXTINF:-1 tvg-id="513394" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/513394/TichHop-Socolive",UEFA CL: Riga FC vs Ararat-Armenia FC
-https://toiyeuvietnam.dpdns.org/BunBo/513394/GioHeo.m3u8
-#EXTINF:-1 tvg-id="527383" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/527383/TichHop-Socolive",UEFA CL: Riga FC vs Ararat-Armenia FC
-https://toiyeuvietnam.dpdns.org/BunBo/527383/GioHeo.m3u8
-#EXTINF:-1 tvg-id="595335" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/595335/TichHop-Socolive",UEFA CL: Győri ETO FC vs Vikingur Reykjavik
-https://toiyeuvietnam.dpdns.org/BunBo/595335/GioHeo.m3u8
 #EXTINF:-1 tvg-id="991140" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/991140/TichHop-Socolive",UEFA CL: Riga FC vs Ararat-Armenia FC
 https://toiyeuvietnam.dpdns.org/BunBo/991140/GioHeo.m3u8
-#EXTINF:-1 tvg-id="558264" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/558264/TichHop-Socolive",WNBA: Connecticut Sun W vs Portland Fire W
-https://toiyeuvietnam.dpdns.org/BunBo/558264/GioHeo.m3u8
-#EXTINF:-1 tvg-id="459401" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/459401/TichHop-Socolive",INT CF: Sporting CP vs Celtic FC
-https://toiyeuvietnam.dpdns.org/BunBo/459401/GioHeo.m3u8
-#EXTINF:-1 tvg-id="610677" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/610677/TichHop-Socolive",INT CF: Sporting CP vs Celtic FC
-https://toiyeuvietnam.dpdns.org/BunBo/610677/GioHeo.m3u8
+#EXTINF:-1 tvg-id="513394" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/513394/TichHop-Socolive",UEFA CL: Riga FC vs Ararat-Armenia FC
+https://toiyeuvietnam.dpdns.org/BunBo/513394/GioHeo.m3u8
+#EXTINF:-1 tvg-id="582342" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/582342/TichHop-Socolive",UEFA CL: Inter Club Escaldes vs Lincoln Red Imps FC
+https://toiyeuvietnam.dpdns.org/BunBo/582342/GioHeo.m3u8
+#EXTINF:-1 tvg-id="387694" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/387694/TichHop-Socolive",UEFA CL: Riga FC vs Ararat-Armenia FC
+https://toiyeuvietnam.dpdns.org/BunBo/387694/GioHeo.m3u8
+#EXTINF:-1 tvg-id="484845" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/484845/TichHop-Socolive",UEFA CL: Riga FC vs Ararat-Armenia FC
+https://toiyeuvietnam.dpdns.org/BunBo/484845/GioHeo.m3u8
+#EXTINF:-1 tvg-id="599634" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/599634/TichHop-Socolive",INT CF: Sporting CP vs Celtic FC
+https://toiyeuvietnam.dpdns.org/BunBo/599634/GioHeo.m3u8
+#EXTINF:-1 tvg-id="291277" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/291277/TichHop-Socolive",INT CF: Sporting CP vs Celtic FC
+https://toiyeuvietnam.dpdns.org/BunBo/291277/GioHeo.m3u8
+#EXTINF:-1 tvg-id="462413" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/462413/TichHop-Socolive",UEFA CL: KuPs vs FC Vardar Skopje
+https://toiyeuvietnam.dpdns.org/BunBo/462413/GioHeo.m3u8
+#EXTINF:-1 tvg-id="602153" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/602153/TichHop-Socolive",UEFA CL: The New Saints vs Sabah Baku
+https://toiyeuvietnam.dpdns.org/BunBo/602153/GioHeo.m3u8
+#EXTINF:-1 tvg-id="527383" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/527383/TichHop-Socolive",UEFA CL: Riga FC vs Ararat-Armenia FC
+https://toiyeuvietnam.dpdns.org/BunBo/527383/GioHeo.m3u8
+#EXTINF:-1 tvg-id="527384" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/527384/TichHop-Socolive",UEFA CL: KuPs vs FC Vardar Skopje
+https://toiyeuvietnam.dpdns.org/BunBo/527384/GioHeo.m3u8
+#EXTINF:-1 tvg-id="552832" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/552832/TichHop-Socolive",UEFA CL: Győri ETO FC vs Vikingur Reykjavik
+https://toiyeuvietnam.dpdns.org/BunBo/552832/GioHeo.m3u8
+#EXTINF:-1 tvg-id="472241" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/472241/TichHop-Socolive",UEFA CL: FC Iberia 1999 Tbilisi vs FC Flora Tallinn
+https://toiyeuvietnam.dpdns.org/BunBo/472241/GioHeo.m3u8
+#EXTINF:-1 tvg-id="595335" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/595335/TichHop-Socolive",UEFA CL: Győri ETO FC vs Vikingur Reykjavik
+https://toiyeuvietnam.dpdns.org/BunBo/595335/GioHeo.m3u8
+#EXTINF:-1 tvg-id="548860" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/548860/TichHop-Socolive",UEFA CL: Riga FC vs Ararat-Armenia FC
+https://toiyeuvietnam.dpdns.org/BunBo/548860/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912114" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912114/TichHop-Socolive",UEFA CL: KuPs vs FC Vardar Skopje
+https://toiyeuvietnam.dpdns.org/BunBo/9912114/GioHeo.m3u8
+#EXTINF:-1 tvg-id="511367" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/511367/TichHop-Socolive",UEFA CL: Inter Club Escaldes vs Lincoln Red Imps FC
+https://toiyeuvietnam.dpdns.org/BunBo/511367/GioHeo.m3u8
 #EXTINF:-1 tvg-id="9912117" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912117/TichHop-Socolive",UEFA CL: FC Iberia 1999 Tbilisi vs FC Flora Tallinn
 https://toiyeuvietnam.dpdns.org/BunBo/9912117/GioHeo.m3u8
-#EXTINF:-1 tvg-id="620003" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/620003/TichHop-Socolive",UEFA CL: FC Iberia 1999 Tbilisi vs FC Flora Tallinn
-https://toiyeuvietnam.dpdns.org/BunBo/620003/GioHeo.m3u8
-#EXTINF:-1 tvg-id="610518" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/610518/TichHop-Socolive",UEFA CL: FC Iberia 1999 Tbilisi vs FC Flora Tallinn
-https://toiyeuvietnam.dpdns.org/BunBo/610518/GioHeo.m3u8
-#EXTINF:-1 tvg-id="607552" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/607552/TichHop-Socolive",UEFA CL: FC Iberia 1999 Tbilisi vs FC Flora Tallinn
-https://toiyeuvietnam.dpdns.org/BunBo/607552/GioHeo.m3u8
+#EXTINF:-1 tvg-id="607400" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/607400/TichHop-Socolive",UEFA CL: Inter Club Escaldes vs Lincoln Red Imps FC
+https://toiyeuvietnam.dpdns.org/BunBo/607400/GioHeo.m3u8
+#EXTINF:-1 tvg-id="610677" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/610677/TichHop-Socolive",INT CF: Sporting CP vs Celtic FC
+https://toiyeuvietnam.dpdns.org/BunBo/610677/GioHeo.m3u8
+#EXTINF:-1 tvg-id="536185" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/536185/TichHop-Socolive",UEFA CL: Inter Club Escaldes vs Lincoln Red Imps FC
+https://toiyeuvietnam.dpdns.org/BunBo/536185/GioHeo.m3u8
+#EXTINF:-1 tvg-id="459401" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/459401/TichHop-Socolive",INT CF: Sporting CP vs Celtic FC
+https://toiyeuvietnam.dpdns.org/BunBo/459401/GioHeo.m3u8
 #EXTINF:-1 tvg-id="622093" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/622093/TichHop-Socolive",UEFA CL: Inter Club Escaldes vs Lincoln Red Imps FC
 https://toiyeuvietnam.dpdns.org/BunBo/622093/GioHeo.m3u8
-#EXTINF:-1 tvg-id="406865" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/406865/TichHop-Socolive",UEFA CL: FC Iberia 1999 Tbilisi vs FC Flora Tallinn
-https://toiyeuvietnam.dpdns.org/BunBo/406865/GioHeo.m3u8
 #EXTINF:-1 tvg-id="485739" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/485739/TichHop-Socolive",UEFA CL: Győri ETO FC vs Vikingur Reykjavik
 https://toiyeuvietnam.dpdns.org/BunBo/485739/GioHeo.m3u8
+#EXTINF:-1 tvg-id="607552" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/607552/TichHop-Socolive",UEFA CL: FC Iberia 1999 Tbilisi vs FC Flora Tallinn
+https://toiyeuvietnam.dpdns.org/BunBo/607552/GioHeo.m3u8
+#EXTINF:-1 tvg-id="610518" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/610518/TichHop-Socolive",UEFA CL: FC Iberia 1999 Tbilisi vs FC Flora Tallinn
+https://toiyeuvietnam.dpdns.org/BunBo/610518/GioHeo.m3u8
+#EXTINF:-1 tvg-id="406865" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/406865/TichHop-Socolive",UEFA CL: FC Iberia 1999 Tbilisi vs FC Flora Tallinn
+https://toiyeuvietnam.dpdns.org/BunBo/406865/GioHeo.m3u8
 #EXTINF:-1 tvg-id="619108" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/619108/TichHop-Socolive",UEFA CL: Győri ETO FC vs Vikingur Reykjavik
 https://toiyeuvietnam.dpdns.org/BunBo/619108/GioHeo.m3u8
+#EXTINF:-1 tvg-id="620003" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/620003/TichHop-Socolive",UEFA CL: FC Iberia 1999 Tbilisi vs FC Flora Tallinn
+https://toiyeuvietnam.dpdns.org/BunBo/620003/GioHeo.m3u8
+#EXTINF:-1 tvg-id="622602" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/622602/TichHop-Socolive",UEFA CL: Inter Club Escaldes vs Lincoln Red Imps FC
+https://toiyeuvietnam.dpdns.org/BunBo/622602/GioHeo.m3u8
 #EXTINF:-1 tvg-id="602019" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/602019/TichHop-Socolive",UEFA CL: Győri ETO FC vs Vikingur Reykjavik
 https://toiyeuvietnam.dpdns.org/BunBo/602019/GioHeo.m3u8
 #EXTINF:-1 tvg-id="491873" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/491873/TichHop-Socolive",UEFA CL: Győri ETO FC vs Vikingur Reykjavik
 https://toiyeuvietnam.dpdns.org/BunBo/491873/GioHeo.m3u8
+#EXTINF:-1 tvg-id="372746" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/372746/TichHop-Socolive",UEFA CL: Levski Sofia vs Borac Banja Luka
+https://toiyeuvietnam.dpdns.org/BunBo/372746/GioHeo.m3u8
+#EXTINF:-1 tvg-id="617313" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/617313/TichHop-Socolive",UEFA CL: Levski Sofia vs Borac Banja Luka
+https://toiyeuvietnam.dpdns.org/BunBo/617313/GioHeo.m3u8
+#EXTINF:-1 tvg-id="598119" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/598119/TichHop-Socolive",UEFA CL: The New Saints vs Sabah Baku
+https://toiyeuvietnam.dpdns.org/BunBo/598119/GioHeo.m3u8
 #EXTINF:-1 tvg-id="175784" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/175784/TichHop-Socolive",BIT.LY/SOCOLIVE
 https://toiyeuvietnam.dpdns.org/BunBo/175784/GioHeo.m3u8
 #EXTINF:-1 tvg-id="343500" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/343500/TichHop-Socolive",Tường thuật: WORLD CUP - Spain vs Belgium
 https://toiyeuvietnam.dpdns.org/BunBo/343500/GioHeo.m3u8
 #EXTINF:-1 tvg-id="179093" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/179093/TichHop-Socolive",Tường thuật: WORLD CUP - Portugal vs Spain
 https://toiyeuvietnam.dpdns.org/BunBo/179093/GioHeo.m3u8
-#EXTINF:-1 tvg-id="133824" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/133824/TichHop-Socolive",Tường thuật: WORLD CUP - Switzerland vs Colombia
-https://toiyeuvietnam.dpdns.org/BunBo/133824/GioHeo.m3u8
-#EXTINF:-1 tvg-id="133277" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/133277/TichHop-Socolive",Tường thuật: WORLD CUP - France vs Morocco
-https://toiyeuvietnam.dpdns.org/BunBo/133277/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912079" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912079/TichHop-Socolive",Tường thuật: WORLD CUP - Argentina vs Switzerland
+https://toiyeuvietnam.dpdns.org/BunBo/9912079/GioHeo.m3u8
 #EXTINF:-1 tvg-id="152898" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/152898/TichHop-Socolive",Tường thuật: WORLD CUP - Norway vs England
 https://toiyeuvietnam.dpdns.org/BunBo/152898/GioHeo.m3u8
+#EXTINF:-1 tvg-id="133824" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/133824/TichHop-Socolive",Tường thuật: WORLD CUP - Switzerland vs Colombia
+https://toiyeuvietnam.dpdns.org/BunBo/133824/GioHeo.m3u8
 #EXTINF:-1 tvg-id="ednm9whwxwjgryo" group-title="Hội Quán Live ⚽️" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/ednm9whwxwjgryo/TichHop-RoBong",🟢 Los Angeles FC-Austin FC
 https://toiyeuvietnam.dpdns.org/RoBongTV/ednm9whwxwjgryo/truyenhinh.m3u8
 #EXTINF:-1 tvg-id="x7lm7phjwy4zm2w" group-title="Hội Quán Live ⚽️" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/x7lm7phjwy4zm2w/TichHop-RoBong",🟢 FC Kairat-KuPs
@@ -1541,6 +1547,10 @@ https://toiyeuvietnam.dpdns.org/HoiLamGi/5eb1afb21486df0007abc57c/index.m3u8
 #EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://toiyeuvietnam.dpdns.org/HoiLamGi/5eb1af2ad345340008fccd1e/index.m3u8
+#EXTINF:-1 tvg-id="62cdc75b1a1cbd0007ed45dc" group-title="News + Opinion" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://images.pluto.tv/channels/62cdc75b1a1cbd0007ed45dc/colorLogoPNG.png",CBS News Chicago
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://toiyeuvietnam.dpdns.org/HoiLamGi/62cdc75b1a1cbd0007ed45dc/index.m3u8
 #EXTINF:-1 tvg-id="5eb1aeb2fd4b8a00076c2047" group-title="Local News" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://images.pluto.tv/channels/5eb1aeb2fd4b8a00076c2047/colorLogoPNG.png",CBS News Chicago
 #EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -1577,10 +1587,6 @@ https://toiyeuvietnam.dpdns.org/HoiLamGi/5dc9b8223687ff000936ed79/index.m3u8
 #EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://toiyeuvietnam.dpdns.org/HoiLamGi/5dc48170e280c80009a861ab/index.m3u8
-#EXTINF:-1 tvg-id="62cdca1cda044a00077b903d" group-title="News + Opinion" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://images.pluto.tv/channels/62cdca1cda044a00077b903d/colorLogoPNG.png",CBS News Philadelphia
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://toiyeuvietnam.dpdns.org/HoiLamGi/62cdca1cda044a00077b903d/index.m3u8
 #EXTINF:-1 tvg-id="5eb1b05ea168cc000767ba67" group-title="Local News" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://images.pluto.tv/channels/5eb1b05ea168cc000767ba67/colorLogoPNG.png",CBS News Philadelphia
 #EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -2057,7 +2063,7 @@ https://toiyeuvietnam.dpdns.org/HoiLamGi/5eb301b7395671000780d100/index.m3u8
 #EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://toiyeuvietnam.dpdns.org/HoiLamGi/60493283ffc52f000710edae/index.m3u8
-#EXTINF:-1 tvg-id="654933ac986ad20008a1f406" group-title="Americana" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://images.pluto.tv/channels/654933ac986ad20008a1f406/colorLogoPNG.png",Little House on the Prairie
+#EXTINF:-1 tvg-id="654933ac986ad20008a1f406" group-title="Westerns" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://images.pluto.tv/channels/654933ac986ad20008a1f406/colorLogoPNG.png",Little House on the Prairie
 #EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://toiyeuvietnam.dpdns.org/HoiLamGi/654933ac986ad20008a1f406/index.m3u8
@@ -2137,7 +2143,7 @@ https://toiyeuvietnam.dpdns.org/HoiLamGi/5e66968a70f34c0007d050be/index.m3u8
 #EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://toiyeuvietnam.dpdns.org/HoiLamGi/65775d29dfed030008cb3db2/index.m3u8
-#EXTINF:-1 tvg-id="65c69b683ba51e00084534a3" group-title="Americana" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://images.pluto.tv/channels/65c69b683ba51e00084534a3/colorLogoPNG.png",Monster Jam
+#EXTINF:-1 tvg-id="65c69b683ba51e00084534a3" group-title="Sports" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://images.pluto.tv/channels/65c69b683ba51e00084534a3/colorLogoPNG.png",Monster Jam
 #EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://toiyeuvietnam.dpdns.org/HoiLamGi/65c69b683ba51e00084534a3/index.m3u8
@@ -2785,7 +2791,7 @@ https://toiyeuvietnam.dpdns.org/HoiLamGi/65c69bf23ef47d0008583967/index.m3u8
 #EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://toiyeuvietnam.dpdns.org/HoiLamGi/60fb053712f22a0007ff14d2/index.m3u8
-#EXTINF:-1 tvg-id="5d40bebc5e3d2750a2239d7e" group-title="Americana" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://images.pluto.tv/channels/5d40bebc5e3d2750a2239d7e/colorLogoPNG.png",TV Land Drama
+#EXTINF:-1 tvg-id="5d40bebc5e3d2750a2239d7e" group-title="Drama" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://images.pluto.tv/channels/5d40bebc5e3d2750a2239d7e/colorLogoPNG.png",TV Land Drama
 #EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://toiyeuvietnam.dpdns.org/HoiLamGi/5d40bebc5e3d2750a2239d7e/index.m3u8
