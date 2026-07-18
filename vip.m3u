@@ -1209,7 +1209,18 @@ https://toiyeuvietnam.dpdns.org/HoiQuanLive/68d77f6244b1ef6e0cfbb739/truyenhinh.
 https://toiyeuvietnam.dpdns.org/HoiQuanLive/68d77fc344b1ef6e0cfbb98e/truyenhinh.m3u8
 #EXTINF:-1 tvg-id="68d77fdc44b1ef6e0cfbba5f" group-title="Hội Quán Live ⚽️" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/68d77fdc44b1ef6e0cfbba5f/TichHop-HoiQuanLive",🟢Barcelona vs Sociedad(23:30 - Phan Bô)
 https://toiyeuvietnam.dpdns.org/HoiQuanLive/68d77fdc44b1ef6e0cfbba5f/truyenhinh.m3u8
-error code: 521
+#EXTINF:-1 tvg-id="AUSFFAWesternUnitedFCvsSydneyFC" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/1/TichHop-CoLaTV",AUS FFA Western United FC vs Sydney FC
+https://toiyeuvietnam.dpdns.org/DocQuyen/AUSFFAWesternUnitedFCvsSydneyFC/TayChayVThanh.m3u8
+#EXTINF:-1 tvg-id="COLATVHNGDNNGK" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/2/TichHop-CoLaTV",COLATV- HƯỚNG DẪN ĐĂNG KÝ
+https://toiyeuvietnam.dpdns.org/DocQuyen/COLATVHNGDNNGK/TayChayVThanh.m3u8
+#EXTINF:-1 tvg-id="LIVEBACARAT" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/3/TichHop-CoLaTV",LIVE BACARAT
+https://toiyeuvietnam.dpdns.org/DocQuyen/LIVEBACARAT/TayChayVThanh.m3u8
+#EXTINF:-1 tvg-id="Livestreaming" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/4/TichHop-CoLaTV",Live streaming
+https://toiyeuvietnam.dpdns.org/DocQuyen/Livestreaming/TayChayVThanh.m3u8
+#EXTINF:-1 tvg-id="VSBETTHTHAOHNGU" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/5/TichHop-CoLaTV",VSBET - THỂ THAO HÀNG ĐẦU
+https://toiyeuvietnam.dpdns.org/DocQuyen/VSBETTHTHAOHNGU/TayChayVThanh.m3u8
+#EXTINF:-1 tvg-id="XCDA" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/6/TichHop-CoLaTV",XÓC DĨA
+https://toiyeuvietnam.dpdns.org/DocQuyen/XCDA/TayChayVThanh.m3u8
 #EXTINF:-1 tvg-id="62ba60f059624e000781c436" group-title="Movies" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://images.pluto.tv/channels/62ba60f059624e000781c436/colorLogoPNG.png",00s Replay
 #EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
