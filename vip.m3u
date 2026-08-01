@@ -795,38 +795,44 @@ https://toiyeuvietnam.dpdns.org/OnliveTV/CCTV16/Free.m3u8
 #EXTINF:-1 tvg-id="CCTV17" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="CCTV" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/CCTV17/KenhBoSung.png",CCTV17
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 https://toiyeuvietnam.dpdns.org/OnliveTV/CCTV17/Free.m3u8
-#EXTINF:-1 tvg-id="BunBoGioHeo" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/BunBoGioHeo/TichHop-Socolive",Nạp 13h30-01/08/2026
+#EXTINF:-1 tvg-id="BunBoGioHeo" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/BunBoGioHeo/TichHop-Socolive",Nạp 13h45-01/08/2026
 https://toiyeuvietnam.dpdns.org/BunBo/BunBoGioHeo/GioHeo.m3u8
-#EXTINF:-1 tvg-id="610677" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/610677/TichHop-Socolive",AUS NSW: Western Sydney Wanderers Youth vs University NSW
-https://toiyeuvietnam.dpdns.org/BunBo/610677/GioHeo.m3u8
+#EXTINF:-1 tvg-id="321443" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/321443/TichHop-Socolive",Aus VPL: Altona Magic vs Caroline Springs George Cross
+https://toiyeuvietnam.dpdns.org/BunBo/321443/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912114" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912114/TichHop-Socolive",Aus VPL: Altona Magic vs Caroline Springs George Cross
+https://toiyeuvietnam.dpdns.org/BunBo/9912114/GioHeo.m3u8
 #EXTINF:-1 tvg-id="607400" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/607400/TichHop-Socolive",AUS NSW: Sutherland Sharks vs Wollongong Wolves
 https://toiyeuvietnam.dpdns.org/BunBo/607400/GioHeo.m3u8
+#EXTINF:-1 tvg-id="235232" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/235232/TichHop-Socolive",AUS NPLQ: Gold Coast United vs Gold Coast Knights
+https://toiyeuvietnam.dpdns.org/BunBo/235232/GioHeo.m3u8
+#EXTINF:-1 tvg-id="527383" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/527383/TichHop-Socolive",AUS FWP: Olympic Kingsway SC vs Bayswater City
+https://toiyeuvietnam.dpdns.org/BunBo/527383/GioHeo.m3u8
+#EXTINF:-1 tvg-id="620003" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/620003/TichHop-Socolive",FFSA SL: West Adelaide SC vs Para Hills Knlghts SC
+https://toiyeuvietnam.dpdns.org/BunBo/620003/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912112" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912112/TichHop-Socolive",MPBL: Ilagan Isabela Cowboys vs Negros Hacienderos
+https://toiyeuvietnam.dpdns.org/BunBo/9912112/GioHeo.m3u8
+#EXTINF:-1 tvg-id="459401" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/459401/TichHop-Socolive",AUS FWP: Fremantle City vs Perth SC
+https://toiyeuvietnam.dpdns.org/BunBo/459401/GioHeo.m3u8
 #EXTINF:-1 tvg-id="552832" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/552832/TichHop-Socolive",FFSA SL: Playford City vs West Torrens Birkalla
 https://toiyeuvietnam.dpdns.org/BunBo/552832/GioHeo.m3u8
 #EXTINF:-1 tvg-id="612098" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/612098/TichHop-Socolive",AUS NSW: Western Sydney Wanderers Youth vs University NSW
 https://toiyeuvietnam.dpdns.org/BunBo/612098/GioHeo.m3u8
-#EXTINF:-1 tvg-id="235232" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/235232/TichHop-Socolive",AUS NPLQ: Gold Coast United vs Gold Coast Knights
-https://toiyeuvietnam.dpdns.org/BunBo/235232/GioHeo.m3u8
-#EXTINF:-1 tvg-id="9912102" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912102/TichHop-Socolive",FFSA SL: Playford City vs West Torrens Birkalla
-https://toiyeuvietnam.dpdns.org/BunBo/9912102/GioHeo.m3u8
-#EXTINF:-1 tvg-id="527383" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/527383/TichHop-Socolive",AUS FWP: Olympic Kingsway SC vs Bayswater City
-https://toiyeuvietnam.dpdns.org/BunBo/527383/GioHeo.m3u8
-#EXTINF:-1 tvg-id="291277" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/291277/TichHop-Socolive",Aus VPL: Avondale FC vs Heidelberg United
-https://toiyeuvietnam.dpdns.org/BunBo/291277/GioHeo.m3u8
-#EXTINF:-1 tvg-id="621887" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/621887/TichHop-Socolive",AUS NSW: Sutherland Sharks vs Wollongong Wolves
-https://toiyeuvietnam.dpdns.org/BunBo/621887/GioHeo.m3u8
-#EXTINF:-1 tvg-id="9912114" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912114/TichHop-Socolive",Aus VPL: Altona Magic vs Caroline Springs George Cross
-https://toiyeuvietnam.dpdns.org/BunBo/9912114/GioHeo.m3u8
-#EXTINF:-1 tvg-id="321443" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/321443/TichHop-Socolive",Aus VPL: Altona Magic vs Caroline Springs George Cross
-https://toiyeuvietnam.dpdns.org/BunBo/321443/GioHeo.m3u8
 #EXTINF:-1 tvg-id="557845" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/557845/TichHop-Socolive",AUS NPLQ: Gold Coast United vs Gold Coast Knights
 https://toiyeuvietnam.dpdns.org/BunBo/557845/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912102" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912102/TichHop-Socolive",FFSA SL: Playford City vs West Torrens Birkalla
+https://toiyeuvietnam.dpdns.org/BunBo/9912102/GioHeo.m3u8
+#EXTINF:-1 tvg-id="610677" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/610677/TichHop-Socolive",AUS NSW: Western Sydney Wanderers Youth vs University NSW
+https://toiyeuvietnam.dpdns.org/BunBo/610677/GioHeo.m3u8
+#EXTINF:-1 tvg-id="621887" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/621887/TichHop-Socolive",AUS NSW: Sutherland Sharks vs Wollongong Wolves
+https://toiyeuvietnam.dpdns.org/BunBo/621887/GioHeo.m3u8
 #EXTINF:-1 tvg-id="603914" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/603914/TichHop-Socolive",FFSA SL: West Adelaide SC vs Para Hills Knlghts SC
 https://toiyeuvietnam.dpdns.org/BunBo/603914/GioHeo.m3u8
-#EXTINF:-1 tvg-id="620003" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/620003/TichHop-Socolive",FFSA SL: West Adelaide SC vs Para Hills Knlghts SC
-https://toiyeuvietnam.dpdns.org/BunBo/620003/GioHeo.m3u8
+#EXTINF:-1 tvg-id="619561" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/619561/TichHop-Socolive",AUS FWP: Fremantle City vs Perth SC
+https://toiyeuvietnam.dpdns.org/BunBo/619561/GioHeo.m3u8
 #EXTINF:-1 tvg-id="622602" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/622602/TichHop-Socolive",AUS FWP: Olympic Kingsway SC vs Bayswater City
 https://toiyeuvietnam.dpdns.org/BunBo/622602/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912115" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912115/TichHop-Socolive",MPBL: Ilagan Isabela Cowboys vs Negros Hacienderos
+https://toiyeuvietnam.dpdns.org/BunBo/9912115/GioHeo.m3u8
 #EXTINF:-1 tvg-id="ednm9whwxwjgryo" group-title="Hội Quán Live ⚽️" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/ednm9whwxwjgryo/TichHop-RoBong",🟢 Los Angeles FC-Austin FC
 https://toiyeuvietnam.dpdns.org/RoBongTV/ednm9whwxwjgryo/truyenhinh.m3u8
 #EXTINF:-1 tvg-id="x7lm7phjwy4zm2w" group-title="Hội Quán Live ⚽️" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/x7lm7phjwy4zm2w/TichHop-RoBong",🟢 FC Kairat-KuPs
