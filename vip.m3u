@@ -801,18 +801,16 @@ https://toiyeuvietnam.dpdns.org/OnliveTV/CCTV16/Free.m3u8
 #EXTINF:-1 tvg-id="CCTV17" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="CCTV" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/CCTV17/KenhBoSung.png",CCTV17
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 https://toiyeuvietnam.dpdns.org/OnliveTV/CCTV17/Free.m3u8
-#EXTINF:-1 tvg-id="BunBoGioHeo" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/BunBoGioHeo/TichHop-Socolive",Nạp 03h45-05/08/2026
+#EXTINF:-1 tvg-id="BunBoGioHeo" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/BunBoGioHeo/TichHop-Socolive",Nạp 04h00-05/08/2026
 https://toiyeuvietnam.dpdns.org/BunBo/BunBoGioHeo/GioHeo.m3u8
-#EXTINF:-1 tvg-id="620797" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/620797/TichHop-Socolive",UEFA EL: Shamrock Rovers vs Egnatia
-https://toiyeuvietnam.dpdns.org/BunBo/620797/GioHeo.m3u8
-#EXTINF:-1 tvg-id="536185" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/536185/TichHop-Socolive",UEFA EL: Larne FC vs FC Iberia 1999 Tbilisi
-https://toiyeuvietnam.dpdns.org/BunBo/536185/GioHeo.m3u8
-#EXTINF:-1 tvg-id="621843" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/621843/TichHop-Socolive",UEFA EL: Larne FC vs FC Iberia 1999 Tbilisi
-https://toiyeuvietnam.dpdns.org/BunBo/621843/GioHeo.m3u8
 #EXTINF:-1 tvg-id="558264" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/558264/TichHop-Socolive",SAWBC: Uruguay W vs Colombia W
 https://toiyeuvietnam.dpdns.org/BunBo/558264/GioHeo.m3u8
-#EXTINF:-1 tvg-id="620504" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/620504/TichHop-Socolive",UEFA EL: Shamrock Rovers vs Egnatia
-https://toiyeuvietnam.dpdns.org/BunBo/620504/GioHeo.m3u8
+#EXTINF:-1 tvg-id="621887" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/621887/TichHop-Socolive",COL D1: Llaneros FC vs Fortaleza F.C
+https://toiyeuvietnam.dpdns.org/BunBo/621887/GioHeo.m3u8
+#EXTINF:-1 tvg-id="304148" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/304148/TichHop-Socolive",COL D1: Llaneros FC vs Fortaleza F.C
+https://toiyeuvietnam.dpdns.org/BunBo/304148/GioHeo.m3u8
+#EXTINF:-1 tvg-id="283501" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/283501/TichHop-Socolive",COL D1: Llaneros FC vs Fortaleza F.C
+https://toiyeuvietnam.dpdns.org/BunBo/283501/GioHeo.m3u8
 #EXTINF:-1 tvg-id="ednm9whwxwjgryo" group-title="Hội Quán Live ⚽️" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/ednm9whwxwjgryo/TichHop-RoBong",🟢 Los Angeles FC-Austin FC
 https://toiyeuvietnam.dpdns.org/RoBongTV/ednm9whwxwjgryo/truyenhinh.m3u8
 #EXTINF:-1 tvg-id="x7lm7phjwy4zm2w" group-title="Hội Quán Live ⚽️" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/x7lm7phjwy4zm2w/TichHop-RoBong",🟢 FC Kairat-KuPs
@@ -1165,7 +1163,18 @@ https://toiyeuvietnam.dpdns.org/RoBongTV/zp5rzghgzj96q82/truyenhinh.m3u8
 https://toiyeuvietnam.dpdns.org/RoBongTV/vjxm8ghejd6or6o/truyenhinh.m3u8
 #EXTINF:-1 tvg-id="l5ergphw12z1r8k" group-title="Hội Quán Live ⚽️" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/l5ergphw12z1r8k/TichHop-RoBong",🟢 FC Seoul-Ulsan HD FC
 https://toiyeuvietnam.dpdns.org/RoBongTV/l5ergphw12z1r8k/truyenhinh.m3u8
-error code: 521
+#EXTINF:-1 tvg-id="68d825a6e0ce207e95d98fc2" group-title="Hội Quán Live ⚽️" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/68d825a6e0ce207e95d98fc2/TichHop-HoiQuanLive",🟢Fenerbahçe vs Antalyaspor(00:00 - Phan Đô)
+https://toiyeuvietnam.dpdns.org/HoiQuanLive/68d825a6e0ce207e95d98fc2/truyenhinh.m3u8
+#EXTINF:-1 tvg-id="68d825c3e0ce207e95d9909c" group-title="Hội Quán Live ⚽️" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/68d825c3e0ce207e95d9909c/TichHop-HoiQuanLive",🟢SC Braga vs Nacional(00:00 - Phan Bảnh)
+https://toiyeuvietnam.dpdns.org/HoiQuanLive/68d825c3e0ce207e95d9909c/truyenhinh.m3u8
+#EXTINF:-1 tvg-id="68d825ece0ce207e95d9917a" group-title="Hội Quán Live ⚽️" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/68d825ece0ce207e95d9917a/TichHop-HoiQuanLive",🟢Union Berlin vs Hamburger SV(00:30 - THIÊN LÔI)
+https://toiyeuvietnam.dpdns.org/HoiQuanLive/68d825ece0ce207e95d9917a/truyenhinh.m3u8
+#EXTINF:-1 tvg-id="68d77f6244b1ef6e0cfbb739" group-title="Hội Quán Live ⚽️" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/68d77f6244b1ef6e0cfbb739/TichHop-HoiQuanLive",🟢Newcastle United vs Arsenal(22:30 - THIÊN LÔI)
+https://toiyeuvietnam.dpdns.org/HoiQuanLive/68d77f6244b1ef6e0cfbb739/truyenhinh.m3u8
+#EXTINF:-1 tvg-id="68d77fc344b1ef6e0cfbb98e" group-title="Hội Quán Live ⚽️" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/68d77fc344b1ef6e0cfbb98e/TichHop-HoiQuanLive",🟢 Lecce vs Bologna(23:00 - Phan Son)
+https://toiyeuvietnam.dpdns.org/HoiQuanLive/68d77fc344b1ef6e0cfbb98e/truyenhinh.m3u8
+#EXTINF:-1 tvg-id="68d77fdc44b1ef6e0cfbba5f" group-title="Hội Quán Live ⚽️" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/68d77fdc44b1ef6e0cfbba5f/TichHop-HoiQuanLive",🟢Barcelona vs Sociedad(23:30 - Phan Bô)
+https://toiyeuvietnam.dpdns.org/HoiQuanLive/68d77fdc44b1ef6e0cfbba5f/truyenhinh.m3u8
 #EXTINF:-1 tvg-id="AUSFFAWesternUnitedFCvsSydneyFC" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/1/TichHop-CoLaTV",AUS FFA Western United FC vs Sydney FC
 https://toiyeuvietnam.dpdns.org/DocQuyen/AUSFFAWesternUnitedFCvsSydneyFC/TayChayVThanh.m3u8
 #EXTINF:-1 tvg-id="COLATVHNGDNNGK" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/2/TichHop-CoLaTV",COLATV- HƯỚNG DẪN ĐĂNG KÝ
