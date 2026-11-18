@@ -745,48 +745,46 @@ https://toiyeuvietnam.dpdns.org/OnliveTV/CCTV16/Free.m3u8
 #EXTINF:-1 tvg-id="CCTV17" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="CCTV" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/CCTV17/KenhBoSung.png",CCTV17
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 https://toiyeuvietnam.dpdns.org/OnliveTV/CCTV17/Free.m3u8
-#EXTINF:-1 tvg-id="BunBoGioHeo" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/BunBoGioHeo/TichHop-Socolive",Nạp 12h15-18/11/2026
+#EXTINF:-1 tvg-id="BunBoGioHeo" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/BunBoGioHeo/TichHop-Socolive",Nạp 12h30-18/11/2026
 https://toiyeuvietnam.dpdns.org/BunBo/BunBoGioHeo/GioHeo.m3u8
+#EXTINF:-1 tvg-id="623653" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/623653/TichHop-Socolive",JPN WE: Mynavi Sendai Ladies Women vs NTV Tokyo Verdy Beleza Women
+https://toiyeuvietnam.dpdns.org/BunBo/623653/GioHeo.m3u8
+#EXTINF:-1 tvg-id="619561" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/619561/TichHop-Socolive",JPN WE: Albirex Niigata Ladies Women vs AS Elfen Saitama Women
+https://toiyeuvietnam.dpdns.org/BunBo/619561/GioHeo.m3u8
+#EXTINF:-1 tvg-id="603255" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/603255/TichHop-Socolive",JPN WE: JEF United Ichihara Women's vs AC Nagano Parceiro Ladies Women
+https://toiyeuvietnam.dpdns.org/BunBo/603255/GioHeo.m3u8
 #EXTINF:-1 tvg-id="597929" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/597929/TichHop-Socolive",JPN WE: JEF United Ichihara Women's vs AC Nagano Parceiro Ladies Women
 https://toiyeuvietnam.dpdns.org/BunBo/597929/GioHeo.m3u8
-#EXTINF:-1 tvg-id="9912146" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912146/TichHop-Socolive",Gold Cup: Nicaragua vs Montserrat
-https://toiyeuvietnam.dpdns.org/BunBo/9912146/GioHeo.m3u8
+#EXTINF:-1 tvg-id="491873" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/491873/TichHop-Socolive",JPN WE: JEF United Ichihara Women's vs AC Nagano Parceiro Ladies Women
+https://toiyeuvietnam.dpdns.org/BunBo/491873/GioHeo.m3u8
 #EXTINF:-1 tvg-id="627318" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/627318/TichHop-Socolive",JPN WE: Mynavi Sendai Ladies Women vs NTV Tokyo Verdy Beleza Women
 https://toiyeuvietnam.dpdns.org/BunBo/627318/GioHeo.m3u8
 #EXTINF:-1 tvg-id="9912009" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912009/TichHop-Socolive",JPN WE: Mynavi Sendai Ladies Women vs NTV Tokyo Verdy Beleza Women
 https://toiyeuvietnam.dpdns.org/BunBo/9912009/GioHeo.m3u8
-#EXTINF:-1 tvg-id="9912131" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912131/TichHop-Socolive",JPN WE: Albirex Niigata Ladies Women vs AS Elfen Saitama Women
-https://toiyeuvietnam.dpdns.org/BunBo/9912131/GioHeo.m3u8
-#EXTINF:-1 tvg-id="619561" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/619561/TichHop-Socolive",JPN WE: Albirex Niigata Ladies Women vs AS Elfen Saitama Women
-https://toiyeuvietnam.dpdns.org/BunBo/619561/GioHeo.m3u8
-#EXTINF:-1 tvg-id="485739" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/485739/TichHop-Socolive",JPN WE: Albirex Niigata Ladies Women vs AS Elfen Saitama Women
-https://toiyeuvietnam.dpdns.org/BunBo/485739/GioHeo.m3u8
-#EXTINF:-1 tvg-id="603255" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/603255/TichHop-Socolive",JPN WE: JEF United Ichihara Women's vs AC Nagano Parceiro Ladies Women
-https://toiyeuvietnam.dpdns.org/BunBo/603255/GioHeo.m3u8
 #EXTINF:-1 tvg-id="9912119" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912119/TichHop-Socolive",JPN WE: JEF United Ichihara Women's vs AC Nagano Parceiro Ladies Women
 https://toiyeuvietnam.dpdns.org/BunBo/9912119/GioHeo.m3u8
-#EXTINF:-1 tvg-id="626841" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/626841/TichHop-Socolive",JPN WE: Albirex Niigata Ladies Women vs AS Elfen Saitama Women
-https://toiyeuvietnam.dpdns.org/BunBo/626841/GioHeo.m3u8
-#EXTINF:-1 tvg-id="491873" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/491873/TichHop-Socolive",JPN WE: JEF United Ichihara Women's vs AC Nagano Parceiro Ladies Women
-https://toiyeuvietnam.dpdns.org/BunBo/491873/GioHeo.m3u8
 #EXTINF:-1 tvg-id="356042" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/356042/TichHop-Socolive",NBA: Los Angeles Lakers vs Charlotte Hornets
 https://toiyeuvietnam.dpdns.org/BunBo/356042/GioHeo.m3u8
-#EXTINF:-1 tvg-id="9912106" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912106/TichHop-Socolive",NBA: Los Angeles Lakers vs Charlotte Hornets
-https://toiyeuvietnam.dpdns.org/BunBo/9912106/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912131" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912131/TichHop-Socolive",JPN WE: Albirex Niigata Ladies Women vs AS Elfen Saitama Women
+https://toiyeuvietnam.dpdns.org/BunBo/9912131/GioHeo.m3u8
+#EXTINF:-1 tvg-id="485739" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/485739/TichHop-Socolive",JPN WE: Albirex Niigata Ladies Women vs AS Elfen Saitama Women
+https://toiyeuvietnam.dpdns.org/BunBo/485739/GioHeo.m3u8
+#EXTINF:-1 tvg-id="626841" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/626841/TichHop-Socolive",JPN WE: Albirex Niigata Ladies Women vs AS Elfen Saitama Women
+https://toiyeuvietnam.dpdns.org/BunBo/626841/GioHeo.m3u8
 #EXTINF:-1 tvg-id="558264" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/558264/TichHop-Socolive",NBA: Los Angeles Clippers vs Utah Jazz
 https://toiyeuvietnam.dpdns.org/BunBo/558264/GioHeo.m3u8
 #EXTINF:-1 tvg-id="9912112" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912112/TichHop-Socolive",NBA: Los Angeles Clippers vs Utah Jazz
 https://toiyeuvietnam.dpdns.org/BunBo/9912112/GioHeo.m3u8
-#EXTINF:-1 tvg-id="623653" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/623653/TichHop-Socolive",JPN WE: Mynavi Sendai Ladies Women vs NTV Tokyo Verdy Beleza Women
-https://toiyeuvietnam.dpdns.org/BunBo/623653/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912106" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912106/TichHop-Socolive",NBA: Los Angeles Lakers vs Charlotte Hornets
+https://toiyeuvietnam.dpdns.org/BunBo/9912106/GioHeo.m3u8
 #EXTINF:-1 tvg-id="179093" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/179093/TichHop-Socolive",Tường thuật: INTERF - Kyrgyzstan vs Vietnam
 https://toiyeuvietnam.dpdns.org/BunBo/179093/GioHeo.m3u8
-#EXTINF:-1 tvg-id="133277" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/133277/TichHop-Socolive",Tường thuật: UEFA NL - Denmark vs Norway
-https://toiyeuvietnam.dpdns.org/BunBo/133277/GioHeo.m3u8
-#EXTINF:-1 tvg-id="9912079" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912079/TichHop-Socolive",Tường thuật: INTERF - Singapore vs Brazil
-https://toiyeuvietnam.dpdns.org/BunBo/9912079/GioHeo.m3u8
+#EXTINF:-1 tvg-id="133824" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/133824/TichHop-Socolive",Tường thuật: INTERF - Japan vs Paraguay
+https://toiyeuvietnam.dpdns.org/BunBo/133824/GioHeo.m3u8
 #EXTINF:-1 tvg-id="343500" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/343500/TichHop-Socolive",Tường thuật: UEFA NL - Wales vs Portugal
 https://toiyeuvietnam.dpdns.org/BunBo/343500/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912079" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912079/TichHop-Socolive",Tường thuật: INTERF - Singapore vs Brazil
+https://toiyeuvietnam.dpdns.org/BunBo/9912079/GioHeo.m3u8
 #EXTINF:-1 tvg-id="152898" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/152898/TichHop-Socolive",Tường thuật: INTERF - Argentina vs Costa Rica
 https://toiyeuvietnam.dpdns.org/BunBo/152898/GioHeo.m3u8
 #EXTINF:-1 tvg-id="ednm9whwxwjgryo" group-title="Hội Quán Live ⚽️" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/ednm9whwxwjgryo/TichHop-RoBong",🟢 Los Angeles FC-Austin FC
