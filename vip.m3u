@@ -745,20 +745,18 @@ https://toiyeuvietnam.dpdns.org/OnliveTV/CCTV16/Free.m3u8
 #EXTINF:-1 tvg-id="CCTV17" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="CCTV" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/CCTV17/KenhBoSung.png",CCTV17
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 https://toiyeuvietnam.dpdns.org/OnliveTV/CCTV17/Free.m3u8
-#EXTINF:-1 tvg-id="BunBoGioHeo" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/BunBoGioHeo/TichHop-Socolive",Nạp 05h00-22/11/2026
+#EXTINF:-1 tvg-id="BunBoGioHeo" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/BunBoGioHeo/TichHop-Socolive",Nạp 05h15-22/11/2026
 https://toiyeuvietnam.dpdns.org/BunBo/BunBoGioHeo/GioHeo.m3u8
-#EXTINF:-1 tvg-id="9912133" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912133/TichHop-Socolive",SPA D1: Real Madrid vs RC Celta
-https://toiyeuvietnam.dpdns.org/BunBo/9912133/GioHeo.m3u8
-#EXTINF:-1 tvg-id="622241" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/622241/TichHop-Socolive",SPA D1: Real Madrid vs RC Celta
-https://toiyeuvietnam.dpdns.org/BunBo/622241/GioHeo.m3u8
-#EXTINF:-1 tvg-id="235232" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/235232/TichHop-Socolive",SPA D1: Real Madrid vs RC Celta
-https://toiyeuvietnam.dpdns.org/BunBo/235232/GioHeo.m3u8
-#EXTINF:-1 tvg-id="459401" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/459401/TichHop-Socolive",SPA D1: Real Madrid vs RC Celta
-https://toiyeuvietnam.dpdns.org/BunBo/459401/GioHeo.m3u8
+#EXTINF:-1 tvg-id="620084" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/620084/TichHop-Socolive",CON CSA: Atlético Mineiro - MG vs Boca Juniors
+https://toiyeuvietnam.dpdns.org/BunBo/620084/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912124" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912124/TichHop-Socolive",MEX D1: Pachuca vs Toluca
+https://toiyeuvietnam.dpdns.org/BunBo/9912124/GioHeo.m3u8
+#EXTINF:-1 tvg-id="536185" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/536185/TichHop-Socolive",MEX D1: Pachuca vs Toluca
+https://toiyeuvietnam.dpdns.org/BunBo/536185/GioHeo.m3u8
 #EXTINF:-1 tvg-id="9912138" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912138/TichHop-Socolive",CON CSA: Atlético Mineiro - MG vs Boca Juniors
 https://toiyeuvietnam.dpdns.org/BunBo/9912138/GioHeo.m3u8
-#EXTINF:-1 tvg-id="9912128" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912128/TichHop-Socolive",SPA D1: Real Madrid vs RC Celta
-https://toiyeuvietnam.dpdns.org/BunBo/9912128/GioHeo.m3u8
+#EXTINF:-1 tvg-id="597929" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/597929/TichHop-Socolive",CON CSA: Atlético Mineiro - MG vs Boca Juniors
+https://toiyeuvietnam.dpdns.org/BunBo/597929/GioHeo.m3u8
 #EXTINF:-1 tvg-id="582342" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/582342/TichHop-Socolive",USA MLS: Inter Miami CF vs Columbus Crew
 https://toiyeuvietnam.dpdns.org/BunBo/582342/GioHeo.m3u8
 #EXTINF:-1 tvg-id="ednm9whwxwjgryo" group-title="Hội Quán Live ⚽️" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/ednm9whwxwjgryo/TichHop-RoBong",🟢 Los Angeles FC-Austin FC
