@@ -745,56 +745,52 @@ https://toiyeuvietnam.dpdns.org/OnliveTV/CCTV16/Free.m3u8
 #EXTINF:-1 tvg-id="CCTV17" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="CCTV" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/CCTV17/KenhBoSung.png",CCTV17
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 https://toiyeuvietnam.dpdns.org/OnliveTV/CCTV17/Free.m3u8
-#EXTINF:-1 tvg-id="BunBoGioHeo" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/BunBoGioHeo/TichHop-Socolive",Nạp 15h15-21/11/2026
+#EXTINF:-1 tvg-id="BunBoGioHeo" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/BunBoGioHeo/TichHop-Socolive",Nạp 15h30-21/11/2026
 https://toiyeuvietnam.dpdns.org/BunBo/BunBoGioHeo/GioHeo.m3u8
-#EXTINF:-1 tvg-id="291277" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/291277/TichHop-Socolive",JPN D1: Gamba Osaka vs Fagiano Okayama
-https://toiyeuvietnam.dpdns.org/BunBo/291277/GioHeo.m3u8
-#EXTINF:-1 tvg-id="597929" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/597929/TichHop-Socolive",KOR D1: Incheon United Club vs Ulsan HD FC
-https://toiyeuvietnam.dpdns.org/BunBo/597929/GioHeo.m3u8
-#EXTINF:-1 tvg-id="9912140" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912140/TichHop-Socolive",IDN D1: Persik Kediri vs PSIM Yogyakarta
-https://toiyeuvietnam.dpdns.org/BunBo/9912140/GioHeo.m3u8
 #EXTINF:-1 tvg-id="304148" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/304148/TichHop-Socolive",JPN D1: Gamba Osaka vs Fagiano Okayama
 https://toiyeuvietnam.dpdns.org/BunBo/304148/GioHeo.m3u8
+#EXTINF:-1 tvg-id="501412" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/501412/TichHop-Socolive",JPN D1: Gamba Osaka vs Fagiano Okayama
+https://toiyeuvietnam.dpdns.org/BunBo/501412/GioHeo.m3u8
 #EXTINF:-1 tvg-id="622240" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/622240/TichHop-Socolive",AUS D1: Brisbane Roar vs Sydney FC
 https://toiyeuvietnam.dpdns.org/BunBo/622240/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912138" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912138/TichHop-Socolive",JPN D1: Gamba Osaka vs Fagiano Okayama
+https://toiyeuvietnam.dpdns.org/BunBo/9912138/GioHeo.m3u8
+#EXTINF:-1 tvg-id="291277" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/291277/TichHop-Socolive",JPN D1: Gamba Osaka vs Fagiano Okayama
+https://toiyeuvietnam.dpdns.org/BunBo/291277/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912144" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912144/TichHop-Socolive",IDN D1: Persik Kediri vs PSIM Yogyakarta
+https://toiyeuvietnam.dpdns.org/BunBo/9912144/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912116" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912116/TichHop-Socolive",IDN D1: Persik Kediri vs PSIM Yogyakarta
+https://toiyeuvietnam.dpdns.org/BunBo/9912116/GioHeo.m3u8
 #EXTINF:-1 tvg-id="9912145" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912145/TichHop-Socolive",stream-9912145?auth_key=1795252298-0-0-8eabde16b08cf8f4564993ef4e3c6284
 https://toiyeuvietnam.dpdns.org/BunBo/9912145/GioHeo.m3u8
 #EXTINF:-1 tvg-id="627718" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/627718/TichHop-Socolive",AUS D1: Brisbane Roar vs Sydney FC
 https://toiyeuvietnam.dpdns.org/BunBo/627718/GioHeo.m3u8
-#EXTINF:-1 tvg-id="620504" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/620504/TichHop-Socolive",KOR D1: Incheon United Club vs Ulsan HD FC
-https://toiyeuvietnam.dpdns.org/BunBo/620504/GioHeo.m3u8
-#EXTINF:-1 tvg-id="501412" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/501412/TichHop-Socolive",JPN D1: Gamba Osaka vs Fagiano Okayama
-https://toiyeuvietnam.dpdns.org/BunBo/501412/GioHeo.m3u8
 #EXTINF:-1 tvg-id="9912041" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912041/TichHop-Socolive",AUS D1: Brisbane Roar vs Sydney FC
 https://toiyeuvietnam.dpdns.org/BunBo/9912041/GioHeo.m3u8
-#EXTINF:-1 tvg-id="9912116" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912116/TichHop-Socolive",IDN D1: Persik Kediri vs PSIM Yogyakarta
-https://toiyeuvietnam.dpdns.org/BunBo/9912116/GioHeo.m3u8
-#EXTINF:-1 tvg-id="9912144" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912144/TichHop-Socolive",IDN D1: Persik Kediri vs PSIM Yogyakarta
-https://toiyeuvietnam.dpdns.org/BunBo/9912144/GioHeo.m3u8
-#EXTINF:-1 tvg-id="9912138" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912138/TichHop-Socolive",JPN D1: Gamba Osaka vs Fagiano Okayama
-https://toiyeuvietnam.dpdns.org/BunBo/9912138/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912140" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912140/TichHop-Socolive",IDN D1: Persik Kediri vs PSIM Yogyakarta
+https://toiyeuvietnam.dpdns.org/BunBo/9912140/GioHeo.m3u8
+#EXTINF:-1 tvg-id="620504" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/620504/TichHop-Socolive",KOR D1: Incheon United Club vs Ulsan HD FC
+https://toiyeuvietnam.dpdns.org/BunBo/620504/GioHeo.m3u8
 #EXTINF:-1 tvg-id="627318" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/627318/TichHop-Socolive",KOR D1: Gangwon FC vs Daejeon Hana Citizen
 https://toiyeuvietnam.dpdns.org/BunBo/627318/GioHeo.m3u8
-#EXTINF:-1 tvg-id="602019" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/602019/TichHop-Socolive",KOR D1: Gangwon FC vs Daejeon Hana Citizen
-https://toiyeuvietnam.dpdns.org/BunBo/602019/GioHeo.m3u8
 #EXTINF:-1 tvg-id="380460" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/380460/TichHop-Socolive",AUS D1: Brisbane Roar vs Sydney FC
 https://toiyeuvietnam.dpdns.org/BunBo/380460/GioHeo.m3u8
 #EXTINF:-1 tvg-id="9912142" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912142/TichHop-Socolive",AUS D1: Brisbane Roar vs Sydney FC
 https://toiyeuvietnam.dpdns.org/BunBo/9912142/GioHeo.m3u8
-#EXTINF:-1 tvg-id="9912112" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912112/TichHop-Socolive",NBL: Tasmania JackJumpers vs Illawarra Hawks
-https://toiyeuvietnam.dpdns.org/BunBo/9912112/GioHeo.m3u8
-#EXTINF:-1 tvg-id="623653" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/623653/TichHop-Socolive",KOR D1: Gangwon FC vs Daejeon Hana Citizen
-https://toiyeuvietnam.dpdns.org/BunBo/623653/GioHeo.m3u8
-#EXTINF:-1 tvg-id="558264" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/558264/TichHop-Socolive",NBL: Tasmania JackJumpers vs Illawarra Hawks
-https://toiyeuvietnam.dpdns.org/BunBo/558264/GioHeo.m3u8
-#EXTINF:-1 tvg-id="623743" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/623743/TichHop-Socolive",KOR D1: Incheon United Club vs Ulsan HD FC
-https://toiyeuvietnam.dpdns.org/BunBo/623743/GioHeo.m3u8
+#EXTINF:-1 tvg-id="597929" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/597929/TichHop-Socolive",KOR D1: Incheon United Club vs Ulsan HD FC
+https://toiyeuvietnam.dpdns.org/BunBo/597929/GioHeo.m3u8
+#EXTINF:-1 tvg-id="602019" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/602019/TichHop-Socolive",KOR D1: Gangwon FC vs Daejeon Hana Citizen
+https://toiyeuvietnam.dpdns.org/BunBo/602019/GioHeo.m3u8
 #EXTINF:-1 tvg-id="372746" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/372746/TichHop-Socolive",IDN D1: Persebaya Surabaya vs Java United F.C.
 https://toiyeuvietnam.dpdns.org/BunBo/372746/GioHeo.m3u8
+#EXTINF:-1 tvg-id="623653" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/623653/TichHop-Socolive",KOR D1: Gangwon FC vs Daejeon Hana Citizen
+https://toiyeuvietnam.dpdns.org/BunBo/623653/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912106" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912106/TichHop-Socolive",NBL: Melbourne United vs New Zealand Breakers
+https://toiyeuvietnam.dpdns.org/BunBo/9912106/GioHeo.m3u8
 #EXTINF:-1 tvg-id="485739" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/485739/TichHop-Socolive",IDN D1: Persebaya Surabaya vs Java United F.C.
 https://toiyeuvietnam.dpdns.org/BunBo/485739/GioHeo.m3u8
-#EXTINF:-1 tvg-id="491873" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/491873/TichHop-Socolive",IDN D1: Persebaya Surabaya vs Java United F.C.
-https://toiyeuvietnam.dpdns.org/BunBo/491873/GioHeo.m3u8
+#EXTINF:-1 tvg-id="623743" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/623743/TichHop-Socolive",KOR D1: Incheon United Club vs Ulsan HD FC
+https://toiyeuvietnam.dpdns.org/BunBo/623743/GioHeo.m3u8
 #EXTINF:-1 tvg-id="9912115" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912115/TichHop-Socolive",NBL: Melbourne United vs New Zealand Breakers
 https://toiyeuvietnam.dpdns.org/BunBo/9912115/GioHeo.m3u8
 #EXTINF:-1 tvg-id="ednm9whwxwjgryo" group-title="Hội Quán Live ⚽️" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/ednm9whwxwjgryo/TichHop-RoBong",🟢 Los Angeles FC-Austin FC
