@@ -745,7 +745,66 @@ https://toiyeuvietnam.dpdns.org/OnliveTV/CCTV16/Free.m3u8
 #EXTINF:-1 tvg-id="CCTV17" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="CCTV" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/CCTV17/KenhBoSung.png",CCTV17
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 https://toiyeuvietnam.dpdns.org/OnliveTV/CCTV17/Free.m3u8
-error code: 521
+#EXTINF:-1 tvg-id="BunBoGioHeo" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/BunBoGioHeo/TichHop-Socolive",Nạp 21h30-26/11/2026
+https://toiyeuvietnam.dpdns.org/BunBo/BunBoGioHeo/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912144" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912144/TichHop-Socolive",WCU17: Vietnam U17 vs Mali U17
+https://toiyeuvietnam.dpdns.org/BunBo/9912144/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912135" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912135/TichHop-Socolive",WCU17: Uzbekistan U17 vs Italy U17
+https://toiyeuvietnam.dpdns.org/BunBo/9912135/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912127" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912127/TichHop-Socolive",WCU17: Uzbekistan U17 vs Italy U17
+https://toiyeuvietnam.dpdns.org/BunBo/9912127/GioHeo.m3u8
+#EXTINF:-1 tvg-id="304148" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/304148/TichHop-Socolive",WCU17: Uzbekistan U17 vs Italy U17
+https://toiyeuvietnam.dpdns.org/BunBo/304148/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912091" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912091/TichHop-Socolive",WCU17: Vietnam U17 vs Mali U17
+https://toiyeuvietnam.dpdns.org/BunBo/9912091/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912041" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912041/TichHop-Socolive",WCU17: Vietnam U17 vs Mali U17
+https://toiyeuvietnam.dpdns.org/BunBo/9912041/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912116" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912116/TichHop-Socolive",WCU17: Vietnam U17 vs Mali U17
+https://toiyeuvietnam.dpdns.org/BunBo/9912116/GioHeo.m3u8
+#EXTINF:-1 tvg-id="327159" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/327159/TichHop-Socolive",WCU17: Uzbekistan U17 vs Italy U17
+https://toiyeuvietnam.dpdns.org/BunBo/327159/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912119" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912119/TichHop-Socolive",WCU17: Uzbekistan U17 vs Italy U17
+https://toiyeuvietnam.dpdns.org/BunBo/9912119/GioHeo.m3u8
+#EXTINF:-1 tvg-id="627718" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/627718/TichHop-Socolive",KSA PR: Al Fateh vs Al Riyadh
+https://toiyeuvietnam.dpdns.org/BunBo/627718/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912110" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912110/TichHop-Socolive",WCU17: Vietnam U17 vs Mali U17
+https://toiyeuvietnam.dpdns.org/BunBo/9912110/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912141" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912141/TichHop-Socolive",WCU17: Vietnam U17 vs Mali U17
+https://toiyeuvietnam.dpdns.org/BunBo/9912141/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912131" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912131/TichHop-Socolive",WCU17: New Zealand U17 vs Belgium U17
+https://toiyeuvietnam.dpdns.org/BunBo/9912131/GioHeo.m3u8
+#EXTINF:-1 tvg-id="582342" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/582342/TichHop-Socolive",KSA PR: Al Fateh vs Al Riyadh
+https://toiyeuvietnam.dpdns.org/BunBo/582342/GioHeo.m3u8
+#EXTINF:-1 tvg-id="527384" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/527384/TichHop-Socolive",WCU17: Morocco U17 vs Spain U17
+https://toiyeuvietnam.dpdns.org/BunBo/527384/GioHeo.m3u8
+#EXTINF:-1 tvg-id="623743" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/623743/TichHop-Socolive",WCU17: China U17 vs Fiji U17
+https://toiyeuvietnam.dpdns.org/BunBo/623743/GioHeo.m3u8
+#EXTINF:-1 tvg-id="406865" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/406865/TichHop-Socolive",WCU17: Jamaica U17 vs Cote d'Ivoire U17
+https://toiyeuvietnam.dpdns.org/BunBo/406865/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912138" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912138/TichHop-Socolive",RUS Cup: FC Orenburg vs Spartak Moscow
+https://toiyeuvietnam.dpdns.org/BunBo/9912138/GioHeo.m3u8
+#EXTINF:-1 tvg-id="534055" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/534055/TichHop-Socolive",WCU17: Jamaica U17 vs Cote d'Ivoire U17
+https://toiyeuvietnam.dpdns.org/BunBo/534055/GioHeo.m3u8
+#EXTINF:-1 tvg-id="620504" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/620504/TichHop-Socolive",WCU17: New Zealand U17 vs Belgium U17
+https://toiyeuvietnam.dpdns.org/BunBo/620504/GioHeo.m3u8
+#EXTINF:-1 tvg-id="536185" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/536185/TichHop-Socolive",WCU17: New Zealand U17 vs Belgium U17
+https://toiyeuvietnam.dpdns.org/BunBo/536185/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912114" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912114/TichHop-Socolive",KSA PR: Al Fateh vs Al Riyadh
+https://toiyeuvietnam.dpdns.org/BunBo/9912114/GioHeo.m3u8
+#EXTINF:-1 tvg-id="485739" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/485739/TichHop-Socolive",RUS Cup: FC Orenburg vs Spartak Moscow
+https://toiyeuvietnam.dpdns.org/BunBo/485739/GioHeo.m3u8
+#EXTINF:-1 tvg-id="621843" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/621843/TichHop-Socolive",WCU17: New Zealand U17 vs Belgium U17
+https://toiyeuvietnam.dpdns.org/BunBo/621843/GioHeo.m3u8
+#EXTINF:-1 tvg-id="617313" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/617313/TichHop-Socolive",WCU17: Jamaica U17 vs Cote d'Ivoire U17
+https://toiyeuvietnam.dpdns.org/BunBo/617313/GioHeo.m3u8
+#EXTINF:-1 tvg-id="607552" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/607552/TichHop-Socolive",KSA PR: Al Fateh vs Al Riyadh
+https://toiyeuvietnam.dpdns.org/BunBo/607552/GioHeo.m3u8
+#EXTINF:-1 tvg-id="620084" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/620084/TichHop-Socolive",WCU17: Jamaica U17 vs Cote d'Ivoire U17
+https://toiyeuvietnam.dpdns.org/BunBo/620084/GioHeo.m3u8
+#EXTINF:-1 tvg-id="633416" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/633416/TichHop-Socolive",WCU17: Uzbekistan U17 vs Italy U17
+https://toiyeuvietnam.dpdns.org/BunBo/633416/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912132" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912132/TichHop-Socolive",WCU17: China U17 vs Fiji U17
+https://toiyeuvietnam.dpdns.org/BunBo/9912132/GioHeo.m3u8
 #EXTINF:-1 tvg-id="ednm9whwxwjgryo" group-title="Hội Quán Live ⚽️" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/ednm9whwxwjgryo/TichHop-RoBong",🟢 Los Angeles FC-Austin FC
 https://toiyeuvietnam.dpdns.org/RoBongTV/ednm9whwxwjgryo/truyenhinh.m3u8
 #EXTINF:-1 tvg-id="x7lm7phjwy4zm2w" group-title="Hội Quán Live ⚽️" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/x7lm7phjwy4zm2w/TichHop-RoBong",🟢 FC Kairat-KuPs
