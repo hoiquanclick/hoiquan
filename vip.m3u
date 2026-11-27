@@ -745,42 +745,46 @@ https://toiyeuvietnam.dpdns.org/OnliveTV/CCTV16/Free.m3u8
 #EXTINF:-1 tvg-id="CCTV17" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="CCTV" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/CCTV17/KenhBoSung.png",CCTV17
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 https://toiyeuvietnam.dpdns.org/OnliveTV/CCTV17/Free.m3u8
-#EXTINF:-1 tvg-id="BunBoGioHeo" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/BunBoGioHeo/TichHop-Socolive",Nạp 01h15-28/11/2026
+#EXTINF:-1 tvg-id="BunBoGioHeo" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/BunBoGioHeo/TichHop-Socolive",Nạp 01h30-28/11/2026
 https://toiyeuvietnam.dpdns.org/BunBo/BunBoGioHeo/GioHeo.m3u8
-#EXTINF:-1 tvg-id="9912091" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912091/TichHop-Socolive",TUR D1: Caykur Rizespor vs Kasimpasa
-https://toiyeuvietnam.dpdns.org/BunBo/9912091/GioHeo.m3u8
-#EXTINF:-1 tvg-id="622241" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/622241/TichHop-Socolive",GER D2: 1. FC Heidenheim 1846 vs 1. FC Nürnberg
-https://toiyeuvietnam.dpdns.org/BunBo/622241/GioHeo.m3u8
-#EXTINF:-1 tvg-id="9912116" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912116/TichHop-Socolive",TUR D1: Alanyaspor vs Konyaspor
-https://toiyeuvietnam.dpdns.org/BunBo/9912116/GioHeo.m3u8
-#EXTINF:-1 tvg-id="9912140" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912140/TichHop-Socolive",GER D2: VfL Bochum 1848 vs SV Darmstadt 98
-https://toiyeuvietnam.dpdns.org/BunBo/9912140/GioHeo.m3u8
-#EXTINF:-1 tvg-id="321443" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/321443/TichHop-Socolive",KSA PR: Al Ittihad vs Neom SC
-https://toiyeuvietnam.dpdns.org/BunBo/321443/GioHeo.m3u8
-#EXTINF:-1 tvg-id="9912142" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912142/TichHop-Socolive",GER D2: VfL Bochum 1848 vs SV Darmstadt 98
-https://toiyeuvietnam.dpdns.org/BunBo/9912142/GioHeo.m3u8
-#EXTINF:-1 tvg-id="527384" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/527384/TichHop-Socolive",WCU17: Algeria U17 vs Dominican Republic U17
-https://toiyeuvietnam.dpdns.org/BunBo/527384/GioHeo.m3u8
-#EXTINF:-1 tvg-id="501412" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/501412/TichHop-Socolive",GER D2: 1. FC Heidenheim 1846 vs 1. FC Nürnberg
-https://toiyeuvietnam.dpdns.org/BunBo/501412/GioHeo.m3u8
-#EXTINF:-1 tvg-id="304148" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/304148/TichHop-Socolive",TUR D1: Caykur Rizespor vs Kasimpasa
-https://toiyeuvietnam.dpdns.org/BunBo/304148/GioHeo.m3u8
-#EXTINF:-1 tvg-id="9912131" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912131/TichHop-Socolive",GER D2: 1. FC Heidenheim 1846 vs 1. FC Nürnberg
-https://toiyeuvietnam.dpdns.org/BunBo/9912131/GioHeo.m3u8
 #EXTINF:-1 tvg-id="552832" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/552832/TichHop-Socolive",GER D2: 1. FC Heidenheim 1846 vs 1. FC Nürnberg
 https://toiyeuvietnam.dpdns.org/BunBo/552832/GioHeo.m3u8
-#EXTINF:-1 tvg-id="991140" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/991140/TichHop-Socolive",GER D2: VfL Bochum 1848 vs SV Darmstadt 98
-https://toiyeuvietnam.dpdns.org/BunBo/991140/GioHeo.m3u8
-#EXTINF:-1 tvg-id="617313" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/617313/TichHop-Socolive",KSA PR: Al Ittihad vs Neom SC
-https://toiyeuvietnam.dpdns.org/BunBo/617313/GioHeo.m3u8
-#EXTINF:-1 tvg-id="9912114" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912114/TichHop-Socolive",KSA PR: Al Ittihad vs Neom SC
-https://toiyeuvietnam.dpdns.org/BunBo/9912114/GioHeo.m3u8
-#EXTINF:-1 tvg-id="9912136" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912136/TichHop-Socolive",TUR D1: Caykur Rizespor vs Kasimpasa
-https://toiyeuvietnam.dpdns.org/BunBo/9912136/GioHeo.m3u8
+#EXTINF:-1 tvg-id="622241" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/622241/TichHop-Socolive",GER D2: 1. FC Heidenheim 1846 vs 1. FC Nürnberg
+https://toiyeuvietnam.dpdns.org/BunBo/622241/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912142" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912142/TichHop-Socolive",GER D2: VfL Bochum 1848 vs SV Darmstadt 98
+https://toiyeuvietnam.dpdns.org/BunBo/9912142/GioHeo.m3u8
+#EXTINF:-1 tvg-id="501412" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/501412/TichHop-Socolive",GER D2: 1. FC Heidenheim 1846 vs 1. FC Nürnberg
+https://toiyeuvietnam.dpdns.org/BunBo/501412/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912116" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912116/TichHop-Socolive",TUR D1: Alanyaspor vs Konyaspor
+https://toiyeuvietnam.dpdns.org/BunBo/9912116/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912131" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912131/TichHop-Socolive",GER D2: 1. FC Heidenheim 1846 vs 1. FC Nürnberg
+https://toiyeuvietnam.dpdns.org/BunBo/9912131/GioHeo.m3u8
 #EXTINF:-1 tvg-id="406865" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/406865/TichHop-Socolive",TUR D1: Alanyaspor vs Konyaspor
 https://toiyeuvietnam.dpdns.org/BunBo/406865/GioHeo.m3u8
+#EXTINF:-1 tvg-id="321443" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/321443/TichHop-Socolive",KSA PR: Al Ittihad vs Neom SC
+https://toiyeuvietnam.dpdns.org/BunBo/321443/GioHeo.m3u8
+#EXTINF:-1 tvg-id="527384" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/527384/TichHop-Socolive",WCU17: Algeria U17 vs Dominican Republic U17
+https://toiyeuvietnam.dpdns.org/BunBo/527384/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912140" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912140/TichHop-Socolive",GER D2: VfL Bochum 1848 vs SV Darmstadt 98
+https://toiyeuvietnam.dpdns.org/BunBo/9912140/GioHeo.m3u8
+#EXTINF:-1 tvg-id="304148" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/304148/TichHop-Socolive",TUR D1: Caykur Rizespor vs Kasimpasa
+https://toiyeuvietnam.dpdns.org/BunBo/304148/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912091" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912091/TichHop-Socolive",TUR D1: Caykur Rizespor vs Kasimpasa
+https://toiyeuvietnam.dpdns.org/BunBo/9912091/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912136" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912136/TichHop-Socolive",TUR D1: Caykur Rizespor vs Kasimpasa
+https://toiyeuvietnam.dpdns.org/BunBo/9912136/GioHeo.m3u8
+#EXTINF:-1 tvg-id="617313" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/617313/TichHop-Socolive",KSA PR: Al Ittihad vs Neom SC
+https://toiyeuvietnam.dpdns.org/BunBo/617313/GioHeo.m3u8
+#EXTINF:-1 tvg-id="991140" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/991140/TichHop-Socolive",GER D2: VfL Bochum 1848 vs SV Darmstadt 98
+https://toiyeuvietnam.dpdns.org/BunBo/991140/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912114" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/9912114/TichHop-Socolive",KSA PR: Al Ittihad vs Neom SC
+https://toiyeuvietnam.dpdns.org/BunBo/9912114/GioHeo.m3u8
 #EXTINF:-1 tvg-id="626841" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/626841/TichHop-Socolive",TUR D1: Alanyaspor vs Konyaspor
 https://toiyeuvietnam.dpdns.org/BunBo/626841/GioHeo.m3u8
+#EXTINF:-1 tvg-id="620504" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/620504/TichHop-Socolive",FRA D1: Stade Brestois 29 vs Paris FC
+https://toiyeuvietnam.dpdns.org/BunBo/620504/GioHeo.m3u8
+#EXTINF:-1 tvg-id="633416" group-title="Hội Quán Live ⚽️" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/633416/TichHop-Socolive",HOL D1: Groningen vs Willem II
+https://toiyeuvietnam.dpdns.org/BunBo/633416/GioHeo.m3u8
 #EXTINF:-1 tvg-id="ednm9whwxwjgryo" group-title="Hội Quán Live ⚽️" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/ednm9whwxwjgryo/TichHop-RoBong",🟢 Los Angeles FC-Austin FC
 https://toiyeuvietnam.dpdns.org/RoBongTV/ednm9whwxwjgryo/truyenhinh.m3u8
 #EXTINF:-1 tvg-id="x7lm7phjwy4zm2w" group-title="Hội Quán Live ⚽️" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/x7lm7phjwy4zm2w/TichHop-RoBong",🟢 FC Kairat-KuPs
